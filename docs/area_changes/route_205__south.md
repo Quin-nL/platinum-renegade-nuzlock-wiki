@@ -1,0 +1,146 @@
+# Route 205 ~ South
+
+## Trainers
+
+Trainer                                     | 1                                 | 2                                 | 3
+---                                         | ---                               | ---                               | ---
+Hiker Daniel                                | ![][050]<br>[Diglett]<br>Lv. 15   | ![][410]<br>[Shieldon]<br>Lv. 15  | ![][322]<br>[Numel]<br>Lv. 15
+:repeat: [Aroma Lady Elizabeth](#rematches) | ![][152]<br>[Chikorita]<br>Lv. 16 | ![][001]<br>[Bulbasaur]<br>Lv. 16 | &nbsp;
+Camper Jacob                                | ![][077]<br>[Ponyta]<br>Lv. 15    | ![][179]<br>[Mareep]<br>Lv. 15    | ![][418]<br>[Buizel]<br>Lv. 15
+Picnicker Siena                             | ![][417]<br>[Pachirisu]<br>Lv. 17 | &nbsp;                            | &nbsp;
+Hiker Nicholas                              | ![][422]<br>[Shellos]<br>Lv. 16   | ![][095]<br>[Onix]<br>Lv. 16      | &nbsp;
+Battle Girl Kelsey                          | ![][066]<br>[Machop]<br>Lv. 16    | ![][056]<br>[Mankey]<br>Lv. 16    | ![][307]<br>[Meditite]<br>Lv. 16
+:repeat: [Picnicker Karina](#rematches)     | ![][393]<br>[Piplup]<br>Lv. 16    | ![][390]<br>[Chimchar]<br>Lv. 16  | &nbsp;
+:repeat: [Camper Zackary](#rematches)       | ![][190]<br>[Aipom]<br>Lv. 15     | ![][287]<br>[Slakoth]<br>Lv. 15   | ![][276]<br>[Taillow]<br>Lv. 15
+
+### Rematches
+
+Trainer                                                  | 1                                | 2                                 | 3
+---                                                      | ---                              | ---                               | ---
+Aroma Lady Elizabeth :material-numeric-3-circle-outline: | ![][153]<br>[Bayleef]<br>Lv. 27  | ![][002]<br>[Ivysaur]<br>Lv. 27   | &nbsp;
+Aroma Lady Elizabeth :material-numeric-5-circle-outline: | ![][154]<br>[Meganium]<br>Lv. 39 | ![][003]<br>[Venusaur]<br>Lv. 39  | &nbsp;
+Aroma Lady Elizabeth :material-alpha-c-circle-outline:   | ![][154]<br>[Meganium]<br>Lv. 71 | ![][003]<br>[Venusaur]<br>Lv. 71  | &nbsp;
+Camper Zackary :material-numeric-3-circle-outline:       | ![][190]<br>[Aipom]<br>Lv. 26    | ![][288]<br>[Vigoroth]<br>Lv. 26  | ![][277]<br>[Swellow]<br>Lv. 26
+Camper Zackary :material-numeric-5-circle-outline:       | ![][424]<br>[Ambipom]<br>Lv. 38  | ![][288]<br>[Vigoroth]<br>Lv. 38  | ![][277]<br>[Swellow]<br>Lv. 38
+Camper Zackary :material-alpha-c-circle-outline:         | ![][424]<br>[Ambipom]<br>Lv. 70  | ![][289]<br>[Slaking]<br>Lv. 70   | ![][277]<br>[Swellow]<br>Lv. 70
+Picnicker Karina :material-numeric-3-circle-outline:     | ![][394]<br>[Prinplup]<br>Lv. 27 | ![][391]<br>[Monferno]<br>Lv. 27  | &nbsp;
+Picnicker Karina :material-numeric-5-circle-outline:     | ![][395]<br>[Empoleon]<br>Lv. 39 | ![][392]<br>[Infernape]<br>Lv. 39 | &nbsp;
+Picnicker Karina :material-alpha-c-circle-outline:       | ![][395]<br>[Empoleon]<br>Lv. 71 | ![][392]<br>[Infernape]<br>Lv. 71 | &nbsp;
+
+## Wild Pokémon
+
+Area                                         | Pokémon                       | &nbsp;                         | &nbsp;                        | &nbsp;                         | &nbsp;
+---                                          | ---                           | ---                            | ---                           | ---                            | ---
+🌅<br>Morning<br>Lv. 11 - 13                  | ![][422]<br>[Shellos]<br>30%  | ![][179]<br>[Mareep]<br>20%    | ![][418]<br>[Buizel]<br>20%   | ![][187]<br>[Hoppip]<br>20%    | ![][417]<br>[Pachirisu]<br>10%
+🌞<br>Day<br>Lv. 11 - 13                      | ![][422]<br>[Shellos]<br>30%  | ![][179]<br>[Mareep]<br>20%    | ![][418]<br>[Buizel]<br>20%   | ![][187]<br>[Hoppip]<br>20%    | ![][417]<br>[Pachirisu]<br>10%
+🌙<br>Night<br>Lv. 11 - 13                    | ![][422]<br>[Shellos]<br>30%  | ![][179]<br>[Mareep]<br>20%    | ![][418]<br>[Buizel]<br>20%   | ![][048]<br>[Venonat]<br>20%   | ![][417]<br>[Pachirisu]<br>10%
+![][poke-radar]<br>Poké Radar<br>Lv. 11 - 13 | ![][311]<br>[Plusle]<br>11%   | ![][312]<br>[Minun]<br>11%     | &nbsp;                        | &nbsp;                         | &nbsp;
+🌊<br>Surf<br>Lv. 20 - 40                     | ![][422]<br>[Shellos]<br>60%  | ![][072]<br>[Tentacool]<br>30% | ![][423]<br>[Gastrodon]<br>5% | ![][073]<br>[Tentacruel]<br>5% | &nbsp;
+![][old-rod]<br>Old Rod<br>Lv. 10            | ![][129]<br>[Magikarp]<br>60% | ![][090]<br>[Shellder]<br>30%  | ![][170]<br>[Chinchou]<br>10% | &nbsp;                         | &nbsp;
+![][good-rod]<br>Good Rod<br>Lv. 25          | ![][129]<br>[Magikarp]<br>60% | ![][090]<br>[Shellder]<br>30%  | ![][170]<br>[Chinchou]<br>10% | &nbsp;                         | &nbsp;
+![][super-rod]<br>Super Rod<br>Lv. 50        | ![][130]<br>[Gyarados]<br>60% | ![][091]<br>[Cloyster]<br>30%  | ![][171]<br>[Lanturn]<br>10%  | &nbsp;                         | &nbsp;
+![][honey]<br>Honey Tree<br>Lv. 12           | ![][415]<br>[Combee]<br>30%   | ![][412]<br>[Burmy]<br>20%     | ![][204]<br>[Pineco]<br>20%   | ![][265]<br>[Wurmple]<br>20%   | ![][214]<br>[Heracross]<br>10%
+
+[001]: ../img/pokemon/001.png
+[002]: ../img/pokemon/002.png
+[003]: ../img/pokemon/003.png
+[048]: ../img/pokemon/048.png
+[050]: ../img/pokemon/050.png
+[056]: ../img/pokemon/056.png
+[066]: ../img/pokemon/066.png
+[072]: ../img/pokemon/072.png
+[073]: ../img/pokemon/073.png
+[077]: ../img/pokemon/077.png
+[090]: ../img/pokemon/090.png
+[091]: ../img/pokemon/091.png
+[095]: ../img/pokemon/095.png
+[129]: ../img/pokemon/129.png
+[130]: ../img/pokemon/130.png
+[152]: ../img/pokemon/152.png
+[153]: ../img/pokemon/153.png
+[154]: ../img/pokemon/154.png
+[170]: ../img/pokemon/170.png
+[171]: ../img/pokemon/171.png
+[179]: ../img/pokemon/179.png
+[187]: ../img/pokemon/187.png
+[190]: ../img/pokemon/190.png
+[204]: ../img/pokemon/204.png
+[214]: ../img/pokemon/214.png
+[265]: ../img/pokemon/265.png
+[276]: ../img/pokemon/276.png
+[277]: ../img/pokemon/277.png
+[287]: ../img/pokemon/287.png
+[288]: ../img/pokemon/288.png
+[289]: ../img/pokemon/289.png
+[307]: ../img/pokemon/307.png
+[311]: ../img/pokemon/311.png
+[312]: ../img/pokemon/312.png
+[322]: ../img/pokemon/322.png
+[390]: ../img/pokemon/390.png
+[391]: ../img/pokemon/391.png
+[392]: ../img/pokemon/392.png
+[393]: ../img/pokemon/393.png
+[394]: ../img/pokemon/394.png
+[395]: ../img/pokemon/395.png
+[410]: ../img/pokemon/410.png
+[412]: ../img/pokemon/412.png
+[415]: ../img/pokemon/415.png
+[417]: ../img/pokemon/417.png
+[418]: ../img/pokemon/418.png
+[422]: ../img/pokemon/422.png
+[423]: ../img/pokemon/423.png
+[424]: ../img/pokemon/424.png
+[Aipom]: ../../pokemons/190/
+[Ambipom]: ../../pokemons/424/
+[Bayleef]: ../../pokemons/153/
+[Buizel]: ../../pokemons/418/
+[Bulbasaur]: ../../pokemons/001/
+[Burmy]: ../../pokemons/412/
+[Chikorita]: ../../pokemons/152/
+[Chimchar]: ../../pokemons/390/
+[Chinchou]: ../../pokemons/170/
+[Cloyster]: ../../pokemons/091/
+[Combee]: ../../pokemons/415/
+[Diglett]: ../../pokemons/050/
+[Empoleon]: ../../pokemons/395/
+[Gastrodon]: ../../pokemons/423/
+[Gyarados]: ../../pokemons/130/
+[Heracross]: ../../pokemons/214/
+[Hoppip]: ../../pokemons/187/
+[Infernape]: ../../pokemons/392/
+[Ivysaur]: ../../pokemons/002/
+[Lanturn]: ../../pokemons/171/
+[Machop]: ../../pokemons/066/
+[Magikarp]: ../../pokemons/129/
+[Mankey]: ../../pokemons/056/
+[Mareep]: ../../pokemons/179/
+[Meditite]: ../../pokemons/307/
+[Meganium]: ../../pokemons/154/
+[Minun]: ../../pokemons/312/
+[Monferno]: ../../pokemons/391/
+[Numel]: ../../pokemons/322/
+[Onix]: ../../pokemons/095/
+[Pachirisu]: ../../pokemons/417/
+[Pineco]: ../../pokemons/204/
+[Piplup]: ../../pokemons/393/
+[Plusle]: ../../pokemons/311/
+[Ponyta]: ../../pokemons/077/
+[Prinplup]: ../../pokemons/394/
+[Shellder]: ../../pokemons/090/
+[Shellos]: ../../pokemons/422/
+[Shieldon]: ../../pokemons/410/
+[Slaking]: ../../pokemons/289/
+[Slakoth]: ../../pokemons/287/
+[Swellow]: ../../pokemons/277/
+[Taillow]: ../../pokemons/276/
+[Tentacool]: ../../pokemons/072/
+[Tentacruel]: ../../pokemons/073/
+[Venonat]: ../../pokemons/048/
+[Venusaur]: ../../pokemons/003/
+[Vigoroth]: ../../pokemons/288/
+[Wurmple]: ../../pokemons/265/
+[good-rod]: ../img/items/good-rod.png
+[honey]: ../img/items/honey.png
+[old-rod]: ../img/items/old-rod.png
+[poke-radar]: ../img/items/poke-radar.png
+[super-rod]: ../img/items/super-rod.png
