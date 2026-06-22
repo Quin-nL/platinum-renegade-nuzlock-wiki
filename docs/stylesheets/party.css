@@ -1,0 +1,281 @@
+/* ── My Box page ── */
+
+.rp-page-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.rp-page-count {
+  font-size: 0.85rem;
+  color: var(--md-default-fg-color--light);
+}
+
+.rp-empty {
+  color: var(--md-default-fg-color--light);
+  font-size: 0.9rem;
+  font-style: italic;
+}
+
+/* ── Sprite grid (page) ── */
+
+.rp-box-grid-page {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(72px, 1fr));
+  gap: 6px;
+}
+
+.rp-slot {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  cursor: pointer;
+  border-radius: 6px;
+  padding: 6px 4px 4px;
+  transition: background 0.12s;
+  border: 1px solid transparent;
+}
+
+.rp-slot:hover {
+  background: var(--md-default-fg-color--lightest);
+  border-color: var(--md-default-fg-color--lighter);
+}
+
+.rp-slot img {
+  width: 56px;
+  height: 56px;
+  image-rendering: pixelated;
+}
+
+.rp-slot-name {
+  font-size: 0.65rem;
+  text-align: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  max-width: 100%;
+  color: var(--md-default-fg-color--light);
+  line-height: 1.2;
+  margin-top: 2px;
+}
+
+/* Fainted */
+.rp-slot.rp-fainted img {
+  filter: grayscale(100%) opacity(0.45);
+}
+
+.rp-slot.rp-fainted .rp-slot-name {
+  color: var(--md-default-fg-color--lighter);
+}
+
+/* Evolution delay badge */
+.rp-evo-badge {
+  position: absolute;
+  top: 4px;
+  right: 4px;
+  background: #e65100;
+  color: #fff;
+  font-size: 0.55rem;
+  font-weight: 700;
+  line-height: 1;
+  padding: 2px 4px;
+  border-radius: 3px;
+  pointer-events: none;
+}
+
+.rp-evo-note {
+  font-size: 0.8rem;
+  color: #e65100;
+  font-weight: 600;
+  margin-top: 4px;
+}
+
+[data-md-color-scheme="slate"] .rp-evo-badge {
+  background: #ff8a50;
+  color: #1a0a00;
+}
+
+[data-md-color-scheme="slate"] .rp-evo-note {
+  color: #ff8a50;
+}
+
+/* ── Add to Box button on Pokémon pages ── */
+
+.rp-add-btn {
+  display: inline-block;
+  margin: 6px 0 18px;
+  padding: 5px 14px;
+  background: var(--md-primary-fg-color);
+  color: var(--md-primary-bg-color) !important;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-decoration: none !important;
+  line-height: 1.6;
+}
+
+.rp-add-btn:hover {
+  opacity: 0.85;
+}
+
+/* ── Modal ── */
+
+#rp-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.rp-modal-backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.45);
+}
+
+.rp-modal-box {
+  position: relative;
+  background: var(--md-default-bg-color);
+  border-radius: 8px;
+  padding: 20px 22px;
+  min-width: 270px;
+  max-width: 340px;
+  width: 90%;
+  box-shadow: 0 6px 28px rgba(0, 0, 0, 0.32);
+}
+
+.rp-modal-box h3 {
+  margin: 0 0 14px;
+  font-size: 0.95rem;
+  font-weight: 700;
+}
+
+.rp-modal-species {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 14px;
+}
+
+.rp-modal-species img {
+  width: 48px;
+  height: 48px;
+  image-rendering: pixelated;
+}
+
+.rp-modal-species span {
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+.rp-form-row {
+  margin-bottom: 10px;
+}
+
+.rp-form-row label {
+  display: block;
+  font-size: 0.75rem;
+  font-weight: 600;
+  margin-bottom: 3px;
+  color: var(--md-default-fg-color);
+}
+
+.rp-form-row label small {
+  font-weight: 400;
+  color: var(--md-default-fg-color--light);
+}
+
+.rp-form-row input {
+  width: 100%;
+  padding: 5px 8px;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 4px;
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  font-size: 0.85rem;
+  box-sizing: border-box;
+  font-family: inherit;
+}
+
+.rp-form-row input:focus {
+  outline: 2px solid var(--md-primary-fg-color);
+  outline-offset: -1px;
+}
+
+.rp-modal-actions {
+  display: flex;
+  gap: 8px;
+  margin-top: 16px;
+  flex-wrap: wrap;
+}
+
+.rp-modal-actions button {
+  padding: 5px 14px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.8rem;
+  font-weight: 600;
+  font-family: inherit;
+  line-height: 1.6;
+}
+
+.rp-btn-primary {
+  background: var(--md-primary-fg-color);
+  color: var(--md-primary-bg-color);
+}
+
+.rp-btn-primary:hover {
+  opacity: 0.85;
+}
+
+.rp-page-add-btn {
+  padding: 10px 28px;
+  font-size: 1rem;
+  border-radius: 12px;
+}
+
+.rp-btn-secondary {
+  background: var(--md-default-fg-color--lightest);
+  color: var(--md-default-fg-color);
+}
+
+.rp-btn-danger {
+  background: #c62828;
+  color: #fff;
+}
+
+.rp-btn-danger:hover {
+  opacity: 0.85;
+}
+
+.rp-warning {
+  background: #fff8e1;
+  color: #795500;
+  border-radius: 4px;
+  padding: 6px 10px;
+  font-size: 0.75rem;
+  margin-bottom: 12px;
+  border-left: 3px solid #f9a825;
+}
+
+[data-md-color-scheme="slate"] .rp-warning {
+  background: #3a2e00;
+  color: #ffd54f;
+  border-left-color: #ffd54f;
+}
+
+.rp-detail-info {
+  font-size: 0.82rem;
+  color: var(--md-default-fg-color--light);
+  margin-bottom: 4px;
+  line-height: 1.7;
+}
