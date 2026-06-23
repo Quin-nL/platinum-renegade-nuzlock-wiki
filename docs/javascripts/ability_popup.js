@@ -12,11 +12,23 @@
         document.addEventListener('click', handleClick, true);
     }
 
+    function isInAbilityColumn(abbr) {
+        var td = abbr.closest('td');
+        if (!td) return false;
+        var colIndex = Array.prototype.indexOf.call(td.parentElement.children, td);
+        var table = td.closest('table');
+        if (!table) return false;
+        var headerRow = table.querySelector('tr');
+        if (!headerRow) return false;
+        var th = headerRow.children[colIndex];
+        return th && th.textContent.trim() === 'Ability';
+    }
+
     function handleClick(e) {
         var abbr = e.target.closest ? e.target.closest('abbr') :
             (e.target.tagName === 'ABBR' ? e.target : null);
 
-        if (abbr && abbr.title) {
+        if (abbr && abbr.title && isInAbilityColumn(abbr)) {
             e.stopPropagation();
             if (abbr === activeAbbr && popup.style.display === 'block') {
                 hidePopup();
