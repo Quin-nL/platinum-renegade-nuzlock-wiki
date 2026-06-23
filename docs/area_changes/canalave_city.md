@@ -64,6 +64,14 @@ Area                                  | Pokémon                        | &nbsp;
 
 --8<-- "includes/natures.md"
 
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM48 | Skill Swap | Gift from NPC
+TM89 | U-turn | Item on ground
+
 [059]: ../img/pokemon/059.png
 [072]: ../img/pokemon/072.png
 [073]: ../img/pokemon/073.png

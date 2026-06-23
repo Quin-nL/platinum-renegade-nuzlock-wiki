@@ -76,6 +76,31 @@ Area                        | Pokémon                       | &nbsp;           
 
 --8<-- "includes/natures.md"
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][iron-ball] | Iron Ball | &nbsp;
+![][metal-coat] | Metal Coat | &nbsp;
+![][protector] | Protector | &nbsp;
+![][shiny-stone] | Shiny Stone | &nbsp;
+![][smooth-rock] | Smooth Rock | &nbsp;
+![][iron-plate] | Iron Plate | Master Trainer
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM23 | Iron Tail | Item on ground
+HM04 | Strength | Gift from Riley
+
+## Pokémon Events
+
+Pokémon | Level | Type | Notes
+--- | --- | --- | ---
+![][379]<br>[Registeel] | 60 | Legendary | Complete the Distortion World events.
+
 [005]: ../img/pokemon/005.png
 [022]: ../img/pokemon/022.png
 [026]: ../img/pokemon/026.png
@@ -190,3 +215,11 @@ Area                        | Pokémon                       | &nbsp;           
 [scope-lens]: ../img/items/scope-lens.png
 [sitrus-berry]: ../img/items/sitrus-berry.png
 [super-rod]: ../img/items/super-rod.png
+[iron-ball]: ../img/items/iron-ball.png
+[metal-coat]: ../img/items/metal-coat.png
+[protector]: ../img/items/protector.png
+[shiny-stone]: ../img/items/shiny-stone.png
+[smooth-rock]: ../img/items/smooth-rock.png
+[iron-plate]: ../img/items/iron-plate.png
+[379]: ../img/pokemon/379.png
+[Registeel]: ../../pokemons/379/

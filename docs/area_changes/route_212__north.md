@@ -84,6 +84,20 @@ Area                                         | Pokémon                         
 
 --8<-- "includes/natures.md"
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][rose-incense] | Rose Incense | &nbsp;
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM11 | Sunny Day | Item on ground
+TM20 | Safeguard | Item on ground
+
 [012]: ../img/pokemon/012.png
 [015]: ../img/pokemon/015.png
 [024]: ../img/pokemon/024.png
@@ -204,3 +218,4 @@ Area                                         | Pokémon                         
 [super-rod]: ../img/items/super-rod.png
 [wise-glasses]: ../img/items/wise-glasses.png
 [zoom-lens]: ../img/items/zoom-lens.png
+[rose-incense]: ../img/items/rose-incense.png

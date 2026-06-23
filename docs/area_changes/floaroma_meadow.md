@@ -13,6 +13,17 @@ Area                               | Pokémon                      | &nbsp;     
 ---                                | ---                          | ---                            | ---                            | ---                         | ---
 ![][honey]<br>Honey Tree<br>Lv. 12 | ![][420]<br>[Cherubi]<br>30% | ![][285]<br>[Shroomish]<br>20% | ![][102]<br>[Exeggcute]<br>20% | ![][273]<br>[Seedot]<br>20% | ![][114]<br>[Tangela]<br>10%
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][leaf-stone] | Leaf Stone | &nbsp;
+![][miracle-seed] | Miracle Seed | &nbsp;
+![][white-herb] | White Herb | &nbsp;
+![][works-key] | Works Key | Gift from NPC
+![][meadow-plate] | Meadow Plate | Master Trainer
+
 [041]: ../img/pokemon/041.png
 [102]: ../img/pokemon/102.png
 [114]: ../img/pokemon/114.png
@@ -32,3 +43,8 @@ Area                               | Pokémon                      | &nbsp;     
 [Tangela]: ../../pokemons/114/
 [Zubat]: ../../pokemons/041/
 [honey]: ../img/items/honey.png
+[leaf-stone]: ../img/items/leaf-stone.png
+[miracle-seed]: ../img/items/miracle-seed.png
+[white-herb]: ../img/items/white-herb.png
+[works-key]: ../img/items/works-key.png
+[meadow-plate]: ../img/items/meadow-plate.png

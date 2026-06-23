@@ -22,6 +22,28 @@ Area                                  | Pokémon                       | &nbsp; 
 ![][good-rod]<br>Good Rod<br>Lv. 25   | ![][129]<br>[Magikarp]<br>60% | ![][116]<br>[Horsea]<br>30%   | ![][147]<br>[Dratini]<br>10%   | &nbsp;                        | &nbsp;                        | &nbsp;
 ![][super-rod]<br>Super Rod<br>Lv. 50 | ![][130]<br>[Gyarados]<br>60% | ![][117]<br>[Seadra]<br>30%   | ![][148]<br>[Dragonair]<br>10% | &nbsp;                        | &nbsp;                        | &nbsp;
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][adamant-orb] | Adamant Orb | &nbsp;
+![][black-flute] | Black Flute | &nbsp;
+![][bright-powder] | Bright Powder | &nbsp;
+![][dawn-stone] | Dawn Stone | &nbsp;
+![][lustrous-orb] | Lustrous Orb | &nbsp;
+![][moon-stone] | Moon Stone | Hidden
+![][prism-scale] | Prism Scale | &nbsp;
+![][soft-sand] | Soft Sand | &nbsp;
+![][sun-stone] | Sun Stone | Hidden
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM02 | Dragon Claw | Item on ground
+TM69 | Rock Polish | Item on ground
+
 [015]: ../img/pokemon/015.png
 [035]: ../img/pokemon/035.png
 [041]: ../img/pokemon/041.png
@@ -65,3 +87,12 @@ Area                                  | Pokémon                       | &nbsp; 
 [good-rod]: ../img/items/good-rod.png
 [old-rod]: ../img/items/old-rod.png
 [super-rod]: ../img/items/super-rod.png
+[adamant-orb]: ../img/items/adamant-orb.png
+[black-flute]: ../img/items/black-flute.png
+[bright-powder]: ../img/items/bright-powder.png
+[dawn-stone]: ../img/items/dawn-stone.png
+[lustrous-orb]: ../img/items/lustrous-orb.png
+[moon-stone]: ../img/items/moon-stone.png
+[prism-scale]: ../img/items/prism-scale.png
+[soft-sand]: ../img/items/soft-sand.png
+[sun-stone]: ../img/items/sun-stone.png

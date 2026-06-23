@@ -38,6 +38,20 @@ Area                                         | Pokémon                      | &
 ![][poke-radar]<br>Poké Radar<br>Lv. 20 - 22 | ![][324]<br>[Torkoal]<br>22% | &nbsp;                      | &nbsp;                      | &nbsp;                       | &nbsp;                       | &nbsp;
 ![][honey]<br>Honey Tree<br>Lv. 21           | ![][415]<br>[Combee]<br>30%  | ![][412]<br>[Burmy]<br>20%  | ![][204]<br>[Pineco]<br>20% | ![][266]<br>[Silcoon]<br>10% | ![][268]<br>[Cascoon]<br>10% | ![][214]<br>[Heracross]<br>10%
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][poison-barb] | Poison Barb | &nbsp;
+![][thunder-stone] | Thunder Stone | &nbsp;
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM74 | Gyro Ball | Item on ground
+
 [017]: ../img/pokemon/017.png
 [025]: ../img/pokemon/025.png
 [056]: ../img/pokemon/056.png
@@ -104,3 +118,5 @@ Area                                         | Pokémon                      | &
 [Wingull]: ../../pokemons/278/
 [honey]: ../img/items/honey.png
 [poke-radar]: ../img/items/poke-radar.png
+[poison-barb]: ../img/items/poison-barb.png
+[thunder-stone]: ../img/items/thunder-stone.png

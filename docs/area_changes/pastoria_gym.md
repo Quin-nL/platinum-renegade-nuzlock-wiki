@@ -27,6 +27,13 @@ Sailor Samson              | ![][080]<br>[Slowbro]<br>Lv. 39<ul><li>Amnesia</li>
 
 --8<-- "includes/natures.md"
 
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+HM07 | Waterfall | Gift from Wake
+
 [008]: ../img/pokemon/008.png
 [055]: ../img/pokemon/055.png
 [062]: ../img/pokemon/062.png

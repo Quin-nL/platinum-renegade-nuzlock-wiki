@@ -60,6 +60,15 @@ Area                                  | Pokémon                        | &nbsp;
 
 --8<-- "includes/natures.md"
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][dawn-stone] | Dawn Stone | &nbsp;
+![][lax-incense] | Lax Incense | &nbsp;
+![][leaf-stone] | Leaf Stone | Hidden
+
 [012]: ../img/pokemon/012.png
 [018]: ../img/pokemon/018.png
 [020]: ../img/pokemon/020.png
@@ -154,3 +163,6 @@ Area                                  | Pokémon                        | &nbsp;
 [super-rod]: ../img/items/super-rod.png
 [white-herb]: ../img/items/white-herb.png
 [wise-glasses]: ../img/items/wise-glasses.png
+[dawn-stone]: ../img/items/dawn-stone.png
+[lax-incense]: ../img/items/lax-incense.png
+[leaf-stone]: ../img/items/leaf-stone.png

@@ -38,6 +38,19 @@ Area                                         | Pokémon                        |
 
 --8<-- "includes/natures.md"
 
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM25 | Thunder | Item on ground
+
+## Pokémon Events
+
+Pokémon | Level | Type | Notes
+--- | --- | --- | ---
+![][482]<br>[Azelf] | 60 | Legendary | Speak to Rowan after the Distortion World events.
+
 [055]: ../img/pokemon/055.png
 [065]: ../img/pokemon/065.png
 [108]: ../img/pokemon/108.png
@@ -83,3 +96,5 @@ Area                                         | Pokémon                        |
 [saturn]: ../img/trainer/saturn.png
 [super-rod]: ../img/items/super-rod.png
 [wise-glasses]: ../img/items/wise-glasses.png
+[482]: ../img/pokemon/482.png
+[Azelf]: ../../pokemons/482/

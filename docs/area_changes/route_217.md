@@ -37,6 +37,23 @@ Area                                         | Pokémon                        |
 &nbsp;                                       | ![][225]<br>[Delibird]<br>10%  | &nbsp;                       | &nbsp;                       | &nbsp;                    | &nbsp;                         | &nbsp;
 ![][poke-radar]<br>Poké Radar<br>Lv. 44 - 48 | ![][478]<br>[Froslass]<br>22%  | &nbsp;                       | &nbsp;                       | &nbsp;                    | &nbsp;                         | &nbsp;
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+&nbsp; | Ice Stone | Ice Rock
+![][icy-rock] | Icy Rock | &nbsp;
+![][spell-tag] | Spell Tag | &nbsp;
+![][member-card] | Member Card | Gift from NPC
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM07 | Hail | Item on ground
+TM52 | Focus Blast | Gift from Maylene
+
 [003]: ../img/pokemon/003.png
 [068]: ../img/pokemon/068.png
 [087]: ../img/pokemon/087.png
@@ -88,3 +105,6 @@ Area                                         | Pokémon                        |
 [Toxicroak]: ../../pokemons/454/
 [Venusaur]: ../../pokemons/003/
 [poke-radar]: ../img/items/poke-radar.png
+[icy-rock]: ../img/items/icy-rock.png
+[spell-tag]: ../img/items/spell-tag.png
+[member-card]: ../img/items/member-card.png

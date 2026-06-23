@@ -57,6 +57,13 @@ PKMN Trainer Buck<br>![][buck]     | ![][324]<br>[Torkoal]<br>Lv. 81<ul><li>Heat
         ---                            | ---                              | ---                               | ---                              | ---                             | ---                             | ---
         PKMN Trainer Dawn<br>![][dawn] | ![][065]<br>[Alakazam]<br>Lv. 83 | ![][473]<br>[Mamoswine]<br>Lv. 83 | ![][036]<br>[Clefable]<br>Lv. 83 | ![][428]<br>[Lopunny]<br>Lv. 83 | ![][135]<br>[Jolteon]<br>Lv. 83 | ![][392]<br>[Infernape]<br>Lv. 84
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+&nbsp; | Mysterious Invitation | Gift from NPC
+
 [026]: ../img/pokemon/026.png
 [036]: ../img/pokemon/036.png
 [059]: ../img/pokemon/059.png

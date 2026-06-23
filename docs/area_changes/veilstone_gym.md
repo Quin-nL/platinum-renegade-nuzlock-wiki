@@ -25,6 +25,13 @@ Black Belt Rafael                | ![][107]<br>[Hitmonchan]<br>Lv. 35<ul><li>Fir
 
 --8<-- "includes/natures.md"
 
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM60 | Drain Punch | Gift from Maylene
+
 [056]: ../img/pokemon/056.png
 [057]: ../img/pokemon/057.png
 [062]: ../img/pokemon/062.png

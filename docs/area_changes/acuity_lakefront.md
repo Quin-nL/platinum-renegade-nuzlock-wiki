@@ -10,6 +10,13 @@ Area                                         | Pokémon                        |
 &nbsp;                                       | ![][225]<br>[Delibird]<br>10%  | &nbsp;                       | &nbsp;                       | &nbsp;                    | &nbsp;                         | &nbsp;
 ![][poke-radar]<br>Poké Radar<br>Lv. 45 - 49 | ![][478]<br>[Froslass]<br>22%  | &nbsp;                       | &nbsp;                       | &nbsp;                    | &nbsp;                         | &nbsp;
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][reaper-cloth] | Reaper Cloth | &nbsp;
+
 [124]: ../img/pokemon/124.png
 [215]: ../img/pokemon/215.png
 [221]: ../img/pokemon/221.png
@@ -27,3 +34,4 @@ Area                                         | Pokémon                        |
 [Sneasel]: ../../pokemons/215/
 [Snorunt]: ../../pokemons/361/
 [poke-radar]: ../img/items/poke-radar.png
+[reaper-cloth]: ../img/items/reaper-cloth.png

@@ -44,6 +44,24 @@ Galactic Grunt                      | ![][205]<br>[Forretress]<br>Lv. 53<ul><li>
 
 --8<-- "includes/natures.md"
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][dusk-stone] | Dusk Stone | &nbsp;
+![][razor-claw] | Razor Claw | &nbsp;
+![][toxic-orb] | Toxic Orb | &nbsp;
+![][galactic-key] | Galactic Key | Item on ground
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM21 | Frustration | Item on ground
+TM49 | Snatch | Item on ground
+HM02 | Fly | Item on ground
+
 [024]: ../img/pokemon/024.png
 [042]: ../img/pokemon/042.png
 [047]: ../img/pokemon/047.png
@@ -125,3 +143,7 @@ Galactic Grunt                      | ![][205]<br>[Forretress]<br>Lv. 53<ul><li>
 [saturn]: ../img/trainer/saturn.png
 [scope-lens]: ../img/items/scope-lens.png
 [wise-glasses]: ../img/items/wise-glasses.png
+[dusk-stone]: ../img/items/dusk-stone.png
+[razor-claw]: ../img/items/razor-claw.png
+[toxic-orb]: ../img/items/toxic-orb.png
+[galactic-key]: ../img/items/galactic-key.png

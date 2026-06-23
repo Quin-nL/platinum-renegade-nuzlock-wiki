@@ -27,6 +27,13 @@ Ace Trainer Breanna          | ![][227]<br>[Skarmory]<br>Lv. 50<ul><li>Air Slash
 
 --8<-- "includes/natures.md"
 
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM91 | Flash Cannon | Gift from Byron
+
 [081]: ../img/pokemon/081.png
 [082]: ../img/pokemon/082.png
 [205]: ../img/pokemon/205.png

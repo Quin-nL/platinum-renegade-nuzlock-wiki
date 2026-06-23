@@ -18,6 +18,45 @@ Black Belt Randy<br>![][blackbelt] | Item | Nature | Ability | Moves
 
 --8<-- "includes/natures.md"
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][dawn-stone] | Dawn Stone | Buyable
+![][dragon-scale] | Dragon Scale | NPC in Pokémon Center
+![][dubious-disc] | Dubious Disc | &nbsp;
+![][dusk-stone] | Dusk Stone | Buyable
+![][everstone] | Everstone | Buyable
+![][fire-stone] | Fire Stone | Buyable
+![][full-incense] | Full Incense | &nbsp;
+&nbsp; | Ice Stone | Buyable
+![][leaf-stone] | Leaf Stone | Buyable
+![][moon-stone] | Moon Stone | Buyable
+![][oval-stone] | Oval Stone | Buyable
+![][shiny-stone] | Shiny Stone | Buyable
+![][sticky-barb] | Sticky Barb | &nbsp;
+![][sun-stone] | Sun Stone | Buyable
+![][thunder-stone] | Thunder Stone | Buyable
+![][water-stone] | Water Stone | Buyable
+![][coin-case] | Coin Case | Gift from NPC
+![][fist-plate] | Fist Plate | Master Trainer
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM26 | Earthquake | Gift from Bertha
+TM63 | Embargo | Gift from NPC
+TM64 | Explosion | Gift from NPC
+TM79 | Dark Pulse | Item on ground
+
+## Pokémon Events
+
+Pokémon | Level | Type | Notes
+--- | --- | --- | ---
+![][386]<br>[Deoxys] | 70 | Legendary | After the credits, talk to any of the meteories in Veilstone City.
+
 [042]: ../img/pokemon/042.png
 [049]: ../img/pokemon/049.png
 [110]: ../img/pokemon/110.png
@@ -41,3 +80,22 @@ Black Belt Randy<br>![][blackbelt] | Item | Nature | Ability | Moves
 [Weezing]: ../../pokemons/110/
 [Wormadam]: ../../pokemons/413/
 [blackbelt]: ../img/trainer/blackbelt.png
+[dawn-stone]: ../img/items/dawn-stone.png
+[dragon-scale]: ../img/items/dragon-scale.png
+[dubious-disc]: ../img/items/dubious-disc.png
+[dusk-stone]: ../img/items/dusk-stone.png
+[everstone]: ../img/items/everstone.png
+[fire-stone]: ../img/items/fire-stone.png
+[full-incense]: ../img/items/full-incense.png
+[leaf-stone]: ../img/items/leaf-stone.png
+[moon-stone]: ../img/items/moon-stone.png
+[oval-stone]: ../img/items/oval-stone.png
+[shiny-stone]: ../img/items/shiny-stone.png
+[sticky-barb]: ../img/items/sticky-barb.png
+[sun-stone]: ../img/items/sun-stone.png
+[thunder-stone]: ../img/items/thunder-stone.png
+[water-stone]: ../img/items/water-stone.png
+[coin-case]: ../img/items/coin-case.png
+[fist-plate]: ../img/items/fist-plate.png
+[386]: ../img/pokemon/386.png
+[Deoxys]: ../../pokemons/386/

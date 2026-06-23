@@ -42,6 +42,29 @@ Area                                  | Pokémon                       | &nbsp; 
 
 --8<-- "includes/natures.md"
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][light-clay] | Light Clay | &nbsp;
+![][earth-plate] | Earth Plate | Master Trainer
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM01 | Focus Punch | Item on ground
+TM31 | Brick Break | Item on ground
+TM70 | Flash | Item on ground
+HM06 | Rock Smash | Gift from NPC
+
+## Pokémon Events
+
+Pokémon | Level | Type | Notes
+--- | --- | --- | ---
+![][150]<br>[Mewtwo] | 70 | Legendary | After the credits, a portal will appear in the bottom floor of Oreburgh Gate.
+
 [041]: ../img/pokemon/041.png
 [042]: ../img/pokemon/042.png
 [050]: ../img/pokemon/050.png
@@ -78,3 +101,7 @@ Area                                  | Pokémon                       | &nbsp; 
 [hiker]: ../img/trainer/hiker.png
 [old-rod]: ../img/items/old-rod.png
 [super-rod]: ../img/items/super-rod.png
+[light-clay]: ../img/items/light-clay.png
+[earth-plate]: ../img/items/earth-plate.png
+[150]: ../img/pokemon/150.png
+[Mewtwo]: ../../pokemons/150/

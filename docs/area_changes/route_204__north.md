@@ -28,6 +28,20 @@ Area                                         | Pokémon                      | &
 &nbsp;                                       | ![][043]<br>[Oddish]<br>10%  | ![][167]<br>[Spinarak]<br>10% | &nbsp;                          | &nbsp;                     | &nbsp;                        | &nbsp;
 ![][poke-radar]<br>Poké Radar<br>Lv. 11 - 12 | ![][315]<br>[Roselia]<br>22% | &nbsp;                        | &nbsp;                          | &nbsp;                     | &nbsp;                        | &nbsp;
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][miracle-seed] | Miracle Seed | &nbsp;
+![][sea-incense] | Sea Incense | &nbsp;
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM09 | Bullet Seed | Item on ground
+
 [010]: ../img/pokemon/010.png
 [013]: ../img/pokemon/013.png
 [043]: ../img/pokemon/043.png
@@ -71,3 +85,5 @@ Area                                         | Pokémon                      | &
 [Weedle]: ../../pokemons/013/
 [Wurmple]: ../../pokemons/265/
 [poke-radar]: ../img/items/poke-radar.png
+[miracle-seed]: ../img/items/miracle-seed.png
+[sea-incense]: ../img/items/sea-incense.png

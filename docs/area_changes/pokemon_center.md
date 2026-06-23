@@ -45,6 +45,13 @@ Clown Lee :material-numeric-8-circle-outline:               | ![][424]<br>[Ambip
 Clown Lee :material-alpha-c-circle-outline:                 | ![][424]<br>[Ambipom]<br>Lv. 70<ul><li>Bounce</li><li>Nasty Plot</li><li>Switcheroo</li><li>Last Resort</li></ul> | ![][065]<br>[Alakazam]<br>Lv. 70<ul><li>Future Sight</li><li>Substitute</li><li>Trick</li><li>Aura Sphere ^1</li></ul> | &nbsp;
 Clown Lee :material-alpha-s-circle-outline:                 | ![][424]<br>[Ambipom]<br>Lv. 80<ul><li>Bounce</li><li>Nasty Plot</li><li>Switcheroo</li><li>Last Resort</li></ul> | ![][065]<br>[Alakazam]<br>Lv. 80<ul><li>Future Sight</li><li>Substitute</li><li>Trick</li><li>Aura Sphere ^1</li></ul> | &nbsp;
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][pal-pad] | Pal Pad | Gift from NPC
+
 [025]: ../img/pokemon/025.png
 [026]: ../img/pokemon/026.png
 [035]: ../img/pokemon/035.png
@@ -113,3 +120,4 @@ Clown Lee :material-alpha-s-circle-outline:                 | ![][424]<br>[Ambip
 [Shinx]: ../../pokemons/403/
 [Voltorb]: ../../pokemons/100/
 [Wigglytuff]: ../../pokemons/040/
+[pal-pad]: ../img/items/pal-pad.png

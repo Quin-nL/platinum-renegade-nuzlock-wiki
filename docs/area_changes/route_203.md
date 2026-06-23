@@ -73,6 +73,21 @@ Area                                       | Pokémon                       | &n
 ![][good-rod]<br>Good Rod<br>Lv. 25        | ![][129]<br>[Magikarp]<br>60% | ![][341]<br>[Corphish]<br>35%  | &nbsp;                       | &nbsp;                      | &nbsp;                     | &nbsp;
 ![][super-rod]<br>Super Rod<br>Lv. 50      | ![][130]<br>[Gyarados]<br>60% | ![][342]<br>[Crawdaunt]<br>35% | &nbsp;                       | &nbsp;                      | &nbsp;                     | &nbsp;
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][exp-share] | Exp. Share | &nbsp;
+![][silk-scarf] | Silk Scarf | &nbsp;
+![][soothe-bell] | Soothe Bell | &nbsp;
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM58 | Endure | Item on ground
+
 [019]: ../img/pokemon/019.png
 [021]: ../img/pokemon/021.png
 [027]: ../img/pokemon/027.png
@@ -148,3 +163,6 @@ Area                                       | Pokémon                       | &n
 [old-rod]: ../img/items/old-rod.png
 [poke-radar]: ../img/items/poke-radar.png
 [super-rod]: ../img/items/super-rod.png
+[exp-share]: ../img/items/exp-share.png
+[silk-scarf]: ../img/items/silk-scarf.png
+[soothe-bell]: ../img/items/soothe-bell.png

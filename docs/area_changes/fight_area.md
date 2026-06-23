@@ -20,6 +20,13 @@ Elite Four Flint<br>![][flint] | ![][059]<br>[Arcanine]<br>Lv. 74<ul><li>Fire Fa
     ---                              | ---                               | ---                               | ---                             | ---                               | ---                              | ---
     PKMN Trainer Barry<br>![][barry] | ![][398]<br>[Staraptor]<br>Lv. 74 | ![][214]<br>[Heracross]<br>Lv. 74 | ![][143]<br>[Snorlax]<br>Lv. 74 | ![][184]<br>[Azumarill]<br>Lv. 74 | ![][059]<br>[Arcanine]<br>Lv. 74 | ![][389]<br>[Torterra]<br>Lv. 75
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][scope-lens] | Scope Lens | &nbsp;
+
 [026]: ../img/pokemon/026.png
 [059]: ../img/pokemon/059.png
 [135]: ../img/pokemon/135.png
@@ -51,3 +58,4 @@ Elite Four Flint<br>![][flint] | ![][059]<br>[Arcanine]<br>Lv. 74<ul><li>Fire Fa
 [barry]: ../img/trainer/barry.png
 [flint]: ../img/trainer/flint.png
 [volkner]: ../img/trainer/volkner.png
+[scope-lens]: ../img/items/scope-lens.png

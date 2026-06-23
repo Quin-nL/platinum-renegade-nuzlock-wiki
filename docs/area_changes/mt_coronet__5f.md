@@ -9,6 +9,28 @@ Area                        | Pokémon                       | &nbsp;           
 🌙<br>Night<br>Lv. 51 - 53   | ![][075]<br>[Graveler]<br>20% | ![][437]<br>[Bronzong]<br>20% | ![][035]<br>[Clefairy]<br>10% | ![][299]<br>[Nosepass]<br>10% | ![][358]<br>[Chimecho]<br>10% | ![][042]<br>[Golbat]<br>10%
 &nbsp;                      | ![][375]<br>[Metang]<br>10%   | ![][338]<br>[Solrock]<br>5%   | ![][337]<br>[Lunatone]<br>5%  | &nbsp;                        | &nbsp;                        | &nbsp;
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][adamant-orb] | Adamant Orb | &nbsp;
+![][black-flute] | Black Flute | &nbsp;
+![][bright-powder] | Bright Powder | &nbsp;
+![][dawn-stone] | Dawn Stone | &nbsp;
+![][lustrous-orb] | Lustrous Orb | &nbsp;
+![][moon-stone] | Moon Stone | Hidden
+![][prism-scale] | Prism Scale | &nbsp;
+![][soft-sand] | Soft Sand | &nbsp;
+![][sun-stone] | Sun Stone | Hidden
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM02 | Dragon Claw | Item on ground
+TM69 | Rock Polish | Item on ground
+
 [035]: ../img/pokemon/035.png
 [042]: ../img/pokemon/042.png
 [075]: ../img/pokemon/075.png
@@ -27,3 +49,12 @@ Area                        | Pokémon                       | &nbsp;           
 [Metang]: ../../pokemons/375/
 [Nosepass]: ../../pokemons/299/
 [Solrock]: ../../pokemons/338/
+[adamant-orb]: ../img/items/adamant-orb.png
+[black-flute]: ../img/items/black-flute.png
+[bright-powder]: ../img/items/bright-powder.png
+[dawn-stone]: ../img/items/dawn-stone.png
+[lustrous-orb]: ../img/items/lustrous-orb.png
+[moon-stone]: ../img/items/moon-stone.png
+[prism-scale]: ../img/items/prism-scale.png
+[soft-sand]: ../img/items/soft-sand.png
+[sun-stone]: ../img/items/sun-stone.png

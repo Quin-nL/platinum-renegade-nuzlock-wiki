@@ -26,6 +26,13 @@ Area                                       | Pokémon                     | &nbs
 🌙<br>Night<br>Lv. 4 - 5                    | ![][396]<br>[Starly]<br>30% | ![][399]<br>[Bidoof]<br>30% | ![][163]<br>[Hoothoot]<br>10% | ![][401]<br>[Kricketot]<br>10% | ![][032]<br>[Nidoran♂]<br>10% | ![][029]<br>[Nidoran♀]<br>10%
 ![][poke-radar]<br>Poké Radar<br>Lv. 4 - 5 | ![][084]<br>[Doduo]<br>22%  | &nbsp;                      | &nbsp;                        | &nbsp;                         | &nbsp;                        | &nbsp;
 
+
+## Pokémon Events
+
+Pokémon | Level | Type | Notes
+--- | --- | --- | ---
+![][151]<br>[Mew] | 40 | Legendary | A Shroomish is in the top-left of Route 203 near some trees.
+
 [016]: ../img/pokemon/016.png
 [029]: ../img/pokemon/029.png
 [032]: ../img/pokemon/032.png
@@ -50,3 +57,5 @@ Area                                       | Pokémon                     | &nbs
 [Turtwig]: ../../pokemons/387/
 [barry]: ../img/trainer/barry.png
 [poke-radar]: ../img/items/poke-radar.png
+[151]: ../img/pokemon/151.png
+[Mew]: ../../pokemons/151/

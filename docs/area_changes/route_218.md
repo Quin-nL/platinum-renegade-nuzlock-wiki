@@ -33,6 +33,19 @@ Area                                  | Pokémon                         | &nbsp
 ![][honey]<br>Honey Tree<br>Lv. 39    | ![][415]<br>[Combee]<br>30%     | ![][205]<br>[Forretress]<br>10% | ![][413]<br>[Wormadam]<br>10%  | ![][414]<br>[Mothim]<br>10%   | ![][267]<br>[Beautifly]<br>10% | ![][269]<br>[Dustox]<br>10%
 &nbsp;                                | ![][214]<br>[Heracross]<br>10%  | ![][416]<br>[Vespiquen]<br>10%  | &nbsp;                         | &nbsp;                        | &nbsp;                         | &nbsp;
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][old-rod] | Old Rod | Gift from NPC
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM03 | Water Pulse | Item on ground
+
 [072]: ../img/pokemon/072.png
 [073]: ../img/pokemon/073.png
 [101]: ../img/pokemon/101.png

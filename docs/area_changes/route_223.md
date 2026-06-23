@@ -37,6 +37,13 @@ Area                                  | Pokémon                         | &nbsp
 ![][good-rod]<br>Good Rod<br>Lv. 25   | ![][129]<br>[Magikarp]<br>60%   | ![][223]<br>[Remoraid]<br>30% | ![][320]<br>[Wailmer]<br>10%  | &nbsp;
 ![][super-rod]<br>Super Rod<br>Lv. 50 | ![][130]<br>[Gyarados]<br>60%   | ![][320]<br>[Wailmer]<br>30%  | ![][224]<br>[Octillery]<br>5% | ![][321]<br>[Wailord]<br>5%
 
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM18 | Rain Dance | Item on ground
+
 [009]: ../img/pokemon/009.png
 [055]: ../img/pokemon/055.png
 [062]: ../img/pokemon/062.png

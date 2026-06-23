@@ -17,6 +17,28 @@ Dragon Tamer Ondrej  | ![][230]<br>[Kingdra]<br>Lv. 64<ul><li>Dragon Dance</li><
 Veteran Edgar        | ![][474]<br>[Porygon-Z]<br>Lv. 64<ul><li>Trick Room</li><li>Psychic</li><li>Zap Cannon</li><li>Hyper Beam</li></ul> | ![][465]<br>[Tangrowth]<br>Lv. 64<ul><li>Tickle</li><li>Wring Out</li><li>Power Whip</li><li>Leaf Storm</li></ul> | ![][395]<br>[Empoleon]<br>Lv. 64<ul><li>Whirlpool</li><li>Yawn</li><li>Drill Peck</li><li>Hydro Pump</li></ul> | ![][076]<br>[Golem]<br>Lv. 64<ul><li>Explosion</li><li>Double-Edge</li><li>Stone Edge</li><li>Hammer Arm</li></ul> | ![][157]<br>[Typhlosion]<br>Lv. 64<ul><li>Rollout</li><li>Double-Edge</li><li>Flare Blitz</li><li>Eruption</li></ul> 
 Dragon Tamer Clinton | ![][330]<br>[Flygon]<br>Lv. 64<ul><li>Outrage</li><li>Dragon Pulse</li><li>Hyper Beam</li><li>Dragon Rush</li></ul> | ![][130]<br>[Gyarados]<br>Lv. 64<ul><li>Hydro Pump</li><li>Rain Dance</li><li>Hurricane</li><li>Hyper Beam</li></ul> | ![][149]<br>[Dragonite]<br>Lv. 64<ul><li>Outrage</li><li>Hyper Beam</li><li>Wing Attack</li><li>Hurricane</li></ul> | ![][142]<br>[Aerodactyl]<br>Lv. 64<ul><li>Stone Edge</li><li>Brave Bird ^1</li><li>Hyper Beam</li><li>Giga Impact</li></ul> | &nbsp;
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][dragon-scale] | Dragon Scale | &nbsp;
+![][dusk-stone] | Dusk Stone | &nbsp;
+![][leftovers] | Leftovers | &nbsp;
+![][razor-claw] | Razor Claw | &nbsp;
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM68 | Giga Impact | Item on ground
+
+## Pokémon Events
+
+Pokémon | Level | Type | Notes
+--- | --- | --- | ---
+![][146]<br>[Moltres] | 60 | Legendary | Speak to Rowan after the Distortion World events.
+
 [003]: ../img/pokemon/003.png
 [006]: ../img/pokemon/006.png
 [018]: ../img/pokemon/018.png
@@ -141,3 +163,9 @@ Dragon Tamer Clinton | ![][330]<br>[Flygon]<br>Lv. 64<ul><li>Outrage</li><li>Dra
 [Victreebel]: ../../pokemons/071/
 [Walrein]: ../../pokemons/365/
 [Whiscash]: ../../pokemons/340/
+[dragon-scale]: ../img/items/dragon-scale.png
+[dusk-stone]: ../img/items/dusk-stone.png
+[leftovers]: ../img/items/leftovers.png
+[razor-claw]: ../img/items/razor-claw.png
+[146]: ../img/pokemon/146.png
+[Moltres]: ../../pokemons/146/

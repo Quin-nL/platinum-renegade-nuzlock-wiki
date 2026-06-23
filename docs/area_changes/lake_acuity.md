@@ -11,6 +11,19 @@ Area                                         | Pokémon                        |
 ![][good-rod]<br>Good Rod<br>Lv. 25          | ![][129]<br>[Magikarp]<br>100% | &nbsp;                         | &nbsp;                         | &nbsp;                    | &nbsp;
 ![][super-rod]<br>Super Rod<br>Lv. 50        | ![][130]<br>[Gyarados]<br>100% | &nbsp;                         | &nbsp;                         | &nbsp;                    | &nbsp;
 
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM14 | Blizzard | Item on ground
+
+## Pokémon Events
+
+Pokémon | Level | Type | Notes
+--- | --- | --- | ---
+![][480]<br>[Uxie] | 60 | Legendary | Speak to Rowan after the Distortion World events.
+
 [087]: ../img/pokemon/087.png
 [124]: ../img/pokemon/124.png
 [129]: ../img/pokemon/129.png
@@ -37,3 +50,5 @@ Area                                         | Pokémon                        |
 [old-rod]: ../img/items/old-rod.png
 [poke-radar]: ../img/items/poke-radar.png
 [super-rod]: ../img/items/super-rod.png
+[480]: ../img/pokemon/480.png
+[Uxie]: ../../pokemons/480/

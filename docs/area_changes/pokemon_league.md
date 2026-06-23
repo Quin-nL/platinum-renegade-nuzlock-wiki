@@ -449,6 +449,19 @@ Area                                  | Pokémon                         | &nbsp
 
 --8<-- "includes/natures.md"
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][sky-plate] | Sky Plate | Master Trainer
+
+## Pokémon Events
+
+Pokémon | Level | Type | Notes
+--- | --- | --- | ---
+![][384]<br>[Rayquaza] | 70 | Legendary | After the credits, a portal will appear at the Pokémon League below the waterfall.
+
 [006]: ../img/pokemon/006.png
 [036]: ../img/pokemon/036.png
 [038]: ../img/pokemon/038.png
@@ -654,3 +667,4 @@ Area                                  | Pokémon                         | &nbsp
 [wide-lens]: ../img/items/wide-lens.png
 [wise-glasses]: ../img/items/wise-glasses.png
 [yache-berry]: ../img/items/yache-berry.png
+[sky-plate]: ../img/items/sky-plate.png

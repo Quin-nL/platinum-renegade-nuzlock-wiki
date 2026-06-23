@@ -25,6 +25,14 @@ Area                                         | Pokémon                       | 
 🌙<br>Night<br>Lv. 16 - 18                    | ![][307]<br>[Meditite]<br>30% | ![][066]<br>[Machop]<br>20% | ![][333]<br>[Swablu]<br>20% | ![][216]<br>[Teddiursa]<br>10% | ![][177]<br>[Natu]<br>10% | ![][433]<br>[Chingling]<br>10%
 ![][poke-radar]<br>Poké Radar<br>Lv. 16 - 18 | ![][236]<br>[Tyrogue]<br>22%  | &nbsp;                      | &nbsp;                      | &nbsp;                         | &nbsp;                    | &nbsp;
 
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM12 | Taunt | Item on ground
+TM77 | Psych Up | Gift from NPC
+
 [041]: ../img/pokemon/041.png
 [042]: ../img/pokemon/042.png
 [066]: ../img/pokemon/066.png

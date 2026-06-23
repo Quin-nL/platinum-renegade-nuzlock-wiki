@@ -42,6 +42,30 @@ Area                        | Pokémon                     | &nbsp;             
 
 --8<-- "includes/natures.md"
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][dusk-stone] | Dusk Stone | Hidden
+![][dusk-stone] | Dusk Stone | &nbsp;
+![][focus-band] | Focus Band | &nbsp;
+![][grip-claw] | Grip Claw | &nbsp;
+![][kings-rock] | King's Rock | &nbsp;
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM32 | Double Team | Item on ground
+TM85 | Dazzling Gleam | Gift from Mira
+
+## Pokémon Events
+
+Pokémon | Level | Type | Notes
+--- | --- | --- | ---
+![][444]<br>[Gabite] | 25 | Encounter | Go through the basement and up the stairs to the small room.
+
 [020]: ../img/pokemon/020.png
 [027]: ../img/pokemon/027.png
 [030]: ../img/pokemon/030.png
@@ -112,3 +136,7 @@ Area                        | Pokémon                     | &nbsp;             
 [mira]: ../img/trainer/mira.png
 [sitrus-berry]: ../img/items/sitrus-berry.png
 [spell-tag]: ../img/items/spell-tag.png
+[dusk-stone]: ../img/items/dusk-stone.png
+[focus-band]: ../img/items/focus-band.png
+[grip-claw]: ../img/items/grip-claw.png
+[kings-rock]: ../img/items/kings-rock.png

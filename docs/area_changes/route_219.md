@@ -22,6 +22,13 @@ Area                                  | Pokémon                      | &nbsp;  
 ![][good-rod]<br>Good Rod<br>Lv. 25   | ![][098]<br>[Krabby]<br>60%  | ![][116]<br>[Horsea]<br>30%    | ![][366]<br>[Clamperl]<br>10% | &nbsp;
 ![][super-rod]<br>Super Rod<br>Lv. 50 | ![][099]<br>[Kingler]<br>60% | ![][116]<br>[Horsea]<br>30%    | ![][367]<br>[Huntail]<br>5%   | ![][368]<br>[Gorebyss]<br>5%
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][splash-plate] | Splash Plate | Master Trainer
+
 [061]: ../img/pokemon/061.png
 [072]: ../img/pokemon/072.png
 [073]: ../img/pokemon/073.png
@@ -58,3 +65,4 @@ Area                                  | Pokémon                      | &nbsp;  
 [good-rod]: ../img/items/good-rod.png
 [old-rod]: ../img/items/old-rod.png
 [super-rod]: ../img/items/super-rod.png
+[splash-plate]: ../img/items/splash-plate.png

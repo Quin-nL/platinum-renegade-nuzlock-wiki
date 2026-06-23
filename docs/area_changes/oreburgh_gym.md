@@ -23,6 +23,13 @@ Youngster Darius             | ![][304]<br>[Aron]<br>Lv. 13<ul><li>Mud-Slap</li>
 
 --8<-- "includes/natures.md"
 
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM76 | Stealth Rock | Gift from Roark
+
 [074]: ../img/pokemon/074.png
 [095]: ../img/pokemon/095.png
 [111]: ../img/pokemon/111.png

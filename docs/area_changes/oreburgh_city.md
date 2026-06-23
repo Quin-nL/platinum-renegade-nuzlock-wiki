@@ -22,6 +22,26 @@ Reporter Helen                       | ![][252]<br>[Treecko]<br>Lv. 10<ul><li>Po
 
 --8<-- "includes/natures.md"
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][oval-stone] | Oval Stone | &nbsp;
+![][soul-dew] | Soul Dew | &nbsp;
+![][blue-orb] | Blue Orb | Gift from Steven
+![][jade-orb] | Jade Orb | Gift from Steven
+![][red-orb] | Red Orb | Gift from Steven
+
+## Pokémon Events
+
+Pokémon | Level | Type | Notes
+--- | --- | --- | ---
+![][252]<br>[Treecko] | 10 | Gift | Talk to the Interviewer at the top left.
+![][255]<br>[Torchic] | 10 | Gift | Talk to the Interviewer at the top left.
+![][258]<br>[Mudkip] | 10 | Gift | Talk to the Interviewer at the top left.
+![][374]<br>[Beldum] | 10 | Gift | Go inside the house near Oreburgh Mine.
+
 [142]: ../img/pokemon/142.png
 [227]: ../img/pokemon/227.png
 [252]: ../img/pokemon/252.png
@@ -48,3 +68,10 @@ Reporter Helen                       | ![][252]<br>[Treecko]<br>Lv. 10<ul><li>Po
 [occa-berry]: ../img/items/occa-berry.png
 [passho-berry]: ../img/items/passho-berry.png
 [steven]: ../img/trainer/steven.png
+[oval-stone]: ../img/items/oval-stone.png
+[soul-dew]: ../img/items/soul-dew.png
+[blue-orb]: ../img/items/blue-orb.png
+[jade-orb]: ../img/items/jade-orb.png
+[red-orb]: ../img/items/red-orb.png
+[374]: ../img/pokemon/374.png
+[Beldum]: ../../pokemons/374/

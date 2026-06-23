@@ -21,6 +21,19 @@ Area                                  | Pokémon                      | &nbsp;  
 ![][good-rod]<br>Good Rod<br>Lv. 25   | ![][370]<br>[Luvdisc]<br>60% | ![][116]<br>[Horsea]<br>30%  | ![][222]<br>[Corsola]<br>10% | &nbsp;
 ![][super-rod]<br>Super Rod<br>Lv. 50 | ![][370]<br>[Luvdisc]<br>60% | ![][117]<br>[Seadra]<br>30%  | ![][222]<br>[Corsola]<br>10% | &nbsp;
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][damp-rock] | Damp Rock | &nbsp;
+
+## Pokémon Events
+
+Pokémon | Level | Type | Notes
+--- | --- | --- | ---
+![][249]<br>[Lugia] | 70 | Legendary | After the credits, a portal will appear on Route 220.
+
 [009]: ../img/pokemon/009.png
 [073]: ../img/pokemon/073.png
 [116]: ../img/pokemon/116.png
@@ -64,3 +77,6 @@ Area                                  | Pokémon                      | &nbsp;  
 [good-rod]: ../img/items/good-rod.png
 [old-rod]: ../img/items/old-rod.png
 [super-rod]: ../img/items/super-rod.png
+[damp-rock]: ../img/items/damp-rock.png
+[249]: ../img/pokemon/249.png
+[Lugia]: ../../pokemons/249/

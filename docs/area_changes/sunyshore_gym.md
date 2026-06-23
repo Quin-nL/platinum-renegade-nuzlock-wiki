@@ -29,6 +29,13 @@ Ace Trainer Zachery              | ![][181]<br>[Ampharos]<br>Lv. 60<ul><li>Thund
 
 --8<-- "includes/natures.md"
 
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM57 | Wild Charge | Gift from Volkner
+
 [025]: ../img/pokemon/025.png
 [026]: ../img/pokemon/026.png
 [101]: ../img/pokemon/101.png

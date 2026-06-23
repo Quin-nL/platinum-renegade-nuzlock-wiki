@@ -35,6 +35,15 @@ Area                                  | Pokémon                        | &nbsp;
 ![][super-rod]<br>Super Rod<br>Lv. 50 | ![][099]<br>[Kingler]<br>60%   | ![][116]<br>[Horsea]<br>30%    | ![][367]<br>[Huntail]<br>5%    | ![][368]<br>[Gorebyss]<br>5%   | &nbsp;                          | &nbsp;
 ![][honey]<br>Honey Tree<br>Lv. 39    | ![][421]<br>[Cherrim]<br>30%   | ![][285]<br>[Shroomish]<br>20% | ![][102]<br>[Exeggcute]<br>20% | ![][274]<br>[Nuzleaf]<br>20%   | ![][114]<br>[Tangela]<br>10%    | &nbsp;
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][black-belt] | Black Belt | &nbsp;
+![][focus-sash] | Focus Sash | &nbsp;
+![][pure-incense] | Pure Incense | &nbsp;
+
 [006]: ../img/pokemon/006.png
 [030]: ../img/pokemon/030.png
 [031]: ../img/pokemon/031.png
@@ -112,3 +121,6 @@ Area                                  | Pokémon                        | &nbsp;
 [old-rod]: ../img/items/old-rod.png
 [poke-radar]: ../img/items/poke-radar.png
 [super-rod]: ../img/items/super-rod.png
+[black-belt]: ../img/items/black-belt.png
+[focus-sash]: ../img/items/focus-sash.png
+[pure-incense]: ../img/items/pure-incense.png

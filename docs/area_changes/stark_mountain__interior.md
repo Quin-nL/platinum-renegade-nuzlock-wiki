@@ -32,6 +32,21 @@ Area                        | Pokémon                       | &nbsp;           
 🌙<br>Night<br>Lv. 67 - 69   | ![][219]<br>[Magcargo]<br>20% | ![][112]<br>[Rhydon]<br>20%  | ![][042]<br>[Golbat]<br>10% | ![][075]<br>[Graveler]<br>10% | ![][067]<br>[Machoke]<br>10% | ![][110]<br>[Weezing]<br>10%
 &nbsp;                      | ![][089]<br>[Muk]<br>10%      | ![][324]<br>[Torkoal]<br>10% | &nbsp;                      | &nbsp;                        | &nbsp;                       | &nbsp;
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][fire-stone] | Fire Stone | Hidden
+![][life-orb] | Life Orb | &nbsp;
+
+## Pokémon Events
+
+Pokémon | Level | Type | Notes
+--- | --- | --- | ---
+![][383]<br>[Groudon] | 70 | Legendary | After the credits, a portal will appear in the first room of Stark Mountain's interior.
+![][485]<br>[Heatran] | 68 | Legendary | After completing the Stark Mountain events, go to the Survival Area.
+
 [020]: ../img/pokemon/020.png
 [022]: ../img/pokemon/022.png
 [038]: ../img/pokemon/038.png
@@ -144,3 +159,9 @@ Area                        | Pokémon                       | &nbsp;           
 [Weezing]: ../../pokemons/110/
 [Wigglytuff]: ../../pokemons/040/
 [Xatu]: ../../pokemons/178/
+[fire-stone]: ../img/items/fire-stone.png
+[life-orb]: ../img/items/life-orb.png
+[383]: ../img/pokemon/383.png
+[Groudon]: ../../pokemons/383/
+[485]: ../img/pokemon/485.png
+[Heatran]: ../../pokemons/485/

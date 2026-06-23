@@ -18,6 +18,32 @@ PKMN Trainer Lucas | ![][209]<br>[Snubbull]<br>Lv. 13<ul><li>Tail Whip</li><li>C
 PKMN Trainer Lucas | ![][209]<br>[Snubbull]<br>Lv. 13<ul><li>Tail Whip</li><li>Charm</li><li>Lick</li><li>Bite</li></ul> | ![][387]<br>[Turtwig]<br>Lv. 14<ul><li>Absorb</li><li>Razor Leaf</li><li>Curse</li><li>Bullet Seed</li></ul> | &nbsp;
 PKMN Trainer Lucas | ![][209]<br>[Snubbull]<br>Lv. 13<ul><li>Tail Whip</li><li>Charm</li><li>Lick</li><li>Bite</li></ul> | ![][390]<br>[Chimchar]<br>Lv. 14<ul><li>Ember</li><li>Taunt</li><li>Fury Swipes</li><li>Flame Wheel</li></ul> | &nbsp;
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][quick-claw] | Quick Claw | &nbsp;
+![][scope-lens] | Scope Lens | &nbsp;
+![][vs-recorder] | Vs. Recorder | Gift from Looker
+![][fashion-case] | Fashion Case | Gift from NPC
+![][town-map] | Town Map | Gift from rival
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM10 | Hidden Power | Gift from NPC
+TM42 | Facade | Gift from NPC
+
+## Pokémon Events
+
+Pokémon | Level | Type | Notes
+--- | --- | --- | ---
+![][001]<br>[Bulbasaur] | 5 | Gift | Talk to the Interviewer at the top left.
+![][004]<br>[Charmander] | 5 | Gift | Talk to the Interviewer at the top left.
+![][007]<br>[Squirtle] | 5 | Gift | Talk to the Interviewer at the top left.
+
 [001]: ../img/pokemon/001.png
 [004]: ../img/pokemon/004.png
 [007]: ../img/pokemon/007.png
@@ -42,3 +68,8 @@ PKMN Trainer Lucas | ![][209]<br>[Snubbull]<br>Lv. 13<ul><li>Tail Whip</li><li>C
 [Squirtle]: ../../pokemons/007/
 [Stunky]: ../../pokemons/434/
 [Turtwig]: ../../pokemons/387/
+[quick-claw]: ../img/items/quick-claw.png
+[scope-lens]: ../img/items/scope-lens.png
+[vs-recorder]: ../img/items/vs-recorder.png
+[fashion-case]: ../img/items/fashion-case.png
+[town-map]: ../img/items/town-map.png

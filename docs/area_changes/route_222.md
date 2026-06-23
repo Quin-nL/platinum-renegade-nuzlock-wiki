@@ -44,6 +44,13 @@ Area                                         | Pokémon                         
 ![][super-rod]<br>Super Rod<br>Lv. 50        | ![][130]<br>[Gyarados]<br>60%   | ![][320]<br>[Wailmer]<br>30%   | ![][224]<br>[Octillery]<br>5%   | ![][321]<br>[Wailord]<br>5%  | &nbsp;                        | &nbsp;
 ![][honey]<br>Honey Tree<br>Lv. 54           | ![][114]<br>[Tangela]<br>30%    | ![][214]<br>[Heracross]<br>30% | ![][083]<br>[Farfetch'd]<br>30% | ![][143]<br>[Snorlax]<br>10% | &nbsp;                        | &nbsp;
 
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM56 | Fling | Item on ground
+
 [025]: ../img/pokemon/025.png
 [062]: ../img/pokemon/062.png
 [068]: ../img/pokemon/068.png

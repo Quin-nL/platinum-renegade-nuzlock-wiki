@@ -120,6 +120,16 @@ Area                                        | Pokémon                       | &
 
 --8<-- "includes/natures.md"
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][hard-stone] | Hard Stone | &nbsp;
+![][metal-coat] | Metal Coat | &nbsp;
+![][vs-seeker] | VS Seeker | Gift from Dawn/Lucas
+![][stone-plate] | Stone Plate | Master Trainer
+
 [004]: ../img/pokemon/004.png
 [011]: ../img/pokemon/011.png
 [014]: ../img/pokemon/014.png
@@ -204,3 +214,7 @@ Area                                        | Pokémon                       | &
 [muscle-band]: ../img/items/muscle-band.png
 [poke-radar]: ../img/items/poke-radar.png
 [sitrus-berry]: ../img/items/sitrus-berry.png
+[hard-stone]: ../img/items/hard-stone.png
+[metal-coat]: ../img/items/metal-coat.png
+[vs-seeker]: ../img/items/vs-seeker.png
+[stone-plate]: ../img/items/stone-plate.png

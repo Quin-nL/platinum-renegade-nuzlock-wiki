@@ -133,6 +133,14 @@ Area                                  | Pokémon                         | &nbsp
 
 --8<-- "includes/natures.md"
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][destiny-knot] | Destiny Knot | &nbsp;
+![][razor-claw] | Razor Claw | &nbsp;
+
 [036]: ../img/pokemon/036.png
 [044]: ../img/pokemon/044.png
 [051]: ../img/pokemon/051.png
@@ -258,3 +266,5 @@ Area                                  | Pokémon                         | &nbsp
 [sitrus-berry]: ../img/items/sitrus-berry.png
 [super-rod]: ../img/items/super-rod.png
 [wacan-berry]: ../img/items/wacan-berry.png
+[destiny-knot]: ../img/items/destiny-knot.png
+[razor-claw]: ../img/items/razor-claw.png

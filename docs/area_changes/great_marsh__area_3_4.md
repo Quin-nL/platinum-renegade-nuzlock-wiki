@@ -10,6 +10,23 @@ Area                                  | Pokémon                       | &nbsp; 
 ![][good-rod]<br>Good Rod<br>Lv. 25   | ![][129]<br>[Magikarp]<br>60% | ![][339]<br>[Barboach]<br>30%  | ![][318]<br>[Carvanha]<br>10% | &nbsp;                         | &nbsp;                          | &nbsp;
 ![][super-rod]<br>Super Rod<br>Lv. 50 | ![][130]<br>[Gyarados]<br>60% | ![][340]<br>[Whiscash]<br>30%  | ![][319]<br>[Sharpedo]<br>10% | &nbsp;                         | &nbsp;                          | &nbsp;
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][black-sludge] | Black Sludge | &nbsp;
+![][leaf-stone] | Leaf Stone | Hidden
+![][shed-shell] | Shed Shell | &nbsp;
+![][toxic-plate] | Toxic Plate | Master Trainer
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM17 | Protect | Gift from NPC
+TM36 | Sludge Bomb | Item on ground
+
 [047]: ../img/pokemon/047.png
 [102]: ../img/pokemon/102.png
 [115]: ../img/pokemon/115.png
@@ -41,3 +58,7 @@ Area                                  | Pokémon                       | &nbsp; 
 [good-rod]: ../img/items/good-rod.png
 [old-rod]: ../img/items/old-rod.png
 [super-rod]: ../img/items/super-rod.png
+[black-sludge]: ../img/items/black-sludge.png
+[leaf-stone]: ../img/items/leaf-stone.png
+[shed-shell]: ../img/items/shed-shell.png
+[toxic-plate]: ../img/items/toxic-plate.png

@@ -62,6 +62,13 @@ Area                                       | Pokémon                       | &n
 &nbsp;                                     | ![][412]<br>[Burmy]<br>10%    | &nbsp;                         | &nbsp;                        | &nbsp;                       | &nbsp;                         | &nbsp;
 ![][poke-radar]<br>Poké Radar<br>Lv. 5 - 6 | ![][228]<br>[Houndour]<br>22% | &nbsp;                         | &nbsp;                        | &nbsp;                       | &nbsp;                         | &nbsp;
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][insect-plate] | Insect Plate | Master Trainer
+
 [018]: ../img/pokemon/018.png
 [019]: ../img/pokemon/019.png
 [058]: ../img/pokemon/058.png
@@ -104,3 +111,4 @@ Area                                       | Pokémon                       | &n
 [dawn]: ../img/trainer/dawn.png
 [lucas]: ../img/trainer/lucas.png
 [poke-radar]: ../img/items/poke-radar.png
+[insect-plate]: ../img/items/insect-plate.png

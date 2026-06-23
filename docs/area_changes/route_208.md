@@ -54,6 +54,20 @@ Area                                         | Pokémon                        |
 
 --8<-- "includes/natures.md"
 
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM75 | Swords Dance | Item on ground
+TM81 | X-Scissor | Gift from Aaron
+
+## Pokémon Events
+
+Pokémon | Level | Type | Notes
+--- | --- | --- | ---
+![][243]<br>[Raikou] | 60 | Legendary | Speak to Rowan after the Distortion World events.
+
 [039]: ../img/pokemon/039.png
 [049]: ../img/pokemon/049.png
 [054]: ../img/pokemon/054.png
@@ -136,3 +150,5 @@ Area                                         | Pokémon                        |
 [scope-lens]: ../img/items/scope-lens.png
 [super-rod]: ../img/items/super-rod.png
 [wise-glasses]: ../img/items/wise-glasses.png
+[243]: ../img/pokemon/243.png
+[Raikou]: ../../pokemons/243/

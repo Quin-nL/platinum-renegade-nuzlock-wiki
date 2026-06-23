@@ -11,6 +11,31 @@ Ace Trainer ???<br>![][ace_f]   | Item | Nature | Ability | Moves
 ---                             | ---  | ---    | ---     | ---
 ![][461]<br>[Weavile]<br>Lv. 85 | None | ?      | ?       | <ul><li>Low Kick</li><li>Night Slash</li><li>Quick Attack</li><li>X-Scissor</li></ul>
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][dragon-scale] | Dragon Scale | Buyable
+![][dubious-disc] | Dubious Disc | Buyable
+![][electirizer] | Electirizer | Buyable
+![][magmarizer] | Magmarizer | Buyable
+![][prism-scale] | Prism Scale | Buyable
+![][protector] | Protector | Buyable
+![][razor-claw] | Razor Claw | Buyable
+![][razor-fang] | Razor Fang | Buyable
+![][reaper-cloth] | Reaper Cloth | Buyable
+![][up-grade] | Up-Grade | Buyable
+![][super-rod] | Super Rod | Gift from NPC
+![][icicle-plate] | Icicle Plate | Master Trainer
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM72 | Avalanche | Gift from Candice
+HM08 | Rock Climb | Gift from Candice
+
 [154]: ../img/pokemon/154.png
 [157]: ../img/pokemon/157.png
 [160]: ../img/pokemon/160.png
@@ -26,3 +51,15 @@ Ace Trainer ???<br>![][ace_f]   | Item | Nature | Ability | Moves
 [Tyranitar]: ../../pokemons/248/
 [Weavile]: ../../pokemons/461/
 [ace_f]: ../img/trainer/ace_f.png
+[dragon-scale]: ../img/items/dragon-scale.png
+[dubious-disc]: ../img/items/dubious-disc.png
+[electirizer]: ../img/items/electirizer.png
+[magmarizer]: ../img/items/magmarizer.png
+[prism-scale]: ../img/items/prism-scale.png
+[protector]: ../img/items/protector.png
+[razor-claw]: ../img/items/razor-claw.png
+[razor-fang]: ../img/items/razor-fang.png
+[reaper-cloth]: ../img/items/reaper-cloth.png
+[up-grade]: ../img/items/up-grade.png
+[super-rod]: ../img/items/super-rod.png
+[icicle-plate]: ../img/items/icicle-plate.png

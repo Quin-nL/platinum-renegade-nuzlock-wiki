@@ -37,6 +37,22 @@ Area                                         | Pokémon                     | &n
 ![][poke-radar]<br>Poké Radar<br>Lv. 27 - 30 | ![][359]<br>[Absol]<br>22%  | &nbsp;                        | &nbsp;                         | &nbsp;                       | &nbsp;                         | &nbsp;
 ![][honey]<br>Honey Tree<br>Lv. 28           | ![][190]<br>[Aipom]<br>30%  | ![][288]<br>[Vigoroth]<br>20% | ![][011]<br>[Metapod]<br>20%   | ![][014]<br>[Kakuna]<br>20%  | ![][446]<br>[Munchlax]<br>10%  | &nbsp;
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][black-glasses] | Black Glasses | &nbsp;
+![][razor-claw] | Razor Claw | &nbsp;
+![][razor-fang] | Razor Fang | &nbsp;
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM66 | Payback | Item on ground
+TM83 | Hyper Voice | Item on ground
+
 [011]: ../img/pokemon/011.png
 [014]: ../img/pokemon/014.png
 [057]: ../img/pokemon/057.png
@@ -99,3 +115,6 @@ Area                                         | Pokémon                     | &n
 [Vigoroth]: ../../pokemons/288/
 [honey]: ../img/items/honey.png
 [poke-radar]: ../img/items/poke-radar.png
+[black-glasses]: ../img/items/black-glasses.png
+[razor-claw]: ../img/items/razor-claw.png
+[razor-fang]: ../img/items/razor-fang.png

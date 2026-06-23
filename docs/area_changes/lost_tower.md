@@ -34,6 +34,28 @@ Area                        | Pokémon                      | &nbsp;            
 
 --8<-- "includes/natures.md"
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][cleanse-tag] | Cleanse Tag | &nbsp;
+![][oval-stone] | Oval Stone | &nbsp;
+![][reaper-cloth] | Reaper Cloth | &nbsp;
+![][spooky-plate] | Spooky Plate | Master Trainer
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM61 | Will-O-Wisp | Item on ground
+
+## Pokémon Events
+
+Pokémon | Level | Type | Notes
+--- | --- | --- | ---
+![][250]<br>[Ho-oh] | 70 | Legendary | After the credits, a portal will appear at the top of the Lost Tower.
+
 [035]: ../img/pokemon/035.png
 [042]: ../img/pokemon/042.png
 [077]: ../img/pokemon/077.png
@@ -79,3 +101,9 @@ Area                        | Pokémon                      | &nbsp;            
 [Skitty]: ../../pokemons/300/
 [Wailmer]: ../../pokemons/320/
 [psychic_m]: ../img/trainer/psychic_m.png
+[cleanse-tag]: ../img/items/cleanse-tag.png
+[oval-stone]: ../img/items/oval-stone.png
+[reaper-cloth]: ../img/items/reaper-cloth.png
+[spooky-plate]: ../img/items/spooky-plate.png
+[250]: ../img/pokemon/250.png
+[Ho-oh]: ../../pokemons/250/

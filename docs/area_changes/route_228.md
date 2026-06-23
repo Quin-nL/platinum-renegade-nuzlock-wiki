@@ -58,6 +58,26 @@ Area                                  | Pokémon                         | &nbsp
 
 --8<-- "includes/natures.md"
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][protector] | Protector | &nbsp;
+![][shed-shell] | Shed Shell | &nbsp;
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM37 | Sandstorm | Item on ground
+
+## Pokémon Events
+
+Pokémon | Level | Type | Notes
+--- | --- | --- | ---
+![][377]<br>[Regirock] | 60 | Legendary | Complete the Distortion World events.
+
 [028]: ../img/pokemon/028.png
 [051]: ../img/pokemon/051.png
 [057]: ../img/pokemon/057.png
@@ -142,3 +162,7 @@ Area                                  | Pokémon                         | &nbsp
 [super-rod]: ../img/items/super-rod.png
 [white-herb]: ../img/items/white-herb.png
 [wise-glasses]: ../img/items/wise-glasses.png
+[protector]: ../img/items/protector.png
+[shed-shell]: ../img/items/shed-shell.png
+[377]: ../img/pokemon/377.png
+[Regirock]: ../../pokemons/377/

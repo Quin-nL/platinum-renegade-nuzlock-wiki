@@ -23,6 +23,20 @@ Area                                         | Pokémon                        |
 ![][honey]<br>Honey Tree<br>Lv. 40           | ![][415]<br>[Combee]<br>30%    | ![][205]<br>[Forretress]<br>10% | ![][413]<br>[Wormadam]<br>10% | ![][414]<br>[Mothim]<br>10%    | ![][267]<br>[Beautifly]<br>10%  | ![][269]<br>[Dustox]<br>10%
 &nbsp;                                       | ![][214]<br>[Heracross]<br>10% | ![][416]<br>[Vespiquen]<br>10%  | &nbsp;                        | &nbsp;                         | &nbsp;                          | &nbsp;
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][fire-stone] | Fire Stone | &nbsp;
+![][rock-incense] | Rock Incense | &nbsp;
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM35 | Flamethrower | Item on ground
+
 [066]: ../img/pokemon/066.png
 [067]: ../img/pokemon/067.png
 [068]: ../img/pokemon/068.png
@@ -84,3 +98,5 @@ Area                                         | Pokémon                        |
 [old-rod]: ../img/items/old-rod.png
 [poke-radar]: ../img/items/poke-radar.png
 [super-rod]: ../img/items/super-rod.png
+[fire-stone]: ../img/items/fire-stone.png
+[rock-incense]: ../img/items/rock-incense.png

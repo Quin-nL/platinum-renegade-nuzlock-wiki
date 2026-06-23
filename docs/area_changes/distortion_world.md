@@ -28,6 +28,19 @@ Both Battles are back to back
 
 --8<-- "includes/natures.md"
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][griseous-orb] | Griseous Orb | &nbsp;
+
+## Pokémon Events
+
+Pokémon | Level | Type | Notes
+--- | --- | --- | ---
+![][487]<br>[Giratina] | 70 | Legendary | Giratina is encountered in the Distortion World as part of the story.
+
 [130]: ../img/pokemon/130.png
 [169]: ../img/pokemon/169.png
 [229]: ../img/pokemon/229.png
@@ -53,3 +66,6 @@ Both Battles are back to back
 [muscle-band]: ../img/items/muscle-band.png
 [white-herb]: ../img/items/white-herb.png
 [wise-glasses]: ../img/items/wise-glasses.png
+[griseous-orb]: ../img/items/griseous-orb.png
+[487]: ../img/pokemon/487.png
+[Giratina]: ../../pokemons/487/

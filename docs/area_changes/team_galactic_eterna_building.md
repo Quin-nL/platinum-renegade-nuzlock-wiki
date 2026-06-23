@@ -26,6 +26,28 @@ Scientist Travon                    | ![][096]<br>[Drowzee]<br>Lv. 24<ul><li>Poi
 
 --8<-- "includes/natures.md"
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][wise-glasses] | Wise Glasses | &nbsp;
+![][secret-key] | Secret Key | Item on ground
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM16 | Light Screen | Item on ground
+TM33 | Reflect | Item on ground
+TM73 | Thunder Wave | Item on ground
+
+## Pokémon Events
+
+Pokémon | Level | Type | Notes
+--- | --- | --- | ---
+![][137]<br>[Porygon] | 22 | Gift | Defeat Jupiter at the Eterna Galactic Building.
+
 [023]: ../img/pokemon/023.png
 [029]: ../img/pokemon/029.png
 [032]: ../img/pokemon/032.png
@@ -70,3 +92,7 @@ Scientist Travon                    | ![][096]<br>[Drowzee]<br>Lv. 24<ul><li>Poi
 [^1]: Only in Complete version
 [jupiter]: ../img/trainer/jupiter.png
 [sitrus-berry]: ../img/items/sitrus-berry.png
+[wise-glasses]: ../img/items/wise-glasses.png
+[secret-key]: ../img/items/secret-key.png
+[137]: ../img/pokemon/137.png
+[Porygon]: ../../pokemons/137/

@@ -37,6 +37,25 @@ Area                                  | Pokémon                       | &nbsp;
 
 --8<-- "includes/natures.md"
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][black-glasses] | Black Glasses | &nbsp;
+![][choice-specs] | Choice Specs | from NPC at Morning
+![][dragon-fang] | Dragon Fang | &nbsp;
+![][kings-rock] | King's Rock | Hidden
+![][wise-glasses] | Wise Glasses | &nbsp;
+&nbsp; | GS Ball | Gift from event
+![][draco-plate] | Draco Plate | Master Trainer
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+HM03 | Surf | Gift from NPC
+
 [015]: ../img/pokemon/015.png
 [042]: ../img/pokemon/042.png
 [054]: ../img/pokemon/054.png
@@ -74,3 +93,8 @@ Area                                  | Pokémon                       | &nbsp;
 [scope-lens]: ../img/items/scope-lens.png
 [super-rod]: ../img/items/super-rod.png
 [wise-glasses]: ../img/items/wise-glasses.png
+[black-glasses]: ../img/items/black-glasses.png
+[choice-specs]: ../img/items/choice-specs.png
+[dragon-fang]: ../img/items/dragon-fang.png
+[kings-rock]: ../img/items/kings-rock.png
+[draco-plate]: ../img/items/draco-plate.png

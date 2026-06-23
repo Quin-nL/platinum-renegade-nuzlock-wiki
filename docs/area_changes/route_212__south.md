@@ -51,6 +51,22 @@ Area                                         | Pokémon                       | 
 ![][super-rod]<br>Super Rod<br>Lv. 50        | ![][130]<br>[Gyarados]<br>60% | ![][340]<br>[Whiscash]<br>30%  | ![][224]<br>[Octillery]<br>10% | &nbsp;                       | &nbsp;                          | &nbsp;
 ![][honey]<br>Honey Tree<br>Lv. 34           | ![][421]<br>[Cherrim]<br>30%  | ![][285]<br>[Shroomish]<br>20% | ![][102]<br>[Exeggcute]<br>20% | ![][274]<br>[Nuzleaf]<br>20% | ![][114]<br>[Tangela]<br>10%    | &nbsp;
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][dawn-stone] | Dawn Stone | Hidden
+![][rose-incense] | Rose Incense | &nbsp;
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM06 | Toxic | Item on ground
+TM62 | Bug Buzz | Item on ground
+TM84 | Poison Jab | Item on ground
+
 [023]: ../img/pokemon/023.png
 [024]: ../img/pokemon/024.png
 [034]: ../img/pokemon/034.png
@@ -166,3 +182,5 @@ Area                                         | Pokémon                       | 
 [old-rod]: ../img/items/old-rod.png
 [poke-radar]: ../img/items/poke-radar.png
 [super-rod]: ../img/items/super-rod.png
+[dawn-stone]: ../img/items/dawn-stone.png
+[rose-incense]: ../img/items/rose-incense.png

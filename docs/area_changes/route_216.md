@@ -38,6 +38,21 @@ Area                                         | Pokémon                       | 
 🌙<br>Night<br>Lv. 18 - 20                    | ![][459]<br>[Snover]<br>30%   | ![][220]<br>[Swinub]<br>25% | ![][238]<br>[Smoochum]<br>20% | ![][361]<br>[Snorunt]<br>15% | ![][215]<br>[Sneasel]<br>10%
 ![][poke-radar]<br>Poké Radar<br>Lv. 18 - 20 | ![][225]<br>[Delibird]<br>22% | &nbsp;                      | &nbsp;                        | &nbsp;                       | &nbsp;
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][blue-flute] | Blue Flute | &nbsp;
+&nbsp; | Ice Stone | &nbsp;
+![][mental-herb] | Mental Herb | &nbsp;
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM13 | Ice Beam | Gift from NPC
+
 [062]: ../img/pokemon/062.png
 [068]: ../img/pokemon/068.png
 [122]: ../img/pokemon/122.png
@@ -87,3 +102,5 @@ Area                                         | Pokémon                       | 
 [Togetic]: ../../pokemons/176/
 [Vigoroth]: ../../pokemons/288/
 [poke-radar]: ../img/items/poke-radar.png
+[blue-flute]: ../img/items/blue-flute.png
+[mental-herb]: ../img/items/mental-herb.png

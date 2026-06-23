@@ -26,6 +26,26 @@ Area                                         | Pokémon                       | 
 ![][poke-radar]<br>Poké Radar<br>Lv. 18 - 19 | ![][236]<br>[Tyrogue]<br>22%  | &nbsp;                       | &nbsp;                       | &nbsp;                         | &nbsp;                        | &nbsp;
 ![][honey]<br>Honey Tree<br>Lv. 18           | ![][190]<br>[Aipom]<br>30%    | ![][287]<br>[Slakoth]<br>20% | ![][011]<br>[Metapod]<br>20% | ![][014]<br>[Kakuna]<br>20%    | ![][446]<br>[Munchlax]<br>10% | &nbsp;
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][fire-stone] | Fire Stone | &nbsp;
+![][red-flute] | Red Flute | &nbsp;
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM77 | Psych Up | Gift from NPC
+
+## Pokémon Events
+
+Pokémon | Level | Type | Notes
+--- | --- | --- | ---
+![][244]<br>[Entei] | 60 | Legendary | Speak to Rowan after the Distortion World events.
+
 [011]: ../img/pokemon/011.png
 [014]: ../img/pokemon/014.png
 [066]: ../img/pokemon/066.png
@@ -61,3 +81,7 @@ Area                                         | Pokémon                       | 
 [^1]: Only in Complete version
 [honey]: ../img/items/honey.png
 [poke-radar]: ../img/items/poke-radar.png
+[fire-stone]: ../img/items/fire-stone.png
+[red-flute]: ../img/items/red-flute.png
+[244]: ../img/pokemon/244.png
+[Entei]: ../../pokemons/244/

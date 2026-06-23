@@ -45,6 +45,14 @@ Area                                  | Pokémon                          | &nbs
 
 --8<-- "includes/natures.md"
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][reaper-cloth] | Reaper Cloth | &nbsp;
+![][thunder-stone] | Thunder Stone | Hidden
+
 [012]: ../img/pokemon/012.png
 [026]: ../img/pokemon/026.png
 [045]: ../img/pokemon/045.png
@@ -122,3 +130,5 @@ Area                                  | Pokémon                          | &nbs
 [old-rod]: ../img/items/old-rod.png
 [super-rod]: ../img/items/super-rod.png
 [wise-glasses]: ../img/items/wise-glasses.png
+[reaper-cloth]: ../img/items/reaper-cloth.png
+[thunder-stone]: ../img/items/thunder-stone.png

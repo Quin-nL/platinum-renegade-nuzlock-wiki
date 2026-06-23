@@ -38,6 +38,22 @@ Area                                  | Pokémon                         | &nbsp
 
 --8<-- "includes/natures.md"
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][metal-coat] | Metal Coat | &nbsp;
+![][thunder-stone] | Thunder Stone | &nbsp;
+![][zap-plate] | Zap Plate | Master Trainer
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM15 | Hyper Beam | Gift from NPC
+TM50 | Overheat | Gift from Flint
+
 [073]: ../img/pokemon/073.png
 [098]: ../img/pokemon/098.png
 [099]: ../img/pokemon/099.png
@@ -83,3 +99,6 @@ Area                                  | Pokémon                         | &nbsp
 [sitrus-berry]: ../img/items/sitrus-berry.png
 [super-rod]: ../img/items/super-rod.png
 [wise-glasses]: ../img/items/wise-glasses.png
+[metal-coat]: ../img/items/metal-coat.png
+[thunder-stone]: ../img/items/thunder-stone.png
+[zap-plate]: ../img/items/zap-plate.png

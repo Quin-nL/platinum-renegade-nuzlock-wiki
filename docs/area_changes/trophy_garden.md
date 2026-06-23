@@ -10,6 +10,26 @@ Area                                         | Pokémon                       | 
 &nbsp;                                       | ![][440]<br>[Happiny]<br>10%  | ![][133]<br>[Eevee]<br>10%   | &nbsp;                      | &nbsp;                         | &nbsp;                      | &nbsp;
 ![][poke-radar]<br>Poké Radar<br>Lv. 24 - 26 | ![][351]<br>[Castform]<br>22% | &nbsp;                       | &nbsp;                      | &nbsp;                         | &nbsp;                      | &nbsp;
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][lucky-egg] | Lucky Egg | &nbsp;
+![][soothe-bell] | Soothe Bell | &nbsp;
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM87 | Swagger | Gift from NPC
+
+## Pokémon Events
+
+Pokémon | Level | Type | Notes
+--- | --- | --- | ---
+![][490]<br>[Manaphy] | 1 | Legendary | After the story events at the Pokémon Mansion, you will be offered an Egg.
+
 [025]: ../img/pokemon/025.png
 [133]: ../img/pokemon/133.png
 [137]: ../img/pokemon/137.png
@@ -29,3 +49,7 @@ Area                                         | Pokémon                       | 
 [Porygon]: ../../pokemons/137/
 [Togepi]: ../../pokemons/175/
 [poke-radar]: ../img/items/poke-radar.png
+[lucky-egg]: ../img/items/lucky-egg.png
+[soothe-bell]: ../img/items/soothe-bell.png
+[490]: ../img/pokemon/490.png
+[Manaphy]: ../../pokemons/490/

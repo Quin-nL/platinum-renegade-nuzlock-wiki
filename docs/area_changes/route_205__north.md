@@ -32,6 +32,14 @@ Area                                         | Pokémon                       | 
 ![][super-rod]<br>Super Rod<br>Lv. 50        | ![][130]<br>[Gyarados]<br>65% | ![][342]<br>[Crawdaunt]<br>35% | &nbsp;                        | &nbsp;                        | &nbsp;                          | &nbsp;
 ![][honey]<br>Honey Tree<br>Lv. 16           | ![][396]<br>[Starly]<br>30%   | ![][016]<br>[Pidgey]<br>20%    | ![][163]<br>[Hoothoot]<br>20% | ![][276]<br>[Taillow]<br>20%  | ![][083]<br>[Farfetch'd]<br>10% | &nbsp;
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][destiny-knot] | Destiny Knot | &nbsp;
+![][water-stone] | Water Stone | &nbsp;
+
 [016]: ../img/pokemon/016.png
 [060]: ../img/pokemon/060.png
 [061]: ../img/pokemon/061.png
@@ -89,3 +97,5 @@ Area                                         | Pokémon                       | 
 [old-rod]: ../img/items/old-rod.png
 [poke-radar]: ../img/items/poke-radar.png
 [super-rod]: ../img/items/super-rod.png
+[destiny-knot]: ../img/items/destiny-knot.png
+[water-stone]: ../img/items/water-stone.png

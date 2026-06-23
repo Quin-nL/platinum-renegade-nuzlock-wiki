@@ -21,6 +21,13 @@ Trainer                              | 1                               | 2      
 
 --8<-- "includes/natures.md"
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][tea] | Tea | Gift from Darach
+
 [065]: ../img/pokemon/065.png
 [244]: ../img/pokemon/244.png
 [376]: ../img/pokemon/376.png
@@ -42,3 +49,4 @@ Trainer                              | 1                               | 2      
 [scope-lens]: ../img/items/scope-lens.png
 [shuca-berry]: ../img/items/shuca-berry.png
 [sitrus-berry]: ../img/items/sitrus-berry.png
+[tea]: ../img/items/tea.png

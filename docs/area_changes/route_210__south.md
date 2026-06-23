@@ -35,6 +35,22 @@ Area                                         | Pokémon                         
 ![][honey]<br>Honey Tree<br>Lv. 29           | ![][415]<br>[Combee]<br>30%     | ![][204]<br>[Pineco]<br>20%  | ![][266]<br>[Silcoon]<br>10% | ![][268]<br>[Cascoon]<br>10% | ![][413]<br>[Wormadam]<br>10% | ![][414]<br>[Mothim]<br>10%
 &nbsp;                                       | ![][214]<br>[Heracross]<br>10%  | &nbsp;                       | &nbsp;                       | &nbsp;                       | &nbsp;                        | &nbsp;
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][life-orb] | Life Orb | &nbsp;
+![][smoke-ball] | Smoke Ball | &nbsp;
+![][old-charm] | Old Charm | Gift from Cynthia
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM22 | Solar Beam | Item on ground
+TM51 | Roost | Gift from NPC
+
 [017]: ../img/pokemon/017.png
 [036]: ../img/pokemon/036.png
 [078]: ../img/pokemon/078.png
@@ -99,3 +115,6 @@ Area                                         | Pokémon                         
 [Wynaut]: ../../pokemons/360/
 [honey]: ../img/items/honey.png
 [poke-radar]: ../img/items/poke-radar.png
+[life-orb]: ../img/items/life-orb.png
+[smoke-ball]: ../img/items/smoke-ball.png
+[old-charm]: ../img/items/old-charm.png

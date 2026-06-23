@@ -9,6 +9,13 @@ Area                        | Pokémon                       | &nbsp;           
 🌙<br>Night<br>Lv. 65 - 66   | ![][042]<br>[Golbat]<br>20%   | ![][093]<br>[Haunter]<br>20% | ![][356]<br>[Dusclops]<br>10% | ![][354]<br>[Banette]<br>10% | ![][437]<br>[Bronzong]<br>10% | ![][358]<br>[Chimecho]<br>10%
 &nbsp;                      | ![][337]<br>[Lunatone]<br>10% | ![][338]<br>[Solrock]<br>10% | &nbsp;                        | &nbsp;                       | &nbsp;                        | &nbsp;
 
+
+## Pokémon Events
+
+Pokémon | Level | Type | Notes
+--- | --- | --- | ---
+![][487]<br>[Giratina] | 70 | Legendary | Giratina is encountered in the Distortion World as part of the story.
+
 [042]: ../img/pokemon/042.png
 [093]: ../img/pokemon/093.png
 [337]: ../img/pokemon/337.png
@@ -25,3 +32,5 @@ Area                        | Pokémon                       | &nbsp;           
 [Haunter]: ../../pokemons/093/
 [Lunatone]: ../../pokemons/337/
 [Solrock]: ../../pokemons/338/
+[487]: ../img/pokemon/487.png
+[Giratina]: ../../pokemons/487/

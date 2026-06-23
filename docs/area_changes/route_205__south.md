@@ -41,6 +41,20 @@ Area                                         | Pokémon                       | 
 ![][super-rod]<br>Super Rod<br>Lv. 50        | ![][130]<br>[Gyarados]<br>60% | ![][091]<br>[Cloyster]<br>30%  | ![][171]<br>[Lanturn]<br>10%  | &nbsp;                         | &nbsp;
 ![][honey]<br>Honey Tree<br>Lv. 12           | ![][415]<br>[Combee]<br>30%   | ![][412]<br>[Burmy]<br>20%     | ![][204]<br>[Pineco]<br>20%   | ![][265]<br>[Wurmple]<br>20%   | ![][214]<br>[Heracross]<br>10%
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][destiny-knot] | Destiny Knot | &nbsp;
+![][water-stone] | Water Stone | &nbsp;
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM08 | Bulk Up | Item on ground
+
 [001]: ../img/pokemon/001.png
 [002]: ../img/pokemon/002.png
 [003]: ../img/pokemon/003.png
@@ -144,3 +158,5 @@ Area                                         | Pokémon                       | 
 [old-rod]: ../img/items/old-rod.png
 [poke-radar]: ../img/items/poke-radar.png
 [super-rod]: ../img/items/super-rod.png
+[destiny-knot]: ../img/items/destiny-knot.png
+[water-stone]: ../img/items/water-stone.png

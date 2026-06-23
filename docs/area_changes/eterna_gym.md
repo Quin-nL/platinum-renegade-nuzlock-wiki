@@ -24,6 +24,13 @@ Aroma Lady Angela                  | ![][315]<br>[Roselia]<br>Lv. 23<ul><li>Slee
 
 --8<-- "includes/natures.md"
 
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM86 | Grass Knot | Gift from Gardenia
+
 [002]: ../img/pokemon/002.png
 [044]: ../img/pokemon/044.png
 [070]: ../img/pokemon/070.png

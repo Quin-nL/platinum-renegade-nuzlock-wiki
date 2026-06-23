@@ -40,6 +40,30 @@ Area                                         | Pokémon                        |
 ![][super-rod]<br>Super Rod<br>Lv. 50        | ![][130]<br>[Gyarados]<br>60%  | ![][224]<br>[Octillery]<br>30% | ![][321]<br>[Wailord]<br>10%   | &nbsp;                       | &nbsp;                          | &nbsp;
 ![][honey]<br>Honey Tree<br>Lv. 33           | ![][397]<br>[Staravia]<br>30%  | ![][017]<br>[Pidgeotto]<br>20% | ![][164]<br>[Noctowl]<br>20%   | ![][277]<br>[Swellow]<br>20% | ![][083]<br>[Farfetch'd]<br>10% | &nbsp;
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][electirizer] | Electirizer | &nbsp;
+![][magmarizer] | Magmarizer | &nbsp;
+![][water-stone] | Water Stone | &nbsp;
+![][suite-key] | Suite Key | Item on ground (hidden)
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM05 | Roar | Item on ground
+TM41 | Torment | Item on ground
+TM92 | Trick Room | Gift from NPC
+
+## Pokémon Events
+
+Pokémon | Level | Type | Notes
+--- | --- | --- | ---
+![][245]<br>[Suicune] | 60 | Legendary | Speak to Rowan after the Distortion World events.
+
 [017]: ../img/pokemon/017.png
 [053]: ../img/pokemon/053.png
 [055]: ../img/pokemon/055.png
@@ -113,3 +137,9 @@ Area                                         | Pokémon                        |
 [old-rod]: ../img/items/old-rod.png
 [poke-radar]: ../img/items/poke-radar.png
 [super-rod]: ../img/items/super-rod.png
+[electirizer]: ../img/items/electirizer.png
+[magmarizer]: ../img/items/magmarizer.png
+[water-stone]: ../img/items/water-stone.png
+[suite-key]: ../img/items/suite-key.png
+[245]: ../img/pokemon/245.png
+[Suicune]: ../../pokemons/245/

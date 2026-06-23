@@ -10,6 +10,21 @@ Area                                  | Pokémon                       | &nbsp; 
 ![][good-rod]<br>Good Rod<br>Lv. 25   | ![][129]<br>[Magikarp]<br>65% | ![][339]<br>[Barboach]<br>35% | &nbsp;                      | &nbsp;                       | &nbsp;                         | &nbsp;
 ![][super-rod]<br>Super Rod<br>Lv. 50 | ![][130]<br>[Gyarados]<br>65% | ![][340]<br>[Whiscash]<br>35% | &nbsp;                      | &nbsp;                       | &nbsp;                         | &nbsp;
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][expert-belt] | Expert Belt | &nbsp;
+![][luck-incense] | Luck Incense | &nbsp;
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM39 | Rock Tomb | Item on ground
+TM71 | Stone Edge | Item on ground
+
 [027]: ../img/pokemon/027.png
 [041]: ../img/pokemon/041.png
 [054]: ../img/pokemon/054.png
@@ -35,3 +50,5 @@ Area                                  | Pokémon                       | &nbsp; 
 [good-rod]: ../img/items/good-rod.png
 [old-rod]: ../img/items/old-rod.png
 [super-rod]: ../img/items/super-rod.png
+[expert-belt]: ../img/items/expert-belt.png
+[luck-incense]: ../img/items/luck-incense.png

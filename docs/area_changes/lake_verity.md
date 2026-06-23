@@ -39,6 +39,19 @@ Area                                       | Pokémon                        | &
 
 --8<-- "includes/natures.md"
 
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM38 | Fire Blast | Item on ground
+
+## Pokémon Events
+
+Pokémon | Level | Type | Notes
+--- | --- | --- | ---
+![][481]<br>[Mesprit] | 60 | Legendary | Speak to Rowan after the Distortion World events.
+
 [012]: ../img/pokemon/012.png
 [015]: ../img/pokemon/015.png
 [030]: ../img/pokemon/030.png
@@ -98,3 +111,5 @@ Area                                       | Pokémon                        | &
 [sitrus-berry]: ../img/items/sitrus-berry.png
 [super-rod]: ../img/items/super-rod.png
 [wise-glasses]: ../img/items/wise-glasses.png
+[481]: ../img/pokemon/481.png
+[Mesprit]: ../../pokemons/481/

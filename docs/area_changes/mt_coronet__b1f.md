@@ -13,6 +13,34 @@ Area                                  | Pokémon                      | &nbsp;  
 ![][good-rod]<br>Good Rod<br>Lv. 25   | ![][349]<br>[Feebas]<br>100% | &nbsp;                       | &nbsp;                        | &nbsp;                        | &nbsp;                        | &nbsp;
 ![][super-rod]<br>Super Rod<br>Lv. 50 | ![][349]<br>[Feebas]<br>100% | &nbsp;                       | &nbsp;                        | &nbsp;                        | &nbsp;                        | &nbsp;
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][adamant-orb] | Adamant Orb | &nbsp;
+![][black-flute] | Black Flute | &nbsp;
+![][bright-powder] | Bright Powder | &nbsp;
+![][dawn-stone] | Dawn Stone | &nbsp;
+![][lustrous-orb] | Lustrous Orb | &nbsp;
+![][moon-stone] | Moon Stone | Hidden
+![][prism-scale] | Prism Scale | &nbsp;
+![][soft-sand] | Soft Sand | &nbsp;
+![][sun-stone] | Sun Stone | Hidden
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM02 | Dragon Claw | Item on ground
+TM69 | Rock Polish | Item on ground
+
+## Pokémon Events
+
+Pokémon | Level | Type | Notes
+--- | --- | --- | ---
+![][382]<br>[Kyogre] | 70 | Legendary | After the credits, a portal will appear in the basement of Mt. Coronet.
+
 [035]: ../img/pokemon/035.png
 [041]: ../img/pokemon/041.png
 [074]: ../img/pokemon/074.png
@@ -42,3 +70,14 @@ Area                                  | Pokémon                      | &nbsp;  
 [good-rod]: ../img/items/good-rod.png
 [old-rod]: ../img/items/old-rod.png
 [super-rod]: ../img/items/super-rod.png
+[adamant-orb]: ../img/items/adamant-orb.png
+[black-flute]: ../img/items/black-flute.png
+[bright-powder]: ../img/items/bright-powder.png
+[dawn-stone]: ../img/items/dawn-stone.png
+[lustrous-orb]: ../img/items/lustrous-orb.png
+[moon-stone]: ../img/items/moon-stone.png
+[prism-scale]: ../img/items/prism-scale.png
+[soft-sand]: ../img/items/soft-sand.png
+[sun-stone]: ../img/items/sun-stone.png
+[382]: ../img/pokemon/382.png
+[Kyogre]: ../../pokemons/382/

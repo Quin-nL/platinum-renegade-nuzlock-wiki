@@ -54,6 +54,13 @@ Area                                  | Pokémon                       | &nbsp; 
 
 --8<-- "includes/natures.md"
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][water-stone] | Water Stone | Hidden
+
 [036]: ../img/pokemon/036.png
 [040]: ../img/pokemon/040.png
 [055]: ../img/pokemon/055.png
@@ -136,3 +143,4 @@ Area                                  | Pokémon                       | &nbsp; 
 [old-rod]: ../img/items/old-rod.png
 [super-rod]: ../img/items/super-rod.png
 [white-herb]: ../img/items/white-herb.png
+[water-stone]: ../img/items/water-stone.png

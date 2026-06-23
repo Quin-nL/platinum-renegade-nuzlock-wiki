@@ -63,6 +63,13 @@ Area                                  | Pokémon                         | &nbsp
 
 --8<-- "includes/natures.md"
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][charcoal] | Charcoal | &nbsp;
+
 [031]: ../img/pokemon/031.png
 [045]: ../img/pokemon/045.png
 [053]: ../img/pokemon/053.png
@@ -145,3 +152,4 @@ Area                                  | Pokémon                         | &nbsp
 [sitrus-berry]: ../img/items/sitrus-berry.png
 [super-rod]: ../img/items/super-rod.png
 [wide-lens]: ../img/items/wide-lens.png
+[charcoal]: ../img/items/charcoal.png

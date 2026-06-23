@@ -59,6 +59,15 @@ Trainer                             | 1                              | 2        
 
 --8<-- "includes/natures.md"
 
+
+## Pokémon Events
+
+Pokémon | Level | Type | Notes
+--- | --- | --- | ---
+![][483]<br>[Dialga] | 70 | Legendary | After the credits, talk to the Celestic elder in the big house in Celestic Town.
+![][484]<br>[Palkia] | 70 | Legendary | After the credits, talk to the Celestic elder in the big house in Celestic Town.
+![][493]<br>[Arceus] | 80 | Legendary | After the credits, talk to the old woman in the 'Foreign Building' in Hearthome City to make the Type Master trainers appear.
+
 [042]: ../img/pokemon/042.png
 [049]: ../img/pokemon/049.png
 [053]: ../img/pokemon/053.png
@@ -123,3 +132,9 @@ Trainer                             | 1                              | 2        
 [muscle-band]: ../img/items/muscle-band.png
 [sitrus-berry]: ../img/items/sitrus-berry.png
 [wise-glasses]: ../img/items/wise-glasses.png
+[483]: ../img/pokemon/483.png
+[Dialga]: ../../pokemons/483/
+[484]: ../img/pokemon/484.png
+[Palkia]: ../../pokemons/484/
+[493]: ../img/pokemon/493.png
+[Arceus]: ../../pokemons/493/

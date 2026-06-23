@@ -21,6 +21,13 @@ Area                                         | Pokémon                        |
 ![][good-rod]<br>Good Rod<br>Lv. 25          | ![][129]<br>[Magikarp]<br>100% | &nbsp;                       | &nbsp;                        | &nbsp;                       | &nbsp;                        | &nbsp;
 ![][super-rod]<br>Super Rod<br>Lv. 50        | ![][130]<br>[Gyarados]<br>100% | &nbsp;                       | &nbsp;                        | &nbsp;                       | &nbsp;                        | &nbsp;
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][dread-plate] | Dread Plate | Master Trainer
+
 [055]: ../img/pokemon/055.png
 [129]: ../img/pokemon/129.png
 [130]: ../img/pokemon/130.png
@@ -48,3 +55,4 @@ Area                                         | Pokémon                        |
 [old-rod]: ../img/items/old-rod.png
 [poke-radar]: ../img/items/poke-radar.png
 [super-rod]: ../img/items/super-rod.png
+[dread-plate]: ../img/items/dread-plate.png

@@ -70,6 +70,25 @@ Area                                  | Pokémon                        | &nbsp;
 
 --8<-- "includes/natures.md"
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][blue-scarf] | Blue Scarf | &nbsp;
+![][green-scarf] | Green Scarf | &nbsp;
+![][macho-brace] | Macho Brace | &nbsp;
+![][mystic-water] | Mystic Water | &nbsp;
+![][pink-scarf] | Pink Scarf | &nbsp;
+![][red-scarf] | Red Scarf | &nbsp;
+![][yellow-scarf] | Yellow Scarf | &nbsp;
+
+## Pokémon Events
+
+Pokémon | Level | Type | Notes
+--- | --- | --- | ---
+![][131]<br>[Lapras] | 35 | Gift | In one of the houses is an old lady. Agree to listen to her story.
+
 [034]: ../img/pokemon/034.png
 [059]: ../img/pokemon/059.png
 [060]: ../img/pokemon/060.png
@@ -123,3 +142,12 @@ Area                                  | Pokémon                        | &nbsp;
 [scientist]: ../img/trainer/scientist.png
 [sitrus-berry]: ../img/items/sitrus-berry.png
 [super-rod]: ../img/items/super-rod.png
+[blue-scarf]: ../img/items/blue-scarf.png
+[green-scarf]: ../img/items/green-scarf.png
+[macho-brace]: ../img/items/macho-brace.png
+[mystic-water]: ../img/items/mystic-water.png
+[pink-scarf]: ../img/items/pink-scarf.png
+[red-scarf]: ../img/items/red-scarf.png
+[yellow-scarf]: ../img/items/yellow-scarf.png
+[131]: ../img/pokemon/131.png
+[Lapras]: ../../pokemons/131/

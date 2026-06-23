@@ -44,6 +44,27 @@ Area                                         | Pokémon                       | 
 ![][super-rod]<br>Super Rod<br>Lv. 50        | ![][130]<br>[Gyarados]<br>65% | ![][119]<br>[Seaking]<br>35%   | &nbsp;                       | &nbsp;                       | &nbsp;                          | &nbsp;
 ![][honey]<br>Honey Tree<br>Lv. 27           | ![][397]<br>[Staravia]<br>30% | ![][017]<br>[Pidgeotto]<br>20% | ![][164]<br>[Noctowl]<br>20% | ![][277]<br>[Swellow]<br>20% | ![][083]<br>[Farfetch'd]<br>10% | &nbsp;
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][twisted-spoon] | Twisted Spoon | &nbsp;
+![][good-rod] | Good Rod | Gift from NPC
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM19 | Giga Drain | Item on ground
+TM47 | Steel Wing | Item on ground
+
+## Pokémon Events
+
+Pokémon | Level | Type | Notes
+--- | --- | --- | ---
+![][442]<br>[Spiritomb] | 30 | Encounter | Get the Odd Keystone from a man on Route 208, hidden in Twinleaf Town or from the Underground.
+
 [017]: ../img/pokemon/017.png
 [022]: ../img/pokemon/022.png
 [025]: ../img/pokemon/025.png
@@ -163,3 +184,6 @@ Area                                         | Pokémon                       | 
 [old-rod]: ../img/items/old-rod.png
 [poke-radar]: ../img/items/poke-radar.png
 [super-rod]: ../img/items/super-rod.png
+[twisted-spoon]: ../img/items/twisted-spoon.png
+[442]: ../img/pokemon/442.png
+[Spiritomb]: ../../pokemons/442/

@@ -52,6 +52,14 @@ Area                                  | Pokémon                       | &nbsp; 
 
 --8<-- "includes/natures.md"
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][lagging-tail] | Lagging Tail | &nbsp;
+![][flame-plate] | Flame Plate | Master Trainer
+
 [020]: ../img/pokemon/020.png
 [022]: ../img/pokemon/022.png
 [024]: ../img/pokemon/024.png
@@ -129,3 +137,5 @@ Area                                  | Pokémon                       | &nbsp; 
 [sitrus-berry]: ../img/items/sitrus-berry.png
 [super-rod]: ../img/items/super-rod.png
 [white-herb]: ../img/items/white-herb.png
+[lagging-tail]: ../img/items/lagging-tail.png
+[flame-plate]: ../img/items/flame-plate.png

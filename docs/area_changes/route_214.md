@@ -39,6 +39,16 @@ Area                                         | Pokémon                       | 
 ![][super-rod]<br>Super Rod<br>Lv. 50        | ![][130]<br>[Gyarados]<br>65% | ![][119]<br>[Seaking]<br>35%  | &nbsp;                          | &nbsp;                        | &nbsp;                        | &nbsp;
 ![][honey]<br>Honey Tree<br>Lv. 30           | ![][190]<br>[Aipom]<br>30%    | ![][288]<br>[Vigoroth]<br>20% | ![][012]<br>[Butterfree]<br>20% | ![][015]<br>[Beedrill]<br>20% | ![][446]<br>[Munchlax]<br>10% | &nbsp;
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][big-root] | Big Root | &nbsp;
+![][choice-band] | Choice Band | &nbsp;
+![][heat-rock] | Heat Rock | &nbsp;
+![][razor-fang] | Razor Fang | Hidden
+
 [012]: ../img/pokemon/012.png
 [015]: ../img/pokemon/015.png
 [051]: ../img/pokemon/051.png
@@ -124,3 +134,7 @@ Area                                         | Pokémon                       | 
 [old-rod]: ../img/items/old-rod.png
 [poke-radar]: ../img/items/poke-radar.png
 [super-rod]: ../img/items/super-rod.png
+[big-root]: ../img/items/big-root.png
+[choice-band]: ../img/items/choice-band.png
+[heat-rock]: ../img/items/heat-rock.png
+[razor-fang]: ../img/items/razor-fang.png

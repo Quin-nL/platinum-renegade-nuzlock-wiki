@@ -35,6 +35,28 @@ Ace Trainer Clarice                  | ![][317]<br>[Swalot]<br>Lv. 64<ul><li>Gas
 
 --8<-- "includes/natures.md"
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][dragon-scale] | Dragon Scale | &nbsp;
+![][dusk-stone] | Dusk Stone | &nbsp;
+![][leftovers] | Leftovers | &nbsp;
+![][razor-claw] | Razor Claw | &nbsp;
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM68 | Giga Impact | Item on ground
+
+## Pokémon Events
+
+Pokémon | Level | Type | Notes
+--- | --- | --- | ---
+![][146]<br>[Moltres] | 60 | Legendary | Speak to Rowan after the Distortion World events.
+
 [015]: ../img/pokemon/015.png
 [031]: ../img/pokemon/031.png
 [038]: ../img/pokemon/038.png
@@ -139,3 +161,9 @@ Ace Trainer Clarice                  | ![][317]<br>[Swalot]<br>Lv. 64<ul><li>Gas
 [marley]: ../img/trainer/marley.png
 [petaya-berry]: ../img/items/petaya-berry.png
 [sitrus-berry]: ../img/items/sitrus-berry.png
+[dragon-scale]: ../img/items/dragon-scale.png
+[dusk-stone]: ../img/items/dusk-stone.png
+[leftovers]: ../img/items/leftovers.png
+[razor-claw]: ../img/items/razor-claw.png
+[146]: ../img/pokemon/146.png
+[Moltres]: ../../pokemons/146/

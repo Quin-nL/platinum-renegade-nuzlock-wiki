@@ -39,6 +39,26 @@ Area                                         | Pokémon                        |
 
 --8<-- "includes/natures.md"
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][leaf-stone] | Leaf Stone | &nbsp;
+![][silver-powder] | Silver Powder | &nbsp;
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM27 | Return | Gift from Cheryl
+
+## Pokémon Events
+
+Pokémon | Level | Type | Notes
+--- | --- | --- | ---
+![][251]<br>[Celebi] | 40 | Legendary | Check the shrine in Celestic Town to get the GS Ball.
+
 [015]: ../img/pokemon/015.png
 [046]: ../img/pokemon/046.png
 [048]: ../img/pokemon/048.png
@@ -101,3 +121,7 @@ Area                                         | Pokémon                        |
 [cheryl]: ../img/trainer/cheryl.png
 [poke-radar]: ../img/items/poke-radar.png
 [sitrus-berry]: ../img/items/sitrus-berry.png
+[leaf-stone]: ../img/items/leaf-stone.png
+[silver-powder]: ../img/items/silver-powder.png
+[251]: ../img/pokemon/251.png
+[Celebi]: ../../pokemons/251/

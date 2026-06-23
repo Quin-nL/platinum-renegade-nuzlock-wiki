@@ -32,6 +32,13 @@ Area                                       | Pokémon                       | &n
 ![][good-rod]<br>Good Rod<br>Lv. 25        | ![][129]<br>[Magikarp]<br>60% | ![][118]<br>[Goldeen]<br>30%   | ![][341]<br>[Corphish]<br>10%   | &nbsp;                     | &nbsp;                        | &nbsp;
 ![][super-rod]<br>Super Rod<br>Lv. 50      | ![][130]<br>[Gyarados]<br>60% | ![][119]<br>[Seaking]<br>30%   | ![][342]<br>[Crawdaunt]<br>10%  | &nbsp;                     | &nbsp;                        | &nbsp;
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][sea-incense] | Sea Incense | &nbsp;
+
 [010]: ../img/pokemon/010.png
 [013]: ../img/pokemon/013.png
 [016]: ../img/pokemon/016.png
@@ -92,3 +99,4 @@ Area                                       | Pokémon                       | &n
 [old-rod]: ../img/items/old-rod.png
 [poke-radar]: ../img/items/poke-radar.png
 [super-rod]: ../img/items/super-rod.png
+[sea-incense]: ../img/items/sea-incense.png

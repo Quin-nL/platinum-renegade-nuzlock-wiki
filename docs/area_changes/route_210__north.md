@@ -144,6 +144,24 @@ Area                                         | Pokémon                       | 
 
 --8<-- "includes/natures.md"
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][shiny-stone] | Shiny Stone | Hidden
+![][smoke-ball] | Smoke Ball | &nbsp;
+![][wave-incense] | Wave Incense | &nbsp;
+![][yellow-flute] | Yellow Flute | &nbsp;
+![][old-charm] | Old Charm | Gift from Cynthia
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM22 | Solar Beam | Item on ground
+TM88 | Hurricane | Item on ground
+
 [017]: ../img/pokemon/017.png
 [018]: ../img/pokemon/018.png
 [022]: ../img/pokemon/022.png
@@ -299,3 +317,8 @@ Area                                         | Pokémon                       | 
 [sitrus-berry]: ../img/items/sitrus-berry.png
 [super-rod]: ../img/items/super-rod.png
 [wise-glasses]: ../img/items/wise-glasses.png
+[shiny-stone]: ../img/items/shiny-stone.png
+[smoke-ball]: ../img/items/smoke-ball.png
+[wave-incense]: ../img/items/wave-incense.png
+[yellow-flute]: ../img/items/yellow-flute.png
+[old-charm]: ../img/items/old-charm.png

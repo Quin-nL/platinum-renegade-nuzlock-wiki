@@ -38,6 +38,26 @@ Area                                         | Pokémon                        |
 
 --8<-- "includes/natures.md"
 
+
+## Items
+
+Item | Name | Obtained
+--- | --- | ---
+![][magnet] | Magnet | &nbsp;
+
+## TMs & HMs
+
+TM | Name | Obtained
+--- | --- | ---
+TM24 | Thunderbolt | Item on ground
+TM34 | Shock Wave | Item on ground
+
+## Pokémon Events
+
+Pokémon | Level | Type | Notes
+--- | --- | --- | ---
+![][145]<br>[Zapdos] | 60 | Legendary | Speak to Rowan after the Distortion World events.
+
 [010]: ../img/pokemon/010.png
 [011]: ../img/pokemon/011.png
 [013]: ../img/pokemon/013.png
@@ -116,3 +136,6 @@ Area                                         | Pokémon                        |
 [poke-radar]: ../img/items/poke-radar.png
 [sitrus-berry]: ../img/items/sitrus-berry.png
 [super-rod]: ../img/items/super-rod.png
+[magnet]: ../img/items/magnet.png
+[145]: ../img/pokemon/145.png
+[Zapdos]: ../../pokemons/145/
