@@ -527,125 +527,94 @@ nav:
             - 492 - Shaymin: pokemons/492.md
             - 493 - Arceus: pokemons/493.md
     - Area Changes:
-        - General Changes: area_changes/general_changes.md
-        - Twinleaf Town: area_changes/twinleaf_town.md
-        - Route 201: area_changes/route_201.md
-        - Lake Verity: area_changes/lake_verity.md
-        - Route 202: area_changes/route_202.md
-        - Jubilife City Trainer School: area_changes/jubilife_city_trainer_school.md
-        - Route 204 ~ South: area_changes/route_204__south.md
-        - Ravaged Path: area_changes/ravaged_path.md
-        - Route 203: area_changes/route_203.md
-        - Oreburgh Gate: area_changes/oreburgh_gate.md
-        - Oreburgh City: area_changes/oreburgh_city.md
-        - Oreburgh Mine: area_changes/oreburgh_mine.md
-        - 💪Oreburgh Gym: area_changes/oreburgh_gym.md
-        - Jubilife City: area_changes/jubilife_city.md
-        - Route 204 ~ North: area_changes/route_204__north.md
-        - Floaroma Town: area_changes/floaroma_town.md
-        - Floaroma Meadow: area_changes/floaroma_meadow.md
-        - Valley Windworks: area_changes/valley_windworks.md
-        - Route 205 ~ South: area_changes/route_205__south.md
-        - Eterna Forest: area_changes/eterna_forest.md
-        - Eterna Forest (Outside): area_changes/eterna_forest_(outside).md
-        - Old Chateau (All Rooms): area_changes/old_chateau_(all_rooms).md
-        - Route 205 ~ North: area_changes/route_205__north.md
-        - Eterna City: area_changes/eterna_city.md
-        - Route 211 ~ West: area_changes/route_211__west.md
-        - Mt. Coronet ~ Route 211 Entrance: area_changes/mt_coronet__route_211_entrance.md
-        - Mt. Coronet ~ Tunnel to Route 211 Entrance: area_changes/mt_coronet__tunnel_to_route_211_entrance.md
-        - Mt. Coronet ~ B1F: area_changes/mt_coronet__b1f.md
-        - Mt. Coronet ~ Route 216 Entrance: area_changes/mt_coronet__route_216_entrance.md
-        - Route 216: area_changes/route_216.md
-        - Route 211 ~ East: area_changes/route_211__east.md
-        - Route 206: area_changes/route_206.md
-        - Wayward Cave: area_changes/wayward_cave.md
-        - Mt. Coronet ~ Route 207 Entrance: area_changes/mt_coronet__route_207_entrance.md
-        - Route 207: area_changes/route_207.md
-        - 💪Eterna Gym: area_changes/eterna_gym.md
-        - Team Galactic Eterna Building: area_changes/team_galactic_eterna_building.md
-        - Route 208: area_changes/route_208.md
-        - 💪Hearthome Gym: area_changes/hearthome_gym.md
-        - Route 212 ~ North: area_changes/route_212__north.md
-        - Trophy Garden: area_changes/trophy_garden.md
-        - Route 209: area_changes/route_209.md
-        - Lost Tower: area_changes/lost_tower.md
-        - Solaceon Ruins: area_changes/solaceon_ruins.md
-        - Route 210 ~ South: area_changes/route_210__south.md
-        - Route 215: area_changes/route_215.md
-        - 💪Veilstone Gym: area_changes/veilstone_gym.md
-        - Veilstone City: area_changes/veilstone_city.md
-        - Route 214: area_changes/route_214.md
-        - Maniac Tunnel: area_changes/maniac_tunnel.md
-        - Seven Stars Restaurant: area_changes/seven_stars_restaurant.md
-        - Valor Lakefront: area_changes/valor_lakefront.md
-        - Route 213: area_changes/route_213.md
-        - Route 212 ~ South: area_changes/route_212__south.md
-        - Pastoria City: area_changes/pastoria_city.md
-        - 💪Pastoria Gym: area_changes/pastoria_gym.md
-        - Great Marsh ~ Area 1/2: area_changes/great_marsh__area_1_2.md
-        - Great Marsh ~ Area 3/4: area_changes/great_marsh__area_3_4.md
-        - Great Marsh ~ Area 5/6: area_changes/great_marsh__area_5_6.md
-        - Route 210 ~ North: area_changes/route_210__north.md
-        - Celestic Town: area_changes/celestic_town.md
-        - Route 218: area_changes/route_218.md
-        - Fuego Ironworks: area_changes/fuego_ironworks.md
-        - Route 219: area_changes/route_219.md
-        - Route 220: area_changes/route_220.md
-        - Route 221: area_changes/route_221.md
-        - Pal Park: area_changes/pal_park.md
-        - Canalave City: area_changes/canalave_city.md
-        - Iron Island: area_changes/iron_island.md
-        - 💪Canalave Gym: area_changes/canalave_gym.md
-        - Lake Valor: area_changes/lake_valor.md
-        - Route 217: area_changes/route_217.md
-        - Acuity Lakefront: area_changes/acuity_lakefront.md
-        - Snowpoint City: area_changes/snowpoint_city.md
-        - Snowpoint Temple: area_changes/snowpoint_temple.md
-        - Lake Acuity: area_changes/lake_acuity.md
-        - 💪Snowpoint Gym: area_changes/snowpoint_gym.md
-        - Galactic HQ: area_changes/galactic_hq.md
-        - Mt. Coronet ~ 2F: area_changes/mt_coronet__2f.md
-        - Mt. Coronet ~ 3F: area_changes/mt_coronet__3f.md
-        - Mt. Coronet ~ Snow Area: area_changes/mt_coronet__snow_area.md
-        - Mt. Coronet ~ 4F: area_changes/mt_coronet__4f.md
-        - Mt. Coronet ~ Summit: area_changes/mt_coronet__summit.md
-        - Mt. Coronet ~ 5F: area_changes/mt_coronet__5f.md
-        - Mt. Coronet ~ 6F: area_changes/mt_coronet__6f.md
-        - Mt. Coronet ~ 7F: area_changes/mt_coronet__7f.md
-        - Spear Pillar: area_changes/spear_pillar.md
-        - Distortion World: area_changes/distortion_world.md
-        - Sendoff Spring: area_changes/sendoff_spring.md
-        - Turnback Cave: area_changes/turnback_cave.md
-        - Route 222: area_changes/route_222.md
-        - Sunyshore City: area_changes/sunyshore_city.md
-        - 💪Sunyshore Gym: area_changes/sunyshore_gym.md
-        - Route 223: area_changes/route_223.md
-        - Victory Road: area_changes/victory_road.md
-        - Victory Road ~ East: area_changes/victory_road__east.md
-        - Victory Road ~ 1F: area_changes/victory_road__1f.md
-        - Victory Road ~ 2F: area_changes/victory_road__2f.md
-        - Victory Road ~ B1F: area_changes/victory_road__b1f.md
-        - Victory Road ~ 1F Back 1: area_changes/victory_road__1f_back_1.md
-        - Victory Road ~ 1F Back 2: area_changes/victory_road__1f_back_2.md
-        - Victory Road ~ 1F Back 3: area_changes/victory_road__1f_back_3.md
-        - Route 224: area_changes/route_224.md
-        - 🥇Pokémon League: area_changes/pokemon_league.md
-        - Fight Area: area_changes/fight_area.md
-        - Route 225: area_changes/route_225.md
-        - Route 226: area_changes/route_226.md
-        - Route 227: area_changes/route_227.md
-        - Route 228: area_changes/route_228.md
-        - Route 229: area_changes/route_229.md
-        - Resort Area: area_changes/resort_area.md
-        - Route 230: area_changes/route_230.md
-        - Stark Mountain ~ Outside: area_changes/stark_mountain__outside.md
-        - Stark Mountain ~ Entrance: area_changes/stark_mountain__entrance.md
-        - Stark Mountain ~ Interior: area_changes/stark_mountain__interior.md
-        - Battleground: area_changes/battleground.md
-        - Battle Marathon Only: area_changes/battle_marathon_only.md
-        - Pokémon Center: area_changes/pokemon_center.md
-    - Item Changes: item_changes.md
+        - Route 201: trainer_changes/route_201.md
+        - Route 202: trainer_changes/route_202.md
+        - Jubilife City Trainer School: trainer_changes/jubilife_city_trainer_school.md
+        - Route 204 ~ South: trainer_changes/route_204__south.md
+        - Route 203: trainer_changes/route_203.md
+        - Oreburgh Gate: trainer_changes/oreburgh_gate.md
+        - Oreburgh City: trainer_changes/oreburgh_city.md
+        - Oreburgh Mine: trainer_changes/oreburgh_mine.md
+        - 💪Oreburgh Gym: trainer_changes/oreburgh_gym.md
+        - Jubilife City: trainer_changes/jubilife_city.md
+        - Route 204 ~ North: trainer_changes/route_204__north.md
+        - Floaroma Town: trainer_changes/floaroma_town.md
+        - Floaroma Meadow: trainer_changes/floaroma_meadow.md
+        - Valley Windworks: trainer_changes/valley_windworks.md
+        - Route 205 ~ South: trainer_changes/route_205__south.md
+        - Eterna Forest: trainer_changes/eterna_forest.md
+        - Route 205 ~ North: trainer_changes/route_205__north.md
+        - Route 211 ~ West: trainer_changes/route_211__west.md
+        - Route 211 ~ East: trainer_changes/route_211__east.md
+        - Route 216: trainer_changes/route_216.md
+        - Route 206: trainer_changes/route_206.md
+        - 💪Eterna Gym: trainer_changes/eterna_gym.md
+        - Team Galactic Eterna Building: trainer_changes/team_galactic_eterna_building.md
+        - Route 207: trainer_changes/route_207.md
+        - Wayward Cave: trainer_changes/wayward_cave.md
+        - Route 208: trainer_changes/route_208.md
+        - 💪Hearthome Gym: trainer_changes/hearthome_gym.md
+        - Route 212 ~ North: trainer_changes/route_212__north.md
+        - Route 209: trainer_changes/route_209.md
+        - Lost Tower: trainer_changes/lost_tower.md
+        - Solaceon Ruins: trainer_changes/solaceon_ruins.md
+        - Route 210 ~ South: trainer_changes/route_210__south.md
+        - Route 215: trainer_changes/route_215.md
+        - 💪Veilstone Gym: trainer_changes/veilstone_gym.md
+        - Veilstone City: trainer_changes/veilstone_city.md
+        - Route 214: trainer_changes/route_214.md
+        - Seven Stars Restaurant: trainer_changes/seven_stars_restaurant.md
+        - Route 213: trainer_changes/route_213.md
+        - Route 212 ~ South: trainer_changes/route_212__south.md
+        - Pastoria City: trainer_changes/pastoria_city.md
+        - 💪Pastoria Gym: trainer_changes/pastoria_gym.md
+        - Route 210 ~ North: trainer_changes/route_210__north.md
+        - Celestic Town: trainer_changes/celestic_town.md
+        - Route 218: trainer_changes/route_218.md
+        - Fuego Ironworks: trainer_changes/fuego_ironworks.md
+        - Route 219: trainer_changes/route_219.md
+        - Route 220: trainer_changes/route_220.md
+        - Route 221: trainer_changes/route_221.md
+        - Pal Park: trainer_changes/pal_park.md
+        - Canalave City: trainer_changes/canalave_city.md
+        - Iron Island: trainer_changes/iron_island.md
+        - 💪Canalave Gym: trainer_changes/canalave_gym.md
+        - Lake Valor: trainer_changes/lake_valor.md
+        - Lake Verity: trainer_changes/lake_verity.md
+        - Route 217: trainer_changes/route_217.md
+        - Snowpoint City: trainer_changes/snowpoint_city.md
+        - 💪Snowpoint Gym: trainer_changes/snowpoint_gym.md
+        - Galactic HQ: trainer_changes/galactic_hq.md
+        - Mt. Coronet ~ 3F: trainer_changes/mt_coronet__3f.md
+        - Mt. Coronet ~ 4F: trainer_changes/mt_coronet__4f.md
+        - Mt. Coronet ~ Tunnel to Route 211 Entrance: trainer_changes/mt_coronet__tunnel_to_route_211_entrance.md
+        - Mt. Coronet ~ 6F: trainer_changes/mt_coronet__6f.md
+        - Mt. Coronet ~ 7F: trainer_changes/mt_coronet__7f.md
+        - Spear Pillar: trainer_changes/spear_pillar.md
+        - Distortion World: trainer_changes/distortion_world.md
+        - Sendoff Spring: trainer_changes/sendoff_spring.md
+        - Route 222: trainer_changes/route_222.md
+        - Sunyshore City: trainer_changes/sunyshore_city.md
+        - 💪Sunyshore Gym: trainer_changes/sunyshore_gym.md
+        - Route 223: trainer_changes/route_223.md
+        - Victory Road: trainer_changes/victory_road.md
+        - Victory Road ~ East: trainer_changes/victory_road__east.md
+        - Route 224: trainer_changes/route_224.md
+        - 🥇Pokémon League: trainer_changes/pokemon_league.md
+        - Fight Area: trainer_changes/fight_area.md
+        - Route 225: trainer_changes/route_225.md
+        - Route 226: trainer_changes/route_226.md
+        - Route 227: trainer_changes/route_227.md
+        - Route 228: trainer_changes/route_228.md
+        - Route 229: trainer_changes/route_229.md
+        - Route 230: trainer_changes/route_230.md
+        - Stark Mountain ~ Outside: trainer_changes/stark_mountain__outside.md
+        - Stark Mountain ~ Entrance: trainer_changes/stark_mountain__entrance.md
+        - Stark Mountain ~ Interior: trainer_changes/stark_mountain__interior.md
+        - Battleground: trainer_changes/battleground.md
+        - Battle Marathon Only: trainer_changes/battle_marathon_only.md
+        - Pokémon Center: trainer_changes/pokemon_center.md  
+    - Item Changes: item_changes.md  
     - Special Events: special_events.md
     - NPC Changes: npc_changes.md
     - Trade Changes: trade_changes.md
