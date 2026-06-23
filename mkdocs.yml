@@ -26,6 +26,7 @@ theme:
 
 nav:
     - Home: index.md
+    - My Box: my_box.md
     - Pokémons:
         - General Changes: pokemons/general_changes.md
         - Move Changes: move_changes.md
@@ -673,12 +674,14 @@ markdown_extensions:
 
 extra_css:
     - stylesheets/ability_popup.css
+    - stylesheets/party.css
 
 extra_javascript:
     - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
     - https://unpkg.com/tablesort@5.3.0/dist/sorts/tablesort.number.min.js
     - javascripts/tablesort.js
     - javascripts/ability_popup.js
+    - javascripts/party.js
 
 copyright: Maintained by Frederic Dlugi.
 
