@@ -551,19 +551,12 @@ nav:
         - Old Chateau (All Rooms): area_changes/old_chateau_(all_rooms).md
         - Route 205 ~ North: area_changes/route_205__north.md
         - Eterna City: area_changes/eterna_city.md
-        - Route 211 ~ West: area_changes/route_211__west.md
-        - Mt. Coronet ~ Route 211 Entrance: area_changes/mt_coronet__route_211_entrance.md
-        - Mt. Coronet ~ Tunnel to Route 211 Entrance: area_changes/mt_coronet__tunnel_to_route_211_entrance.md
-        - Mt. Coronet ~ B1F: area_changes/mt_coronet__b1f.md
-        - Mt. Coronet ~ Route 216 Entrance: area_changes/mt_coronet__route_216_entrance.md
-        - Route 216: area_changes/route_216.md
-        - Route 211 ~ East: area_changes/route_211__east.md
+        - 💪Eterna Gym: area_changes/eterna_gym.md
+        - Team Galactic Eterna Building: area_changes/team_galactic_eterna_building.md
         - Route 206: area_changes/route_206.md
         - Wayward Cave: area_changes/wayward_cave.md
         - Mt. Coronet ~ Route 207 Entrance: area_changes/mt_coronet__route_207_entrance.md
         - Route 207: area_changes/route_207.md
-        - 💪Eterna Gym: area_changes/eterna_gym.md
-        - Team Galactic Eterna Building: area_changes/team_galactic_eterna_building.md
         - Route 208: area_changes/route_208.md
         - 💪Hearthome Gym: area_changes/hearthome_gym.md
         - Route 212 ~ North: area_changes/route_212__north.md
@@ -573,8 +566,8 @@ nav:
         - Solaceon Ruins: area_changes/solaceon_ruins.md
         - Route 210 ~ South: area_changes/route_210__south.md
         - Route 215: area_changes/route_215.md
-        - 💪Veilstone Gym: area_changes/veilstone_gym.md
         - Veilstone City: area_changes/veilstone_city.md
+        - 💪Veilstone Gym: area_changes/veilstone_gym.md
         - Route 214: area_changes/route_214.md
         - Maniac Tunnel: area_changes/maniac_tunnel.md
         - Seven Stars Restaurant: area_changes/seven_stars_restaurant.md
@@ -588,6 +581,10 @@ nav:
         - Great Marsh ~ Area 5/6: area_changes/great_marsh__area_5_6.md
         - Route 210 ~ North: area_changes/route_210__north.md
         - Celestic Town: area_changes/celestic_town.md
+        - Route 211 ~ East: area_changes/route_211__east.md
+        - Mt. Coronet ~ Route 211 Entrance: area_changes/mt_coronet__route_211_entrance.md
+        - Mt. Coronet ~ Tunnel to Route 211 Entrance: area_changes/mt_coronet__tunnel_to_route_211_entrance.md
+        - Route 211 ~ West: area_changes/route_211__west.md
         - Route 218: area_changes/route_218.md
         - Fuego Ironworks: area_changes/fuego_ironworks.md
         - Route 219: area_changes/route_219.md
@@ -599,6 +596,8 @@ nav:
         - 💪Canalave Gym: area_changes/canalave_gym.md
         - Lake Valor: area_changes/lake_valor.md
         - Route 217: area_changes/route_217.md
+        - Route 216: area_changes/route_216.md
+        - Mt. Coronet ~ Route 216 Entrance: area_changes/mt_coronet__route_216_entrance.md
         - Acuity Lakefront: area_changes/acuity_lakefront.md
         - Snowpoint City: area_changes/snowpoint_city.md
         - Snowpoint Temple: area_changes/snowpoint_temple.md
@@ -613,6 +612,7 @@ nav:
         - Mt. Coronet ~ 5F: area_changes/mt_coronet__5f.md
         - Mt. Coronet ~ 6F: area_changes/mt_coronet__6f.md
         - Mt. Coronet ~ 7F: area_changes/mt_coronet__7f.md
+        - Mt. Coronet ~ B1F: area_changes/mt_coronet__b1f.md
         - Spear Pillar: area_changes/spear_pillar.md
         - Distortion World: area_changes/distortion_world.md
         - Sendoff Spring: area_changes/sendoff_spring.md
