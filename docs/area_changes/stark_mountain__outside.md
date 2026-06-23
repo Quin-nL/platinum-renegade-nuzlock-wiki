@@ -4,7 +4,7 @@
 
 Trainer             | 1
 ---                 | ---
-Dragon Tamer Darien | ![][149]<br>[Dragonite]<br>Lv. 78
+Dragon Tamer Darien | ![][149]<br>[Dragonite]<br>Lv. 78<ul><li>Outrage</li><li>Hyper Beam</li><li>Wing Attack</li><li>Hurricane</li></ul> 
 
 ## Wild Pokémon
 

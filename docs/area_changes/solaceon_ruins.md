@@ -4,8 +4,7 @@
 
 Trainer          | 1                               | 2                                | 3
 ---              | ---                             | ---                              | ---
-Ruin Maniac Karl | ![][436]<br>[Bronzor]<br>Lv. 31 | ![][075]<br>[Graveler]<br>Lv. 31 | ![][028]<br>[Sandslash]<br>Lv. 31
-
+Ruin Maniac Karl | ![][436]<br>[Bronzor]<br>Lv. 31<ul><li>Gyro Ball</li><li>Iron Defense</li><li>Zen Headbutt</li><li>Safeguard</li></ul> | ![][075]<br>[Graveler]<br>Lv. 31<ul><li>Self-Destruct</li><li>Gyro Ball</li><li>Rock Slide</li><li>Stealth Rock</li></ul> | ![][028]<br>[Sandslash]<br>Lv. 31<ul><li>Crush Claw</li><li>Slash</li><li>Night Slash</li><li>Dig</li></ul> 
 
 ### Master Trainer
 

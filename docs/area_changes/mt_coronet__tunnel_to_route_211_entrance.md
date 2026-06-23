@@ -4,9 +4,9 @@
 
 Trainer        | 1                                  | 2                                 | 3
 ---            | ---                                | ---                               | ---
-Galactic Grunt | ![][042]<br>[Golbat]<br>Lv. 56     | &nbsp;                            | &nbsp;
-Galactic Grunt | ![][198]<br>[Murkrow]<br>Lv. 54    | ![][262]<br>[Mightyena]<br>Lv. 54 | ![][215]<br>[Sneasel]<br>Lv. 54
-Galactic Grunt | ![][284]<br>[Masquerain]<br>Lv. 55 | ![][089]<br>[Muk]<br>Lv. 55       | &nbsp;
+Galactic Grunt | ![][042]<br>[Golbat]<br>Lv. 56<ul><li>Haze</li><li>Zen Headbutt</li><li>Nasty Plot</li><li>Brave Bird</li></ul> | &nbsp;                            | &nbsp;
+Galactic Grunt | ![][198]<br>[Murkrow]<br>Lv. 54<ul><li>Tailwind</li><li>Dark Pulse</li><li>Torment</li><li>Brave Bird</li></ul> | ![][262]<br>[Mightyena]<br>Lv. 54<ul><li>Yawn</li><li>Take Down</li><li>Play Rough</li><li>Sucker Punch</li></ul> | ![][215]<br>[Sneasel]<br>Lv. 54<ul><li>Crunch ^1</li><li>Snatch</li><li>Punishment</li><li>Dark Pulse</li></ul> 
+Galactic Grunt | ![][284]<br>[Masquerain]<br>Lv. 55<ul><li>Stun Spore</li><li>Air Slash</li><li>Hydro Pump</li><li>Bug Buzz</li></ul> | ![][089]<br>[Muk]<br>Lv. 55<ul><li>Sludge Bomb</li><li>Acid Armor</li><li>Gunk Shot</li><li>Memento</li></ul> | &nbsp;
 
 ## Wild Pokémon
 

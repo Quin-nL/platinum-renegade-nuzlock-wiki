@@ -4,12 +4,12 @@
 
 Trainer                                  | 1                                 | 2                                 | 3
 ---                                      | ---                               | ---                               | ---
-Camper Anthony                           | ![][240]<br>[Magby]<br>Lv. 24     | ![][328]<br>[Trapinch]<br>Lv. 24  | ![][004]<br>[Charmander]<br>Lv. 24
-Picnicker Lauren                         | ![][238]<br>[Smoochum]<br>Lv. 24  | ![][209]<br>[Snubbull]<br>Lv. 24  | ![][252]<br>[Treecko]<br>Lv. 24
-Youngster Austin                         | ![][271]<br>[Lombre]<br>Lv. 25    | ![][207]<br>[Gligar]<br>Lv. 25    | &nbsp;
-Hiker Justin                             | ![][075]<br>[Graveler]<br>Lv. 25  | ![][028]<br>[Sandslash]<br>Lv. 25 | &nbsp;
-Hiker Kevin                              | ![][206]<br>[Dunsparce]<br>Lv. 25 | ![][206]<br>[Dunsparce]<br>Lv. 25 | &nbsp;
-:repeat: [Battle Girl Helen](#rematches) | ![][236]<br>[Tyrogue]<br>Lv. 26   | ![][307]<br>[Meditite]<br>Lv. 26  | ![][297]<br>[Hariyama]<br>Lv. 26
+Camper Anthony                           | ![][240]<br>[Magby]<br>Lv. 24<ul><li>Fire Spin</li><li>Will-O-Wisp</li><li>Fire Punch</li><li>Confuse Ray</li></ul> | ![][328]<br>[Trapinch]<br>Lv. 24<ul><li>Bulldoze</li><li>Rock Slide</li><li>Dig</li><li>Crunch</li></ul> | ![][004]<br>[Charmander]<br>Lv. 24<ul><li>Bite</li><li>Dragon Rage</li><li>Fire Fang</li><li>Slash</li></ul> 
+Picnicker Lauren                         | ![][238]<br>[Smoochum]<br>Lv. 24<ul><li>Icy Wind</li><li>Mean Look</li><li>Extrasensory ^1</li><li>Fake Tears</li></ul> | ![][209]<br>[Snubbull]<br>Lv. 24<ul><li>Bite</li><li>Headbutt</li><li>Roar</li><li>Rage</li></ul> | ![][252]<br>[Treecko]<br>Lv. 24<ul><li>Pursuit</li><li>Agility</li><li>Giga Drain</li><li>Slam</li></ul> 
+Youngster Austin                         | ![][271]<br>[Lombre]<br>Lv. 25<ul><li>Fake Out</li><li>Fury Swipes</li><li>Bubble Beam</li><li>Giga Drain</li></ul> | ![][207]<br>[Gligar]<br>Lv. 25<ul><li>Bulldoze</li><li>Feint Attack</li><li>Slash</li><li>U-turn</li></ul> | &nbsp;
+Hiker Justin                             | ![][075]<br>[Graveler]<br>Lv. 25<ul><li>Rollout</li><li>Magnitude</li><li>Self-Destruct</li><li>Gyro Ball</li></ul> | ![][028]<br>[Sandslash]<br>Lv. 25<ul><li>Fury Swipes</li><li>Crush Claw</li><li>Slash</li><li>Night Slash</li></ul> | &nbsp;
+Hiker Kevin                              | ![][206]<br>[Dunsparce]<br>Lv. 25<ul><li>Ancient Power</li><li>Body Slam</li><li>Drill Run</li><li>Roost</li></ul> | ![][206]<br>[Dunsparce]<br>Lv. 25<ul><li>Ancient Power</li><li>Body Slam</li><li>Drill Run</li><li>Roost</li></ul> | &nbsp;
+:repeat: [Battle Girl Helen](#rematches) | ![][236]<br>[Tyrogue]<br>Lv. 26<ul><li>Fake Out</li><li>Low Kick</li><li>Mach Punch</li><li>Rapid Spin</li></ul> | ![][307]<br>[Meditite]<br>Lv. 26<ul><li>Force Palm</li><li>Hidden Power</li><li>Psycho Cut</li><li>Calm Mind</li></ul> | ![][297]<br>[Hariyama]<br>Lv. 26<ul><li>Vital Throw</li><li>Smelling Salts</li><li>Belly Drum</li><li>Wake-Up Slap</li></ul> 
 
 === "Lucas"
     === "Grass"
@@ -37,7 +37,6 @@ Hiker Kevin                              | ![][206]<br>[Dunsparce]<br>Lv. 25 | !
         Trainer                          | 1                                 | 2                                | 3                               | 4
         ---                              | ---                               | ---                              | ---                             | ---
         [PKMN Trainer Dawn]<br>![][dawn] | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][036]<br>[Clefable]<br>Lv. 29 | ![][428]<br>[Lopunny]<br>Lv. 29 | ![][391]<br>[Monferno]<br>Lv. 30
-
 
 ### PKMN Trainer Dawn
 
@@ -95,9 +94,9 @@ Hiker Kevin                              | ![][206]<br>[Dunsparce]<br>Lv. 25 | !
 
 Trainer                                               | 1                                 | 2                                | 3
 ---                                                   | ---                               | ---                              | ---
-Battle Girl Helen :material-numeric-3-circle-outline: | ![][236]<br>[Tyrogue]<br>Lv. 28   | ![][307]<br>[Meditite]<br>Lv. 28 | ![][297]<br>[Hariyama]<br>Lv. 28
-Battle Girl Helen :material-numeric-7-circle-outline: | ![][237]<br>[Hitmontop]<br>Lv. 54 | ![][308]<br>[Medicham]<br>Lv. 54 | ![][297]<br>[Hariyama]<br>Lv. 54
-Battle Girl Helen :material-alpha-c-circle-outline:   | ![][237]<br>[Hitmontop]<br>Lv. 72 | ![][308]<br>[Medicham]<br>Lv. 72 | ![][297]<br>[Hariyama]<br>Lv. 72
+Battle Girl Helen :material-numeric-3-circle-outline: | ![][236]<br>[Tyrogue]<br>Lv. 28<ul><li>Fake Out</li><li>Low Kick</li><li>Mach Punch</li><li>Rapid Spin</li></ul> | ![][307]<br>[Meditite]<br>Lv. 28<ul><li>Hidden Power</li><li>Psycho Cut</li><li>Calm Mind</li><li>Mind Reader</li></ul> | ![][297]<br>[Hariyama]<br>Lv. 28<ul><li>Vital Throw</li><li>Smelling Salts</li><li>Belly Drum</li><li>Wake-Up Slap</li></ul> 
+Battle Girl Helen :material-numeric-7-circle-outline: | ![][237]<br>[Hitmontop]<br>Lv. 54<ul><li>Drill Run</li><li>Bullet Punch</li><li>Endeavor</li><li>High Jump Kick</li></ul> | ![][308]<br>[Medicham]<br>Lv. 54<ul><li>Zen Headbutt</li><li>Acupressure</li><li>Power Trick</li><li>Reversal</li></ul> | ![][297]<br>[Hariyama]<br>Lv. 54<ul><li>Endure</li><li>Close Combat</li><li>Reversal</li><li>Counter</li></ul> 
+Battle Girl Helen :material-alpha-c-circle-outline:   | ![][237]<br>[Hitmontop]<br>Lv. 72<ul><li>Drill Run</li><li>Bullet Punch</li><li>Endeavor</li><li>High Jump Kick</li></ul> | ![][308]<br>[Medicham]<br>Lv. 72<ul><li>Acupressure</li><li>Power Trick</li><li>Reversal</li><li>Recover</li></ul> | ![][297]<br>[Hariyama]<br>Lv. 72<ul><li>Endure</li><li>Close Combat</li><li>Reversal</li><li>Counter</li></ul> 
 
 ### Master Trainer
 

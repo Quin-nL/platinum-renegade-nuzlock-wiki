@@ -4,20 +4,20 @@
 
 Trainer                                    | 1                                 | 2                                 | 3                                 | 4
 ---                                        | ---                               | ---                               | ---                               | ---
-Swimmer Dillon                             | ![][260]<br>[Swampert]<br>Lv. 46  | &nbsp;                            | &nbsp;                            | &nbsp;
-Swimmer Vanessa                            | ![][350]<br>[Milotic]<br>Lv. 46   | &nbsp;                            | &nbsp;                            | &nbsp;
-Fisherman Cory                             | ![][340]<br>[Whiscash]<br>Lv. 44  | ![][099]<br>[Kingler]<br>Lv. 44   | ![][130]<br>[Gyarados]<br>Lv. 44  | &nbsp;
-:repeat: [Ace Trainer Shannon](#rematches) | ![][045]<br>[Vileplume]<br>Lv. 45 | ![][282]<br>[Gardevoir]<br>Lv. 45 | ![][428]<br>[Lopunny]<br>Lv. 45   | ![][031]<br>[Nidoqueen]<br>Lv. 45
-:repeat: [Ace Trainer Jake](#rematches)    | ![][344]<br>[Claydol]<br>Lv. 45   | ![][006]<br>[Charizard]<br>Lv. 45 | ![][103]<br>[Exeggutor]<br>Lv. 45 | ![][359]<br>[Absol]<br>Lv. 45
-:repeat: [Collector Ivan](#rematches)      | ![][468]<br>[Togekiss]<br>Lv. 45  | ![][242]<br>[Blissey]<br>Lv. 45   | &nbsp;                            | &nbsp;
+Swimmer Dillon                             | ![][260]<br>[Swampert]<br>Lv. 46<ul><li>Take Down</li><li>Hammer Arm</li><li>Earthquake</li><li>Muddy Water</li></ul> | &nbsp;                            | &nbsp;                            | &nbsp;
+Swimmer Vanessa                            | ![][350]<br>[Milotic]<br>Lv. 46<ul><li>Moonblast ^1</li><li>Dragon Pulse</li><li>Rain Dance</li><li>Safeguard</li></ul> | &nbsp;                            | &nbsp;                            | &nbsp;
+Fisherman Cory                             | ![][340]<br>[Whiscash]<br>Lv. 44<ul><li>Thrash</li><li>Muddy Water</li><li>Future Sight</li><li>Earthquake</li></ul> | ![][099]<br>[Kingler]<br>Lv. 44<ul><li>Knock Off</li><li>Guillotine</li><li>Slam</li><li>X-Scissor</li></ul> | ![][130]<br>[Gyarados]<br>Lv. 44<ul><li>Crunch</li><li>Dragon Dance</li><li>Outrage</li><li>Hydro Pump</li></ul> | &nbsp;
+:repeat: [Ace Trainer Shannon](#rematches) | ![][045]<br>[Vileplume]<br>Lv. 45<ul><li>Stun Spore</li><li>Aromatherapy</li><li>Earth Power ^1</li><li>Teeter Dance</li></ul> | ![][282]<br>[Gardevoir]<br>Lv. 45<ul><li>Psychic</li><li>Calm Mind</li><li>Moonblast</li><li>Imprison</li></ul> | ![][428]<br>[Lopunny]<br>Lv. 45<ul><li>Charm</li><li>Flail</li><li>Bounce</li><li>Focus Punch</li></ul> | ![][031]<br>[Nidoqueen]<br>Lv. 45<ul><li>Poison Sting</li><li>Body Slam</li><li>Earth Power</li><li>Earthquake</li></ul> 
+:repeat: [Ace Trainer Jake](#rematches)    | ![][344]<br>[Claydol]<br>Lv. 45<ul><li>Hyper Beam</li><li>Power Trick</li><li>Psychic</li><li>Sandstorm</li></ul> | ![][006]<br>[Charizard]<br>Lv. 45<ul><li>Scary Face</li><li>Air Slash</li><li>Crunch</li><li>Dragon Pulse</li></ul> | ![][103]<br>[Exeggutor]<br>Lv. 45<ul><li>Confusion</li><li>Stomp</li><li>Synthesis</li><li>Wood Hammer</li></ul> | ![][359]<br>[Absol]<br>Lv. 45<ul><li>Me First</li><li>Sucker Punch</li><li>Razor Wind</li><li>Megahorn</li></ul> 
+:repeat: [Collector Ivan](#rematches)      | ![][468]<br>[Togekiss]<br>Lv. 45<ul><li>Sky Attack</li><li>Extreme Speed</li><li>Aura Sphere</li><li>Air Slash</li></ul> | ![][242]<br>[Blissey]<br>Lv. 45<ul><li>Take Down</li><li>Light Screen</li><li>Healing Wish</li><li>Counter</li></ul> | &nbsp;                            | &nbsp;
 
 ### Rematches
 
 Trainer                                               | 1                                 | 2                                 | 3                                 | 4
 ---                                                   | ---                               | ---                               | ---                               | ---
-Ace Trainer Shannon :material-alpha-c-circle-outline: | ![][045]<br>[Vileplume]<br>Lv. 72 | ![][282]<br>[Gardevoir]<br>Lv. 72 | ![][428]<br>[Lopunny]<br>Lv. 72   | ![][031]<br>[Nidoqueen]<br>Lv. 72
-Ace Trainer Jake :material-alpha-c-circle-outline:    | ![][344]<br>[Claydol]<br>Lv. 72   | ![][006]<br>[Charizard]<br>Lv. 72 | ![][103]<br>[Exeggutor]<br>Lv. 72 | ![][359]<br>[Absol]<br>Lv. 72
-Collector Ivan :material-alpha-c-circle-outline:      | ![][468]<br>[Togekiss]<br>Lv. 72  | ![][242]<br>[Blissey]<br>Lv. 72   | &nbsp;                            | &nbsp;
+Ace Trainer Shannon :material-alpha-c-circle-outline: | ![][045]<br>[Vileplume]<br>Lv. 72<ul><li>Earth Power ^1</li><li>Teeter Dance</li><li>Petal Dance</li><li>Solar Beam</li></ul> | ![][282]<br>[Gardevoir]<br>Lv. 72<ul><li>Imprison</li><li>Captivate</li><li>Future Sight</li><li>Dream Eater</li></ul> | ![][428]<br>[Lopunny]<br>Lv. 72<ul><li>Bounce</li><li>Focus Punch</li><li>Healing Wish</li><li>High Jump Kick</li></ul> | ![][031]<br>[Nidoqueen]<br>Lv. 72<ul><li>Body Slam</li><li>Earth Power</li><li>Earthquake</li><li>Superpower</li></ul> 
+Ace Trainer Jake :material-alpha-c-circle-outline:    | ![][344]<br>[Claydol]<br>Lv. 72<ul><li>Sandstorm</li><li>Imprison</li><li>Trick Room</li><li>Explosion</li></ul> | ![][006]<br>[Charizard]<br>Lv. 72<ul><li>Dragon Pulse</li><li>Fire Spin</li><li>Belly Drum</li><li>Flare Blitz</li></ul> | ![][103]<br>[Exeggutor]<br>Lv. 72<ul><li>Stomp</li><li>Synthesis</li><li>Wood Hammer</li><li>Leaf Storm</li></ul> | ![][359]<br>[Absol]<br>Lv. 72<ul><li>Megahorn</li><li>Play Rough</li><li>Future Sight</li><li>Perish Song</li></ul> 
+Collector Ivan :material-alpha-c-circle-outline:      | ![][468]<br>[Togekiss]<br>Lv. 72<ul><li>Sky Attack</li><li>Extreme Speed</li><li>Aura Sphere</li><li>Air Slash</li></ul> | ![][242]<br>[Blissey]<br>Lv. 72<ul><li>Light Screen</li><li>Healing Wish</li><li>Counter</li><li>Double-Edge</li></ul> | &nbsp;                            | &nbsp;
 
 ## Wild Pokémon
 

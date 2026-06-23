@@ -2,7 +2,7 @@
 
 Trainer        | 1                                 | 2                                 | 3
 ---            | ---                               | ---                               | ---
-Reporter Jenny | ![][152]<br>[Chikorita]<br>Lv. 15 | ![][155]<br>[Cyndaquil]<br>Lv. 15 | ![][158]<br>[Totodile]<br>Lv. 15
+Reporter Jenny | ![][152]<br>[Chikorita]<br>Lv. 15<ul><li>Razor Leaf</li><li>Poison Powder</li><li>Synthesis</li><li>Magical Leaf</li></ul> | ![][155]<br>[Cyndaquil]<br>Lv. 15<ul><li>Ember</li><li>Smokescreen</li><li>Quick Attack</li><li>Flame Wheel</li></ul> | ![][158]<br>[Totodile]<br>Lv. 15<ul><li>Water Gun</li><li>Rage</li><li>Bite</li><li>Scary Face</li></ul> 
 
 ## Master Trainer
 

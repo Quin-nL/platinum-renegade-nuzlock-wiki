@@ -4,17 +4,17 @@
 
 Trainer                               | 1                               | 2                               | 3
 ---                                   | ---                             | ---                             | ---
-:repeat: [Ninja Boy Zach](#rematches) | ![][041]<br>[Zubat]<br>Lv. 19   | ![][451]<br>[Skorupi]<br>Lv. 19 | ![][041]<br>[Zubat]<br>Lv. 19
-Hiker Louis                           | ![][074]<br>[Geodude]<br>Lv. 19 | ![][218]<br>[Slugma]<br>Lv. 19  | ![][374]<br>[Beldum]<br>Lv. 19
-Bird Keeper Alexandra                 | ![][177]<br>[Natu]<br>Lv. 20    | ![][333]<br>[Swablu]<br>Lv. 20  | ![][397]<br>[Staravia]<br>Lv. 20
+:repeat: [Ninja Boy Zach](#rematches) | ![][041]<br>[Zubat]<br>Lv. 19<ul><li>Poison Fang</li><li>Confuse Ray</li><li>Air Cutter</li><li>Mean Look</li></ul> | ![][451]<br>[Skorupi]<br>Lv. 19<ul><li>Pin Missile</li><li>Acupressure</li><li>Bug Bite</li><li>Poison Fang</li></ul> | ![][041]<br>[Zubat]<br>Lv. 19<ul><li>Poison Fang</li><li>Confuse Ray</li><li>Air Cutter</li><li>Mean Look</li></ul> 
+Hiker Louis                           | ![][074]<br>[Geodude]<br>Lv. 19<ul><li>Rock Throw</li><li>Bulldoze</li><li>Rollout</li><li>Magnitude</li></ul> | ![][218]<br>[Slugma]<br>Lv. 19<ul><li>Ember</li><li>Harden</li><li>Will-O-Wisp</li><li>Ancient Power</li></ul> | ![][374]<br>[Beldum]<br>Lv. 19<ul><li>Take Down</li><li>Zen Headbutt</li><li>Iron Head</li><li>Iron Defense</li></ul> 
+Bird Keeper Alexandra                 | ![][177]<br>[Natu]<br>Lv. 20<ul><li>Lucky Chant</li><li>Confusion ^1</li><li>Air Cutter</li><li>Ominous Wind</li></ul> | ![][333]<br>[Swablu]<br>Lv. 20<ul><li>Fury Attack</li><li>Safeguard</li><li>Pluck</li><li>Mist</li></ul> | ![][397]<br>[Staravia]<br>Lv. 20<ul><li>Wing Attack</li><li>Double Team</li><li>Foresight</li><li>Aerial Ace</li></ul> 
 
 ### Rematches
 
 Trainer                                            | 1                              | 2                               | 3
 ---                                                | ---                            | ---                             | ---
-Ninja Boy Zach :material-numeric-5-circle-outline: | ![][042]<br>[Golbat]<br>Lv. 38 | ![][451]<br>[Skorupi]<br>Lv. 38 | ![][042]<br>[Golbat]<br>Lv. 38
-Ninja Boy Zach :material-numeric-8-circle-outline: | ![][169]<br>[Crobat]<br>Lv. 59 | ![][452]<br>[Drapion]<br>Lv. 59 | ![][169]<br>[Crobat]<br>Lv. 59
-Ninja Boy Zach :material-alpha-c-circle-outline:   | ![][169]<br>[Crobat]<br>Lv. 70 | ![][452]<br>[Drapion]<br>Lv. 70 | ![][169]<br>[Crobat]<br>Lv. 70
+Ninja Boy Zach :material-numeric-5-circle-outline: | ![][042]<br>[Golbat]<br>Lv. 38<ul><li>Leech Life</li><li>Swift</li><li>Hypnosis</li><li>Air Slash</li></ul> | ![][451]<br>[Skorupi]<br>Lv. 38<ul><li>X-Scissor</li><li>Swords Dance</li><li>Poison Jab</li><li>Night Slash</li></ul> | ![][042]<br>[Golbat]<br>Lv. 38<ul><li>Leech Life</li><li>Swift</li><li>Hypnosis</li><li>Air Slash</li></ul> 
+Ninja Boy Zach :material-numeric-8-circle-outline: | ![][169]<br>[Crobat]<br>Lv. 59<ul><li>Haze</li><li>Zen Headbutt</li><li>Nasty Plot</li><li>Brave Bird</li></ul> | ![][452]<br>[Drapion]<br>Lv. 59<ul><li>Night Slash</li><li>Scary Face</li><li>Crunch</li><li>Cross Poison</li></ul> | ![][169]<br>[Crobat]<br>Lv. 59<ul><li>Haze</li><li>Zen Headbutt</li><li>Nasty Plot</li><li>Brave Bird</li></ul> 
+Ninja Boy Zach :material-alpha-c-circle-outline:   | ![][169]<br>[Crobat]<br>Lv. 70<ul><li>Haze</li><li>Zen Headbutt</li><li>Nasty Plot</li><li>Brave Bird</li></ul> | ![][452]<br>[Drapion]<br>Lv. 70<ul><li>Night Slash</li><li>Scary Face</li><li>Crunch</li><li>Cross Poison</li></ul> | ![][169]<br>[Crobat]<br>Lv. 70<ul><li>Haze</li><li>Zen Headbutt</li><li>Nasty Plot</li><li>Brave Bird</li></ul> 
 
 ## Wild Pokémon
 

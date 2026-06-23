@@ -2,8 +2,8 @@
 
 Trainer                      | 1                                | 2                               | 3                               | 4                            | 5                                | 6
 ---                          | ---                              | ---                             | ---                             | ---                          | ---                              | ---
-Youngster Jonathon           | ![][111]<br>[Rhyhorn]<br>Lv. 13  | ![][138]<br>[Omanyte]<br>Lv. 13 | ![][140]<br>[Kabuto]<br>Lv. 13  | &nbsp;                       | &nbsp;                           | &nbsp;
-Youngster Darius             | ![][304]<br>[Aron]<br>Lv. 13     | ![][347]<br>[Anorith]<br>Lv. 13 | ![][345]<br>[Lileep]<br>Lv. 13  | &nbsp;                       | &nbsp;                           | &nbsp;
+Youngster Jonathon           | ![][111]<br>[Rhyhorn]<br>Lv. 13<ul><li>Fury Attack</li><li>Scary Face</li><li>Bulldoze</li><li>Stomp</li></ul> | ![][138]<br>[Omanyte]<br>Lv. 13<ul><li>Withdraw</li><li>Leer</li><li>Bite</li><li>Rollout</li></ul> | ![][140]<br>[Kabuto]<br>Lv. 13<ul><li>Leer</li><li>Absorb</li><li>Aqua Jet</li><li>Rollout</li></ul> | &nbsp;                       | &nbsp;                           | &nbsp;
+Youngster Darius             | ![][304]<br>[Aron]<br>Lv. 13<ul><li>Mud-Slap</li><li>Headbutt</li><li>Metal Claw</li><li>Rock Tomb</li></ul> | ![][347]<br>[Anorith]<br>Lv. 13<ul><li>Water Gun</li><li>Mud Sport</li><li>Aqua Jet</li><li>Fury Cutter</li></ul> | ![][345]<br>[Lileep]<br>Lv. 13<ul><li>Astonish</li><li>Acid</li><li>Ingrain</li><li>Confuse Ray</li></ul> | &nbsp;                       | &nbsp;                           | &nbsp;
 [Leader Roark]<br>![][roark] | ![][299]<br>[Nosepass]<br>Lv. 15 | ![][438]<br>[Bonsly]<br>Lv. 15  | ![][074]<br>[Geodude]<br>Lv. 15 | ![][095]<br>[Onix]<br>Lv. 15 | ![][246]<br>[Larvitar]<br>Lv. 15 | ![][408]<br>[Cranidos]<br>Lv. 16
 
 ## Leader Roark

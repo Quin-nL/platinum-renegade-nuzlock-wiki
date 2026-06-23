@@ -4,17 +4,17 @@
 
 Trainer                | 1
 ---                    | ---
-Bird Keeper Katherine  | ![][164]<br>[Noctowl]<br>Lv. 22
-Ninja Boy Nick         | ![][291]<br>[Ninjask]<br>Lv. 20
-Black Belt Sean        | ![][214]<br>[Heracross]<br>Lv. 22
-Ruin Maniac Harry [^1] | ![][142]<br>[Aerodactyl]<br>Lv. 21
+Bird Keeper Katherine  | ![][164]<br>[Noctowl]<br>Lv. 22<ul><li>Air Cutter</li><li>Uproar</li><li>Extrasensory</li><li>Psycho Shift</li></ul> 
+Ninja Boy Nick         | ![][291]<br>[Ninjask]<br>Lv. 20<ul><li>Mind Reader</li><li>Double Team</li><li>Fury Cutter</li><li>Screech</li></ul> 
+Black Belt Sean        | ![][214]<br>[Heracross]<br>Lv. 22<ul><li>Feint</li><li>Aerial Ace</li><li>Bug Bite</li><li>Brick Break</li></ul> 
+Ruin Maniac Harry [^1] | ![][142]<br>[Aerodactyl]<br>Lv. 21<ul><li>Roar</li><li>Agility</li><li>Wing Attack</li><li>Ancient Power</li></ul> 
 
 ### Rematches
 
 Trainer                                               | 1
 ---                                                   | ---
-Ruin Maniac Harry :material-numeric-8-circle-outline: | ![][142]<br>[Aerodactyl]<br>Lv. 61
-Ruin Maniac Harry :material-alpha-c-circle-outline:   | ![][142]<br>[Aerodactyl]<br>Lv. 72
+Ruin Maniac Harry :material-numeric-8-circle-outline: | ![][142]<br>[Aerodactyl]<br>Lv. 61<ul><li>Stone Edge</li><li>Brave Bird ^1</li><li>Hyper Beam</li><li>Giga Impact</li></ul> 
+Ruin Maniac Harry :material-alpha-c-circle-outline:   | ![][142]<br>[Aerodactyl]<br>Lv. 72<ul><li>Brave Bird ^1</li><li>Hyper Beam</li><li>Giga Impact</li><li>Sky Attack</li></ul> 
 
 ## Wild Pokémon
 

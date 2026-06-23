@@ -4,17 +4,17 @@
 
 Trainer                                 | 1                                  | 2                                | 3
 ---                                     | ---                                | ---                              | ---
-:repeat: [Fisherman Miguel](#rematches) | ![][367]<br>[Huntail]<br>Lv. 44    | ![][368]<br>[Gorebyss]<br>Lv. 44 | &nbsp;
-Fisherman Luc                           | ![][342]<br>[Crawdaunt]<br>Lv. 45  | &nbsp;                           | &nbsp;
-Sailor Skyler                           | ![][139]<br>[Omastar]<br>Lv. 43    | ![][141]<br>[Kabutops]<br>Lv. 43 | ![][369]<br>[Relicanth]<br>Lv. 43
-:repeat: [Guitarist Tony](#rematches)   | ![][402]<br>[Kricketune]<br>Lv. 44 | ![][295]<br>[Exploud]<br>Lv. 44  | &nbsp;
+:repeat: [Fisherman Miguel](#rematches) | ![][367]<br>[Huntail]<br>Lv. 44<ul><li>Aqua Tail</li><li>Crunch</li><li>Baton Pass</li><li>Confuse Ray</li></ul> | ![][368]<br>[Gorebyss]<br>Lv. 44<ul><li>Muddy Water</li><li>Psychic</li><li>Baton Pass</li><li>Confuse Ray</li></ul> | &nbsp;
+Fisherman Luc                           | ![][342]<br>[Crawdaunt]<br>Lv. 45<ul><li>Knock Off</li><li>Swords Dance</li><li>Crunch</li><li>Payback</li></ul> | &nbsp;                           | &nbsp;
+Sailor Skyler                           | ![][139]<br>[Omastar]<br>Lv. 43<ul><li>Spike Cannon</li><li>Muddy Water</li><li>Earth Power</li><li>Tickle</li></ul> | ![][141]<br>[Kabutops]<br>Lv. 43<ul><li>Night Slash</li><li>Waterfall</li><li>Knock Off</li><li>Mega Drain</li></ul> | ![][369]<br>[Relicanth]<br>Lv. 43<ul><li>Zen Headbutt</li><li>Flail</li><li>Stone Edge</li><li>Amnesia</li></ul> 
+:repeat: [Guitarist Tony](#rematches)   | ![][402]<br>[Kricketune]<br>Lv. 44<ul><li>Knock Off</li><li>Taunt</li><li>Heal Bell</li><li>Bug Buzz</li></ul> | ![][295]<br>[Exploud]<br>Lv. 44<ul><li>Rest</li><li>Sleep Talk</li><li>Crunch</li><li>Hammer Arm</li></ul> | &nbsp;
 
 ### Rematches
 
 Trainer                                            | 1                                  | 2                               | 3
 ---                                                | ---                                | ---                             | ---
-Fisherman Miguel :material-alpha-c-circle-outline: | ![][366]<br>[Clamperl]<br>Lv. 70   | ![][367]<br>[Huntail]<br>Lv. 70 | ![][368]<br>[Gorebyss]<br>Lv. 70
-Guitarist Tony :material-alpha-c-circle-outline:   | ![][402]<br>[Kricketune]<br>Lv. 71 | ![][295]<br>[Exploud]<br>Lv. 71 | &nbsp;
+Fisherman Miguel :material-alpha-c-circle-outline: | ![][366]<br>[Clamperl]<br>Lv. 70<ul><li>Whirlpool</li><li>Iron Defense</li><li>Water Pulse</li><li>Muddy Water</li></ul> | ![][367]<br>[Huntail]<br>Lv. 70<ul><li>Baton Pass</li><li>Confuse Ray</li><li>Super Fang</li><li>Hydro Pump</li></ul> | ![][368]<br>[Gorebyss]<br>Lv. 70<ul><li>Baton Pass</li><li>Confuse Ray</li><li>Barrier</li><li>Hydro Pump</li></ul> 
+Guitarist Tony :material-alpha-c-circle-outline:   | ![][402]<br>[Kricketune]<br>Lv. 71<ul><li>Heal Bell</li><li>Bug Buzz</li><li>Hyper Voice</li><li>Perish Song</li></ul> | ![][295]<br>[Exploud]<br>Lv. 71<ul><li>Crunch</li><li>Hammer Arm</li><li>Endeavor</li><li>Hyper Beam</li></ul> | &nbsp;
 
 ## Wild Pokémon
 

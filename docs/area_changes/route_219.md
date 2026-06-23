@@ -4,8 +4,8 @@
 
 Trainer       | 1                                 | 2                                 | 3
 ---           | ---                               | ---                               | ---
-Tuber Mariel  | ![][184]<br>[Azumarill]<br>Lv. 43 | ![][134]<br>[Vaporeon]<br>Lv. 43  | &nbsp;
-Tuber Trenton | ![][061]<br>[Poliwhirl]<br>Lv. 42 | ![][423]<br>[Gastrodon]<br>Lv. 42 | ![][400]<br>[Bibarel]<br>Lv. 42
+Tuber Mariel  | ![][184]<br>[Azumarill]<br>Lv. 43<ul><li>Aqua Ring</li><li>Rain Dance</li><li>Belly Drum</li><li>Double-Edge</li></ul> | ![][134]<br>[Vaporeon]<br>Lv. 43<ul><li>Muddy Water</li><li>Ice Beam</li><li>Last Resort</li><li>Hydro Pump</li></ul> | &nbsp;
+Tuber Trenton | ![][061]<br>[Poliwhirl]<br>Lv. 42<ul><li>Low Kick</li><li>Belly Drum</li><li>Mud Bomb</li><li>Wake-Up Slap</li></ul> | ![][423]<br>[Gastrodon]<br>Lv. 42<ul><li>Muddy Water</li><li>Body Slam</li><li>Counter</li><li>Mirror Coat</li></ul> | ![][400]<br>[Bibarel]<br>Lv. 42<ul><li>Super Fang</li><li>Swords Dance</li><li>Amnesia</li><li>Superpower</li></ul> 
 
 ### Master Trainer
 

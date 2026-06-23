@@ -4,17 +4,17 @@
 
 Trainer                              | 1                                | 2                               | 3
 ---                                  | ---                              | ---                             | ---
-Lass Sarah                           | ![][403]<br>[Shinx]<br>Lv. 8     | ![][029]<br>[Nidoran♀]<br>Lv. 8 | ![][016]<br>[Pidgey]<br>Lv. 8
-:repeat: [Lass Samantha](#rematches) | ![][043]<br>[Oddish]<br>Lv. 8    | ![][406]<br>[Budew]<br>Lv. 8    | ![][069]<br>[Bellsprout]<br>Lv. 8
-Youngster Tyler                      | ![][129]<br>[Magikarp]<br>Lv. 11 | &nbsp;                          | &nbsp;
+Lass Sarah                           | ![][403]<br>[Shinx]<br>Lv. 8<ul><li>Tackle</li><li>Leer</li><li>Howl</li><li>Quick Attack</li></ul> | ![][029]<br>[Nidoran♀]<br>Lv. 8<ul><li>Scratch</li><li>Tail Whip</li><li>Poison Sting</li><li>Fury Swipes</li></ul> | ![][016]<br>[Pidgey]<br>Lv. 8<ul><li>Tackle</li><li>Sand Attack</li><li>Gust</li><li>Quick Attack</li></ul> 
+:repeat: [Lass Samantha](#rematches) | ![][043]<br>[Oddish]<br>Lv. 8<ul><li>Absorb</li><li>Growth</li><li>Acid</li><li>Sweet Scent</li></ul> | ![][406]<br>[Budew]<br>Lv. 8<ul><li>Absorb</li><li>Growth</li><li>Water Sport</li></ul> | ![][069]<br>[Bellsprout]<br>Lv. 8<ul><li>Vine Whip</li><li>Growth</li><li>Acid</li><li>Wrap</li></ul> 
+Youngster Tyler                      | ![][129]<br>[Magikarp]<br>Lv. 11<ul><li>Splash</li><li>Tackle</li><li>Flail</li></ul> | &nbsp;                          | &nbsp;
 
 ### Rematches
 
 Trainer                                           | 1                              | 2                                | 3
 ---                                               | ---                            | ---                              | ---
-Lass Samantha :material-numeric-3-circle-outline: | ![][404]<br>[Luxio]<br>Lv. 26  | ![][315]<br>[Roselia]<br>Lv. 26  | ![][070]<br>[Weepinbell]<br>Lv. 26
-Lass Samantha :material-numeric-5-circle-outline: | ![][404]<br>[Luxio]<br>Lv. 38  | ![][315]<br>[Roselia]<br>Lv. 38  | ![][070]<br>[Weepinbell]<br>Lv. 38
-Lass Samantha :material-alpha-c-circle-outline:   | ![][405]<br>[Luxray]<br>Lv. 70 | ![][407]<br>[Roserade]<br>Lv. 70 | ![][071]<br>[Victreebel]<br>Lv. 70
+Lass Samantha :material-numeric-3-circle-outline: | ![][404]<br>[Luxio]<br>Lv. 26<ul><li>Double Kick</li><li>Thunder Fang</li><li>Ice Fang</li><li>Fire Fang</li></ul> | ![][315]<br>[Roselia]<br>Lv. 26<ul><li>Magical Leaf</li><li>Sludge ^1</li><li>Spikes</li><li>Toxic Spikes</li></ul> | ![][070]<br>[Weepinbell]<br>Lv. 26<ul><li>Razor Leaf</li><li>Sweet Scent</li><li>Gastro Acid</li><li>Leech Life</li></ul> 
+Lass Samantha :material-numeric-5-circle-outline: | ![][404]<br>[Luxio]<br>Lv. 38<ul><li>Fire Fang</li><li>Roar</li><li>Crunch</li><li>Swagger</li></ul> | ![][315]<br>[Roselia]<br>Lv. 38<ul><li>Giga Drain</li><li>Sweet Scent</li><li>Sludge Bomb</li><li>Ingrain</li></ul> | ![][070]<br>[Weepinbell]<br>Lv. 38<ul><li>Leech Life</li><li>Poison Jab</li><li>Seed Bomb</li><li>Knock Off</li></ul> 
+Lass Samantha :material-alpha-c-circle-outline:   | ![][405]<br>[Luxray]<br>Lv. 70<ul><li>Wild Charge</li><li>Scary Face</li><li>Discharge</li><li>Sucker Punch ^1</li></ul> | ![][407]<br>[Roserade]<br>Lv. 70<ul><li>Mega Drain</li><li>Magical Leaf</li><li>Sweet Scent</li><li>Leaf Storm</li></ul> | ![][071]<br>[Victreebel]<br>Lv. 70<ul><li>Razor Leaf</li><li>Leaf Blade</li><li>Power Whip</li><li>Leaf Storm</li></ul> 
 
 ## Wild Pokémon
 

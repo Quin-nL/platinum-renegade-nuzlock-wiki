@@ -4,16 +4,16 @@
 
 Trainer                                 | 1                                | 2                               | 3
 ---                                     | ---                              | ---                             | ---
-:repeat: [Fisherman Joseph](#rematches) | ![][118]<br>[Goldeen]<br>Lv. 18  | ![][060]<br>[Poliwag]<br>Lv. 18 | ![][341]<br>[Corphish]<br>Lv. 18
-Fisherman Andrew                        | ![][129]<br>[Magikarp]<br>Lv. 18 | ![][349]<br>[Feebas]<br>Lv. 18  | ![][129]<br>[Magikarp]<br>Lv. 18
-Fisherman Zachary                       | ![][098]<br>[Krabby]<br>Lv. 19   | ![][456]<br>[Finneon]<br>Lv. 19 | &nbsp;
+:repeat: [Fisherman Joseph](#rematches) | ![][118]<br>[Goldeen]<br>Lv. 18<ul><li>Horn Attack</li><li>Flail</li><li>Water Pulse</li><li>Aqua Ring</li></ul> | ![][060]<br>[Poliwag]<br>Lv. 18<ul><li>Water Gun</li><li>Double Slap</li><li>Rain Dance</li><li>Bubble Beam</li></ul> | ![][341]<br>[Corphish]<br>Lv. 18<ul><li>Aqua Jet</li><li>Protect</li><li>Bubble Beam</li><li>Double Hit</li></ul> 
+Fisherman Andrew                        | ![][129]<br>[Magikarp]<br>Lv. 18<ul><li>Splash</li><li>Tackle</li><li>Flail</li><li>Bounce</li></ul> | ![][349]<br>[Feebas]<br>Lv. 18<ul><li>Splash</li><li>Tackle</li><li>Flail</li><li>Water Pulse</li></ul> | ![][129]<br>[Magikarp]<br>Lv. 18<ul><li>Splash</li><li>Tackle</li><li>Flail</li><li>Bounce</li></ul> 
+Fisherman Zachary                       | ![][098]<br>[Krabby]<br>Lv. 19<ul><li>Leer</li><li>Mud Shot</li><li>Bubble Beam</li><li>Metal Claw</li></ul> | ![][456]<br>[Finneon]<br>Lv. 19<ul><li>Attract</li><li>Rain Dance</li><li>Gust</li><li>Water Pulse</li></ul> | &nbsp;
 
 ### Rematches
 
 Trainer                                              | 1                               | 2                                 | 3
 ---                                                  | ---                             | ---                               | ---
-Fisherman Joseph :material-numeric-5-circle-outline: | ![][119]<br>[Seaking]<br>Lv. 38 | ![][061]<br>[Poliwhirl]<br>Lv. 38 | ![][342]<br>[Crawdaunt]<br>Lv. 38
-Fisherman Joseph :material-alpha-c-circle-outline:   | ![][119]<br>[Seaking]<br>Lv. 70 | ![][186]<br>[Politoed]<br>Lv. 70  | ![][342]<br>[Crawdaunt]<br>Lv. 70
+Fisherman Joseph :material-numeric-5-circle-outline: | ![][119]<br>[Seaking]<br>Lv. 38<ul><li>Agility</li><li>Body Slam</li><li>Aqua Tail</li><li>Knock Off</li></ul> | ![][061]<br>[Poliwhirl]<br>Lv. 38<ul><li>Body Slam</li><li>Low Kick</li><li>Belly Drum</li><li>Mud Bomb</li></ul> | ![][342]<br>[Crawdaunt]<br>Lv. 38<ul><li>Switcheroo</li><li>Swift</li><li>Knock Off</li><li>Swords Dance</li></ul> 
+Fisherman Joseph :material-alpha-c-circle-outline:   | ![][119]<br>[Seaking]<br>Lv. 70<ul><li>Drill Run</li><li>Bounce</li><li>Megahorn</li><li>Hydro Pump</li></ul> | ![][186]<br>[Politoed]<br>Lv. 70<ul><li>Perish Song</li><li>Swagger</li><li>Bounce</li><li>Hyper Voice</li></ul> | ![][342]<br>[Crawdaunt]<br>Lv. 70<ul><li>Payback</li><li>Dragon Dance</li><li>Superpower</li><li>Guillotine</li></ul> 
 
 ## Wild Pokémon
 

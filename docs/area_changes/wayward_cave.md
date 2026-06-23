@@ -5,16 +5,16 @@
 Trainer                          | 1                                | 2                                 | 3                                | 4
 ---                              | ---                              | ---                               | ---                              | ---
 [PKMN Trainer Mira]<br>![][mira] | ![][176]<br>[Togetic]<br>Lv. 27  | ![][093]<br>[Haunter]<br>Lv. 27   | ![][233]<br>[Porygon2]<br>Lv. 27 | ![][064]<br>[Kadabra]<br>Lv. 28
-Hiker Reginald                   | ![][051]<br>[Dugtrio]<br>Lv. 26  | &nbsp;                            | &nbsp;                           | &nbsp;
-Hiker Lorenzo                    | ![][111]<br>[Rhyhorn]<br>Lv. 25  | ![][185]<br>[Sudowoodo]<br>Lv. 25 | &nbsp;                           | &nbsp;
-Lass Cassidy                     | ![][300]<br>[Skitty]<br>Lv. 24   | ![][052]<br>[Meowth]<br>Lv. 24    | ![][133]<br>[Eevee]<br>Lv. 24    | &nbsp;
-Youngster Wayne                  | ![][294]<br>[Loudred]<br>Lv. 25  | ![][020]<br>[Raticate]<br>Lv. 25  | &nbsp;                           | &nbsp;
-Picnicker Tori                   | ![][054]<br>[Psyduck]<br>Lv. 25  | ![][030]<br>[Nidorina]<br>Lv. 25  | &nbsp;                           | &nbsp;
-Camper Diego                     | ![][190]<br>[Aipom]<br>Lv. 25    | ![][033]<br>[Nidorino]<br>Lv. 25  | &nbsp;                           | &nbsp;
-Picnicker Ana                    | ![][314]<br>[Illumise]<br>Lv. 25 | ![][162]<br>[Furret]<br>Lv. 25    | &nbsp;                           | &nbsp;
-Camper Parker                    | ![][313]<br>[Volbeat]<br>Lv. 25  | ![][264]<br>[Linoone]<br>Lv. 25   | &nbsp;                           | &nbsp;
-Collector Terry                  | ![][443]<br>[Gible]<br>Lv. 24    | ![][371]<br>[Bagon]<br>Lv. 24     | ![][444]<br>[Gabite]<br>Lv. 24   | &nbsp;
-Ruin Maniac Gerald               | ![][104]<br>[Cubone]<br>Lv. 25   | ![][476]<br>[Probopass]<br>Lv. 25 | &nbsp;                           | &nbsp;
+Hiker Reginald                   | ![][051]<br>[Dugtrio]<br>Lv. 26<ul><li>Dig</li><li>Sucker Punch</li><li>Mud Bomb</li><li>Tri Attack</li></ul> | &nbsp;                            | &nbsp;                           | &nbsp;
+Hiker Lorenzo                    | ![][111]<br>[Rhyhorn]<br>Lv. 25<ul><li>Rock Blast</li><li>Magnitude</li><li>Take Down</li><li>Drill Run</li></ul> | ![][185]<br>[Sudowoodo]<br>Lv. 25<ul><li>Mimic</li><li>Slam</li><li>Feint Attack</li><li>Rollout</li></ul> | &nbsp;                           | &nbsp;
+Lass Cassidy                     | ![][300]<br>[Skitty]<br>Lv. 24<ul><li>Covet</li><li>Copycat</li><li>Feint Attack</li><li>Wake-Up Slap</li></ul> | ![][052]<br>[Meowth]<br>Lv. 24<ul><li>Pay Day</li><li>Feint Attack</li><li>Slash</li><li>Night Slash</li></ul> | ![][133]<br>[Eevee]<br>Lv. 24<ul><li>Baton Pass</li><li>Swift</li><li>Refresh</li><li>Wish</li></ul> | &nbsp;
+Youngster Wayne                  | ![][294]<br>[Loudred]<br>Lv. 25<ul><li>Stomp</li><li>Supersonic</li><li>Bite</li><li>Extrasensory</li></ul> | ![][020]<br>[Raticate]<br>Lv. 25<ul><li>Hyper Fang</li><li>Assurance</li><li>Scary Face</li><li>Super Fang</li></ul> | &nbsp;                           | &nbsp;
+Picnicker Tori                   | ![][054]<br>[Psyduck]<br>Lv. 25<ul><li>Water Pulse</li><li>Disable</li><li>Zen Headbutt</li><li>Screech</li></ul> | ![][030]<br>[Nidorina]<br>Lv. 25<ul><li>Poison Fang</li><li>Bite</li><li>Helping Hand</li><li>Toxic Spikes</li></ul> | &nbsp;                           | &nbsp;
+Camper Diego                     | ![][190]<br>[Aipom]<br>Lv. 25<ul><li>Pursuit</li><li>Fury Swipes</li><li>Covet</li><li>Swift</li></ul> | ![][033]<br>[Nidorino]<br>Lv. 25<ul><li>Poison Fang</li><li>Horn Attack</li><li>Helping Hand</li><li>Toxic Spikes</li></ul> | &nbsp;                           | &nbsp;
+Picnicker Ana                    | ![][314]<br>[Illumise]<br>Lv. 25<ul><li>Silver Wind</li><li>Draining Kiss ^1</li><li>Moonlight</li><li>Encore</li></ul> | ![][162]<br>[Furret]<br>Lv. 25<ul><li>Follow Me</li><li>Agility</li><li>Rest</li><li>Flame Wheel ^1</li></ul> | &nbsp;                           | &nbsp;
+Camper Parker                    | ![][313]<br>[Volbeat]<br>Lv. 25<ul><li>Bug Bite</li><li>Charge Beam</li><li>Moonlight</li><li>Signal Beam</li></ul> | ![][264]<br>[Linoone]<br>Lv. 25<ul><li>Headbutt</li><li>Fury Swipes</li><li>Mud Sport</li><li>Slash</li></ul> | &nbsp;                           | &nbsp;
+Collector Terry                  | ![][443]<br>[Gible]<br>Lv. 24<ul><li>Take Down</li><li>Dragon Rage</li><li>Sandstorm</li><li>Dig</li></ul> | ![][371]<br>[Bagon]<br>Lv. 24<ul><li>Dragon Breath</li><li>Headbutt</li><li>Focus Energy</li><li>Dragon Claw</li></ul> | ![][444]<br>[Gabite]<br>Lv. 24<ul><li>Take Down</li><li>Dragon Rage</li><li>Sandstorm</li><li>Dig</li></ul> | &nbsp;
+Ruin Maniac Gerald               | ![][104]<br>[Cubone]<br>Lv. 25<ul><li>Rage</li><li>Bonemerang</li><li>False Swipe</li><li>Knock Off</li></ul> | ![][476]<br>[Probopass]<br>Lv. 25<ul><li>Rock Slide</li><li>Rest</li><li>Power Gem</li><li>Discharge</li></ul> | &nbsp;                           | &nbsp;
 
 ### PKMN Trainer Mira
 

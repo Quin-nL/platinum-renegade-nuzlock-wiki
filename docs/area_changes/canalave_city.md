@@ -17,8 +17,6 @@
     ---                                | ---                               | ---                               | ---                             | ---                               | ---                              | ---
     [PKMN Trainer Barry]<br>![][barry] | ![][398]<br>[Staraptor]<br>Lv. 48 | ![][214]<br>[Heracross]<br>Lv. 48 | ![][143]<br>[Snorlax]<br>Lv. 48 | ![][184]<br>[Azumarill]<br>Lv. 48 | ![][059]<br>[Arcanine]<br>Lv. 48 | ![][389]<br>[Torterra]<br>Lv. 49
 
-
-
 ### PKMN Trainer Barry
 
 === "Grass"

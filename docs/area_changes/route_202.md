@@ -32,17 +32,17 @@
 
 Trainer                                  | 1                                | 2                             | 3
 ---                                      | ---                              | ---                           | ---
-Lass Natalie                             | ![][161]<br>[Sentret]<br>Lv. 7   | ![][399]<br>[Bidoof]<br>Lv. 7 | &nbsp;
-:repeat: [Youngster Tristan](#rematches) | ![][163]<br>[Hoothoot]<br>Lv. 7  | ![][396]<br>[Starly]<br>Lv. 7 | &nbsp;
-Youngster Logan                          | ![][058]<br>[Growlithe]<br>Lv. 7 | ![][412]<br>[Burmy]<br>Lv. 7  | ![][263]<br>[Zigzagoon]<br>Lv. 7
+Lass Natalie                             | ![][161]<br>[Sentret]<br>Lv. 7<ul><li>Foresight</li><li>Defense Curl</li><li>Quick Attack</li><li>Fury Swipes</li></ul> | ![][399]<br>[Bidoof]<br>Lv. 7<ul><li>Tackle</li><li>Growl</li><li>Defense Curl</li></ul> | &nbsp;
+:repeat: [Youngster Tristan](#rematches) | ![][163]<br>[Hoothoot]<br>Lv. 7<ul><li>Growl</li><li>Foresight</li><li>Peck</li><li>Hypnosis</li></ul> | ![][396]<br>[Starly]<br>Lv. 7<ul><li>Tackle</li><li>Growl</li><li>Quick Attack</li></ul> | &nbsp;
+Youngster Logan                          | ![][058]<br>[Growlithe]<br>Lv. 7<ul><li>Leer</li><li>Roar</li><li>Howl</li><li>Ember</li></ul> | ![][412]<br>[Burmy]<br>Lv. 7<ul><li>Protect</li><li>Tackle</li><li>Bug Bite</li><li>Hidden Power</li></ul> | ![][263]<br>[Zigzagoon]<br>Lv. 7<ul><li>Growl</li><li>Tail Whip</li><li>Sand Attack</li><li>Covet</li></ul> 
 
 ### Rematches
 
 Trainer                                               | 1                               | 2                                 | 3
 ---                                                   | ---                             | ---                               | ---
-Youngster Tristan :material-numeric-3-circle-outline: | ![][164]<br>[Noctowl]<br>Lv. 27 | ![][397]<br>[Staravia]<br>Lv. 27  | &nbsp;
-Youngster Tristan :material-numeric-5-circle-outline: | ![][164]<br>[Noctowl]<br>Lv. 39 | ![][398]<br>[Staraptor]<br>Lv. 39 | &nbsp;
-Youngster Tristan :material-numeric-8-circle-outline: | ![][164]<br>[Noctowl]<br>Lv. 59 | ![][398]<br>[Staraptor]<br>Lv. 59 | ![][018]<br>[Pidgeot]<br>Lv. 59
+Youngster Tristan :material-numeric-3-circle-outline: | ![][164]<br>[Noctowl]<br>Lv. 27<ul><li>Uproar</li><li>Extrasensory</li><li>Psycho Shift</li><li>Air Slash</li></ul> | ![][397]<br>[Staravia]<br>Lv. 27<ul><li>Foresight</li><li>Aerial Ace</li><li>Facade</li><li>Endeavor</li></ul> | &nbsp;
+Youngster Tristan :material-numeric-5-circle-outline: | ![][164]<br>[Noctowl]<br>Lv. 39<ul><li>Air Slash</li><li>Reflect</li><li>Psychic</li><li>Zen Headbutt</li></ul> | ![][398]<br>[Staraptor]<br>Lv. 39<ul><li>Endeavor</li><li>Whirlwind</li><li>Close Combat</li><li>Take Down</li></ul> | &nbsp;
+Youngster Tristan :material-numeric-8-circle-outline: | ![][164]<br>[Noctowl]<br>Lv. 59<ul><li>Moonblast</li><li>Roost</li><li>Dream Eater</li><li>Hurricane</li></ul> | ![][398]<br>[Staraptor]<br>Lv. 59<ul><li>Roost</li><li>Agility</li><li>Brave Bird</li><li>Double-Edge</li></ul> | ![][018]<br>[Pidgeot]<br>Lv. 59<ul><li>Whirlwind</li><li>Tailwind</li><li>Mirror Move</li><li>Hurricane</li></ul> 
 
 ### Master Trainer
 

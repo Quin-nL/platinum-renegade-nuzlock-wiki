@@ -4,8 +4,8 @@
 
 Trainer        | 1                               | 2                                | 3
 ---            | ---                             | ---                              | ---
-Galactic Grunt | ![][042]<br>[Golbat]<br>Lv. 55  | ![][229]<br>[Houndoom]<br>Lv. 55 | ![][469]<br>[Yanmega]<br>Lv. 55
-Galactic Grunt | ![][168]<br>[Ariados]<br>Lv. 55 | ![][053]<br>[Persian]<br>Lv. 55  | ![][205]<br>[Forretress]<br>Lv. 55
+Galactic Grunt | ![][042]<br>[Golbat]<br>Lv. 55<ul><li>Haze</li><li>Zen Headbutt</li><li>Nasty Plot</li><li>Brave Bird</li></ul> | ![][229]<br>[Houndoom]<br>Lv. 55<ul><li>Flamethrower</li><li>Dark Pulse</li><li>Embargo</li><li>Nasty Plot</li></ul> | ![][469]<br>[Yanmega]<br>Lv. 55<ul><li>Pursuit</li><li>U-turn</li><li>Screech</li><li>Bug Buzz</li></ul> 
+Galactic Grunt | ![][168]<br>[Ariados]<br>Lv. 55<ul><li>Cross Poison</li><li>Agility</li><li>Psychic</li><li>Megahorn</li></ul> | ![][053]<br>[Persian]<br>Lv. 55<ul><li>Play Rough</li><li>Captivate</li><li>Feint</li><li>Double-Edge</li></ul> | ![][205]<br>[Forretress]<br>Lv. 55<ul><li>Explosion</li><li>Iron Defense</li><li>Double-Edge</li><li>Magnet Rise</li></ul> 
 
 ## Wild Pokémon
 

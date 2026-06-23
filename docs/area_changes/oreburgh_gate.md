@@ -4,9 +4,9 @@
 
 Trainer         | 1                               | 2                               | 3
 ---             | ---                             | ---                             | ---
-Camper Curtis   | ![][273]<br>[Seedot]<br>Lv. 10  | ![][050]<br>[Diglett]<br>Lv. 10 | &nbsp;
-Picnicker Diana | ![][293]<br>[Whismur]<br>Lv. 10 | ![][194]<br>[Wooper]<br>Lv. 10  | &nbsp;
-Veteran Grant   | ![][448]<br>[Lucario]<br>Lv. 45 | ![][076]<br>[Golem]<br>Lv. 45   | ![][398]<br>[Staraptor]<br>Lv. 45
+Camper Curtis   | ![][273]<br>[Seedot]<br>Lv. 10<ul><li>Harden</li><li>Growth</li><li>Bullet Seed</li><li>Nature Power</li></ul> | ![][050]<br>[Diglett]<br>Lv. 10<ul><li>Mud-Slap</li><li>Growl</li><li>Astonish</li><li>Bulldoze</li></ul> | &nbsp;
+Picnicker Diana | ![][293]<br>[Whismur]<br>Lv. 10<ul><li>Howl</li><li>Disarming Voice</li><li>Astonish</li><li>Uproar</li></ul> | ![][194]<br>[Wooper]<br>Lv. 10<ul><li>Tail Whip</li><li>Mud Sport</li><li>Mud Shot</li><li>Slam</li></ul> | &nbsp;
+Veteran Grant   | ![][448]<br>[Lucario]<br>Lv. 45<ul><li>Me First</li><li>Dragon Pulse</li><li>Blaze Kick</li><li>Close Combat</li></ul> | ![][076]<br>[Golem]<br>Lv. 45<ul><li>Stealth Rock</li><li>Earthquake</li><li>Rock Blast</li><li>Explosion</li></ul> | ![][398]<br>[Staraptor]<br>Lv. 45<ul><li>Close Combat</li><li>Take Down</li><li>Roost</li><li>Agility</li></ul> 
 
 ### Master Trainer
 

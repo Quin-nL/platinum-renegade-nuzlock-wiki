@@ -4,7 +4,7 @@
 
 Trainer                             | 1                                | 2                                 | 3                                 | 4
 ---                                 | ---                              | ---                               | ---                               | ---
-Galactic Grunt                      | ![][229]<br>[Houndoom]<br>Lv. 43 | ![][042]<br>[Golbat]<br>Lv. 43    | ![][015]<br>[Beedrill]<br>Lv. 43  | &nbsp;
+Galactic Grunt                      | ![][229]<br>[Houndoom]<br>Lv. 43<ul><li>Crunch</li><li>Flamethrower</li><li>Dark Pulse</li><li>Embargo</li></ul> | ![][042]<br>[Golbat]<br>Lv. 43<ul><li>Hypnosis</li><li>Air Slash</li><li>Haze</li><li>Zen Headbutt</li></ul> | ![][015]<br>[Beedrill]<br>Lv. 43<ul><li>Drill Run</li><li>Agility</li><li>Endeavor</li><li>Outrage</li></ul> | &nbsp;
 [Galactic Boss Cyrus]<br>![][cyrus] | ![][169]<br>[Crobat]<br>Lv. 45   | ![][430]<br>[Honchkrow]<br>Lv. 45 | ![][462]<br>[Magnezone]<br>Lv. 45 | ![][461]<br>[Weavile]<br>Lv. 46
 
 ### Galactic Boss Cyrus
@@ -15,8 +15,6 @@ Galactic Grunt                      | ![][229]<br>[Houndoom]<br>Lv. 43 | ![][042
 ![][430]<br>[Honchkrow]<br>Lv. 45 | ![][scope-lens]<br>Scope Lens     | ?      | Super Luck      | <ul><li>Brave Bird</li><li>Night Slash</li><li>Swagger</li><li>Torment</li></ul>
 ![][462]<br>[Magnezone]<br>Lv. 45 | ![][life-orb]<br>Life Orb         | ?      | Magnet Pull     | <ul><li>Thunderbolt</li><li>Flash Cannon</li><li>Thunder Wave</li><li>Mirror Coat</li></ul>
 ![][461]<br>[Weavile]<br>Lv. 46   | ![][expert-belt]<br>Expert Belt   | ?      | Technician [^1] | <ul><li>Feint Attack</li><li>Icicle Crash</li><li>Ice Shard</li><li>Swords Dance</li></ul>
-
-
 
 ### Master Trainer
 

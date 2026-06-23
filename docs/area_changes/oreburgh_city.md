@@ -2,9 +2,8 @@
 
 Trainer                              | 1                                | 2                               | 3                                  | 4                               | 5                               | 6
 ---                                  | ---                              | ---                             | ---                                | ---                             | ---                             | ---
-Reporter Helen                       | ![][252]<br>[Treecko]<br>Lv. 10  | ![][255]<br>[Torchic]<br>Lv. 10 | ![][258]<br>[Mudkip]<br>Lv. 10     | &nbsp;                          | &nbsp;                          | &nbsp;
+Reporter Helen                       | ![][252]<br>[Treecko]<br>Lv. 10<ul><li>Pound</li><li>Leer</li><li>Absorb</li><li>Quick Attack</li></ul> | ![][255]<br>[Torchic]<br>Lv. 10<ul><li>Scratch</li><li>Growl</li><li>Ember</li><li>Sand Attack</li></ul> | ![][258]<br>[Mudkip]<br>Lv. 10<ul><li>Tackle</li><li>Growl</li><li>Water Gun</li><li>Mud-Slap</li></ul> | &nbsp;                          | &nbsp;                          | &nbsp;
 [PKMN Trainer Steven]<br>![][steven] | ![][227]<br>[Skarmory]<br>Lv. 88 | ![][306]<br>[Aggron]<br>Lv. 88  | ![][142]<br>[Aerodactyl]<br>Lv. 88 | ![][346]<br>[Cradily]<br>Lv. 88 | ![][348]<br>[Armaldo]<br>Lv. 88 | ![][376]<br>[Metagross]<br>Lv. 89
-
 
 ## PKMN Trainer Steven
 

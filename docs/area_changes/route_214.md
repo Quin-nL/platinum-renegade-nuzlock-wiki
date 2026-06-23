@@ -4,26 +4,26 @@
 
 Trainer                                 | 1                                  | 2                                | 3
 ---                                     | ---                                | ---                              | ---
-:repeat: [PI Carlos](#rematches)        | ![][051]<br>[Dugtrio]<br>Lv. 36    | &nbsp;                           | &nbsp;
-Collector Douglas                       | ![][135]<br>[Jolteon]<br>Lv. 33    | ![][134]<br>[Vaporeon]<br>Lv. 33 | ![][136]<br>[Flareon]<br>Lv. 33
-Collector Brady                         | ![][115]<br>[Kangaskhan]<br>Lv. 33 | ![][357]<br>[Tropius]<br>Lv. 33  | ![][317]<br>[Swalot]<br>Lv. 33
-Ruin Maniac Bryan                       | ![][347]<br>[Anorith]<br>Lv. 33    | ![][345]<br>[Lileep]<br>Lv. 33   | ![][142]<br>[Aerodactyl]<br>Lv. 33
-Ruin Maniac Ronald                      | ![][369]<br>[Relicanth]<br>Lv. 35  | &nbsp;                           | &nbsp;
-Collector Jamal                         | ![][131]<br>[Lapras]<br>Lv. 35     | &nbsp;                           | &nbsp;
-Beauty Devon                            | ![][413]<br>[Wormadam]<br>Lv. 33   | ![][413]<br>[Wormadam]<br>Lv. 33 | ![][413]<br>[Wormadam]<br>Lv. 33
-:repeat: [Psychic Mitchell](#rematches) | ![][064]<br>[Kadabra]<br>Lv. 34    | ![][326]<br>[Grumpig]<br>Lv. 34  | ![][097]<br>[Hypno]<br>Lv. 34
-:repeat: [Psychic Abigail](#rematches)  | ![][281]<br>[Kirlia]<br>Lv. 34     | ![][358]<br>[Chimecho]<br>Lv. 34 | ![][203]<br>[Girafarig]<br>Lv. 34
+:repeat: [PI Carlos](#rematches)        | ![][051]<br>[Dugtrio]<br>Lv. 36<ul><li>Mud Bomb</li><li>Tri Attack</li><li>Rock Slide</li><li>Earth Power</li></ul> | &nbsp;                           | &nbsp;
+Collector Douglas                       | ![][135]<br>[Jolteon]<br>Lv. 33<ul><li>Thunder Fang</li><li>Discharge</li><li>Extrasensory ^1</li><li>Agility</li></ul> | ![][134]<br>[Vaporeon]<br>Lv. 33<ul><li>Aqua Ring</li><li>Scald</li><li>Extrasensory ^1</li><li>Acid Armor</li></ul> | ![][136]<br>[Flareon]<br>Lv. 33<ul><li>Flame Wheel ^1</li><li>Lava Plume</li><li>Play Rough ^1</li><li>Scary Face</li></ul> 
+Collector Brady                         | ![][115]<br>[Kangaskhan]<br>Lv. 33<ul><li>Mega Punch</li><li>Dizzy Punch</li><li>Crunch</li><li>Body Slam</li></ul> | ![][357]<br>[Tropius]<br>Lv. 33<ul><li>Nature Power</li><li>Body Slam</li><li>Air Slash</li><li>Energy Ball</li></ul> | ![][317]<br>[Swalot]<br>Lv. 33<ul><li>Pain Split</li><li>Body Slam</li><li>Sludge Bomb</li><li>Toxic</li></ul> 
+Ruin Maniac Bryan                       | ![][347]<br>[Anorith]<br>Lv. 33<ul><li>Metal Claw</li><li>Water Pulse</li><li>X-Scissor</li><li>Slash</li></ul> | ![][345]<br>[Lileep]<br>Lv. 33<ul><li>Giga Drain</li><li>Gastro Acid</li><li>Amnesia</li><li>Earth Power</li></ul> | ![][142]<br>[Aerodactyl]<br>Lv. 33<ul><li>Ancient Power</li><li>Crunch</li><li>Rock Slide</li><li>Take Down</li></ul> 
+Ruin Maniac Ronald                      | ![][369]<br>[Relicanth]<br>Lv. 35<ul><li>Magnitude</li><li>Aqua Tail</li><li>Rest</li><li>Zen Headbutt</li></ul> | &nbsp;                           | &nbsp;
+Collector Jamal                         | ![][131]<br>[Lapras]<br>Lv. 35<ul><li>Ice Beam</li><li>Bubble Beam</li><li>Safeguard</li><li>Dragon Pulse</li></ul> | &nbsp;                           | &nbsp;
+Beauty Devon                            | ![][413]<br>[Wormadam]<br>Lv. 33<ul><li>Confusion</li><li>Bug Buzz</li><li>Growth</li><li>Energy Ball</li></ul> | ![][413]<br>[Wormadam]<br>Lv. 33<ul><li>Confusion</li><li>Bug Buzz</li><li>Growth</li><li>Energy Ball</li></ul> | ![][413]<br>[Wormadam]<br>Lv. 33<ul><li>Confusion</li><li>Bug Buzz</li><li>Growth</li><li>Energy Ball</li></ul> 
+:repeat: [Psychic Mitchell](#rematches) | ![][064]<br>[Kadabra]<br>Lv. 34<ul><li>Reflect</li><li>Light Screen</li><li>Psycho Cut</li><li>Recover</li></ul> | ![][326]<br>[Grumpig]<br>Lv. 34<ul><li>Rest</li><li>Snore</li><li>Sleep Talk</li><li>Teeter Dance</li></ul> | ![][097]<br>[Hypno]<br>Lv. 34<ul><li>Psycho Cut</li><li>Wake-Up Slap</li><li>Psych Up</li><li>Zen Headbutt</li></ul> 
+:repeat: [Psychic Abigail](#rematches)  | ![][281]<br>[Kirlia]<br>Lv. 34<ul><li>Magical Leaf</li><li>Hypnosis</li><li>Psychic</li><li>Calm Mind</li></ul> | ![][358]<br>[Chimecho]<br>Lv. 34<ul><li>Extrasensory</li><li>Heal Bell</li><li>Safeguard</li><li>Psychic</li></ul> | ![][203]<br>[Girafarig]<br>Lv. 34<ul><li>Uproar</li><li>Zen Headbutt</li><li>Magic Coat</li><li>Crunch</li></ul> 
 
 ### Rematches
 
 Trainer                                              | 1                                 | 2                                | 3
 ---                                                  | ---                               | ---                              | ---
-PI Carlos :material-numeric-8-circle-outline:        | ![][051]<br>[Dugtrio]<br>Lv. 62   | &nbsp;                           | &nbsp;
-PI Carlos :material-alpha-c-circle-outline:          | ![][051]<br>[Dugtrio]<br>Lv. 70   | ![][131]<br>[Lapras]<br>Lv. 70   | ![][099]<br>[Kingler]<br>Lv. 70
-Psychic Mitchell :material-numeric-8-circle-outline: | ![][065]<br>[Alakazam]<br>Lv. 60  | ![][326]<br>[Grumpig]<br>Lv. 60  | ![][097]<br>[Hypno]<br>Lv. 60
-Psychic Mitchell :material-alpha-c-circle-outline:   | ![][065]<br>[Alakazam]<br>Lv. 72  | ![][326]<br>[Grumpig]<br>Lv. 72  | ![][097]<br>[Hypno]<br>Lv. 72
-Psychic Abigail :material-numeric-8-circle-outline:  | ![][282]<br>[Gardevoir]<br>Lv. 60 | ![][358]<br>[Chimecho]<br>Lv. 60 | ![][203]<br>[Girafarig]<br>Lv. 60
-Psychic Abigail :material-alpha-c-circle-outline:    | ![][282]<br>[Gardevoir]<br>Lv. 72 | ![][358]<br>[Chimecho]<br>Lv. 72 | ![][203]<br>[Girafarig]<br>Lv. 72
+PI Carlos :material-numeric-8-circle-outline:        | ![][051]<br>[Dugtrio]<br>Lv. 62<ul><li>Night Slash</li><li>Earthquake</li><li>Memento</li><li>Fissure</li></ul> | &nbsp;                           | &nbsp;
+PI Carlos :material-alpha-c-circle-outline:          | ![][051]<br>[Dugtrio]<br>Lv. 70<ul><li>Night Slash</li><li>Earthquake</li><li>Memento</li><li>Fissure</li></ul> | ![][131]<br>[Lapras]<br>Lv. 70<ul><li>Avalanche</li><li>Megahorn</li><li>Hydro Pump</li><li>Sheer Cold</li></ul> | ![][099]<br>[Kingler]<br>Lv. 70<ul><li>Slam</li><li>X-Scissor</li><li>Agility</li><li>Flail</li></ul> 
+Psychic Mitchell :material-numeric-8-circle-outline: | ![][065]<br>[Alakazam]<br>Lv. 60<ul><li>Future Sight</li><li>Substitute</li><li>Trick</li><li>Aura Sphere ^1</li></ul> | ![][326]<br>[Grumpig]<br>Lv. 60<ul><li>Payback</li><li>Bounce</li><li>Future Sight</li><li>Trick</li></ul> | ![][097]<br>[Hypno]<br>Lv. 60<ul><li>Drain Punch</li><li>Nasty Plot</li><li>Guard Swap</li><li>Future Sight</li></ul> 
+Psychic Mitchell :material-alpha-c-circle-outline:   | ![][065]<br>[Alakazam]<br>Lv. 72<ul><li>Future Sight</li><li>Substitute</li><li>Trick</li><li>Aura Sphere ^1</li></ul> | ![][326]<br>[Grumpig]<br>Lv. 72<ul><li>Payback</li><li>Bounce</li><li>Future Sight</li><li>Trick</li></ul> | ![][097]<br>[Hypno]<br>Lv. 72<ul><li>Drain Punch</li><li>Nasty Plot</li><li>Guard Swap</li><li>Future Sight</li></ul> 
+Psychic Abigail :material-numeric-8-circle-outline:  | ![][282]<br>[Gardevoir]<br>Lv. 60<ul><li>Imprison</li><li>Captivate</li><li>Future Sight</li><li>Dream Eater</li></ul> | ![][358]<br>[Chimecho]<br>Lv. 60<ul><li>Double-Edge</li><li>Recover</li><li>Hyper Voice</li><li>Healing Wish</li></ul> | ![][203]<br>[Girafarig]<br>Lv. 60<ul><li>Psychic</li><li>Baton Pass</li><li>Hyper Voice</li><li>Nasty Plot</li></ul> 
+Psychic Abigail :material-alpha-c-circle-outline:    | ![][282]<br>[Gardevoir]<br>Lv. 72<ul><li>Imprison</li><li>Captivate</li><li>Future Sight</li><li>Dream Eater</li></ul> | ![][358]<br>[Chimecho]<br>Lv. 72<ul><li>Double-Edge</li><li>Recover</li><li>Hyper Voice</li><li>Healing Wish</li></ul> | ![][203]<br>[Girafarig]<br>Lv. 72<ul><li>Psychic</li><li>Baton Pass</li><li>Hyper Voice</li><li>Nasty Plot</li></ul> 
 
 ## Wild Pokémon
 

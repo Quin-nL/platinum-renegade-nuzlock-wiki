@@ -2,9 +2,8 @@
 
 Trainer                             | 1                              | 2                                 | 3                                | 4                                | 5                                 | 6
 ---                                 | ---                            | ---                               | ---                              | ---                              | ---                               | ---
-[Galactic Boss Cyrus]<br>![][cyrus] | ![][484]<br>[Palkia]<br>Lv. 70 | ![][483]<br>[Dialga]<br>Lv. 70    | &nbsp;                           | &nbsp;                           | &nbsp;                            | &nbsp;
-[Galactic Boss Cyrus]<br>![][cyrus] | ![][169]<br>[Crobat]<br>Lv. 59 | ![][430]<br>[Honchkrow]<br>Lv. 59 | ![][229]<br>[Houndoom]<br>Lv. 59 | ![][130]<br>[Gyarados]<br>Lv. 59 | ![][462]<br>[Magnezone]<br>Lv. 59 | ![][461]<br>[Weavile]<br>Lv. 60
-
+[Galactic Boss Cyrus]<br>![][cyrus] | ![][484]<br>[Palkia]<br>Lv. 70<ul><li>Aura Sphere</li><li>Earth Power</li><li>Hydro Pump</li><li>Spacial Rend</li></ul> | ![][483]<br>[Dialga]<br>Lv. 70<ul><li>Aura Sphere</li><li>Earth Power</li><li>Flash Cannon</li><li>Roar of Time</li></ul> | &nbsp;                           | &nbsp;                           | &nbsp;                            | &nbsp;
+[Galactic Boss Cyrus]<br>![][cyrus] | ![][169]<br>[Crobat]<br>Lv. 59<ul><li>Haze</li><li>Zen Headbutt</li><li>Nasty Plot</li><li>Brave Bird</li></ul> | ![][430]<br>[Honchkrow]<br>Lv. 59<ul><li>Dark Pulse</li><li>Night Slash</li><li>Nasty Plot</li><li>Brave Bird</li></ul> | ![][229]<br>[Houndoom]<br>Lv. 59<ul><li>Flamethrower</li><li>Dark Pulse</li><li>Embargo</li><li>Nasty Plot</li></ul> | ![][130]<br>[Gyarados]<br>Lv. 59<ul><li>Hydro Pump</li><li>Rain Dance</li><li>Hurricane</li><li>Hyper Beam</li></ul> | ![][462]<br>[Magnezone]<br>Lv. 59<ul><li>Lock-On</li><li>Magnet Rise</li><li>Gyro Ball</li><li>Zap Cannon</li></ul> | ![][461]<br>[Weavile]<br>Lv. 60<ul><li>Icicle Crash</li><li>Snatch</li><li>Punishment</li><li>Dark Pulse</li></ul> 
 
 ## Galactic Boss Cyrus
 Both Battles are back to back

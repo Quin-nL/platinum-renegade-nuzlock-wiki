@@ -19,7 +19,6 @@
 
 ### PKMN Trainer Barry
 
-
 === "Grass"
     ![][barry]                        | Item                              | Nature | Ability    | Moves
     ---                               | ---                               | ---    | ---        | ---

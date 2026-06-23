@@ -17,7 +17,6 @@ Trainer                             | 1                                | 2      
 ![][272]<br>[Ludicolo]<br>Lv. 63 | ![][life-orb]<br>Life Orb         | ?      | Swift Swim     | <ul><li>Hydro Pump</li><li>Giga Drain</li><li>Ice Beam</li><li>Fake Out</li></ul>
 ![][145]<br>[Zapdos]<br>Lv. 63   | ![][sitrus-berry]<br>Sitrus Berry | ?      | Pressure       | <ul><li>Thunderbolt</li><li>Heat Wave</li><li>Drill Peck</li><li>Light Screen</li></ul>
 
-
 ### Master Trainer
 
 Guitarist ???<br>![][guitarist]    | Item | Nature | Ability | Moves

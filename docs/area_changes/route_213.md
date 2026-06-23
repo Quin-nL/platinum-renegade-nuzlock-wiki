@@ -4,27 +4,27 @@
 
 Trainer                              | 1                                 | 2                                | 3
 ---                                  | ---                               | ---                              | ---
-:repeat: [Beauty Cyndy](#rematches)  | ![][301]<br>[Delcatty]<br>Lv. 37  | ![][053]<br>[Persian]<br>Lv. 37  | &nbsp;
-Fisherman Kenneth                    | ![][318]<br>[Carvanha]<br>Lv. 36  | ![][223]<br>[Remoraid]<br>Lv. 36 | ![][116]<br>[Horsea]<br>Lv. 36
-:repeat: [Tuber Jared](#rematches)   | ![][423]<br>[Gastrodon]<br>Lv. 37 | &nbsp;                           | &nbsp;
-:repeat: [Tuber Chelsea](#rematches) | ![][184]<br>[Azumarill]<br>Lv. 37 | &nbsp;                           | &nbsp;
-Swimmer Haley                        | ![][055]<br>[Golduck]<br>Lv. 43   | ![][226]<br>[Mantine]<br>Lv. 43  | ![][222]<br>[Corsola]<br>Lv. 43
-Swimmer Sheltin                      | ![][130]<br>[Gyarados]<br>Lv. 43  | ![][130]<br>[Gyarados]<br>Lv. 43 | ![][130]<br>[Gyarados]<br>Lv. 43
-Sailor Paul                          | ![][186]<br>[Politoed]<br>Lv. 45  | &nbsp;                           | &nbsp;
-Swimmer Evan                         | ![][195]<br>[Quagsire]<br>Lv. 44  | ![][319]<br>[Sharpedo]<br>Lv. 44 | &nbsp;
-Swimmer Mary                         | ![][279]<br>[Pelipper]<br>Lv. 44  | ![][457]<br>[Lumineon]<br>Lv. 44 | &nbsp;
-Galactic Grunt                       | ![][454]<br>[Toxicroak]<br>Lv. 41 | &nbsp;                           | &nbsp;
+:repeat: [Beauty Cyndy](#rematches)  | ![][301]<br>[Delcatty]<br>Lv. 37<ul><li>Fake Out</li><li>Sing</li><li>Attract</li><li>Double Slap</li></ul> | ![][053]<br>[Persian]<br>Lv. 37<ul><li>Taunt</li><li>Power Gem</li><li>Assurance</li><li>Hypnosis</li></ul> | &nbsp;
+Fisherman Kenneth                    | ![][318]<br>[Carvanha]<br>Lv. 36<ul><li>Waterfall</li><li>Scary Face</li><li>Crunch</li><li>Poison Fang</li></ul> | ![][223]<br>[Remoraid]<br>Lv. 36<ul><li>Signal Beam</li><li>Ice Beam</li><li>Seed Bomb</li><li>Flamethrower</li></ul> | ![][116]<br>[Horsea]<br>Lv. 36<ul><li>Octazooka</li><li>Agility</li><li>Muddy Water</li><li>Dragon Pulse</li></ul> 
+:repeat: [Tuber Jared](#rematches)   | ![][423]<br>[Gastrodon]<br>Lv. 37<ul><li>Earth Power</li><li>Sludge Bomb</li><li>Muddy Water</li><li>Body Slam</li></ul> | &nbsp;                           | &nbsp;
+:repeat: [Tuber Chelsea](#rematches) | ![][184]<br>[Azumarill]<br>Lv. 37<ul><li>Aqua Tail</li><li>Play Rough</li><li>Aqua Ring</li><li>Rain Dance</li></ul> | &nbsp;                           | &nbsp;
+Swimmer Haley                        | ![][055]<br>[Golduck]<br>Lv. 43<ul><li>Power Gem ^1</li><li>Psychic</li><li>Psych Up</li><li>Future Sight</li></ul> | ![][226]<br>[Mantine]<br>Lv. 43<ul><li>Aqua Ring</li><li>Mirror Coat</li><li>Bounce</li><li>Tailwind</li></ul> | ![][222]<br>[Corsola]<br>Lv. 43<ul><li>Earth Power</li><li>Endure</li><li>Rock Blast</li><li>Aqua Ring</li></ul> 
+Swimmer Sheltin                      | ![][130]<br>[Gyarados]<br>Lv. 43<ul><li>Scary Face</li><li>Crunch</li><li>Dragon Dance</li><li>Outrage</li></ul> | ![][130]<br>[Gyarados]<br>Lv. 43<ul><li>Scary Face</li><li>Crunch</li><li>Dragon Dance</li><li>Outrage</li></ul> | ![][130]<br>[Gyarados]<br>Lv. 43<ul><li>Scary Face</li><li>Crunch</li><li>Dragon Dance</li><li>Outrage</li></ul> 
+Sailor Paul                          | ![][186]<br>[Politoed]<br>Lv. 45<ul><li>Double Slap</li><li>Perish Song</li><li>Swagger</li><li>Bounce</li></ul> | &nbsp;                           | &nbsp;
+Swimmer Evan                         | ![][195]<br>[Quagsire]<br>Lv. 44<ul><li>Body Slam</li><li>Earthquake</li><li>Counter</li><li>Rain Dance</li></ul> | ![][319]<br>[Sharpedo]<br>Lv. 44<ul><li>Night Slash</li><li>Crunch</li><li>Poison Fang</li><li>Skull Bash</li></ul> | &nbsp;
+Swimmer Mary                         | ![][279]<br>[Pelipper]<br>Lv. 44<ul><li>Roost</li><li>Air Slash</li><li>Tailwind</li><li>Uproar</li></ul> | ![][457]<br>[Lumineon]<br>Lv. 44<ul><li>Aqua Tail</li><li>Silver Wind</li><li>Aqua Ring</li><li>Whirlpool</li></ul> | &nbsp;
+Galactic Grunt                       | ![][454]<br>[Toxicroak]<br>Lv. 41<ul><li>Poison Jab</li><li>Drain Punch</li><li>Nasty Plot</li><li>Sucker Punch</li></ul> | &nbsp;                           | &nbsp;
 
 ### Rematches
 
 Trainer                                           | 1                                 | 2                               | 3
 ---                                               | ---                               | ---                             | ---
-Beauty Cyndy :material-numeric-8-circle-outline:  | ![][301]<br>[Delcatty]<br>Lv. 59  | ![][053]<br>[Persian]<br>Lv. 59 | ![][432]<br>[Purugly]<br>Lv. 59
-Beauty Cyndy :material-alpha-c-circle-outline:    | ![][301]<br>[Delcatty]<br>Lv. 70  | ![][053]<br>[Persian]<br>Lv. 70 | ![][432]<br>[Purugly]<br>Lv. 70
-Tuber Jared :material-numeric-5-circle-outline:   | ![][423]<br>[Gastrodon]<br>Lv. 39 | &nbsp;                          | &nbsp;
-Tuber Jared :material-alpha-c-circle-outline:     | ![][423]<br>[Gastrodon]<br>Lv. 69 | &nbsp;                          | &nbsp;
-Tuber Chelsea :material-numeric-8-circle-outline: | ![][184]<br>[Azumarill]<br>Lv. 59 | &nbsp;                          | &nbsp;
-Tuber Chelsea :material-alpha-c-circle-outline:   | ![][184]<br>[Azumarill]<br>Lv. 69 | &nbsp;                          | &nbsp;
+Beauty Cyndy :material-numeric-8-circle-outline:  | ![][301]<br>[Delcatty]<br>Lv. 59<ul><li>Fake Out</li><li>Sing</li><li>Attract</li><li>Double Slap</li></ul> | ![][053]<br>[Persian]<br>Lv. 59<ul><li>Play Rough</li><li>Captivate</li><li>Feint</li><li>Double-Edge</li></ul> | ![][432]<br>[Purugly]<br>Lv. 59<ul><li>Attract</li><li>Body Slam</li><li>Flail</li><li>Last Resort</li></ul> 
+Beauty Cyndy :material-alpha-c-circle-outline:    | ![][301]<br>[Delcatty]<br>Lv. 70<ul><li>Fake Out</li><li>Sing</li><li>Attract</li><li>Double Slap</li></ul> | ![][053]<br>[Persian]<br>Lv. 70<ul><li>Play Rough</li><li>Captivate</li><li>Feint</li><li>Double-Edge</li></ul> | ![][432]<br>[Purugly]<br>Lv. 70<ul><li>Attract</li><li>Body Slam</li><li>Flail</li><li>Last Resort</li></ul> 
+Tuber Jared :material-numeric-5-circle-outline:   | ![][423]<br>[Gastrodon]<br>Lv. 39<ul><li>Earth Power</li><li>Sludge Bomb</li><li>Muddy Water</li><li>Body Slam</li></ul> | &nbsp;                          | &nbsp;
+Tuber Jared :material-alpha-c-circle-outline:     | ![][423]<br>[Gastrodon]<br>Lv. 69<ul><li>Mirror Coat</li><li>Acid Armor</li><li>Amnesia</li><li>Recover</li></ul> | &nbsp;                          | &nbsp;
+Tuber Chelsea :material-numeric-8-circle-outline: | ![][184]<br>[Azumarill]<br>Lv. 59<ul><li>Belly Drum</li><li>Double-Edge</li><li>Superpower</li><li>Hydro Pump</li></ul> | &nbsp;                          | &nbsp;
+Tuber Chelsea :material-alpha-c-circle-outline:   | ![][184]<br>[Azumarill]<br>Lv. 69<ul><li>Belly Drum</li><li>Double-Edge</li><li>Superpower</li><li>Hydro Pump</li></ul> | &nbsp;                          | &nbsp;
 
 ## Wild Pokémon
 

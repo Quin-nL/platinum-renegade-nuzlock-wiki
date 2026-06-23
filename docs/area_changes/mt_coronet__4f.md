@@ -4,8 +4,8 @@
 
 Trainer        | 1                                | 2                               | 3
 ---            | ---                              | ---                             | ---
-Galactic Grunt | ![][229]<br>[Houndoom]<br>Lv. 54 | ![][042]<br>[Golbat]<br>Lv. 54  | ![][015]<br>[Beedrill]<br>Lv. 54
-Galactic Grunt | ![][166]<br>[Ledian]<br>Lv. 55   | ![][110]<br>[Weezing]<br>Lv. 55 | &nbsp;
+Galactic Grunt | ![][229]<br>[Houndoom]<br>Lv. 54<ul><li>Flamethrower</li><li>Dark Pulse</li><li>Embargo</li><li>Nasty Plot</li></ul> | ![][042]<br>[Golbat]<br>Lv. 54<ul><li>Haze</li><li>Zen Headbutt</li><li>Nasty Plot</li><li>Brave Bird</li></ul> | ![][015]<br>[Beedrill]<br>Lv. 54<ul><li>Agility</li><li>Endeavor</li><li>Outrage</li><li>Megahorn ^1</li></ul> 
+Galactic Grunt | ![][166]<br>[Ledian]<br>Lv. 55<ul><li>Air Slash</li><li>Bug Buzz</li><li>Double-Edge</li><li>Meteor Mash ^1</li></ul> | ![][110]<br>[Weezing]<br>Lv. 55<ul><li>Dark Pulse</li><li>Gunk Shot ^1</li><li>Explosion</li><li>Memento</li></ul> | &nbsp;
 
 ## Wild Pokémon
 

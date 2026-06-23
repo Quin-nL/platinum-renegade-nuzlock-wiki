@@ -4,8 +4,8 @@
 
 Trainer      | 1                               | 2                               | 3
 ---          | ---                             | ---                             | ---
-Worker Mason | ![][304]<br>[Aron]<br>Lv. 12    | ![][231]<br>[Phanpy]<br>Lv. 12  | ![][447]<br>[Riolu]<br>Lv. 12
-Worker Colin | ![][074]<br>[Geodude]<br>Lv. 12 | ![][293]<br>[Whismur]<br>Lv. 12 | ![][066]<br>[Machop]<br>Lv. 12
+Worker Mason | ![][304]<br>[Aron]<br>Lv. 12<ul><li>Harden</li><li>Mud-Slap</li><li>Headbutt</li><li>Metal Claw</li></ul> | ![][231]<br>[Phanpy]<br>Lv. 12<ul><li>Defense Curl</li><li>Mud-Slap</li><li>Headbutt</li><li>Rollout</li></ul> | ![][447]<br>[Riolu]<br>Lv. 12<ul><li>Low Kick</li><li>Bite</li><li>Counter</li><li>Force Palm</li></ul> 
+Worker Colin | ![][074]<br>[Geodude]<br>Lv. 12<ul><li>Defense Curl</li><li>Mud Sport</li><li>Rock Polish</li><li>Rock Throw</li></ul> | ![][293]<br>[Whismur]<br>Lv. 12<ul><li>Howl</li><li>Disarming Voice</li><li>Astonish</li><li>Uproar</li></ul> | ![][066]<br>[Machop]<br>Lv. 12<ul><li>Leer</li><li>Focus Energy</li><li>Karate Chop</li><li>Foresight</li></ul> 
 
 ## Wild Pokémon
 

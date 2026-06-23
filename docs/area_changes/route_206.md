@@ -4,26 +4,26 @@
 
 Trainer                              | 1                                  | 2                                 | 3
 ---                                  | ---                                | ---                               | ---
-Cyclist Axel                         | ![][172]<br>[Pichu]<br>Lv. 19      | ![][172]<br>[Pichu]<br>Lv. 19     | ![][025]<br>[Pikachu]<br>Lv. 19
-Cyclist Megan                        | ![][017]<br>[Pidgeotto]<br>Lv. 21  | &nbsp;                            | &nbsp;
-Cyclist James                        | ![][077]<br>[Ponyta]<br>Lv. 20     | ![][180]<br>[Flaaffy]<br>Lv. 20   | &nbsp;
-Cyclist Nicole                       | ![][276]<br>[Taillow]<br>Lv. 19    | ![][084]<br>[Doduo]<br>Lv. 19     | ![][278]<br>[Wingull]<br>Lv. 19
-:repeat: [Cyclist John](#rematches)  | ![][083]<br>[Farfetch'd]<br>Lv. 21 | &nbsp;                            | &nbsp;
-:repeat: [Cyclist Kayla](#rematches) | ![][100]<br>[Voltorb]<br>Lv. 19    | ![][081]<br>[Magnemite]<br>Lv. 19 | ![][309]<br>[Electrike]<br>Lv. 19
-Cyclist Ryan                         | ![][404]<br>[Luxio]<br>Lv. 21      | &nbsp;                            | &nbsp;
-Cyclist Rachel                       | ![][135]<br>[Jolteon]<br>Lv. 21    | &nbsp;                            | &nbsp;
-Hiker Theodore                       | ![][324]<br>[Torkoal]<br>Lv. 26    | &nbsp;                            | &nbsp;
+Cyclist Axel                         | ![][172]<br>[Pichu]<br>Lv. 19<ul><li>Sweet Kiss</li><li>Thunder Wave</li><li>Nasty Plot</li><li>Disarming Voice</li></ul> | ![][172]<br>[Pichu]<br>Lv. 19<ul><li>Sweet Kiss</li><li>Thunder Wave</li><li>Nasty Plot</li><li>Disarming Voice</li></ul> | ![][025]<br>[Pikachu]<br>Lv. 19<ul><li>Double Kick</li><li>Shock Wave</li><li>Feint</li><li>Spark</li></ul> 
+Cyclist Megan                        | ![][017]<br>[Pidgeotto]<br>Lv. 21<ul><li>Wing Attack</li><li>Swift</li><li>Air Cutter</li><li>Feather Dance</li></ul> | &nbsp;                            | &nbsp;
+Cyclist James                        | ![][077]<br>[Ponyta]<br>Lv. 20<ul><li>Stomp</li><li>Double Kick</li><li>Flame Wheel</li><li>Take Down</li></ul> | ![][180]<br>[Flaaffy]<br>Lv. 20<ul><li>Thunder Shock</li><li>Cotton Spore</li><li>Charge</li><li>Charge Beam</li></ul> | &nbsp;
+Cyclist Nicole                       | ![][276]<br>[Taillow]<br>Lv. 19<ul><li>Quick Attack</li><li>Wing Attack</li><li>Double Team</li><li>Aerial Ace</li></ul> | ![][084]<br>[Doduo]<br>Lv. 19<ul><li>Fury Attack</li><li>Pursuit</li><li>Pluck</li><li>Double Hit</li></ul> | ![][278]<br>[Wingull]<br>Lv. 19<ul><li>Wing Attack</li><li>Water Pulse</li><li>Mist</li><li>Air Cutter</li></ul> 
+:repeat: [Cyclist John](#rematches)  | ![][083]<br>[Farfetch'd]<br>Lv. 21<ul><li>Knock Off</li><li>Swords Dance</li><li>Agility</li><li>Air Cutter</li></ul> | &nbsp;                            | &nbsp;
+:repeat: [Cyclist Kayla](#rematches) | ![][100]<br>[Voltorb]<br>Lv. 19<ul><li>Thunder Shock</li><li>Rollout</li><li>Spark</li><li>Charge Beam</li></ul> | ![][081]<br>[Magnemite]<br>Lv. 19<ul><li>Spark</li><li>Magnet Bomb</li><li>Light Screen</li><li>Charge Beam</li></ul> | ![][309]<br>[Electrike]<br>Lv. 19<ul><li>Quick Attack</li><li>Spark</li><li>Bite</li><li>Charge Beam</li></ul> 
+Cyclist Ryan                         | ![][404]<br>[Luxio]<br>Lv. 21<ul><li>Spark</li><li>Bite</li><li>Charge</li><li>Double Kick</li></ul> | &nbsp;                            | &nbsp;
+Cyclist Rachel                       | ![][135]<br>[Jolteon]<br>Lv. 21<ul><li>Quick Attack</li><li>Thunder Wave</li><li>Shock Wave</li><li>Double Kick</li></ul> | &nbsp;                            | &nbsp;
+Hiker Theodore                       | ![][324]<br>[Torkoal]<br>Lv. 26<ul><li>Flame Wheel</li><li>Curse</li><li>Body Slam</li><li>Lava Plume</li></ul> | &nbsp;                            | &nbsp;
 
 ### Rematches
 
 Trainer                                           | 1                                  | 2                                 | 3
 ---                                               | ---                                | ---                               | ---
-Cyclist John :material-numeric-5-circle-outline:  | ![][083]<br>[Farfetch'd]<br>Lv. 40 | &nbsp;                            | &nbsp;
-Cyclist John :material-numeric-8-circle-outline:  | ![][083]<br>[Farfetch'd]<br>Lv. 61 | &nbsp;                            | &nbsp;
-Cyclist John :material-alpha-c-circle-outline:    | ![][083]<br>[Farfetch'd]<br>Lv. 72 | &nbsp;                            | &nbsp;
-Cyclist Kayla :material-numeric-5-circle-outline: | ![][101]<br>[Electrode]<br>Lv. 38  | ![][082]<br>[Magneton]<br>Lv. 38  | ![][310]<br>[Manectric]<br>Lv. 38
-Cyclist Kayla :material-numeric-8-circle-outline: | ![][101]<br>[Electrode]<br>Lv. 59  | ![][082]<br>[Magneton]<br>Lv. 59  | ![][310]<br>[Manectric]<br>Lv. 59
-Cyclist Kayla :material-alpha-c-circle-outline:   | ![][101]<br>[Electrode]<br>Lv. 70  | ![][462]<br>[Magnezone]<br>Lv. 70 | ![][310]<br>[Manectric]<br>Lv. 70
+Cyclist John :material-numeric-5-circle-outline:  | ![][083]<br>[Farfetch'd]<br>Lv. 40<ul><li>Poison Jab</li><li>Air Slash</li><li>False Swipe</li><li>Feint</li></ul> | &nbsp;                            | &nbsp;
+Cyclist John :material-numeric-8-circle-outline:  | ![][083]<br>[Farfetch'd]<br>Lv. 61<ul><li>Feint</li><li>Brave Bird</li><li>Double-Edge</li><li>Close Combat ^1</li></ul> | &nbsp;                            | &nbsp;
+Cyclist John :material-alpha-c-circle-outline:    | ![][083]<br>[Farfetch'd]<br>Lv. 72<ul><li>Feint</li><li>Brave Bird</li><li>Double-Edge</li><li>Close Combat ^1</li></ul> | &nbsp;                            | &nbsp;
+Cyclist Kayla :material-numeric-5-circle-outline: | ![][101]<br>[Electrode]<br>Lv. 38<ul><li>Self-Destruct</li><li>Discharge</li><li>Light Screen</li><li>Magnet Rise</li></ul> | ![][082]<br>[Magneton]<br>Lv. 38<ul><li>Discharge</li><li>Tri Attack</li><li>Flash Cannon</li><li>Screech</li></ul> | ![][310]<br>[Manectric]<br>Lv. 38<ul><li>Fire Fang</li><li>Roar</li><li>Discharge</li><li>Crunch</li></ul> 
+Cyclist Kayla :material-numeric-8-circle-outline: | ![][101]<br>[Electrode]<br>Lv. 59<ul><li>Explosion</li><li>Gyro Ball</li><li>Mirror Coat</li><li>Thunder</li></ul> | ![][082]<br>[Magneton]<br>Lv. 59<ul><li>Lock-On</li><li>Magnet Rise</li><li>Gyro Ball</li><li>Zap Cannon</li></ul> | ![][310]<br>[Manectric]<br>Lv. 59<ul><li>Crunch</li><li>Wild Charge</li><li>Charge</li><li>Thunder</li></ul> 
+Cyclist Kayla :material-alpha-c-circle-outline:   | ![][101]<br>[Electrode]<br>Lv. 70<ul><li>Explosion</li><li>Gyro Ball</li><li>Mirror Coat</li><li>Thunder</li></ul> | ![][462]<br>[Magnezone]<br>Lv. 70<ul><li>Lock-On</li><li>Magnet Rise</li><li>Gyro Ball</li><li>Zap Cannon</li></ul> | ![][310]<br>[Manectric]<br>Lv. 70<ul><li>Crunch</li><li>Wild Charge</li><li>Charge</li><li>Thunder</li></ul> 
 
 ## Wild Pokémon
 

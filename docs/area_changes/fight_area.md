@@ -2,8 +2,8 @@
 
 Trainer                        | 1                                | 2                               | 3
 ---                            | ---                              | ---                             | ---
-Leader Volkner<br>![][volkner] | ![][026]<br>[Raichu]<br>Lv. 74   | ![][135]<br>[Jolteon]<br>Lv. 74 | ![][466]<br>[Electivire]<br>Lv. 75
-Elite Four Flint<br>![][flint] | ![][059]<br>[Arcanine]<br>Lv. 74 | ![][136]<br>[Flareon]<br>Lv. 74 | ![][467]<br>[Magmortar]<br>Lv. 75
+Leader Volkner<br>![][volkner] | ![][026]<br>[Raichu]<br>Lv. 74<ul><li>Thunder Shock</li><li>Tail Whip</li><li>Quick Attack</li><li>Thunderbolt</li></ul> | ![][135]<br>[Jolteon]<br>Lv. 74<ul><li>Thunderbolt</li><li>Pin Missile</li><li>Last Resort</li><li>Thunder</li></ul> | ![][466]<br>[Electivire]<br>Lv. 75<ul><li>Wild Charge</li><li>Close Combat ^1</li><li>Thunder</li><li>Giga Impact</li></ul> 
+Elite Four Flint<br>![][flint] | ![][059]<br>[Arcanine]<br>Lv. 74<ul><li>Fire Fang</li><li>Extreme Speed</li><li>Close Combat</li><li>Flare Blitz</li></ul> | ![][136]<br>[Flareon]<br>Lv. 74<ul><li>Flamethrower</li><li>Close Combat ^1</li><li>Last Resort</li><li>Flare Blitz</li></ul> | ![][467]<br>[Magmortar]<br>Lv. 75<ul><li>Aura Sphere ^1</li><li>Fire Blast</li><li>Hyper Beam</li><li>Magma Storm ^1</li></ul> 
 
 === "Grass"
     Trainer                          | 1                                 | 2                                 | 3                               | 4                                 | 5                               | 6

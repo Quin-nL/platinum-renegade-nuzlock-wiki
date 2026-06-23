@@ -4,17 +4,17 @@
 
 Trainer                                    | 1                               | 2                                  | 3
 ---                                        | ---                             | ---                                | ---
-Aroma Lady Taylor                          | ![][420]<br>[Cherubi]<br>Lv. 13 | ![][187]<br>[Hoppip]<br>Lv. 13     | ![][285]<br>[Shroomish]<br>Lv. 13
-:repeat: [Bug Catcher Brandon](#rematches) | ![][265]<br>[Wurmple]<br>Lv. 14 | ![][402]<br>[Kricketune]<br>Lv. 14 | &nbsp;
-Twins Liv & Liz                            | ![][311]<br>[Plusle]<br>Lv. 15  | ![][312]<br>[Minun]<br>Lv. 15      | &nbsp;
+Aroma Lady Taylor                          | ![][420]<br>[Cherubi]<br>Lv. 13<ul><li>Tackle</li><li>Growth</li><li>Leech Seed</li><li>Helping Hand</li></ul> | ![][187]<br>[Hoppip]<br>Lv. 13<ul><li>Tail Whip</li><li>Bullet Seed</li><li>Air Cutter ^1</li><li>Mega Drain</li></ul> | ![][285]<br>[Shroomish]<br>Lv. 13<ul><li>Tackle</li><li>Mega Drain</li><li>Leech Seed</li><li>Bullet Seed</li></ul> 
+:repeat: [Bug Catcher Brandon](#rematches) | ![][265]<br>[Wurmple]<br>Lv. 14<ul><li>Tackle</li><li>String Shot</li><li>Poison Sting</li><li>Bug Bite</li></ul> | ![][402]<br>[Kricketune]<br>Lv. 14<ul><li>Bug Bite</li><li>String Shot</li><li>Fury Cutter</li><li>Absorb</li></ul> | &nbsp;
+Twins Liv & Liz                            | ![][311]<br>[Plusle]<br>Lv. 15<ul><li>Helping Hand</li><li>Spark</li><li>Encore</li><li>Charge Beam</li></ul> | ![][312]<br>[Minun]<br>Lv. 15<ul><li>Helping Hand</li><li>Spark</li><li>Encore</li><li>Charge Beam</li></ul> | &nbsp;
 
 ### Rematches
 
 Trainer                                                 | 1                              | 2                                  | 3
 ---                                                     | ---                            | ---                                | ---
-Bug Catcher Brandon :material-numeric-3-circle-outline: | ![][269]<br>[Dustox]<br>Lv. 27 | ![][402]<br>[Kricketune]<br>Lv. 27 | &nbsp;
-Bug Catcher Brandon :material-numeric-5-circle-outline: | ![][269]<br>[Dustox]<br>Lv. 38 | ![][402]<br>[Kricketune]<br>Lv. 38 | ![][123]<br>[Scyther]<br>Lv. 38
-Bug Catcher Brandon :material-alpha-c-circle-outline:   | ![][269]<br>[Dustox]<br>Lv. 70 | ![][402]<br>[Kricketune]<br>Lv. 70 | ![][212]<br>[Scizor]<br>Lv. 70
+Bug Catcher Brandon :material-numeric-3-circle-outline: | ![][269]<br>[Dustox]<br>Lv. 27<ul><li>Psybeam</li><li>Signal Beam</li><li>Moonlight</li><li>Bug Buzz</li></ul> | ![][402]<br>[Kricketune]<br>Lv. 27<ul><li>Leech Life</li><li>Focus Energy</li><li>Slash</li><li>Night Slash</li></ul> | &nbsp;
+Bug Catcher Brandon :material-numeric-5-circle-outline: | ![][269]<br>[Dustox]<br>Lv. 38<ul><li>Bug Buzz</li><li>Light Screen</li><li>Toxic</li><li>Tailwind</li></ul> | ![][402]<br>[Kricketune]<br>Lv. 38<ul><li>X-Scissor</li><li>Screech</li><li>Knock Off</li><li>Taunt</li></ul> | ![][123]<br>[Scyther]<br>Lv. 38<ul><li>Razor Wind</li><li>Double Team</li><li>X-Scissor</li><li>Double Hit</li></ul> 
+Bug Catcher Brandon :material-alpha-c-circle-outline:   | ![][269]<br>[Dustox]<br>Lv. 70<ul><li>Tailwind</li><li>Protect</li><li>Whirlwind</li><li>Hurricane ^1</li></ul> | ![][402]<br>[Kricketune]<br>Lv. 70<ul><li>Heal Bell</li><li>Bug Buzz</li><li>Hyper Voice</li><li>Perish Song</li></ul> | ![][212]<br>[Scizor]<br>Lv. 70<ul><li>Swords Dance</li><li>Baton Pass</li><li>Reversal</li><li>Feint</li></ul> 
 
 ## Wild Pokémon
 

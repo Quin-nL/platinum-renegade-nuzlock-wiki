@@ -4,14 +4,14 @@
 
 Trainer                                    | 1                                  | 2                                 | 3                                  | 4
 ---                                        | ---                                | ---                               | ---                                | ---
-Ace Trainer Ruben                          | ![][275]<br>[Shiftry]<br>Lv. 67    | ![][130]<br>[Gyarados]<br>Lv. 67  | ![][186]<br>[Politoed]<br>Lv. 67   | ![][470]<br>[Leafeon]<br>Lv. 67
-Psychic Brittney                           | ![][097]<br>[Hypno]<br>Lv. 66      | ![][065]<br>[Alakazam]<br>Lv. 66  | ![][308]<br>[Medicham]<br>Lv. 66   | ![][337]<br>[Lunatone]<br>Lv. 66
-Psychic Maxwell                            | ![][429]<br>[Mismagius]<br>Lv. 66  | ![][094]<br>[Gengar]<br>Lv. 66    | ![][080]<br>[Slowbro]<br>Lv. 66    | ![][338]<br>[Solrock]<br>Lv. 66
-:repeat: [Veteran Armando](#rematches)     | ![][089]<br>[Muk]<br>Lv. 68        | ![][262]<br>[Mightyena]<br>Lv. 68 | ![][463]<br>[Lickilicky]<br>Lv. 68 | ![][279]<br>[Pelipper]<br>Lv. 68
-Black Belt Carl                            | ![][297]<br>[Hariyama]<br>Lv. 66   | ![][106]<br>[Hitmonlee]<br>Lv. 66 | ![][107]<br>[Hitmonchan]<br>Lv. 66 | ![][237]<br>[Hitmontop]<br>Lv. 66
-Ruin Maniac Larry                          | ![][142]<br>[Aerodactyl]<br>Lv. 66 | ![][348]<br>[Armaldo]<br>Lv. 66   | ![][346]<br>[Cradily]<br>Lv. 66    | ![][369]<br>[Relicanth]<br>Lv. 66
-Ace Trainer Jamie                          | ![][134]<br>[Vaporeon]<br>Lv. 67   | ![][376]<br>[Metagross]<br>Lv. 67 | ![][407]<br>[Roserade]<br>Lv. 67   | ![][051]<br>[Dugtrio]<br>Lv. 67
-:repeat: [Dragon Tamer Hayden](#rematches) | ![][334]<br>[Altaria]<br>Lv. 67    | ![][373]<br>[Salamence]<br>Lv. 67 | ![][230]<br>[Kingdra]<br>Lv. 67    | ![][149]<br>[Dragonite]<br>Lv. 67
+Ace Trainer Ruben                          | ![][275]<br>[Shiftry]<br>Lv. 67<ul><li>Whirlwind</li><li>Nasty Plot</li><li>Hurricane</li><li>Leaf Storm</li></ul> | ![][130]<br>[Gyarados]<br>Lv. 67<ul><li>Hydro Pump</li><li>Rain Dance</li><li>Hurricane</li><li>Hyper Beam</li></ul> | ![][186]<br>[Politoed]<br>Lv. 67<ul><li>Perish Song</li><li>Swagger</li><li>Bounce</li><li>Hyper Voice</li></ul> | ![][470]<br>[Leafeon]<br>Lv. 67<ul><li>Leaf Blade</li><li>Psycho Cut ^1</li><li>Last Resort</li><li>Power Whip ^1</li></ul> 
+Psychic Brittney                           | ![][097]<br>[Hypno]<br>Lv. 66<ul><li>Drain Punch</li><li>Nasty Plot</li><li>Guard Swap</li><li>Future Sight</li></ul> | ![][065]<br>[Alakazam]<br>Lv. 66<ul><li>Future Sight</li><li>Substitute</li><li>Trick</li><li>Aura Sphere ^1</li></ul> | ![][308]<br>[Medicham]<br>Lv. 66<ul><li>Acupressure</li><li>Power Trick</li><li>Reversal</li><li>Recover</li></ul> | ![][337]<br>[Lunatone]<br>Lv. 66<ul><li>Earth Power</li><li>Ice Beam</li><li>Future Sight</li><li>Explosion</li></ul> 
+Psychic Maxwell                            | ![][429]<br>[Mismagius]<br>Lv. 66<ul><li>Psywave</li><li>Spite</li><li>Astonish</li><li>Moonblast ^1</li></ul> | ![][094]<br>[Gengar]<br>Lv. 66<ul><li>Dark Pulse</li><li>Nightmare</li><li>Destiny Bond</li><li>Aura Sphere ^1</li></ul> | ![][080]<br>[Slowbro]<br>Lv. 66<ul><li>Rain Dance</li><li>Psych Up</li><li>Future Sight</li><li>Trick Room</li></ul> | ![][338]<br>[Solrock]<br>Lv. 66<ul><li>Iron Head</li><li>Flare Blitz</li><li>Solar Beam</li><li>Explosion</li></ul> 
+:repeat: [Veteran Armando](#rematches)     | ![][089]<br>[Muk]<br>Lv. 68<ul><li>Sludge Bomb</li><li>Acid Armor</li><li>Gunk Shot</li><li>Memento</li></ul> | ![][262]<br>[Mightyena]<br>Lv. 68<ul><li>Yawn</li><li>Take Down</li><li>Play Rough</li><li>Sucker Punch</li></ul> | ![][463]<br>[Lickilicky]<br>Lv. 68<ul><li>Hammer Arm</li><li>Power Whip</li><li>Wring Out</li><li>Gyro Ball</li></ul> | ![][279]<br>[Pelipper]<br>Lv. 68<ul><li>Tailwind</li><li>Uproar</li><li>Hydro Pump</li><li>Hurricane</li></ul> 
+Black Belt Carl                            | ![][297]<br>[Hariyama]<br>Lv. 66<ul><li>Endure</li><li>Close Combat</li><li>Reversal</li><li>Counter</li></ul> | ![][106]<br>[Hitmonlee]<br>Lv. 66<ul><li>Mega Kick</li><li>Mind Reader</li><li>Blaze Kick</li><li>Reversal</li></ul> | ![][107]<br>[Hitmonchan]<br>Lv. 66<ul><li>Mega Punch</li><li>Vacuum Wave</li><li>Sky Uppercut</li><li>Focus Punch</li></ul> | ![][237]<br>[Hitmontop]<br>Lv. 66<ul><li>Drill Run</li><li>Bullet Punch</li><li>Endeavor</li><li>High Jump Kick</li></ul> 
+Ruin Maniac Larry                          | ![][142]<br>[Aerodactyl]<br>Lv. 66<ul><li>Brave Bird ^1</li><li>Hyper Beam</li><li>Giga Impact</li><li>Sky Attack</li></ul> | ![][348]<br>[Armaldo]<br>Lv. 66<ul><li>Knock Off</li><li>Protect</li><li>Rock Blast</li><li>Stone Edge</li></ul> | ![][346]<br>[Cradily]<br>Lv. 66<ul><li>Stockpile</li><li>Spit Up</li><li>Swallow</li><li>Wring Out</li></ul> | ![][369]<br>[Relicanth]<br>Lv. 66<ul><li>Earthquake</li><li>Double-Edge</li><li>Hydro Pump</li><li>Head Smash</li></ul> 
+Ace Trainer Jamie                          | ![][134]<br>[Vaporeon]<br>Lv. 67<ul><li>Muddy Water</li><li>Ice Beam</li><li>Last Resort</li><li>Hydro Pump</li></ul> | ![][376]<br>[Metagross]<br>Lv. 67<ul><li>Meteor Mash</li><li>Hammer Arm</li><li>Iron Defense</li><li>Hyper Beam</li></ul> | ![][407]<br>[Roserade]<br>Lv. 67<ul><li>Mega Drain</li><li>Magical Leaf</li><li>Sweet Scent</li><li>Leaf Storm</li></ul> | ![][051]<br>[Dugtrio]<br>Lv. 67<ul><li>Night Slash</li><li>Earthquake</li><li>Memento</li><li>Fissure</li></ul> 
+:repeat: [Dragon Tamer Hayden](#rematches) | ![][334]<br>[Altaria]<br>Lv. 67<ul><li>Dragon Pulse</li><li>Perish Song</li><li>Brave Bird ^1</li><li>Sky Attack</li></ul> | ![][373]<br>[Salamence]<br>Lv. 67<ul><li>Double-Edge</li><li>Fly</li><li>Hydro Pump</li><li>Outrage</li></ul> | ![][230]<br>[Kingdra]<br>Lv. 67<ul><li>Dragon Dance</li><li>Outrage</li><li>Hydro Pump</li><li>Hyper Beam</li></ul> | ![][149]<br>[Dragonite]<br>Lv. 67<ul><li>Outrage</li><li>Hyper Beam</li><li>Wing Attack</li><li>Hurricane</li></ul> 
 
 === "Lucas"
     === "Grass"
@@ -42,7 +42,6 @@ Ace Trainer Jamie                          | ![][134]<br>[Vaporeon]<br>Lv. 67   
         [PKMN Trainer Dawn]<br>![][dawn] | ![][065]<br>[Alakazam]<br>Lv. 69 | ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][036]<br>[Clefable]<br>Lv. 69 | ![][428]<br>[Lopunny]<br>Lv. 69 | ![][135]<br>[Jolteon]<br>Lv. 69 | ![][392]<br>[Infernape]<br>Lv. 70
 
 ### PKMN Trainer Dawn
-
 
 === "Grass"
     ![][dawn]                         | Item                              | Nature | Ability     | Moves
@@ -75,7 +74,6 @@ Ace Trainer Jamie                          | ![][134]<br>[Vaporeon]<br>Lv. 67   
     ![][392]<br>[Infernape]<br>Lv. 70 | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist   | <ul><li>Blast Burn</li><li>Close Combat</li><li>Stone Edge</li><li>Thunder Punch</li></ul>
 
 ### PKMN Trainer Lucas
-
 
 === "Grass"
     ![][lucas]                         | Item                              | Nature | Ability     | Moves
@@ -111,8 +109,8 @@ Ace Trainer Jamie                          | ![][134]<br>[Vaporeon]<br>Lv. 67   
 
 Trainer                                               | 1                               | 2                                 | 3                                  | 4
 ---                                                   | ---                             | ---                               | ---                                | ---
-Veteran Armando :material-alpha-s-circle-outline:     | ![][089]<br>[Muk]<br>Lv. 77     | ![][262]<br>[Mightyena]<br>Lv. 77 | ![][463]<br>[Lickilicky]<br>Lv. 77 | ![][279]<br>[Pelipper]<br>Lv. 77
-Dragon Tamer Hayden :material-alpha-s-circle-outline: | ![][334]<br>[Altaria]<br>Lv. 77 | ![][373]<br>[Salamence]<br>Lv. 77 | ![][230]<br>[Kingdra]<br>Lv. 77    | ![][149]<br>[Dragonite]<br>Lv. 77
+Veteran Armando :material-alpha-s-circle-outline:     | ![][089]<br>[Muk]<br>Lv. 77<ul><li>Sludge Bomb</li><li>Acid Armor</li><li>Gunk Shot</li><li>Memento</li></ul> | ![][262]<br>[Mightyena]<br>Lv. 77<ul><li>Yawn</li><li>Take Down</li><li>Play Rough</li><li>Sucker Punch</li></ul> | ![][463]<br>[Lickilicky]<br>Lv. 77<ul><li>Hammer Arm</li><li>Power Whip</li><li>Wring Out</li><li>Gyro Ball</li></ul> | ![][279]<br>[Pelipper]<br>Lv. 77<ul><li>Tailwind</li><li>Uproar</li><li>Hydro Pump</li><li>Hurricane</li></ul> 
+Dragon Tamer Hayden :material-alpha-s-circle-outline: | ![][334]<br>[Altaria]<br>Lv. 77<ul><li>Dragon Pulse</li><li>Perish Song</li><li>Brave Bird ^1</li><li>Sky Attack</li></ul> | ![][373]<br>[Salamence]<br>Lv. 77<ul><li>Double-Edge</li><li>Fly</li><li>Hydro Pump</li><li>Outrage</li></ul> | ![][230]<br>[Kingdra]<br>Lv. 77<ul><li>Dragon Dance</li><li>Outrage</li><li>Hydro Pump</li><li>Hyper Beam</li></ul> | ![][149]<br>[Dragonite]<br>Lv. 77<ul><li>Outrage</li><li>Hyper Beam</li><li>Wing Attack</li><li>Hurricane</li></ul> 
 
 ## Wild Pokémon
 

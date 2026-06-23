@@ -4,8 +4,8 @@
 
 Trainer        | 1                                | 2                               | 3
 ---            | ---                              | ---                             | ---
-Galactic Grunt | ![][030]<br>[Nidorina]<br>Lv. 54 | ![][317]<br>[Swalot]<br>Lv. 54  | ![][053]<br>[Persian]<br>Lv. 54
-Galactic Grunt | ![][033]<br>[Nidorino]<br>Lv. 54 | ![][452]<br>[Drapion]<br>Lv. 54 | ![][402]<br>[Kricketune]<br>Lv. 54
+Galactic Grunt | ![][030]<br>[Nidorina]<br>Lv. 54<ul><li>Crunch</li><li>Poison Tail</li><li>Captivate</li><li>Super Fang</li></ul> | ![][317]<br>[Swalot]<br>Lv. 54<ul><li>Gastro Acid</li><li>Destiny Bond</li><li>Wring Out</li><li>Gunk Shot</li></ul> | ![][053]<br>[Persian]<br>Lv. 54<ul><li>Play Rough</li><li>Captivate</li><li>Feint</li><li>Double-Edge</li></ul> 
+Galactic Grunt | ![][033]<br>[Nidorino]<br>Lv. 54<ul><li>Sucker Punch</li><li>Poison Tail</li><li>Captivate</li><li>Head Smash</li></ul> | ![][452]<br>[Drapion]<br>Lv. 54<ul><li>Night Slash</li><li>Scary Face</li><li>Crunch</li><li>Cross Poison</li></ul> | ![][402]<br>[Kricketune]<br>Lv. 54<ul><li>Heal Bell</li><li>Bug Buzz</li><li>Hyper Voice</li><li>Perish Song</li></ul> 
 
 ## Wild Pokémon
 

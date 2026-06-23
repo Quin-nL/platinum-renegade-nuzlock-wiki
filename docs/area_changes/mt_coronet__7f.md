@@ -4,7 +4,7 @@
 
 Trainer        | 1                               | 2                              | 3                                 | 4
 ---            | ---                             | ---                            | ---                               | ---
-Galactic Grunt | ![][198]<br>[Murkrow]<br>Lv. 55 | ![][042]<br>[Golbat]<br>Lv. 55 | ![][454]<br>[Toxicroak]<br>Lv. 55 | ![][127]<br>[Pinsir]<br>Lv. 55
+Galactic Grunt | ![][198]<br>[Murkrow]<br>Lv. 55<ul><li>Tailwind</li><li>Dark Pulse</li><li>Torment</li><li>Brave Bird</li></ul> | ![][042]<br>[Golbat]<br>Lv. 55<ul><li>Haze</li><li>Zen Headbutt</li><li>Nasty Plot</li><li>Brave Bird</li></ul> | ![][454]<br>[Toxicroak]<br>Lv. 55<ul><li>Cross Chop</li><li>Sludge Bomb</li><li>Flatter</li><li>Gunk Shot</li></ul> | ![][127]<br>[Pinsir]<br>Lv. 55<ul><li>Thrash</li><li>Megahorn ^1</li><li>Superpower</li><li>Guillotine</li></ul> 
 
 ## Wild Pokémon
 

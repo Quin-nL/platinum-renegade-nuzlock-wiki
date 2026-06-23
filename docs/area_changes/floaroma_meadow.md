@@ -4,8 +4,8 @@
 
 Trainer        | 1                                | 2
 ---            | ---                              | ---
-Galactic Grunt | ![][041]<br>[Zubat]<br>Lv. 15    | ![][167]<br>[Spinarak]<br>Lv. 15
-Galactic Grunt | ![][453]<br>[Croagunk]<br>Lv. 15 | ![][165]<br>[Ledyba]<br>Lv. 15
+Galactic Grunt | ![][041]<br>[Zubat]<br>Lv. 15<ul><li>Bite</li><li>Wing Attack</li><li>Poison Fang</li><li>Confuse Ray</li></ul> | ![][167]<br>[Spinarak]<br>Lv. 15<ul><li>Bug Bite</li><li>Scary Face</li><li>Poison Fang ^1</li><li>Night Shade</li></ul> 
+Galactic Grunt | ![][453]<br>[Croagunk]<br>Lv. 15<ul><li>Mud-Slap</li><li>Poison Sting</li><li>Torment</li><li>Pursuit</li></ul> | ![][165]<br>[Ledyba]<br>Lv. 15<ul><li>Reflect</li><li>Safeguard</li><li>Mach Punch</li><li>Aerial Ace</li></ul> 
 
 ## Wild Pokémon
 
