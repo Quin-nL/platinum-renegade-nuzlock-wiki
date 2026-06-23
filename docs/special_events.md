@@ -722,22 +722,22 @@ Level    | 80
 - Head up the stairs to battle [Arceus].
 - You can fight [Arceus] repeatedly by playing the Azure Flute on the symbol until you catch it.
 
-[Fire-type Master]: ../trainer_changes/route_226/#master-trainer
-[Water-type Master]: ../trainer_changes/route_219/#master-trainer
-[Electric-type Master]: ../trainer_changes/sunyshore_city/#master-trainer
-[Grass-type Master]: ../trainer_changes/floaroma_town/#master-trainer
-[Ice-type Master]: ../trainer_changes/snowpoint_city/#master-trainer
-[Fighting-type Master]: ../trainer_changes/veilstone_city/#master-trainer
-[Poison-type Master]: ../trainer_changes/pastoria_city/#master-trainer
-[Ground-type Master]: ../trainer_changes/oreburgh_gate/#master-trainer
-[Flying-type Master]: ../trainer_changes/pokemon_league/#master-trainer
-[Psychic-type Master]: ../trainer_changes/solaceon_ruins/#master-trainer
-[Bug-type Master]: ../trainer_changes/route_202/#master-trainer
-[Rock-type Master]: ../trainer_changes/route_207/#master-trainer
-[Ghost-type Master]: ../trainer_changes/lost_tower/#master-trainer
-[Dragon-type Master]: ../trainer_changes/celestic_town/#master-trainer
-[Dark-type Master]: ../trainer_changes/sendoff_spring/#master-trainer
-[Steel-type Master]: ../trainer_changes/iron_island/#master-trainer
+[Fire-type Master]: ../area_changes/route_226/#master-trainer
+[Water-type Master]: ../area_changes/route_219/#master-trainer
+[Electric-type Master]: ../area_changes/sunyshore_city/#master-trainer
+[Grass-type Master]: ../area_changes/floaroma_town/#master-trainer
+[Ice-type Master]: ../area_changes/snowpoint_city/#master-trainer
+[Fighting-type Master]: ../area_changes/veilstone_city/#master-trainer
+[Poison-type Master]: ../area_changes/pastoria_city/#master-trainer
+[Ground-type Master]: ../area_changes/oreburgh_gate/#master-trainer
+[Flying-type Master]: ../area_changes/pokemon_league/#master-trainer
+[Psychic-type Master]: ../area_changes/solaceon_ruins/#master-trainer
+[Bug-type Master]: ../area_changes/route_202/#master-trainer
+[Rock-type Master]: ../area_changes/route_207/#master-trainer
+[Ghost-type Master]: ../area_changes/lost_tower/#master-trainer
+[Dragon-type Master]: ../area_changes/celestic_town/#master-trainer
+[Dark-type Master]: ../area_changes/sendoff_spring/#master-trainer
+[Steel-type Master]: ../area_changes/iron_island/#master-trainer
 [Bulbasaur]: ../pokemons/001/
 [Charmander]: ../pokemons/004/
 [Squirtle]: ../pokemons/007/

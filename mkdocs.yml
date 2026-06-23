@@ -1,9 +1,9 @@
 site_name: Platinum Renegade Wiki
-site_url: https://fredericdlugi.github.io/platinum-renegade-wiki
+site_url: https://quin-nl.github.io/platinum-renegade-nuzlock-wiki/
 site_description: A fanmade wiki for Platinum Renegade.
 site_author: Frederic Dlugi
 
-repo_url: https://github.com/FredericDlugi/platinum-renegade-wiki/
+repo_url: https://github.com/Quin-nL/platinum-renegade-nuzlock-wiki/
 
 theme:
     palette:
@@ -26,7 +26,6 @@ theme:
 
 nav:
     - Home: index.md
-    - My Box: my_box.md
     - Pokémons:
         - General Changes: pokemons/general_changes.md
         - Move Changes: move_changes.md
@@ -673,13 +672,13 @@ markdown_extensions:
         alternate_style: true
 
 extra_css:
-    - stylesheets/party.css
+    - stylesheets/ability_popup.css
 
 extra_javascript:
     - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
     - https://unpkg.com/tablesort@5.3.0/dist/sorts/tablesort.number.min.js
     - javascripts/tablesort.js
-    - javascripts/party.js
+    - javascripts/ability_popup.js
 
 copyright: Maintained by Frederic Dlugi.
 
