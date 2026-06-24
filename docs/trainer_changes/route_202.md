@@ -5,31 +5,65 @@
 
 === "Lucas"
     === "Grass"
-        Trainer                          | 1
-        ---                              | ---
-        PKMN Trainer Lucas<br>![][lucas] | ![][393]<br>[Piplup]<br>Lv. 9
+        Trainer                           | 1
+        ---                               | ---
+        [PKMN Trainer Lucas]<br>![][lucas] | ![][393]<br>[Piplup]<br>Lv. 9
     === "Fire"
-        Trainer                          | 1
-        ---                              | ---
-        PKMN Trainer Lucas<br>![][lucas] | ![][387]<br>[Turtwig]<br>Lv. 9
+        Trainer                           | 1
+        ---                               | ---
+        [PKMN Trainer Lucas]<br>![][lucas] | ![][387]<br>[Turtwig]<br>Lv. 9
     === "Water"
-        Trainer                          | 1
-        ---                              | ---
-        PKMN Trainer Lucas<br>![][lucas] | ![][390]<br>[Chimchar]<br>Lv. 9
+        Trainer                           | 1
+        ---                               | ---
+        [PKMN Trainer Lucas]<br>![][lucas] | ![][390]<br>[Chimchar]<br>Lv. 9
 
 === "Dawn"
     === "Grass"
-        Trainer                        | 1
-        ---                            | ---
-        PKMN Trainer Dawn<br>![][dawn] | ![][393]<br>[Piplup]<br>Lv. 9
+        Trainer                         | 1
+        ---                             | ---
+        [PKMN Trainer Dawn]<br>![][dawn] | ![][393]<br>[Piplup]<br>Lv. 9
     === "Fire"
-        Trainer                        | 1
-        ---                            | ---
-        PKMN Trainer Dawn<br>![][dawn] | ![][387]<br>[Turtwig]<br>Lv. 9
+        Trainer                         | 1
+        ---                             | ---
+        [PKMN Trainer Dawn]<br>![][dawn] | ![][387]<br>[Turtwig]<br>Lv. 9
     === "Water"
-        Trainer                        | 1
-        ---                            | ---
-        PKMN Trainer Dawn<br>![][dawn] | ![][390]<br>[Chimchar]<br>Lv. 9
+        Trainer                         | 1
+        ---                             | ---
+        [PKMN Trainer Dawn]<br>![][dawn] | ![][390]<br>[Chimchar]<br>Lv. 9
+
+## PKMN Trainer Dawn
+
+=== "Grass"
+    ![][dawn]                     | Item | Nature | Ability | Moves
+    ---                           | ---  | ---    | ---     | ---
+    ![][393]<br>[Piplup]<br>Lv. 9 | None | ?      | Torrent | <ul><li>Pound</li><li>Growl</li><li>Bubble</li><li>Water Sport</li></ul>
+
+=== "Fire"
+    ![][dawn]                      | Item | Nature | Ability  | Moves
+    ---                            | ---  | ---    | ---      | ---
+    ![][387]<br>[Turtwig]<br>Lv. 9 | None | ?      | Overgrow | <ul><li>Tackle</li><li>Withdraw</li><li>Absorb</li><li>Razor Leaf</li></ul>
+
+=== "Water"
+    ![][dawn]                       | Item | Nature | Ability | Moves
+    ---                             | ---  | ---    | ---     | ---
+    ![][390]<br>[Chimchar]<br>Lv. 9 | None | ?      | Blaze   | <ul><li>Scratch</li><li>Leer</li><li>Ember</li><li>Taunt</li></ul>
+
+## PKMN Trainer Lucas
+
+=== "Grass"
+    ![][lucas]                    | Item | Nature | Ability | Moves
+    ---                           | ---  | ---    | ---     | ---
+    ![][393]<br>[Piplup]<br>Lv. 9 | None | ?      | Torrent | <ul><li>Pound</li><li>Growl</li><li>Bubble</li><li>Water Sport</li></ul>
+
+=== "Fire"
+    ![][lucas]                     | Item | Nature | Ability  | Moves
+    ---                            | ---  | ---    | ---      | ---
+    ![][387]<br>[Turtwig]<br>Lv. 9 | None | ?      | Overgrow | <ul><li>Tackle</li><li>Withdraw</li><li>Absorb</li><li>Razor Leaf</li></ul>
+
+=== "Water"
+    ![][lucas]                      | Item | Nature | Ability | Moves
+    ---                             | ---  | ---    | ---     | ---
+    ![][390]<br>[Chimchar]<br>Lv. 9 | None | ?      | Blaze   | <ul><li>Scratch</li><li>Leer</li><li>Ember</li><li>Taunt</li></ul>
 
 Trainer                                  | 1                                | 2                             | 3
 ---                                      | ---                              | ---                           | ---
@@ -51,6 +85,14 @@ Bug Catcher Louie<br>![][bug_catcher] | Item | Nature | Ability | Moves
 ---                                   | ---  | ---    | ---     | ---
 ![][469]<br>[Yanmega]<br>Lv. 85       | None | ?      | ?       | <ul><li>Air Slash</li><li>Protect</li><li>Bug Buzz</li><li>Substitute</li></ul>
 
+--8<-- "includes/abilities.md"
+
+--8<-- "includes/held_items.md"
+
+--8<-- "includes/natures.md"
+
+[PKMN Trainer Dawn]: #pkmn-trainer-dawn
+[PKMN Trainer Lucas]: #pkmn-trainer-lucas
 [Pidgeot]: ../../pokemons/018/
 [Growlithe]: ../../pokemons/058/
 [Sentret]: ../../pokemons/161/

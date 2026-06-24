@@ -215,9 +215,9 @@ Trainer                                                   | 1                   
     ---                               | ---                             | ---     | ---         | ---
     ![][450]<br>[Hippowdon]<br>Lv. 72 | ![][leftovers]<br>Leftovers     | Adamant | Sand Stream | <ul><li>Earthquake</li><li>Crunch</li><li>Stealth Rock</li><li>Slack Off</li></ul>
     ![][340]<br>[Whiscash]<br>Lv. 72  | ![][life-orb]<br>Life Orb       | Careful | Oblivious   | <ul><li>Aqua Tail</li><li>Earthquake</li><li>Bounce</li><li>Dragon Dance</li></ul>
-    ![][472]<br>[Gliscor]<br>Lv. 72   | ![][toxic-orb]<br>Toxic Orb     | Naive   | Poison Heal | <ul><li>Earthquake</li><li>Wing Attack</li><li>Protect</li><li>Roost</li></ul>
+    ![][472]<br>[Gliscor]<br>Lv. 72   | ![][toxic-orb]<br>Toxic Orb     | Naive   | Poison Heal [^1] | <ul><li>Earthquake</li><li>Wing Attack</li><li>Protect</li><li>Roost</li></ul>
     ![][076]<br>[Golem]<br>Lv. 72     | ![][focus-sash]<br>Focus Sash   | Naughty | Rock Head   | <ul><li>Earthquake</li><li>Stone Edge</li><li>Thunder Punch</li><li>Explosion</li></ul>
-    ![][232]<br>[Donphan]<br>Lv. 72   | ![][rindo-berry]<br>Rindo Berry | Impish  | Sand Veil   | <ul><li>Earthquake</li><li>Play Rough</li><li>Head Smash</li><li>Superpower</li></ul>
+    ![][232]<br>[Donphan]<br>Lv. 72   | ![][rindo-berry]<br>Rindo Berry | Impish  | Sand Veil [^1]   | <ul><li>Earthquake</li><li>Play Rough</li><li>Head Smash</li><li>Superpower</li></ul>
     ![][464]<br>[Rhyperior]<br>Lv. 73 | ![][choice-band]<br>Choice Band | Brave   | Solid Rock  | <ul><li>Earthquake</li><li>Stone Edge</li><li>Megahorn</li><li>Ice Punch</li></ul>
 
 === "B2"
@@ -225,7 +225,7 @@ Trainer                                                   | 1                   
     ---                               | ---                               | ---     | ---         | ---
     ![][450]<br>[Hippowdon]<br>Lv. 72 | ![][sitrus-berry]<br>Sitrus Berry | Naughty | Sand Stream | <ul><li>Earthquake</li><li>Crunch</li><li>Stealth Rock</li><li>Slack Off</li></ul>
     ![][185]<br>[Sudowoodo]<br>Lv. 72 | ![][passho-berry]<br>Passho Berry | Relaxed | Rock Head   | <ul><li>Head Smash</li><li>Wood Hammer</li><li>Sucker Punch</li><li>Hammer Arm</li></ul>
-    ![][472]<br>[Gliscor]<br>Lv. 72   | ![][toxic-orb]<br>Toxic Orb       | Impish  | Poison Heal | <ul><li>Earthquake</li><li>X-Scissor</li><li>Protect</li><li>Roost</li></ul>
+    ![][472]<br>[Gliscor]<br>Lv. 72   | ![][toxic-orb]<br>Toxic Orb       | Impish  | Poison Heal [^1] | <ul><li>Earthquake</li><li>X-Scissor</li><li>Protect</li><li>Roost</li></ul>
     ![][389]<br>[Torterra]<br>Lv. 72  | ![][leftovers]<br>Leftovers       | Adamant | Overgrow    | <ul><li>Earthquake</li><li>Wood Hammer</li><li>Stone Edge</li><li>Leech Seed</li></ul>
     ![][323]<br>[Camerupt]<br>Lv. 72  | ![][focus-sash]<br>Focus Sash     | Quiet   | Solid Rock  | <ul><li>Overheat</li><li>Earth Power</li><li>Yawn</li><li>Explosion</li></ul>
     ![][464]<br>[Rhyperior]<br>Lv. 73 | ![][choice-band]<br>Choice Band   | Naughty | Solid Rock  | <ul><li>Earthquake</li><li>Stone Edge</li><li>Megahorn</li><li>Thunder Punch</li></ul>
@@ -235,8 +235,8 @@ Trainer                                                   | 1                   
     ---                               | ---                               | ---     | ---         | ---
     ![][248]<br>[Tyranitar]<br>Lv. 72 | ![][choice-scarf]<br>Choice Scarf | Naughty | Sand Stream | <ul><li>Stone Edge</li><li>Crunch</li><li>Earthquake</li><li>Thunder Punch</li></ul>
     ![][260]<br>[Swampert]<br>Lv. 72  | ![][lum-berry]<br>Lum Berry       | Adamant | Torrent     | <ul><li>Earthquake</li><li>Aqua Tail</li><li>Rest</li><li>Sleep Talk</li></ul>
-    ![][051]<br>[Dugtrio]<br>Lv. 72   | ![][choice-band]<br>Choice Band   | Naughty | Arena Trap  | <ul><li>Earthquake</li><li>Stone Edge</li><li>Night Slash</li><li>Aerial Ace</li></ul>
-    ![][473]<br>[Mamoswine]<br>Lv. 72 | ![][passho-berry]<br>Passho Berry | Jolly   | Thick Fat   | <ul><li>Earthquake</li><li>Icicle Crash</li><li>Stone Edge</li><li>Ice Shard</li></ul>
+    ![][051]<br>[Dugtrio]<br>Lv. 72   | ![][choice-band]<br>Choice Band   | Naughty | Sand Veil  | <ul><li>Earthquake</li><li>Stone Edge</li><li>Night Slash</li><li>Aerial Ace</li></ul>
+    ![][473]<br>[Mamoswine]<br>Lv. 72 | ![][passho-berry]<br>Passho Berry | Jolly   | Thick Fat [^1]   | <ul><li>Earthquake</li><li>Icicle Crash</li><li>Stone Edge</li><li>Ice Shard</li></ul>
     ![][344]<br>[Claydol]<br>Lv. 72   | ![][light-clay]<br>Light Clay     | Sassy   | Levitate    | <ul><li>Earthquake</li><li>Psychic</li><li>Reflect</li><li>Light Screen</li></ul>
     ![][464]<br>[Rhyperior]<br>Lv. 73 | ![][choice-band]<br>Choice Band   | Naughty | Solid Rock  | <ul><li>Earthquake</li><li>Stone Edge</li><li>Megahorn</li><li>Fire Punch</li></ul>
 
@@ -245,8 +245,8 @@ Trainer                                                   | 1                   
     ---                               | ---                               | ---     | ---          | ---
     ![][248]<br>[Tyranitar]<br>Lv. 72 | ![][choice-scarf]<br>Choice Scarf | Jolly   | Sand Stream  | <ul><li>Stone Edge</li><li>Crunch</li><li>Earthquake</li><li>Fire Punch</li></ul>
     ![][195]<br>[Quagsire]<br>Lv. 72  | ![][sitrus-berry]<br>Sitrus Berry | Careful | Water Absorb | <ul><li>Earthquake</li><li>Aqua Tail</li><li>Yawn</li><li>Recover</li></ul>
-    ![][473]<br>[Mamoswine]<br>Lv. 72 | ![][passho-berry]<br>Passho Berry | Jolly   | Thick Fat    | <ul><li>Earthquake</li><li>Icicle Crash</li><li>Stone Edge</li><li>Ice Shard</li></ul>
-    ![][051]<br>[Dugtrio]<br>Lv. 72   | ![][choice-band]<br>Choice Band   | Naughty | Arena Trap   | <ul><li>Earthquake</li><li>Stone Edge</li><li>Night Slash</li><li>Aerial Ace</li></ul>
+    ![][473]<br>[Mamoswine]<br>Lv. 72 | ![][passho-berry]<br>Passho Berry | Jolly   | Thick Fat [^1]    | <ul><li>Earthquake</li><li>Icicle Crash</li><li>Stone Edge</li><li>Ice Shard</li></ul>
+    ![][051]<br>[Dugtrio]<br>Lv. 72   | ![][choice-band]<br>Choice Band   | Naughty | Sand Veil   | <ul><li>Earthquake</li><li>Stone Edge</li><li>Night Slash</li><li>Aerial Ace</li></ul>
     ![][389]<br>[Torterra]<br>Lv. 72  | ![][leftovers]<br>Leftovers       | Brave   | Overgrow     | <ul><li>Earthquake</li><li>Wood Hammer</li><li>Stone Edge</li><li>Leech Seed</li></ul>
     ![][464]<br>[Rhyperior]<br>Lv. 73 | ![][choice-band]<br>Choice Band   | Naughty | Solid Rock   | <ul><li>Earthquake</li><li>Stone Edge</li><li>Megahorn</li><li>Ice Punch</li></ul>
 
@@ -258,18 +258,18 @@ Trainer                                                   | 1                   
     ![][038]<br>[Ninetales]<br>Lv. 73 | ![][white-herb]<br>White Herb     | Timid  | Drought         | <ul><li>Overheat</li><li>Solar Beam</li><li>Moonblast</li><li>Confuse Ray</li></ul>
     ![][229]<br>[Houndoom]<br>Lv. 73  | ![][choice-scarf]<br>Choice Scarf | Hasty  | Intimidate [^1] | <ul><li>Fire Blast</li><li>Dark Pulse</li><li>Solar Beam</li><li>Sludge Bomb</li></ul>
     ![][136]<br>[Flareon]<br>Lv. 73   | ![][choice-band]<br>Choice Band   | Lonely | Flash Fire      | <ul><li>Flare Blitz</li><li>Play Rough</li><li>Wild Charge</li><li>Close Combat</li></ul>
-    ![][078]<br>[Rapidash]<br>Lv. 73  | ![][power-herb]<br>Power Herb     | Hasty  | Flame Body      | <ul><li>Flare Blitz</li><li>Wild Charge</li><li>Megahorn</li><li>Drill Run</li></ul>
-    ![][392]<br>[Infernape]<br>Lv. 73 | ![][expert-belt]<br>Expert Belt   | Hasty  | Iron Fist       | <ul><li>Flare Blitz</li><li>Close Combat</li><li>Thunder Punch</li><li>Grass Knot</li></ul>
+    ![][078]<br>[Rapidash]<br>Lv. 73  | ![][power-herb]<br>Power Herb     | Hasty  | Flame Body [^1]      | <ul><li>Flare Blitz</li><li>Wild Charge</li><li>Megahorn</li><li>Drill Run</li></ul>
+    ![][392]<br>[Infernape]<br>Lv. 73 | ![][expert-belt]<br>Expert Belt   | Hasty  | Iron Fist [^1]       | <ul><li>Flare Blitz</li><li>Close Combat</li><li>Thunder Punch</li><li>Grass Knot</li></ul>
     ![][467]<br>[Magmortar]<br>Lv. 74 | ![][life-orb]<br>Life Orb         | Timid  | Flame Body      | <ul><li>Fire Blast</li><li>Thunderbolt</li><li>Aura Sphere</li><li>Solar Beam</li></ul>
 
 === "F2"
     ![][flint]                        | Item                            | Nature  | Ability      | Moves
     ---                               | ---                             | ---     | ---          | ---
-    ![][078]<br>[Rapidash]<br>Lv. 73  | ![][heat-rock]<br>Heat Rock     | Naive   | Flame Body   | <ul><li>Flare Blitz</li><li>Wild Charge</li><li>Megahorn</li><li>Sunny Day</li></ul>
+    ![][078]<br>[Rapidash]<br>Lv. 73  | ![][heat-rock]<br>Heat Rock     | Naive   | Flame Body [^1]   | <ul><li>Flare Blitz</li><li>Wild Charge</li><li>Megahorn</li><li>Sunny Day</li></ul>
     ![][428]<br>[Lopunny]<br>Lv. 73   | ![][focus-sash]<br>Focus Sash   | Hasty   | Scrappy [^1] | <ul><li>High Jump Kick</li><li>Mega Kick</li><li>Blaze Kick</li><li>Sunny Day</li></ul>
     ![][426]<br>[Drifblim]<br>Lv. 73  | ![][wacan-berry]<br>Wacan Berry | Modest  | Unburden     | <ul><li>Shadow Ball</li><li>Hurricane</li><li>Flamethrower</li><li>Will-O-Wisp</li></ul>
     ![][208]<br>[Steelix]<br>Lv. 73   | ![][muscle-band]<br>Muscle Band | Sassy   | Rock Head    | <ul><li>Iron Tail</li><li>Earthquake</li><li>Fire Fang</li><li>Crunch</li></ul>
-    ![][392]<br>[Infernape]<br>Lv. 73 | ![][expert-belt]<br>Expert Belt | Adamant | Iron Fist    | <ul><li>Flare Blitz</li><li>Close Combat</li><li>Thunder Punch</li><li>Gunk Shot</li></ul>
+    ![][392]<br>[Infernape]<br>Lv. 73 | ![][expert-belt]<br>Expert Belt | Adamant | Iron Fist [^1]    | <ul><li>Flare Blitz</li><li>Close Combat</li><li>Thunder Punch</li><li>Gunk Shot</li></ul>
     ![][467]<br>[Magmortar]<br>Lv. 74 | ![][life-orb]<br>Life Orb       | Modest  | Flame Body   | <ul><li>Fire Blast</li><li>Thunderbolt</li><li>Aura Sphere</li><li>Solar Beam</li></ul>
 
 === "F3"
@@ -279,7 +279,7 @@ Trainer                                                   | 1                   
     ![][059]<br>[Arcanine]<br>Lv. 73  | ![][expert-belt]<br>Expert Belt   | Hasty  | Intimidate      | <ul><li>Flare Blitz</li><li>Wild Charge</li><li>Crunch</li><li>Extreme Speed</li></ul>
     ![][219]<br>[Magcargo]<br>Lv. 73  | ![][focus-sash]<br>Focus Sash     | Quiet  | Solid Rock [^1] | <ul><li>Fire Blast</li><li>Earth Power</li><li>Power Gem</li><li>Solar Beam</li></ul>
     ![][428]<br>[Lopunny]<br>Lv. 73   | ![][muscle-band]<br>Muscle Band   | Hasty  | Scrappy [^1]    | <ul><li>High Jump Kick</li><li>Mega Kick</li><li>Blaze Kick</li><li>Fake Out</li></ul>
-    ![][006]<br>[Charizard]<br>Lv. 73 | ![][choice-specs]<br>Choice Specs | Modest | Drought [^1]    | <ul><li>Fire Blast</li><li>Dragon Pulse</li><li>Hurricane</li><li>Solar Beam</li></ul>
+    ![][006]<br>[Charizard]<br>Lv. 73 | ![][choice-specs]<br>Choice Specs | Modest | Levitate [^1]    | <ul><li>Fire Blast</li><li>Dragon Pulse</li><li>Hurricane</li><li>Solar Beam</li></ul>
     ![][467]<br>[Magmortar]<br>Lv. 74 | ![][life-orb]<br>Life Orb         | Modest | Flame Body      | <ul><li>Fire Blast</li><li>Thunderbolt</li><li>Aura Sphere</li><li>Solar Beam</li></ul>
 
 === "F4"
@@ -289,7 +289,7 @@ Trainer                                                   | 1                   
     ![][229]<br>[Houndoom]<br>Lv. 73   | ![][choice-specs]<br>Choice Specs | Hasty  | Intimidate [^1] | <ul><li>Fire Blast</li><li>Dark Pulse</li><li>Solar Beam</li><li>Sludge Bomb</li></ul>
     ![][059]<br>[Arcanine]<br>Lv. 73   | ![][expert-belt]<br>Expert Belt   | Hasty  | Intimidate      | <ul><li>Flare Blitz</li><li>Wild Charge</li><li>Crunch</li><li>Extreme Speed</li></ul>
     ![][426]<br>[Drifblim]<br>Lv. 73   | ![][wacan-berry]<br>Wacan Berry   | Rash   | Unburden        | <ul><li>Shadow Ball</li><li>Hurricane</li><li>Flamethrower</li><li>Will-O-Wisp</li></ul>
-    ![][157]<br>[Typhlosion]<br>Lv. 73 | ![][choice-scarf]<br>Choice Scarf | Timid  | Flash Fire      | <ul><li>Eruption</li><li>Extrasensory</li><li>Earth Power</li><li>Solar Beam</li></ul>
+    ![][157]<br>[Typhlosion]<br>Lv. 73 | ![][choice-scarf]<br>Choice Scarf | Timid  | Adaptability [^1]      | <ul><li>Eruption</li><li>Extrasensory</li><li>Earth Power</li><li>Solar Beam</li></ul>
     ![][467]<br>[Magmortar]<br>Lv. 74  | ![][life-orb]<br>Life Orb         | Rash   | Flame Body      | <ul><li>Fire Blast</li><li>Thunderbolt</li><li>Aura Sphere</li><li>Solar Beam</li></ul>
 
 ## Elite Four Lucian R1
@@ -300,7 +300,7 @@ Trainer                                                   | 1                   
     ![][122]<br>[Mr. Mime]<br>Lv. 74  | ![][light-clay]<br>Light Clay     | Naive   | Filter         | <ul><li>Psychic</li><li>Dazzling Gleam</li><li>Reflect</li><li>Light Screen</li></ul>
     ![][196]<br>[Espeon]<br>Lv. 74    | ![][wise-glasses]<br>Wise Glasses | Naive   | Synchronize    | <ul><li>Psychic</li><li>Dazzling Gleam</li><li>Aura Sphere</li><li>Power Gem</li></ul>
     ![][437]<br>[Bronzong]<br>Lv. 74  | ![][leftovers]<br>Leftovers       | Impish  | Levitate       | <ul><li>Zen Headbutt</li><li>Gyro Ball</li><li>Reflect</li><li>Light Screen</li></ul>
-    ![][065]<br>[Alakazam]<br>Lv. 74  | ![][life-orb]<br>Life Orb         | Timid   | Magic Guard    | <ul><li>Psychic</li><li>Shadow Ball</li><li>Energy Ball</li><li>Aura Sphere</li></ul>
+    ![][065]<br>[Alakazam]<br>Lv. 74  | ![][life-orb]<br>Life Orb         | Timid   | Magic Guard [^1]    | <ul><li>Psychic</li><li>Shadow Ball</li><li>Energy Ball</li><li>Aura Sphere</li></ul>
     ![][376]<br>[Metagross]<br>Lv. 74 | ![][muscle-band]<br>Muscle Band   | Naughty | Iron Fist [^1] | <ul><li>Zen Headbutt</li><li>Meteor Mash</li><li>Earthquake</li><li>Explosion</li></ul>
     ![][475]<br>[Gallade]<br>Lv. 75   | ![][scope-lens]<br>Scope Lens     | Lonely  | Steadfast      | <ul><li>Psycho Cut</li><li>Close Combat</li><li>Leaf Blade</li><li>Night Slash</li></ul>
 
@@ -320,14 +320,14 @@ Trainer                                                   | 1                   
     ![][097]<br>[Hypno]<br>Lv. 74     | ![][light-clay]<br>Light Clay     | Relaxed | Insomnia    | <ul><li>Psychic</li><li>Hypnosis</li><li>Reflect</li><li>Light Screen</li></ul>
     ![][080]<br>[Slowbro]<br>Lv. 74   | ![][leftovers]<br>Leftovers       | Bold    | Oblivious   | <ul><li>Psychic</li><li>Scald</li><li>Flamethrower</li><li>Slack Off</li></ul>
     ![][282]<br>[Gardevoir]<br>Lv. 74 | ![][wise-glasses]<br>Wise Glasses | Timid   | Synchronize | <ul><li>Psychic</li><li>Moonblast</li><li>Thunderbolt</li><li>Aura Sphere</li></ul>
-    ![][124]<br>[Jynx]<br>Lv. 74      | ![][white-herb]<br>White Herb     | Naive   | Dry Skin    | <ul><li>Psycho Boost</li><li>Blizzard</li><li>Petal Dance</li><li>Fake Out</li></ul>
+    ![][124]<br>[Jynx]<br>Lv. 74      | ![][white-herb]<br>White Herb     | Naive   | Dry Skin [^1]    | <ul><li>Psycho Boost</li><li>Blizzard</li><li>Petal Dance</li><li>Fake Out</li></ul>
     ![][437]<br>[Bronzong]<br>Lv. 74  | ![][occa-berry]<br>Occa Berry     | Relaxed | Levitate    | <ul><li>Psychic</li><li>Flash Cannon</li><li>Earthquake</li><li>Hypnosis</li></ul>
     ![][475]<br>[Gallade]<br>Lv. 75   | ![][scope-lens]<br>Scope Lens     | Jolly   | Steadfast   | <ul><li>Psycho Cut</li><li>Close Combat</li><li>Leaf Blade</li><li>Night Slash</li></ul>
 
 === "L4"
     ![][lucian]                       | Item                              | Nature  | Ability        | Moves
     ---                               | ---                               | ---     | ---            | ---
-    ![][065]<br>[Alakazam]<br>Lv. 74  | ![][focus-sash]<br>Focus Sash     | Timid   | Magic Guard    | <ul><li>Psychic</li><li>Aura Sphere</li><li>Thunder Wave</li><li>Counter</li></ul>
+    ![][065]<br>[Alakazam]<br>Lv. 74  | ![][focus-sash]<br>Focus Sash     | Timid   | Magic Guard [^1]    | <ul><li>Psychic</li><li>Aura Sphere</li><li>Thunder Wave</li><li>Counter</li></ul>
     ![][282]<br>[Gardevoir]<br>Lv. 74 | ![][wise-glasses]<br>Wise Glasses | Timid   | Synchronize    | <ul><li>Psychic</li><li>Moonblast</li><li>Thunderbolt</li><li>Aura Sphere</li></ul>
     ![][103]<br>[Exeggutor]<br>Lv. 74 | ![][occa-berry]<br>Occa Berry     | Rash    | Chlorophyll    | <ul><li>Psychic</li><li>Giga Drain</li><li>Sleep Powder</li><li>Leech Seed</li></ul>
     ![][121]<br>[Starmie]<br>Lv. 74   | ![][life-orb]<br>Life Orb         | Modest  | Illuminate     | <ul><li>Psychic</li><li>Hydro Pump</li><li>Ice Beam</li><li>Thunderbolt</li></ul>
@@ -340,11 +340,11 @@ Trainer                                                   | 1                   
     ![][cynthia]                      | Item                              | Nature | Ability           | Moves
     ---                               | ---                               | ---    | ---               | ---
     ![][442]<br>[Spiritomb]<br>Lv. 77 | ![][lum-berry]<br>Lum Berry       | Sassy  | Pressure          | <ul><li>Dark Pulse</li><li>Will-O-Wisp</li><li>Confuse Ray</li><li>Rest</li></ul>
-    ![][407]<br>[Roserade]<br>Lv. 77  | ![][white-herb]<br>White Herb     | Timid  | Technician        | <ul><li>Leaf Storm</li><li>Sludge Bomb</li><li>Dazzling Gleam</li><li>Sleep Powder</li></ul>
+    ![][407]<br>[Roserade]<br>Lv. 77  | ![][white-herb]<br>White Herb     | Timid  | Technician [^1]        | <ul><li>Leaf Storm</li><li>Sludge Bomb</li><li>Dazzling Gleam</li><li>Sleep Powder</li></ul>
     ![][468]<br>[Togekiss]<br>Lv. 77  | ![][sitrus-berry]<br>Sitrus Berry | Bold   | Serene Grace      | <ul><li>Air Slash</li><li>Thunder Wave</li><li>Roost</li><li>Moonblast</li></ul>
     ![][448]<br>[Lucario]<br>Lv. 77   | ![][life-orb]<br>Life Orb         | Jolly  | Adaptability [^1] | <ul><li>High Jump Kick</li><li>Meteor Mash</li><li>Extreme Speed</li><li>Ice Punch</li></ul>
     ![][350]<br>[Milotic]<br>Lv. 77   | ![][leftovers]<br>Leftovers       | Calm   | Marvel Scale      | <ul><li>Surf</li><li>Ice Beam</li><li>Recover</li><li>Hypnosis</li></ul>
-    ![][445]<br>[Garchomp]<br>Lv. 78  | ![][yache-berry]<br>Yache Berry   | Jolly  | Rough Skin        | <ul><li>Earthquake</li><li>Outrage</li><li>Stone Edge</li><li>Swords Dance</li></ul>
+    ![][445]<br>[Garchomp]<br>Lv. 78  | ![][yache-berry]<br>Yache Berry   | Jolly  | Rough Skin [^1]        | <ul><li>Earthquake</li><li>Outrage</li><li>Stone Edge</li><li>Swords Dance</li></ul>
 
 === "C2"
     ![][cynthia]                      | Item                              | Nature  | Ability           | Moves
@@ -352,9 +352,9 @@ Trainer                                                   | 1                   
     ![][350]<br>[Milotic]<br>Lv. 77   | ![][leftovers]<br>Leftovers       | Bold    | Marvel Scale      | <ul><li>Scald</li><li>Ice Beam</li><li>Light Screen</li><li>Recover</li></ul>
     ![][442]<br>[Spiritomb]<br>Lv. 77 | ![][wise-glasses]<br>Wise Glasses | Relaxed | Pressure          | <ul><li>Dark Pulse</li><li>Shadow Ball</li><li>Psychic</li><li>Hypnosis</li></ul>
     ![][181]<br>[Ampharos]<br>Lv. 77  | ![][shuca-berry]<br>Shuca Berry   | Quiet   | Static            | <ul><li>Thunderbolt</li><li>Dragon Pulse</li><li>Focus Blast</li><li>Flash Cannon</li></ul>
-    ![][398]<br>[Staraptor]<br>Lv. 77 | ![][choice-scarf]<br>Choice Scarf | Naughty | Reckless          | <ul><li>Brave Bird</li><li>Double-Edge</li><li>Close Combat</li><li>U-turn</li></ul>
+    ![][398]<br>[Staraptor]<br>Lv. 77 | ![][choice-scarf]<br>Choice Scarf | Naughty | Reckless [^1]          | <ul><li>Brave Bird</li><li>Double-Edge</li><li>Close Combat</li><li>U-turn</li></ul>
     ![][448]<br>[Lucario]<br>Lv. 77   | ![][life-orb]<br>Life Orb         | Timid   | Adaptability [^1] | <ul><li>Aura Sphere</li><li>Flash Cannon</li><li>Dark Pulse</li><li>Vacuum Wave</li></ul>
-    ![][445]<br>[Garchomp]<br>Lv. 78  | ![][yache-berry]<br>Yache Berry   | Hasty   | Rough Skin        | <ul><li>Earthquake</li><li>Outrage</li><li>Stone Edge</li><li>Swords Dance</li></ul>
+    ![][445]<br>[Garchomp]<br>Lv. 78  | ![][yache-berry]<br>Yache Berry   | Hasty   | Rough Skin [^1]        | <ul><li>Earthquake</li><li>Outrage</li><li>Stone Edge</li><li>Swords Dance</li></ul>
 
 === "C3"
     ![][cynthia]                      | Item                              | Nature  | Ability           | Moves
@@ -364,17 +364,17 @@ Trainer                                                   | 1                   
     ![][442]<br>[Spiritomb]<br>Lv. 77 | ![][sitrus-berry]<br>Sitrus Berry | Relaxed | Pressure          | <ul><li>Dark Pulse</li><li>Calm Mind</li><li>Rest</li><li>Sleep Talk</li></ul>
     ![][448]<br>[Lucario]<br>Lv. 77   | ![][life-orb]<br>Life Orb         | Hasty   | Adaptability [^1] | <ul><li>High Jump Kick</li><li>Meteor Mash</li><li>Bullet Punch</li><li>Stone Edge</li></ul>
     ![][471]<br>[Glaceon]<br>Lv. 77   | ![][choice-specs]<br>Choice Specs | Modest  | Snow Cloak        | <ul><li>Blizzard</li><li>Earth Power</li><li>Extrasensory</li><li>Shadow Ball</li></ul>
-    ![][445]<br>[Garchomp]<br>Lv. 78  | ![][yache-berry]<br>Yache Berry   | Hasty   | Rough Skin        | <ul><li>Earthquake</li><li>Outrage</li><li>Stone Edge</li><li>Swords Dance</li></ul>
+    ![][445]<br>[Garchomp]<br>Lv. 78  | ![][yache-berry]<br>Yache Berry   | Hasty   | Rough Skin [^1]        | <ul><li>Earthquake</li><li>Outrage</li><li>Stone Edge</li><li>Swords Dance</li></ul>
 
 === "C4"
     <br>![][cynthia]                  | Item                              | Nature | Ability      | Moves
     ---                               | ---                               | ---    | ---          | ---
     ![][036]<br>[Clefable]<br>Lv. 77  | ![][light-clay]<br>Light Clay     | Calm   | Cute Charm   | <ul><li>Moonblast</li><li>Soft-Boiled</li><li>Reflect</li><li>Light Screen</li></ul>
-    ![][407]<br>[Roserade]<br>Lv. 77  | ![][choice-scarf]<br>Choice Scarf | Modest | Technician   | <ul><li>Energy Ball</li><li>Sludge Bomb</li><li>Shadow Ball</li><li>Dazzling Gleam</li></ul>
+    ![][407]<br>[Roserade]<br>Lv. 77  | ![][choice-scarf]<br>Choice Scarf | Modest | Technician [^1]   | <ul><li>Energy Ball</li><li>Sludge Bomb</li><li>Shadow Ball</li><li>Dazzling Gleam</li></ul>
     ![][429]<br>[Mismagius]<br>Lv. 77 | ![][wise-glasses]<br>Wise Glasses | Timid  | Levitate     | <ul><li>Shadow Ball</li><li>Moonblast</li><li>Thunderbolt</li><li>Thunder Wave</li></ul>
     ![][428]<br>[Lopunny]<br>Lv. 77   | ![][life-orb]<br>Life Orb         | Hasty  | Scrappy [^1] | <ul><li>High Jump Kick</li><li>Mega Kick</li><li>Ice Punch</li><li>Fake Out</li></ul>
     ![][350]<br>[Milotic]<br>Lv. 77   | ![][leftovers]<br>Leftovers       | Calm   | Marvel Scale | <ul><li>Hydro Pump</li><li>Ice Beam</li><li>Rest</li><li>Sleep Talk</li></ul>
-    ![][445]<br>[Garchomp]<br>Lv. 78  | ![][yache-berry]<br>Yache Berry   | Hasty  | Rough Skin   | <ul><li>Earthquake</li><li>Outrage</li><li>Stone Edge</li><li>Swords Dance</li></ul>
+    ![][445]<br>[Garchomp]<br>Lv. 78  | ![][yache-berry]<br>Yache Berry   | Hasty  | Rough Skin [^1]   | <ul><li>Earthquake</li><li>Outrage</li><li>Stone Edge</li><li>Swords Dance</li></ul>
 
 ## Elite Four Aaron R2
 
