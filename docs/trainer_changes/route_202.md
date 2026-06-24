@@ -34,36 +34,54 @@
 ## PKMN Trainer Dawn
 
 === "Grass"
-    ![][dawn]                     | Item | Nature | Ability | Moves
-    ---                           | ---  | ---    | ---     | ---
-    ![][393]<br>[Piplup]<br>Lv. 9 | None | ?      | Torrent | <ul><li>Pound</li><li>Growl</li><li>Bubble</li><li>Water Sport</li></ul>
+    ![][dawn] | ![][393]<br>[Piplup]<br>Lv. 9
+    --- | ---
+    **Item** | None
+    **Nature** | ?
+    **Ability** | Torrent
+    **Moves** | <ul><li>Pound</li><li>Growl</li><li>Bubble</li><li>Water Sport</li></ul>
 
 === "Fire"
-    ![][dawn]                      | Item | Nature | Ability  | Moves
-    ---                            | ---  | ---    | ---      | ---
-    ![][387]<br>[Turtwig]<br>Lv. 9 | None | ?      | Overgrow | <ul><li>Tackle</li><li>Withdraw</li><li>Absorb</li><li>Razor Leaf</li></ul>
+    ![][dawn] | ![][387]<br>[Turtwig]<br>Lv. 9
+    --- | ---
+    **Item** | None
+    **Nature** | ?
+    **Ability** | Overgrow
+    **Moves** | <ul><li>Tackle</li><li>Withdraw</li><li>Absorb</li><li>Razor Leaf</li></ul>
 
 === "Water"
-    ![][dawn]                       | Item | Nature | Ability | Moves
-    ---                             | ---  | ---    | ---     | ---
-    ![][390]<br>[Chimchar]<br>Lv. 9 | None | ?      | Blaze   | <ul><li>Scratch</li><li>Leer</li><li>Ember</li><li>Taunt</li></ul>
+    ![][dawn] | ![][390]<br>[Chimchar]<br>Lv. 9
+    --- | ---
+    **Item** | None
+    **Nature** | ?
+    **Ability** | Blaze
+    **Moves** | <ul><li>Scratch</li><li>Leer</li><li>Ember</li><li>Taunt</li></ul>
 
 ## PKMN Trainer Lucas
 
 === "Grass"
-    ![][lucas]                    | Item | Nature | Ability | Moves
-    ---                           | ---  | ---    | ---     | ---
-    ![][393]<br>[Piplup]<br>Lv. 9 | None | ?      | Torrent | <ul><li>Pound</li><li>Growl</li><li>Bubble</li><li>Water Sport</li></ul>
+    ![][lucas] | ![][393]<br>[Piplup]<br>Lv. 9
+    --- | ---
+    **Item** | None
+    **Nature** | ?
+    **Ability** | Torrent
+    **Moves** | <ul><li>Pound</li><li>Growl</li><li>Bubble</li><li>Water Sport</li></ul>
 
 === "Fire"
-    ![][lucas]                     | Item | Nature | Ability  | Moves
-    ---                            | ---  | ---    | ---      | ---
-    ![][387]<br>[Turtwig]<br>Lv. 9 | None | ?      | Overgrow | <ul><li>Tackle</li><li>Withdraw</li><li>Absorb</li><li>Razor Leaf</li></ul>
+    ![][lucas] | ![][387]<br>[Turtwig]<br>Lv. 9
+    --- | ---
+    **Item** | None
+    **Nature** | ?
+    **Ability** | Overgrow
+    **Moves** | <ul><li>Tackle</li><li>Withdraw</li><li>Absorb</li><li>Razor Leaf</li></ul>
 
 === "Water"
-    ![][lucas]                      | Item | Nature | Ability | Moves
-    ---                             | ---  | ---    | ---     | ---
-    ![][390]<br>[Chimchar]<br>Lv. 9 | None | ?      | Blaze   | <ul><li>Scratch</li><li>Leer</li><li>Ember</li><li>Taunt</li></ul>
+    ![][lucas] | ![][390]<br>[Chimchar]<br>Lv. 9
+    --- | ---
+    **Item** | None
+    **Nature** | ?
+    **Ability** | Blaze
+    **Moves** | <ul><li>Scratch</li><li>Leer</li><li>Ember</li><li>Taunt</li></ul>
 
 Trainer                                  | 1                                | 2                             | 3
 ---                                      | ---                              | ---                           | ---
@@ -81,9 +99,12 @@ Youngster Tristan :material-numeric-8-circle-outline: | ![][164]<br>[Noctowl]<br
 
 ## Master Trainer
 
-Bug Catcher Louie<br>![][bug_catcher] | Item | Nature | Ability | Moves
----                                   | ---  | ---    | ---     | ---
-![][469]<br>[Yanmega]<br>Lv. 85       | None | ?      | ?       | <ul><li>Air Slash</li><li>Protect</li><li>Bug Buzz</li><li>Substitute</li></ul>
+Bug Catcher Louie<br>![][bug_catcher] | ![][469]<br>[Yanmega]<br>Lv. 85
+--- | ---
+**Item** | None
+**Nature** | ?
+**Ability** | ?
+**Moves** | <ul><li>Air Slash</li><li>Protect</li><li>Bug Buzz</li><li>Substitute</li></ul>
 
 --8<-- "includes/abilities.md"
 

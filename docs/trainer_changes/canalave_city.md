@@ -24,34 +24,28 @@
 ## PKMN Trainer Barry
 
 === "Grass"
-    ![][barry]                        | Item                              | Nature | Ability    | Moves
-    ---                               | ---                               | ---    | ---        | ---
-    ![][398]<br>[Staraptor]<br>Lv. 48 | ![][choice-band]<br>Choice Band   | ?      | Reckless   | <ul><li>Double-Edge</li><li>Brave Bird</li><li>Close Combat</li><li>U-turn</li></ul>
-    ![][214]<br>[Heracross]<br>Lv. 48 | ![][muscle-band]<br>Muscle Band   | ?      | Guts       | <ul><li>Megahorn</li><li>Close Combat</li><li>Rock Slide</li><li>Night Slash</li></ul>
-    ![][143]<br>[Snorlax]<br>Lv. 48   | ![][leftovers]<br>Leftovers       | ?      | Thick Fat  | <ul><li>Curse</li><li>Body Slam</li><li>Crunch</li><li>Slack Off</li></ul>
-    ![][184]<br>[Azumarill]<br>Lv. 48 | ![][life-orb]<br>Life Orb         | ?      | Huge Power | <ul><li>Aqua Tail</li><li>Play Rough</li><li>Ice Punch</li><li>Aqua Jet</li></ul>
-    ![][286]<br>[Breloom]<br>Lv. 48   | ![][focus-sash]<br>Focus Sash     | ?      | Technician | <ul><li>Bullet Seed</li><li>Force Palm</li><li>Spore</li><li>Stone Edge</li></ul>
-    ![][392]<br>[Infernape]<br>Lv. 49 | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist  | <ul><li>Fire Blast</li><li>Close Combat</li><li>Fake Out</li><li>Thunder Punch</li></ul>
+    ![][barry] | ![][398]<br>[Staraptor]<br>Lv. 48 | ![][214]<br>[Heracross]<br>Lv. 48 | ![][143]<br>[Snorlax]<br>Lv. 48 | ![][184]<br>[Azumarill]<br>Lv. 48 | ![][286]<br>[Breloom]<br>Lv. 48 | ![][392]<br>[Infernape]<br>Lv. 49
+    --- | --- | --- | --- | --- | --- | ---
+    **Item** | ![][choice-band]<br>Choice Band | ![][muscle-band]<br>Muscle Band | ![][leftovers]<br>Leftovers | ![][life-orb]<br>Life Orb | ![][focus-sash]<br>Focus Sash | ![][sitrus-berry]<br>Sitrus Berry
+    **Nature** | ? | ? | ? | ? | ? | ?
+    **Ability** | Reckless | Guts | Thick Fat | Huge Power | Technician | Iron Fist
+    **Moves** | <ul><li>Double-Edge</li><li>Brave Bird</li><li>Close Combat</li><li>U-turn</li></ul> | <ul><li>Megahorn</li><li>Close Combat</li><li>Rock Slide</li><li>Night Slash</li></ul> | <ul><li>Curse</li><li>Body Slam</li><li>Crunch</li><li>Slack Off</li></ul> | <ul><li>Aqua Tail</li><li>Play Rough</li><li>Ice Punch</li><li>Aqua Jet</li></ul> | <ul><li>Bullet Seed</li><li>Force Palm</li><li>Spore</li><li>Stone Edge</li></ul> | <ul><li>Fire Blast</li><li>Close Combat</li><li>Fake Out</li><li>Thunder Punch</li></ul>
 
 === "Fire"
-    ![][barry]                        | Item                              | Nature | Ability    | Moves
-    ---                               | ---                               | ---    | ---        | ---
-    ![][398]<br>[Staraptor]<br>Lv. 48 | ![][choice-band]<br>Choice Band   | ?      | Reckless   | <ul><li>Double-Edge</li><li>Brave Bird</li><li>Close Combat</li><li>U-turn</li></ul>
-    ![][214]<br>[Heracross]<br>Lv. 48 | ![][muscle-band]<br>Muscle Band   | ?      | Guts       | <ul><li>Megahorn</li><li>Close Combat</li><li>Rock Slide</li><li>Night Slash</li></ul>
-    ![][143]<br>[Snorlax]<br>Lv. 48   | ![][leftovers]<br>Leftovers       | ?      | Thick Fat  | <ul><li>Curse</li><li>Body Slam</li><li>Crunch</li><li>Slack Off</li></ul>
-    ![][286]<br>[Breloom]<br>Lv. 48   | ![][focus-sash]<br>Focus Sash     | ?      | Technician | <ul><li>Bullet Seed</li><li>Force Palm</li><li>Spore</li><li>Stone Edge</li></ul>
-    ![][059]<br>[Arcanine]<br>Lv. 48  | ![][expert-belt]<br>Expert Belt   | ?      | Intimidate | <ul><li>Flare Blitz</li><li>Extreme Speed</li><li>Crunch</li><li>Close Combat</li></ul>
-    ![][395]<br>[Empoleon]<br>Lv. 49  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent    | <ul><li>Surf</li><li>Flash Cannon</li><li>Grass Knot</li><li>Agility</li></ul>
+    ![][barry] | ![][398]<br>[Staraptor]<br>Lv. 48 | ![][214]<br>[Heracross]<br>Lv. 48 | ![][143]<br>[Snorlax]<br>Lv. 48 | ![][286]<br>[Breloom]<br>Lv. 48 | ![][059]<br>[Arcanine]<br>Lv. 48 | ![][395]<br>[Empoleon]<br>Lv. 49
+    --- | --- | --- | --- | --- | --- | ---
+    **Item** | ![][choice-band]<br>Choice Band | ![][muscle-band]<br>Muscle Band | ![][leftovers]<br>Leftovers | ![][focus-sash]<br>Focus Sash | ![][expert-belt]<br>Expert Belt | ![][sitrus-berry]<br>Sitrus Berry
+    **Nature** | ? | ? | ? | ? | ? | ?
+    **Ability** | Reckless | Guts | Thick Fat | Technician | Intimidate | Torrent
+    **Moves** | <ul><li>Double-Edge</li><li>Brave Bird</li><li>Close Combat</li><li>U-turn</li></ul> | <ul><li>Megahorn</li><li>Close Combat</li><li>Rock Slide</li><li>Night Slash</li></ul> | <ul><li>Curse</li><li>Body Slam</li><li>Crunch</li><li>Slack Off</li></ul> | <ul><li>Bullet Seed</li><li>Force Palm</li><li>Spore</li><li>Stone Edge</li></ul> | <ul><li>Flare Blitz</li><li>Extreme Speed</li><li>Crunch</li><li>Close Combat</li></ul> | <ul><li>Surf</li><li>Flash Cannon</li><li>Grass Knot</li><li>Agility</li></ul>
 
 === "Water"
-    ![][barry]                        | Item                              | Nature | Ability    | Moves
-    ---                               | ---                               | ---    | ---        | ---
-    ![][398]<br>[Staraptor]<br>Lv. 48 | ![][choice-band]<br>Choice Band   | ?      | Reckless   | <ul><li>Double-Edge</li><li>Brave Bird</li><li>Close Combat</li><li>U-turn</li></ul>
-    ![][214]<br>[Heracross]<br>Lv. 48 | ![][muscle-band]<br>Muscle Band   | ?      | Guts       | <ul><li>Megahorn</li><li>Close Combat</li><li>Rock Slide</li><li>Night Slash</li></ul>
-    ![][143]<br>[Snorlax]<br>Lv. 48   | ![][leftovers]<br>Leftovers       | ?      | Thick Fat  | <ul><li>Curse</li><li>Body Slam</li><li>Crunch</li><li>Slack Off</li></ul>
-    ![][184]<br>[Azumarill]<br>Lv. 48 | ![][life-orb]<br>Life Orb         | ?      | Huge Power | <ul><li>Aqua Tail</li><li>Play Rough</li><li>Ice Punch</li><li>Aqua Jet</li></ul>
-    ![][059]<br>[Arcanine]<br>Lv. 48  | ![][expert-belt]<br>Expert Belt   | ?      | Intimidate | <ul><li>Flare Blitz</li><li>Extreme Speed</li><li>Crunch</li><li>Close Combat</li></ul>
-    ![][389]<br>[Torterra]<br>Lv. 49  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow   | <ul><li>Wood Hammer</li><li>Earthquake</li><li>Crunch</li><li>Iron Head</li></ul>
+    ![][barry] | ![][398]<br>[Staraptor]<br>Lv. 48 | ![][214]<br>[Heracross]<br>Lv. 48 | ![][143]<br>[Snorlax]<br>Lv. 48 | ![][184]<br>[Azumarill]<br>Lv. 48 | ![][059]<br>[Arcanine]<br>Lv. 48 | ![][389]<br>[Torterra]<br>Lv. 49
+    --- | --- | --- | --- | --- | --- | ---
+    **Item** | ![][choice-band]<br>Choice Band | ![][muscle-band]<br>Muscle Band | ![][leftovers]<br>Leftovers | ![][life-orb]<br>Life Orb | ![][expert-belt]<br>Expert Belt | ![][sitrus-berry]<br>Sitrus Berry
+    **Nature** | ? | ? | ? | ? | ? | ?
+    **Ability** | Reckless | Guts | Thick Fat | Huge Power | Intimidate | Overgrow
+    **Moves** | <ul><li>Double-Edge</li><li>Brave Bird</li><li>Close Combat</li><li>U-turn</li></ul> | <ul><li>Megahorn</li><li>Close Combat</li><li>Rock Slide</li><li>Night Slash</li></ul> | <ul><li>Curse</li><li>Body Slam</li><li>Crunch</li><li>Slack Off</li></ul> | <ul><li>Aqua Tail</li><li>Play Rough</li><li>Ice Punch</li><li>Aqua Jet</li></ul> | <ul><li>Flare Blitz</li><li>Extreme Speed</li><li>Crunch</li><li>Close Combat</li></ul> | <ul><li>Wood Hammer</li><li>Earthquake</li><li>Crunch</li><li>Iron Head</li></ul>
 
 
 --8<-- "includes/abilities.md"

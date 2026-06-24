@@ -18,20 +18,21 @@ Swimmer Wade                        | ![][319]<br>[Sharpedo]<br>Lv. 74  | ![][34
 !!! note
     This trainer needs to be beaten to advance into Stark Mountain
 
-![][ace_m_2]                      | Item                              | Nature | Ability            | Moves
----                               | ---                               | ---    | ---                | ---
-![][230]<br>[Kingdra]<br>Lv. 76   | ![][haban-berry]<br>Haban Berry   | ?      | Swift Swim         | <ul><li>Waterfall</li><li>Outrage</li><li>Yawn</li><li>Dragon Dance</li></ul>
-![][330]<br>[Flygon]<br>Lv. 76    | ![][white-herb]<br>White Herb     | ?      | Compound Eyes [^1] | <ul><li>Draco Meteor</li><li>Earth Power</li><li>Bug Buzz</li><li>Fire Blast</li></ul>
-![][334]<br>[Altaria]<br>Lv. 76   | ![][leftovers]<br>Leftovers       | ?      | Cloud Nine         | <ul><li>Dragon Claw</li><li>Toxic</li><li>Rest</li><li>Sleep Talk</li></ul>
-![][149]<br>[Dragonite]<br>Lv. 76 | ![][sitrus-berry]<br>Sitrus Berry | ?      | Marvel Scale [^1]  | <ul><li>Outrage</li><li>Earthquake</li><li>Extreme Speed</li><li>Iron Tail</li></ul>
-![][445]<br>[Garchomp]<br>Lv. 76  | ![][choice-scarf]<br>Choice Scarf | ?      | Rough Skin         | <ul><li>Outrage</li><li>Earthquake</li><li>Poison Jab</li><li>Fire Fang</li></ul>
-![][373]<br>[Salamence]<br>Lv. 77 | ![][focus-sash]<br>Focus Sash     | ?      | Intimidate         | <ul><li>Outrage</li><li>Aerial Ace</li><li>Dragon Dance</li><li>Earthquake</li></ul>
+![][ace_m_2] | ![][230]<br>[Kingdra]<br>Lv. 76 | ![][330]<br>[Flygon]<br>Lv. 76 | ![][334]<br>[Altaria]<br>Lv. 76 | ![][149]<br>[Dragonite]<br>Lv. 76 | ![][445]<br>[Garchomp]<br>Lv. 76 | ![][373]<br>[Salamence]<br>Lv. 77
+--- | --- | --- | --- | --- | --- | ---
+**Item** | ![][haban-berry]<br>Haban Berry | ![][white-herb]<br>White Herb | ![][leftovers]<br>Leftovers | ![][sitrus-berry]<br>Sitrus Berry | ![][choice-scarf]<br>Choice Scarf | ![][focus-sash]<br>Focus Sash
+**Nature** | ? | ? | ? | ? | ? | ?
+**Ability** | Swift Swim | Compound Eyes [^1] | Cloud Nine | Marvel Scale [^1] | Rough Skin | Intimidate
+**Moves** | <ul><li>Waterfall</li><li>Outrage</li><li>Yawn</li><li>Dragon Dance</li></ul> | <ul><li>Draco Meteor</li><li>Earth Power</li><li>Bug Buzz</li><li>Fire Blast</li></ul> | <ul><li>Dragon Claw</li><li>Toxic</li><li>Rest</li><li>Sleep Talk</li></ul> | <ul><li>Outrage</li><li>Earthquake</li><li>Extreme Speed</li><li>Iron Tail</li></ul> | <ul><li>Outrage</li><li>Earthquake</li><li>Poison Jab</li><li>Fire Fang</li></ul> | <ul><li>Outrage</li><li>Aerial Ace</li><li>Dragon Dance</li><li>Earthquake</li></ul>
 
 ## Master Trainer
 
-Ace Trainer Edmund<br>![][ace_m] | Item | Nature | Ability | Moves
----                              | ---  | ---    | ---     | ---
-![][219]<br>[Magcargo]<br>Lv. 85 | None | ?      | ?       | <ul><li>Power Gem</li><li>Earth Power</li><li>Iron Defence</li><li>-</li></ul>
+Ace Trainer Edmund<br>![][ace_m] | ![][219]<br>[Magcargo]<br>Lv. 85
+--- | ---
+**Item** | None
+**Nature** | ?
+**Ability** | ?
+**Moves** | <ul><li>Power Gem</li><li>Earth Power</li><li>Iron Defence</li><li>-</li></ul>
 
 --8<-- "includes/abilities.md"
 

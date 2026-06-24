@@ -13,13 +13,12 @@ Galactic Grunt                    | ![][435]<br>[Skuntank]<br>Lv. 50 | &nbsp;   
 
 ## Commander Saturn
 
-![][saturn]                       | Item                                | Nature | Ability      | Moves
----                               | ---                                 | ---    | ---          | ---
-![][065]<br>[Alakazam]<br>Lv. 52  | ![][wise-glasses]<br>Wise Glasses   | ?      | Magic Guard  | <ul><li>Psychic</li><li>Calm Mind</li><li>Recover</li><li>Focus Blast</li></ul>
-![][224]<br>[Octillery]<br>Lv. 52 | ![][expert-belt]<br>Expert Belt     | ?      | Suction Cups | <ul><li>Hydro Pump</li><li>Seed Bomb</li><li>Flamethrower</li><li>Flash Cannon</li></ul>
-![][437]<br>[Bronzong]<br>Lv. 52  | ![][bright-powder]<br>Bright Powder | ?      | Levitate     | <ul><li>Iron Head</li><li>Zen Headbutt</li><li>Shadow Ball</li><li>Explosion</li></ul>
-![][112]<br>[Rhydon]<br>Lv. 52    | ![][muscle-band]<br>Muscle Band     | ?      | Rock Head    | <ul><li>Stone Edge</li><li>Earthquake</li><li>Hammer Arm</li><li>Megahorn</li></ul>
-![][454]<br>[Toxicroak]<br>Lv. 53 | ![][life-orb]<br>Life Orb           | ?      | Dry Skin     | <ul><li>Gunk Shot</li><li>Cross Chop</li><li>Fake Out</li><li>Sucker Punch</li></ul>
+![][saturn] | ![][065]<br>[Alakazam]<br>Lv. 52 | ![][224]<br>[Octillery]<br>Lv. 52 | ![][437]<br>[Bronzong]<br>Lv. 52 | ![][112]<br>[Rhydon]<br>Lv. 52 | ![][454]<br>[Toxicroak]<br>Lv. 53
+--- | --- | --- | --- | --- | ---
+**Item** | ![][wise-glasses]<br>Wise Glasses | ![][expert-belt]<br>Expert Belt | ![][bright-powder]<br>Bright Powder | ![][muscle-band]<br>Muscle Band | ![][life-orb]<br>Life Orb
+**Nature** | ? | ? | ? | ? | ?
+**Ability** | Magic Guard | Suction Cups | Levitate | Rock Head | Dry Skin
+**Moves** | <ul><li>Psychic</li><li>Calm Mind</li><li>Recover</li><li>Focus Blast</li></ul> | <ul><li>Hydro Pump</li><li>Seed Bomb</li><li>Flamethrower</li><li>Flash Cannon</li></ul> | <ul><li>Iron Head</li><li>Zen Headbutt</li><li>Shadow Ball</li><li>Explosion</li></ul> | <ul><li>Stone Edge</li><li>Earthquake</li><li>Hammer Arm</li><li>Megahorn</li></ul> | <ul><li>Gunk Shot</li><li>Cross Chop</li><li>Fake Out</li><li>Sucker Punch</li></ul>
 
 --8<-- "includes/abilities.md"
 

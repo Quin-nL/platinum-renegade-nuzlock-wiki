@@ -14,13 +14,12 @@ Galactic Grunt                | ![][030]<br>[Nidorina]<br>Lv. 49  | ![][042]<br>
 
 ## Commander Mars
 
-![][mars]                          | Item                                | Nature | Ability     | Moves
----                                | ---                                 | ---    | ---         | ---
-![][169]<br>[Crobat]<br>Lv. 52     | ![][bright-powder]<br>Bright Powder | ?      | Inner Focus | <ul><li>Brave Bird</li><li>Hypnosis</li><li>Double Team</li><li>Giga Drain</li></ul>
-![][469]<br>[Yanmega]<br>Lv. 52    | ![][wise-glasses]<br>Wise Glasses   | ?      | Speed Boost | <ul><li>Bug Buzz</li><li>Air Slash</li><li>Psychic</li><li>Detect</li></ul>
-![][437]<br>[Bronzong]<br>Lv. 52   | ![][leftovers]<br>Leftovers         | ?      | Levitate    | <ul><li>Stealth Rock</li><li>Gyro Ball</li><li>Payback</li><li>Explosion</li></ul>
-![][115]<br>[Kangaskhan]<br>Lv. 52 | ![][muscle-band]<br>Muscle Band     | ?      | Scrappy     | <ul><li>Double-Edge</li><li>Hammer Arm</li><li>Crunch</li><li>Fake Out</li></ul>
-![][432]<br>[Purugly]<br>Lv. 53    | ![][sitrus-berry]<br>Sitrus Berry   | ?      | Thick Fat   | <ul><li>Body Slam</li><li>Play Rough</li><li>Hypnosis</li><li>Fake Out</li></ul>
+![][mars] | ![][169]<br>[Crobat]<br>Lv. 52 | ![][469]<br>[Yanmega]<br>Lv. 52 | ![][437]<br>[Bronzong]<br>Lv. 52 | ![][115]<br>[Kangaskhan]<br>Lv. 52 | ![][432]<br>[Purugly]<br>Lv. 53
+--- | --- | --- | --- | --- | ---
+**Item** | ![][bright-powder]<br>Bright Powder | ![][wise-glasses]<br>Wise Glasses | ![][leftovers]<br>Leftovers | ![][muscle-band]<br>Muscle Band | ![][sitrus-berry]<br>Sitrus Berry
+**Nature** | ? | ? | ? | ? | ?
+**Ability** | Inner Focus | Speed Boost | Levitate | Scrappy | Thick Fat
+**Moves** | <ul><li>Brave Bird</li><li>Hypnosis</li><li>Double Team</li><li>Giga Drain</li></ul> | <ul><li>Bug Buzz</li><li>Air Slash</li><li>Psychic</li><li>Detect</li></ul> | <ul><li>Stealth Rock</li><li>Gyro Ball</li><li>Payback</li><li>Explosion</li></ul> | <ul><li>Double-Edge</li><li>Hammer Arm</li><li>Crunch</li><li>Fake Out</li></ul> | <ul><li>Body Slam</li><li>Play Rough</li><li>Hypnosis</li><li>Fake Out</li></ul>
 
 --8<-- "includes/abilities.md"
 
