@@ -4,6 +4,8 @@
     This site is fanmade, all credit goes to @Drayano60 (the creator of Platinum Renegade), all errors on the site are probably my fault. The original post can be found [here](https://projectpokemon.org/home/forums/topic/52294-pok%C3%A9mon-renegade-platinum/).
 
 ![](https://i.imgur.com/viQMKJY.png)
+## About the Wiki 
+This project was stated by Fredric D. Luigi. I deeply appreciate his work in creating and maintaing this project, along with his extensive documentation. I took it upon myself to add more features and functionality. This includes the ability to track caught Pokémon; The combination of Wild Pokémon, Trainers Pokémon, and items in a given area; and assuming the movesets of Trainer Pokémon based off of their level. This wiki also contains information that is exclusive to Renegade Platinum, such as Charizard having Fire/Dragon typing. Data was gathered from already provided information and [this](https://docs.google.com/spreadsheets/d/1G3MNevhLmW1sKYluM4WT9TM1RqrTAi1c4lIdTfeU-Jg/edit?gid=647134330#gid=647134330) spreadsheet, but any error is my own and I will do my best to correct them. 
 
 ## Summary
 
