@@ -18,12 +18,12 @@ Psychic Rachael                      | ![][433]<br>[Chingling]<br>Lv. 18 | ![][3
 
 ## PKMN Trainer Cheryl
 
-![][cheryl]                      | Item                              | Nature  | Ability      | Moves
----                              | ---                               | ---     | ---          | ---
-![][425]<br>[Drifloon]<br>Lv. 19 | ![][sitrus-berry]<br>Sitrus Berry | Modest  | Unburden     | <ul><li>Ominous Wind</li><li>Air Cutter</li><li>Shock Wave</li><li>Swift</li></ul>
-![][296]<br>[Makuhita]<br>Lv. 19 | None                              | Relaxed | Thick Fat    | <ul><li>Knock Off</li><li>Fake Out</li><li>Brick Break</li><li>Bullet Punch</li></ul>
-![][320]<br>[Wailmer]<br>Lv. 19  | None                              | Relaxed | Water Veil   | <ul><li>Water Pulse</li><li>Rock Tomb</li><li>Mist</li><li>Rollout</li></ul>
-![][113]<br>[Chansey]<br>Lv. 20  | ![][sitrus-berry]<br>Sitrus Berry | Quiet   | Serene Grace | <ul><li>Hyper Voice</li><li>Soft-Boiled</li><li>Ice Beam</li><li>Thunderbolt</li></ul>
+![][cheryl] | ![][425]<br>[Drifloon]<br>Lv. 19 | ![][296]<br>[Makuhita]<br>Lv. 19 | ![][320]<br>[Wailmer]<br>Lv. 19 | ![][113]<br>[Chansey]<br>Lv. 20
+--- | --- | --- | --- | ---
+**Item** | ![][sitrus-berry]<br>Sitrus Berry | None | None | ![][sitrus-berry]<br>Sitrus Berry
+**Nature** | Modest | Relaxed | Relaxed | Quiet
+**Ability** | Unburden | Thick Fat | Water Veil | Serene Grace
+**Moves** | <ul><li>Ominous Wind</li><li>Air Cutter</li><li>Shock Wave</li><li>Swift</li></ul> | <ul><li>Knock Off</li><li>Fake Out</li><li>Brick Break</li><li>Bullet Punch</li></ul> | <ul><li>Water Pulse</li><li>Rock Tomb</li><li>Mist</li><li>Rollout</li></ul> | <ul><li>Hyper Voice</li><li>Soft-Boiled</li><li>Ice Beam</li><li>Thunderbolt</li></ul>
 
 --8<-- "includes/abilities.md"
 

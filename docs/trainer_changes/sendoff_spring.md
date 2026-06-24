@@ -5,9 +5,12 @@
 
 ## Master Trainer
 
-Ace Trainer???<br>![][ace_f]      | Item | Nature | Ability | Moves
----                               | ---  | ---    | ---     | ---
-![][248]<br>[Tyranitar]<br>Lv. 85 | None | ?      | ?       | <ul><li>Low Kick</li><li>Stone Edge</li><li>Crunch</li><li>Earthquake</li></ul>
+Ace Trainer???<br>![][ace_f] | ![][248]<br>[Tyranitar]<br>Lv. 85
+--- | ---
+**Item** | None
+**Nature** | ?
+**Ability** | ?
+**Moves** | <ul><li>Low Kick</li><li>Stone Edge</li><li>Crunch</li><li>Earthquake</li></ul>
 
 [Tyranitar]: ../../pokemons/248/
 [248]: ../img/pokemon/248.png

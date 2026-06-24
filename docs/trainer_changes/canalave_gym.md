@@ -12,14 +12,12 @@ Ace Trainer Breanna          | ![][227]<br>[Skarmory]<br>Lv. 50  | ![][303]<br>[
 [Leader Byron]<br>![][byron] | ![][437]<br>[Bronzong]<br>Lv. 52  | ![][462]<br>[Magnezone]<br>Lv. 52  | ![][208]<br>[Steelix]<br>Lv. 52   | ![][205]<br>[Forretress]<br>Lv. 52 | ![][306]<br>[Aggron]<br>Lv. 52   | ![][411]<br>[Bastiodon]<br>Lv. 53
 
 ## Leader Byron
-![][byron]                         | Item                              | Nature  | Ability     | Moves
----                                | ---                               | ---     | ---         | ---
-![][437]<br>[Bronzong]<br>Lv. 52   | ![][light-clay]<br>Light Clay     | Impish  | Levitate    | <ul><li>Gyro Ball</li><li>Stealth Rock</li><li>Reflect</li><li>Light Screen</li></ul>
-![][462]<br>[Magnezone]<br>Lv. 52  | ![][wise-glasses]<br>Wise Glasses | Quiet   | Magnet Pull | <ul><li>Thunderbolt</li><li>Flash Cannon</li><li>Signal Beam</li><li>Thunder Wave</li></ul>
-![][208]<br>[Steelix]<br>Lv. 52    | ![][muscle-band]<br>Muscle Band   | Adamant | Rock Head   | <ul><li>Gyro Ball</li><li>Earthquake</li><li>Stone Edge</li><li>Explosion</li></ul>
-![][205]<br>[Forretress]<br>Lv. 52 | ![][sitrus-berry]<br>Sitrus Berry | Impish  | Sturdy      | <ul><li>Gyro Ball</li><li>Spikes</li><li>Toxic Spikes</li><li>Explosion</li></ul>
-![][306]<br>[Aggron]<br>Lv. 52     | ![][focus-sash]<br>Focus Sash     | Naughty | Rock Head   | <ul><li>Head Smash</li><li>Iron Head</li><li>Aqua Tail</li><li>Low Kick</li></ul>
-![][411]<br>[Bastiodon]<br>Lv. 53  | ![][leftovers]<br>Leftovers       | Sassy   | Soundproof  | <ul><li>Iron Head</li><li>Toxic</li><li>Protect</li><li>Metal Burst</li></ul>
+![][byron] | ![][437]<br>[Bronzong]<br>Lv. 52 | ![][462]<br>[Magnezone]<br>Lv. 52 | ![][208]<br>[Steelix]<br>Lv. 52 | ![][205]<br>[Forretress]<br>Lv. 52 | ![][306]<br>[Aggron]<br>Lv. 52 | ![][411]<br>[Bastiodon]<br>Lv. 53
+--- | --- | --- | --- | --- | --- | ---
+**Item** | ![][light-clay]<br>Light Clay | ![][wise-glasses]<br>Wise Glasses | ![][muscle-band]<br>Muscle Band | ![][sitrus-berry]<br>Sitrus Berry | ![][focus-sash]<br>Focus Sash | ![][leftovers]<br>Leftovers
+**Nature** | Impish | Quiet | Adamant | Impish | Naughty | Sassy
+**Ability** | Levitate | Magnet Pull | Rock Head | Sturdy | Rock Head | Soundproof
+**Moves** | <ul><li>Gyro Ball</li><li>Stealth Rock</li><li>Reflect</li><li>Light Screen</li></ul> | <ul><li>Thunderbolt</li><li>Flash Cannon</li><li>Signal Beam</li><li>Thunder Wave</li></ul> | <ul><li>Gyro Ball</li><li>Earthquake</li><li>Stone Edge</li><li>Explosion</li></ul> | <ul><li>Gyro Ball</li><li>Spikes</li><li>Toxic Spikes</li><li>Explosion</li></ul> | <ul><li>Head Smash</li><li>Iron Head</li><li>Aqua Tail</li><li>Low Kick</li></ul> | <ul><li>Iron Head</li><li>Toxic</li><li>Protect</li><li>Metal Burst</li></ul>
 
 --8<-- "includes/abilities.md"
 

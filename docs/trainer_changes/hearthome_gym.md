@@ -29,40 +29,38 @@ Ace Trainer Catherine            | ![][093]<br>[Haunter]<br>Lv. 29    | ![][479]
 
 ## Leader Fantina
 
-![][fantina]                      | Item                              | Nature  | Ability  | Moves
----                               | ---                               | ---     | ---      | ---
-![][426]<br>[Drifblim]<br>Lv. 32  | ![][starf-berry]<br>Starf Berry   | Naive   | Unburden | <ul><li>Shadow Ball</li><li>Air Slash</li><li>Baton Pass</li><li>Calm Mind</li></ul>
-![][356]<br>[Dusclops]<br>Lv. 32  | ![][leftovers]<br>Leftovers       | Impish  | Pressure | <ul><li>Shadow Punch</li><li>Will-O-Wisp</li><li>Protect</li><li>Pain Split</li></ul>
-![][354]<br>[Banette]<br>Lv. 32   | ![][muscle-band]<br>Muscle Band   | Adamant | Insomnia | <ul><li>Shadow Claw</li><li>Will-O-Wisp</li><li>Sucker Punch</li><li>Disable</li></ul>
-![][442]<br>[Spiritomb]<br>Lv. 32 | ![][zoom-lens]<br>Zoom Lens       | Relaxed | Pressure | <ul><li>Shadow Ball</li><li>Will-O-Wisp</li><li>Dark Pulse</li><li>Disable</li></ul>
-![][094]<br>[Gengar]<br>Lv. 32    | ![][wise-glasses]<br>Wise Glasses | Naive   | Levitate | <ul><li>Shadow Ball</li><li>Will-O-Wisp</li><li>Sludge Bomb</li><li>Dazzling Gleam</li></ul>
-![][429]<br>[Mismagius]<br>Lv. 33 | ![][sitrus-berry]<br>Sitrus Berry | Naive   | Levitate | <ul><li>Shadow Ball</li><li>Power Gem</li><li>Calm Mind</li><li>Dazzling Gleam</li></ul>
+![][fantina] | ![][426]<br>[Drifblim]<br>Lv. 32 | ![][356]<br>[Dusclops]<br>Lv. 32 | ![][354]<br>[Banette]<br>Lv. 32 | ![][442]<br>[Spiritomb]<br>Lv. 32 | ![][094]<br>[Gengar]<br>Lv. 32 | ![][429]<br>[Mismagius]<br>Lv. 33
+--- | --- | --- | --- | --- | --- | ---
+**Item** | ![][starf-berry]<br>Starf Berry | ![][leftovers]<br>Leftovers | ![][muscle-band]<br>Muscle Band | ![][zoom-lens]<br>Zoom Lens | ![][wise-glasses]<br>Wise Glasses | ![][sitrus-berry]<br>Sitrus Berry
+**Nature** | Naive | Impish | Adamant | Relaxed | Naive | Naive
+**Ability** | Unburden | Pressure | Insomnia | Pressure | Levitate | Levitate
+**Moves** | <ul><li>Shadow Ball</li><li>Air Slash</li><li>Baton Pass</li><li>Calm Mind</li></ul> | <ul><li>Shadow Punch</li><li>Will-O-Wisp</li><li>Protect</li><li>Pain Split</li></ul> | <ul><li>Shadow Claw</li><li>Will-O-Wisp</li><li>Sucker Punch</li><li>Disable</li></ul> | <ul><li>Shadow Ball</li><li>Will-O-Wisp</li><li>Dark Pulse</li><li>Disable</li></ul> | <ul><li>Shadow Ball</li><li>Will-O-Wisp</li><li>Sludge Bomb</li><li>Dazzling Gleam</li></ul> | <ul><li>Shadow Ball</li><li>Power Gem</li><li>Calm Mind</li><li>Dazzling Gleam</li></ul>
 
 ## PKMN Trainer Barry
 
 === "Grass"
-    ![][barry]                        | Item                              | Nature | Ability   | Moves
-    ---                               | ---                               | ---    | ---       | ---
-    ![][397]<br>[Staravia]<br>Lv. 32  | ![][muscle-band]<br>Muscle Band   | ?      | Reckless  | <ul><li>Facade</li><li>Aerial Ace</li><li>Double Team</li><li>Endeavor</li></ul>
-    ![][214]<br>[Heracross]<br>Lv. 32 | ![][coba-berry]<br>Coba Berry     | ?      | Guts      | <ul><li>Bug Bite</li><li>Brick Break</li><li>Aerial Ace</li><li>Knock Off</li></ul>
-    ![][143]<br>[Snorlax]<br>Lv. 32   | ![][leftovers]<br>Leftovers       | ?      | Thick Fat | <ul><li>Body Slam</li><li>Yawn</li><li>Amnesia</li><li>Rock Slide</li></ul>
-    ![][391]<br>[Monferno]<br>Lv. 33  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist | <ul><li>Flamethrower</li><li>Low Kick</li><li>Grass Knot</li><li>Fake Out</li></ul>
+    ![][barry] | ![][397]<br>[Staravia]<br>Lv. 32 | ![][214]<br>[Heracross]<br>Lv. 32 | ![][143]<br>[Snorlax]<br>Lv. 32 | ![][391]<br>[Monferno]<br>Lv. 33
+    --- | --- | --- | --- | ---
+    **Item** | ![][muscle-band]<br>Muscle Band | ![][coba-berry]<br>Coba Berry | ![][leftovers]<br>Leftovers | ![][sitrus-berry]<br>Sitrus Berry
+    **Nature** | ? | ? | ? | ?
+    **Ability** | Reckless | Guts | Thick Fat | Iron Fist
+    **Moves** | <ul><li>Facade</li><li>Aerial Ace</li><li>Double Team</li><li>Endeavor</li></ul> | <ul><li>Bug Bite</li><li>Brick Break</li><li>Aerial Ace</li><li>Knock Off</li></ul> | <ul><li>Body Slam</li><li>Yawn</li><li>Amnesia</li><li>Rock Slide</li></ul> | <ul><li>Flamethrower</li><li>Low Kick</li><li>Grass Knot</li><li>Fake Out</li></ul>
 
 === "Fire"
-    ![][barry]                        | Item                              | Nature | Ability   | Moves
-    ---                               | ---                               | ---    | ---       | ---
-    ![][397]<br>[Staravia]<br>Lv. 32  | ![][muscle-band]<br>Muscle Band   | ?      | Reckless  | <ul><li>Facade</li><li>Aerial Ace</li><li>Double Team</li><li>Endeavor</li></ul>
-    ![][214]<br>[Heracross]<br>Lv. 32 | ![][coba-berry]<br>Coba Berry     | ?      | Guts      | <ul><li>Bug Bite</li><li>Brick Break</li><li>Aerial Ace</li><li>Knock Off</li></ul>
-    ![][143]<br>[Snorlax]<br>Lv. 32   | ![][leftovers]<br>Leftovers       | ?      | Thick Fat | <ul><li>Body Slam</li><li>Yawn</li><li>Amnesia</li><li>Rock Slide</li></ul>
-    ![][394]<br>[Prinplup]<br>Lv. 33  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent   | <ul><li>Scald</li><li>Icy Wind</li><li>Grass Knot</li><li>Aerial Ace</li></ul>
+    ![][barry] | ![][397]<br>[Staravia]<br>Lv. 32 | ![][214]<br>[Heracross]<br>Lv. 32 | ![][143]<br>[Snorlax]<br>Lv. 32 | ![][394]<br>[Prinplup]<br>Lv. 33
+    --- | --- | --- | --- | ---
+    **Item** | ![][muscle-band]<br>Muscle Band | ![][coba-berry]<br>Coba Berry | ![][leftovers]<br>Leftovers | ![][sitrus-berry]<br>Sitrus Berry
+    **Nature** | ? | ? | ? | ?
+    **Ability** | Reckless | Guts | Thick Fat | Torrent
+    **Moves** | <ul><li>Facade</li><li>Aerial Ace</li><li>Double Team</li><li>Endeavor</li></ul> | <ul><li>Bug Bite</li><li>Brick Break</li><li>Aerial Ace</li><li>Knock Off</li></ul> | <ul><li>Body Slam</li><li>Yawn</li><li>Amnesia</li><li>Rock Slide</li></ul> | <ul><li>Scald</li><li>Icy Wind</li><li>Grass Knot</li><li>Aerial Ace</li></ul>
 
 === "Water"
-    ![][barry]                        | Item                              | Nature | Ability   | Moves
-    ---                               | ---                               | ---    | ---       | ---
-    ![][397]<br>[Staravia]<br>Lv. 32  | ![][muscle-band]<br>Muscle Band   | ?      | Reckless  | <ul><li>Facade</li><li>Aerial Ace</li><li>Double Team</li><li>Endeavor</li></ul>
-    ![][214]<br>[Heracross]<br>Lv. 32 | ![][coba-berry]<br>Coba Berry     | ?      | Guts      | <ul><li>Bug Bite</li><li>Brick Break</li><li>Aerial Ace</li><li>Knock Off</li></ul>
-    ![][143]<br>[Snorlax]<br>Lv. 32   | ![][leftovers]<br>Leftovers       | ?      | Thick Fat | <ul><li>Body Slam</li><li>Yawn</li><li>Amnesia</li><li>Rock Slide</li></ul>
-    ![][388]<br>[Grotle]<br>Lv. 33    | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow  | <ul><li>Seed Bomb</li><li>Crunch</li><li>Leech Seed</li><li>Protect</li></ul>
+    ![][barry] | ![][397]<br>[Staravia]<br>Lv. 32 | ![][214]<br>[Heracross]<br>Lv. 32 | ![][143]<br>[Snorlax]<br>Lv. 32 | ![][388]<br>[Grotle]<br>Lv. 33
+    --- | --- | --- | --- | ---
+    **Item** | ![][muscle-band]<br>Muscle Band | ![][coba-berry]<br>Coba Berry | ![][leftovers]<br>Leftovers | ![][sitrus-berry]<br>Sitrus Berry
+    **Nature** | ? | ? | ? | ?
+    **Ability** | Reckless | Guts | Thick Fat | Overgrow
+    **Moves** | <ul><li>Facade</li><li>Aerial Ace</li><li>Double Team</li><li>Endeavor</li></ul> | <ul><li>Bug Bite</li><li>Brick Break</li><li>Aerial Ace</li><li>Knock Off</li></ul> | <ul><li>Body Slam</li><li>Yawn</li><li>Amnesia</li><li>Rock Slide</li></ul> | <ul><li>Seed Bomb</li><li>Crunch</li><li>Leech Seed</li><li>Protect</li></ul>
 
 --8<-- "includes/abilities.md"
 

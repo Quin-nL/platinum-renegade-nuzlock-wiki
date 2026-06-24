@@ -10,14 +10,12 @@ Black Belt Rafael                | ![][107]<br>[Hitmonchan]<br>Lv. 35 | ![][106]
 
 ## Leader Maylene
 
-![][maylene]                      | Item                              | Nature  | Ability           | Moves
----                               | ---                               | ---     | ---               | ---
-![][308]<br>[Medicham]<br>Lv. 38  | ![][sitrus-berry]<br>Sitrus Berry | Naive   | Pure Power        | <ul><li>High Jump Kick</li><li>Zen Headbutt</li><li>Ice Punch</li><li>Fake Out</li></ul>
-![][068]<br>[Machamp]<br>Lv. 38   | ![][toxic-orb]<br>Toxic Orb       | Relaxed | Guts              | <ul><li>Close Combat</li><li>Payback</li><li>Thunder Punch</li><li>Protect</li></ul>
-![][392]<br>[Infernape]<br>Lv. 38 | ![][life-orb]<br>Life Orb         | Hasty   | Iron Fist         | <ul><li>Close Combat</li><li>Rock Slide</li><li>Fire Punch</li><li>Mach Punch</li></ul>
-![][454]<br>[Toxicroak]<br>Lv. 38 | ![][big-root]<br>Big Root         | Lonely  | Dry Skin          | <ul><li>Drain Punch</li><li>Poison Jab</li><li>Ice Punch</li><li>Sucker Punch</li></ul>
-![][475]<br>[Gallade]<br>Lv. 38   | ![][light-clay]<br>Light Clay     | Brave   | Steadfast         | <ul><li>Drain Punch</li><li>Zen Headbutt</li><li>Light Screen</li><li>Reflect</li></ul>
-![][448]<br>[Lucario]<br>Lv. 39   | ![][focus-sash]<br>Focus Sash     | Timid   | Adaptability [^1] | <ul><li>Aura Sphere</li><li>Flash Cannon</li><li>Dark Pulse</li><li>Agility</li></ul>
+![][maylene] | ![][308]<br>[Medicham]<br>Lv. 38 | ![][068]<br>[Machamp]<br>Lv. 38 | ![][392]<br>[Infernape]<br>Lv. 38 | ![][454]<br>[Toxicroak]<br>Lv. 38 | ![][475]<br>[Gallade]<br>Lv. 38 | ![][448]<br>[Lucario]<br>Lv. 39
+--- | --- | --- | --- | --- | --- | ---
+**Item** | ![][sitrus-berry]<br>Sitrus Berry | ![][toxic-orb]<br>Toxic Orb | ![][life-orb]<br>Life Orb | ![][big-root]<br>Big Root | ![][light-clay]<br>Light Clay | ![][focus-sash]<br>Focus Sash
+**Nature** | Naive | Relaxed | Hasty | Lonely | Brave | Timid
+**Ability** | Pure Power | Guts | Iron Fist | Dry Skin | Steadfast | Adaptability [^1]
+**Moves** | <ul><li>High Jump Kick</li><li>Zen Headbutt</li><li>Ice Punch</li><li>Fake Out</li></ul> | <ul><li>Close Combat</li><li>Payback</li><li>Thunder Punch</li><li>Protect</li></ul> | <ul><li>Close Combat</li><li>Rock Slide</li><li>Fire Punch</li><li>Mach Punch</li></ul> | <ul><li>Drain Punch</li><li>Poison Jab</li><li>Ice Punch</li><li>Sucker Punch</li></ul> | <ul><li>Drain Punch</li><li>Zen Headbutt</li><li>Light Screen</li><li>Reflect</li></ul> | <ul><li>Aura Sphere</li><li>Flash Cannon</li><li>Dark Pulse</li><li>Agility</li></ul>
 
 --8<-- "includes/abilities.md"
 

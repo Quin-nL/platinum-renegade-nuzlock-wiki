@@ -17,13 +17,12 @@ Hiker Alexander                       | ![][075]<br>[Graveler]<br>Lv. 28   | &nb
 
 ## Elite Four Aaron
 
-![][aaron]                        | Item                              | Nature  | Ability     | Moves
----                               | ---                               | ---     | ---         | ---
-![][269]<br>[Dustox]<br>Lv. 31    | ![][leftovers]<br>Leftovers       | Calm    | Shield Dust | <ul><li>Bug Buzz</li><li>Toxic</li><li>Protect</li><li>Moonlight</li></ul>
-![][267]<br>[Beautifly]<br>Lv. 31 | ![][focus-sash]<br>Focus Sash     | Mild    | Swarm       | <ul><li>Bug Buzz</li><li>Air Slash</li><li>Energy Ball</li><li>Psychic</li></ul>
-![][049]<br>[Venomoth]<br>Lv. 31  | ![][wise-glasses]<br>Wise Glasses | Naive   | Tinted Lens | <ul><li>Bug Buzz</li><li>Psychic</li><li>Sludge Bomb</li><li>Sleep Powder</li></ul>
-![][212]<br>[Scizor]<br>Lv. 31    | ![][muscle-band]<br>Muscle Band   | Adamant | Technician  | <ul><li>X-Scissor</li><li>Bullet Punch</li><li>Iron Head</li><li>Swords Dance</li></ul>
-![][452]<br>[Drapion]<br>Lv. 32   | ![][scope-lens]<br>Scope Lens     | Jolly   | Sniper      | <ul><li>Cross Poison</li><li>X-Scissor</li><li>Night Slash</li><li>Swords Dance</li></ul>
+![][aaron] | ![][269]<br>[Dustox]<br>Lv. 31 | ![][267]<br>[Beautifly]<br>Lv. 31 | ![][049]<br>[Venomoth]<br>Lv. 31 | ![][212]<br>[Scizor]<br>Lv. 31 | ![][452]<br>[Drapion]<br>Lv. 32
+--- | --- | --- | --- | --- | ---
+**Item** | ![][leftovers]<br>Leftovers | ![][focus-sash]<br>Focus Sash | ![][wise-glasses]<br>Wise Glasses | ![][muscle-band]<br>Muscle Band | ![][scope-lens]<br>Scope Lens
+**Nature** | Calm | Mild | Naive | Adamant | Jolly
+**Ability** | Shield Dust | Swarm | Tinted Lens | Technician | Sniper
+**Moves** | <ul><li>Bug Buzz</li><li>Toxic</li><li>Protect</li><li>Moonlight</li></ul> | <ul><li>Bug Buzz</li><li>Air Slash</li><li>Energy Ball</li><li>Psychic</li></ul> | <ul><li>Bug Buzz</li><li>Psychic</li><li>Sludge Bomb</li><li>Sleep Powder</li></ul> | <ul><li>X-Scissor</li><li>Bullet Punch</li><li>Iron Head</li><li>Swords Dance</li></ul> | <ul><li>Cross Poison</li><li>X-Scissor</li><li>Night Slash</li><li>Swords Dance</li></ul>
 
 ## Rematches
 

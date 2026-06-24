@@ -17,14 +17,12 @@ Ace Trainer Sandra                 | ![][051]<br>[Dugtrio]<br>Lv. 74   | ![][026
 !!! note
     This trainer needs to be beaten to advance into Stark Mountain
 
-![][ace_m_2]                      | Item                              | Nature | Ability      | Moves
----                               | ---                               | ---    | ---          | ---
-![][234]<br>[Stantler]<br>Lv. 76  | ![][choice-scarf]<br>Choice Scarf | ?      | Intimidate   | <ul><li>Double-Edge</li><li>Jump Kick</li><li>Megahorn</li><li>Zen Headbutt</li></ul>
-![][085]<br>[Dodrio]<br>Lv. 76    | ![][muscle-band]<br>Muscle Band   | ?      | Tangled Feet | <ul><li>Double-Edge</li><li>Brave Bird</li><li>High Jump Kick</li><li>Drill Run</li></ul>
-![][203]<br>[Girafarig]<br>Lv. 76 | ![][wise-glasses]<br>Wise Glasses | ?      | Inner Focus  | <ul><li>Hyper Voice</li><li>Psychic</li><li>Thunderbolt</li><li>Dazzling Gleam</li></ul>
-![][400]<br>[Bibarel]<br>Lv. 76   | ![][chople-berry]<br>Chople Berry | ?      | Simple       | <ul><li>Double-Edge</li><li>Aqua Tail</li><li>Crunch</li><li>Curse</li></ul>
-![][474]<br>[Porygon-Z]<br>Lv. 76 | ![][life-orb]<br>Life Orb         | ?      | Adaptability | <ul><li>Hyper Beam</li><li>Thunderbolt</li><li>Ice Beam</li><li>Psychic</li></ul>
-![][143]<br>[Snorlax]<br>Lv. 77   | ![][leftovers]<br>Leftovers       | ?      | Thick Fat    | <ul><li>Body Slam</li><li>Earthquake</li><li>Curse</li><li>Slack Off</li></ul>
+![][ace_m_2] | ![][234]<br>[Stantler]<br>Lv. 76 | ![][085]<br>[Dodrio]<br>Lv. 76 | ![][203]<br>[Girafarig]<br>Lv. 76 | ![][400]<br>[Bibarel]<br>Lv. 76 | ![][474]<br>[Porygon-Z]<br>Lv. 76 | ![][143]<br>[Snorlax]<br>Lv. 77
+--- | --- | --- | --- | --- | --- | ---
+**Item** | ![][choice-scarf]<br>Choice Scarf | ![][muscle-band]<br>Muscle Band | ![][wise-glasses]<br>Wise Glasses | ![][chople-berry]<br>Chople Berry | ![][life-orb]<br>Life Orb | ![][leftovers]<br>Leftovers
+**Nature** | ? | ? | ? | ? | ? | ?
+**Ability** | Intimidate | Tangled Feet | Inner Focus | Simple | Adaptability | Thick Fat
+**Moves** | <ul><li>Double-Edge</li><li>Jump Kick</li><li>Megahorn</li><li>Zen Headbutt</li></ul> | <ul><li>Double-Edge</li><li>Brave Bird</li><li>High Jump Kick</li><li>Drill Run</li></ul> | <ul><li>Hyper Voice</li><li>Psychic</li><li>Thunderbolt</li><li>Dazzling Gleam</li></ul> | <ul><li>Double-Edge</li><li>Aqua Tail</li><li>Crunch</li><li>Curse</li></ul> | <ul><li>Hyper Beam</li><li>Thunderbolt</li><li>Ice Beam</li><li>Psychic</li></ul> | <ul><li>Body Slam</li><li>Earthquake</li><li>Curse</li><li>Slack Off</li></ul>
 
 --8<-- "includes/abilities.md"
 

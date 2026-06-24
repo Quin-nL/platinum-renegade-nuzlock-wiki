@@ -9,14 +9,12 @@ Aroma Lady Angela                  | ![][315]<br>[Roselia]<br>Lv. 23    | ![][15
 
 ## Leader Gardenia
 
-![][gardenia]                     | Item                              | Nature  | Ability     | Moves
----                               | ---                               | ---     | ---         | ---
-![][182]<br>[Bellossom]<br>Lv. 25 | ![][wide-lens]<br>Wide Lens       | Relaxed | Chlorophyll | <ul><li>Grass Knot</li><li>Teeter Dance</li><li>Dazzling Gleam</li><li>Stun Spore</li></ul>
-![][114]<br>[Tangela]<br>Lv. 25   | ![][coba-berry]<br>Coba Berry     | Rash    | Chlorophyll | <ul><li>Grass Knot</li><li>Shock Wave</li><li>Ancient Power</li><li>Stun Spore</li></ul>
-![][421]<br>[Cherrim]<br>Lv. 25   | ![][focus-sash]<br>Focus Sash     | Hasty   | Flower Gift | <ul><li>Grass Knot</li><li>Sunny Day</li><li>Weather Ball</li><li>Morning Sun</li></ul>
-![][388]<br>[Grotle]<br>Lv. 25    | ![][leftovers]<br>Leftovers       | Adamant | Overgrow    | <ul><li>Seed Bomb</li><li>Protect</li><li>Leech Seed</li><li>Bulldoze</li></ul>
-![][286]<br>[Breloom]<br>Lv. 25   | ![][muscle-band]<br>Muscle Band   | Naughty | Technician  | <ul><li>Bullet Seed</li><li>Mach Punch</li><li>Thunder Punch</li><li>Spore</li></ul>
-![][407]<br>[Roserade]<br>Lv. 26  | ![][sitrus-berry]<br>Sitrus Berry | Timid   | Technician  | <ul><li>Magical Leaf</li><li>Sludge</li><li>Dazzling Gleam</li><li>Extrasensory</li></ul>
+![][gardenia] | ![][182]<br>[Bellossom]<br>Lv. 25 | ![][114]<br>[Tangela]<br>Lv. 25 | ![][421]<br>[Cherrim]<br>Lv. 25 | ![][388]<br>[Grotle]<br>Lv. 25 | ![][286]<br>[Breloom]<br>Lv. 25 | ![][407]<br>[Roserade]<br>Lv. 26
+--- | --- | --- | --- | --- | --- | ---
+**Item** | ![][wide-lens]<br>Wide Lens | ![][coba-berry]<br>Coba Berry | ![][focus-sash]<br>Focus Sash | ![][leftovers]<br>Leftovers | ![][muscle-band]<br>Muscle Band | ![][sitrus-berry]<br>Sitrus Berry
+**Nature** | Relaxed | Rash | Hasty | Adamant | Naughty | Timid
+**Ability** | Chlorophyll | Chlorophyll | Flower Gift | Overgrow | Technician | Technician
+**Moves** | <ul><li>Grass Knot</li><li>Teeter Dance</li><li>Dazzling Gleam</li><li>Stun Spore</li></ul> | <ul><li>Grass Knot</li><li>Shock Wave</li><li>Ancient Power</li><li>Stun Spore</li></ul> | <ul><li>Grass Knot</li><li>Sunny Day</li><li>Weather Ball</li><li>Morning Sun</li></ul> | <ul><li>Seed Bomb</li><li>Protect</li><li>Leech Seed</li><li>Bulldoze</li></ul> | <ul><li>Bullet Seed</li><li>Mach Punch</li><li>Thunder Punch</li><li>Spore</li></ul> | <ul><li>Magical Leaf</li><li>Sludge</li><li>Dazzling Gleam</li><li>Extrasensory</li></ul>
 
 --8<-- "includes/abilities.md"
 

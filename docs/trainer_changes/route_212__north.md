@@ -36,19 +36,21 @@ Rich Boy Jason                          | ![][394]<br>[Prinplup]<br>Lv. 30 | ![]
 
 ## Commander Saturn
 
-![][saturn]                       | Item                              | Nature | Ability      | Moves
----                               | ---                               | ---    | ---          | ---
-![][437]<br>[Bronzong]<br>Lv. 33  | ![][leftovers]<br>Leftovers       | ?      | Levitate     | <ul><li>Hypnosis</li><li>Gyro Ball</li><li>Zen Headbutt</li><li>Confuse Ray</li></ul>
-![][224]<br>[Octillery]<br>Lv. 33 | ![][wise-glasses]<br>Wise Glasses | ?      | Suction Cups | <ul><li>Octazooka</li><li>Signal Beam</li><li>Ice Beam</li><li>Flamethrower</li></ul>
-![][454]<br>[Toxicroak]<br>Lv. 34 | ![][muscle-band]<br>Muscle Band   | ?      | Dry Skin     | <ul><li>Drain Punch</li><li>Poison Jab</li><li>Fake Out</li><li>Vacuum Wave</li></ul>
+![][saturn] | ![][437]<br>[Bronzong]<br>Lv. 33 | ![][224]<br>[Octillery]<br>Lv. 33 | ![][454]<br>[Toxicroak]<br>Lv. 34
+--- | --- | --- | ---
+**Item** | ![][leftovers]<br>Leftovers | ![][wise-glasses]<br>Wise Glasses | ![][muscle-band]<br>Muscle Band
+**Nature** | ? | ? | ?
+**Ability** | Levitate | Suction Cups | Dry Skin
+**Moves** | <ul><li>Hypnosis</li><li>Gyro Ball</li><li>Zen Headbutt</li><li>Confuse Ray</li></ul> | <ul><li>Octazooka</li><li>Signal Beam</li><li>Ice Beam</li><li>Flamethrower</li></ul> | <ul><li>Drain Punch</li><li>Poison Jab</li><li>Fake Out</li><li>Vacuum Wave</li></ul>
 
 ## Gentleman Backlot
 
-![][gentleman]                     | Item                              | Nature | Ability     | Moves
----                                | ---                               | ---    | ---         | ---
-![][040]<br>[Wigglytuff]<br>Lv. 33 | ![][zoom-lens]<br>Zoom Lens       | ?      | Cute Charm  | <ul><li>Moonblast</li><li>Hyper Voice</li><li>Sing</li><li>Thunderbolt</li></ul>
-![][026]<br>[Raichu]<br>Lv. 33     | ![][wise-glasses]<br>Wise Glasses | ?      | Static      | <ul><li>Fake Out</li><li>Thunderbolt</li><li>Grass Knot</li><li>Teeter Dance</li></ul>
-![][196]<br>[Espeon]<br>Lv. 33     | ![][sitrus-berry]<br>Sitrus Berry | ?      | Synchronize | <ul><li>Psychic</li><li>Power Gem</li><li>Dazzling Gleam</li><li>Protect</li></ul>
+![][gentleman] | ![][040]<br>[Wigglytuff]<br>Lv. 33 | ![][026]<br>[Raichu]<br>Lv. 33 | ![][196]<br>[Espeon]<br>Lv. 33
+--- | --- | --- | ---
+**Item** | ![][zoom-lens]<br>Zoom Lens | ![][wise-glasses]<br>Wise Glasses | ![][sitrus-berry]<br>Sitrus Berry
+**Nature** | ? | ? | ?
+**Ability** | Cute Charm | Static | Synchronize
+**Moves** | <ul><li>Moonblast</li><li>Hyper Voice</li><li>Sing</li><li>Thunderbolt</li></ul> | <ul><li>Fake Out</li><li>Thunderbolt</li><li>Grass Knot</li><li>Teeter Dance</li></ul> | <ul><li>Psychic</li><li>Power Gem</li><li>Dazzling Gleam</li><li>Protect</li></ul>
 
 ## Rematches
 

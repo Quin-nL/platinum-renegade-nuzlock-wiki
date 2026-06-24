@@ -21,14 +21,12 @@ Ace Trainer Quinn                            | ![][127]<br>[Pinsir]<br>Lv. 73   
 !!! note
     This trainer needs to be beaten to advance into Stark Mountain
 
-![][ace_f_2]                       | Item                              | Nature | Ability           | Moves
----                                | ---                               | ---    | ---               | ---
-![][279]<br>[Pelipper]<br>Lv. 76   | ![][focus-sash]<br>Focus Sash     | ?      | Drizzle           | <ul><li>Hydro Pump</li><li>Hurricane</li><li>Ice Beam</li><li>Tailwind</li></ul>
-![][468]<br>[Togekiss]<br>Lv. 76   | ![][expert-belt]<br>Expert Belt   | ?      | Serene Grace      | <ul><li>Hurricane</li><li>Moonblast</li><li>Shadow Ball</li><li>Roost</li></ul>
-![][142]<br>[Aerodactyl]<br>Lv. 76 | ![][life-orb]<br>Life Orb         | ?      | Rock Head         | <ul><li>Brave Bird</li><li>Stone Edge</li><li>Crunch</li><li>Earthquake</li></ul>
-![][018]<br>[Pidgeot]<br>Lv. 76    | ![][wise-glasses]<br>Wise Glasses | ?      | No Guard [^1]     | <ul><li>Hurricane</li><li>Hyper Beam</li><li>Heat Wave</li><li>Tailwind</li></ul>
-![][357]<br>[Tropius]<br>Lv. 76    | ![][leftovers]<br>Leftovers       | ?      | Chlorophyll       | <ul><li>Hurricane</li><li>Energy Ball</li><li>Dragon Pulse</li><li>Roost</li></ul>
-![][149]<br>[Dragonite]<br>Lv. 77  | ![][white-herb]<br>White Herb     | ?      | Marvel Scale [^1] | <ul><li>Hurricane</li><li>Draco Meteor</li><li>Thunder</li><li>Ice Beam</li></ul>
+![][ace_f_2] | ![][279]<br>[Pelipper]<br>Lv. 76 | ![][468]<br>[Togekiss]<br>Lv. 76 | ![][142]<br>[Aerodactyl]<br>Lv. 76 | ![][018]<br>[Pidgeot]<br>Lv. 76 | ![][357]<br>[Tropius]<br>Lv. 76 | ![][149]<br>[Dragonite]<br>Lv. 77
+--- | --- | --- | --- | --- | --- | ---
+**Item** | ![][focus-sash]<br>Focus Sash | ![][expert-belt]<br>Expert Belt | ![][life-orb]<br>Life Orb | ![][wise-glasses]<br>Wise Glasses | ![][leftovers]<br>Leftovers | ![][white-herb]<br>White Herb
+**Nature** | ? | ? | ? | ? | ? | ?
+**Ability** | Drizzle | Serene Grace | Rock Head | No Guard [^1] | Chlorophyll | Marvel Scale [^1]
+**Moves** | <ul><li>Hydro Pump</li><li>Hurricane</li><li>Ice Beam</li><li>Tailwind</li></ul> | <ul><li>Hurricane</li><li>Moonblast</li><li>Shadow Ball</li><li>Roost</li></ul> | <ul><li>Brave Bird</li><li>Stone Edge</li><li>Crunch</li><li>Earthquake</li></ul> | <ul><li>Hurricane</li><li>Hyper Beam</li><li>Heat Wave</li><li>Tailwind</li></ul> | <ul><li>Hurricane</li><li>Energy Ball</li><li>Dragon Pulse</li><li>Roost</li></ul> | <ul><li>Hurricane</li><li>Draco Meteor</li><li>Thunder</li><li>Ice Beam</li></ul>
 
 ## Rematches
 

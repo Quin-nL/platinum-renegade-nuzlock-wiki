@@ -19,24 +19,21 @@ Galactic Grunt                      | ![][205]<br>[Forretress]<br>Lv. 53 | ![][3
 
 ## Galactic Boss Cyrus
 
-![][cyrus]                        | Item                              | Nature | Ability         | Moves
----                               | ---                               | ---    | ---             | ---
-![][169]<br>[Crobat]<br>Lv. 57    | ![][choice-band]<br>Choice Band   | ?      | Inner Focus     | <ul><li>Brave Bird</li><li>U-turn</li><li>Cross Poison</li><li>Zen Headbutt</li></ul>
-![][430]<br>[Honchkrow]<br>Lv. 57 | ![][scope-lens]<br>Scope Lens     | ?      | Super Luck      | <ul><li>Brave Bird</li><li>Night Slash</li><li>Thunder Wave</li><li>Heat Wave</li></ul>
-![][229]<br>[Houndoom]<br>Lv. 57  | ![][life-orb]<br>Life Orb         | ?      | Intimidate [^1] | <ul><li>Dark Pulse</li><li>Flamethrower</li><li>Sludge Bomb</li><li>Nasty Plot</li></ul>
-![][462]<br>[Magnezone]<br>Lv. 57 | ![][wise-glasses]<br>Wise Glasses | ?      | Magnet Pull     | <ul><li>Thunderbolt</li><li>Flash Cannon</li><li>Signal Beam</li><li>Mirror Coat</li></ul>
-![][461]<br>[Weavile]<br>Lv. 58   | ![][expert-belt]<br>Expert Belt   | ?      | Technican [^1]  | <ul><li>Crunch</li><li>Icicle Crash</li><li>Aerial Ace</li><li>X-Scissor</li></ul>
+![][cyrus] | ![][169]<br>[Crobat]<br>Lv. 57 | ![][430]<br>[Honchkrow]<br>Lv. 57 | ![][229]<br>[Houndoom]<br>Lv. 57 | ![][462]<br>[Magnezone]<br>Lv. 57 | ![][461]<br>[Weavile]<br>Lv. 58
+--- | --- | --- | --- | --- | ---
+**Item** | ![][choice-band]<br>Choice Band | ![][scope-lens]<br>Scope Lens | ![][life-orb]<br>Life Orb | ![][wise-glasses]<br>Wise Glasses | ![][expert-belt]<br>Expert Belt
+**Nature** | ? | ? | ? | ? | ?
+**Ability** | Inner Focus | Super Luck | Intimidate [^1] | Magnet Pull | Technican [^1]
+**Moves** | <ul><li>Brave Bird</li><li>U-turn</li><li>Cross Poison</li><li>Zen Headbutt</li></ul> | <ul><li>Brave Bird</li><li>Night Slash</li><li>Thunder Wave</li><li>Heat Wave</li></ul> | <ul><li>Dark Pulse</li><li>Flamethrower</li><li>Sludge Bomb</li><li>Nasty Plot</li></ul> | <ul><li>Thunderbolt</li><li>Flash Cannon</li><li>Signal Beam</li><li>Mirror Coat</li></ul> | <ul><li>Crunch</li><li>Icicle Crash</li><li>Aerial Ace</li><li>X-Scissor</li></ul>
 
 ## Commander Saturn
 
-![][saturn]                       | Item                              | Nature | Ability      | Moves
----                               | ---                               | ---    | ---          | ---
-![][437]<br>[Bronzong]<br>Lv. 56  | ![][light-clay]<br>Light Clay     | ?      | Levitate     | <ul><li>Zen Headbutt</li><li>Gyro Ball</li><li>Reflect</li><li>Light Screen</li></ul>
-![][224]<br>[Octillery]<br>Lv. 56 | ![][expert-belt]<br>Expert Belt   | ?      | Suction Cups | <ul><li>Hydro Pump</li><li>Blizzard</li><li>Fire Blast</li><li>Energy Ball</li></ul>
-![][065]<br>[Alakazam]<br>Lv. 56  | ![][life-orb]<br>Life Orb         | ?      | Magic Guard  | <ul><li>Psychic</li><li>Shadow Ball</li><li>Dazzling Gleam</li><li>Focus Blast</li></ul>
-![][464]<br>[Rhyperior]<br>Lv. 56 | ![][choice-band]<br>Choice Band   | ?      | Solid Rock   | <ul><li>Stone Edge</li><li>Earthquake</li><li>Megahorn</li></ul>
-![][467]<br>[Magmortar]<br>Lv. 56 | ![][choice-specs]<br>Choice Specs | ?      | Flame Body   | <ul><li>Fire Blast</li><li>Thunderbolt</li><li>Aura Sphere</li><li>Psychic</li></ul>
-![][454]<br>[Toxicroak]<br>Lv. 57 | ![][focus-sash]<br>Focus Sash     | ?      | Dry Skin     | <ul><li>Cross Chop</li><li>Gunk Shot</li><li>Ice Punch</li><li>Fake Out</li></ul>
+![][saturn] | ![][437]<br>[Bronzong]<br>Lv. 56 | ![][224]<br>[Octillery]<br>Lv. 56 | ![][065]<br>[Alakazam]<br>Lv. 56 | ![][464]<br>[Rhyperior]<br>Lv. 56 | ![][467]<br>[Magmortar]<br>Lv. 56 | ![][454]<br>[Toxicroak]<br>Lv. 57
+--- | --- | --- | --- | --- | --- | ---
+**Item** | ![][light-clay]<br>Light Clay | ![][expert-belt]<br>Expert Belt | ![][life-orb]<br>Life Orb | ![][choice-band]<br>Choice Band | ![][choice-specs]<br>Choice Specs | ![][focus-sash]<br>Focus Sash
+**Nature** | ? | ? | ? | ? | ? | ?
+**Ability** | Levitate | Suction Cups | Magic Guard | Solid Rock | Flame Body | Dry Skin
+**Moves** | <ul><li>Zen Headbutt</li><li>Gyro Ball</li><li>Reflect</li><li>Light Screen</li></ul> | <ul><li>Hydro Pump</li><li>Blizzard</li><li>Fire Blast</li><li>Energy Ball</li></ul> | <ul><li>Psychic</li><li>Shadow Ball</li><li>Dazzling Gleam</li><li>Focus Blast</li></ul> | <ul><li>Stone Edge</li><li>Earthquake</li><li>Megahorn</li></ul> | <ul><li>Fire Blast</li><li>Thunderbolt</li><li>Aura Sphere</li><li>Psychic</li></ul> | <ul><li>Cross Chop</li><li>Gunk Shot</li><li>Ice Punch</li><li>Fake Out</li></ul>
 
 --8<-- "includes/abilities.md"
 
