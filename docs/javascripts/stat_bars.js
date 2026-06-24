@@ -3,11 +3,21 @@ document$.subscribe(function () {
     const BST_MAX = 780;
     const STAT_COLS = ['HP', 'Atk', 'Def', 'SAtk', 'SDef', 'Spd'];
 
-    // Hide "Version" column from any small info table (Type, Ability, Base Stats)
+    function findNextTable(heading) {
+        var el = heading.nextElementSibling;
+        while (el && el.tagName !== 'H1' && el.tagName !== 'H2') {
+            if (el.tagName === 'TABLE') return el;
+            var inner = el.querySelector('table');
+            if (inner) return inner;
+            el = el.nextElementSibling;
+        }
+        return null;
+    }
+
+    // Hide "Version" column from small info tables (Type, Ability, Base Stats)
     document.querySelectorAll('table').forEach(function (table) {
         var headers = table.querySelectorAll('thead th');
         if (!headers.length || headers[0].textContent.trim() !== 'Version') return;
-        // Only apply to small tables (Type, Ability, Base Stats) — not move tables
         if (headers.length > 9) return;
         headers[0].style.display = 'none';
         table.querySelectorAll('tbody td:first-child').forEach(function (td) {
@@ -15,19 +25,18 @@ document$.subscribe(function () {
         });
     });
 
-    // Add stat bars to Base Stats table
+    // Add stat bars to Base Stats tables
     document.querySelectorAll('h2').forEach(function (h2) {
         if (!h2.textContent.includes('Base Stats')) return;
 
-        var el = h2.nextElementSibling;
-        while (el && el.tagName !== 'TABLE') el = el.nextElementSibling;
-        if (!el) return;
+        var table = findNextTable(h2);
+        if (!table) return;
 
-        var headers = Array.from(el.querySelectorAll('thead th')).map(function (th) {
+        var headers = Array.from(table.querySelectorAll('thead th')).map(function (th) {
             return th.textContent.trim();
         });
 
-        el.querySelectorAll('tbody tr').forEach(function (row) {
+        table.querySelectorAll('tbody tr').forEach(function (row) {
             var cells = row.querySelectorAll('td');
             headers.forEach(function (header, i) {
                 if (!cells[i]) return;
