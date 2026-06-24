@@ -187,6 +187,31 @@ function saveBox(box) {
   renderBoxPage();
 }
 
+const LEVEL_CAPS = [
+  { name: 'Roark',              gym: 'Oreburgh Gym',    cap: 16 },
+  { name: 'Gardenia',           gym: 'Eterna Gym',      cap: 26 },
+  { name: 'Fantina',            gym: 'Hearthome Gym',   cap: 33 },
+  { name: 'Maylene',            gym: 'Veilstone Gym',   cap: 39 },
+  { name: 'Wake',               gym: 'Pastoria Gym',    cap: 44 },
+  { name: 'Byron',              gym: 'Canalave Gym',    cap: 53 },
+  { name: 'Candice',            gym: 'Snowpoint Gym',   cap: 56 },
+  { name: 'Volkner',            gym: 'Sunyshore Gym',   cap: 62 },
+  { name: 'Champion Cynthia',   gym: 'Pokémon League',  cap: 78 },
+  { name: 'Champion Cynthia ★', gym: 'Pokémon League',  cap: 89 },
+];
+
+const CAP_KEY = 'rp_nuzlocke_cap';
+
+function loadCapIndex() {
+  const v = parseInt(localStorage.getItem(CAP_KEY), 10);
+  return isNaN(v) ? 0 : Math.min(Math.max(0, v), LEVEL_CAPS.length - 1);
+}
+
+function saveCapIndex(i) {
+  localStorage.setItem(CAP_KEY, String(i));
+  renderBoxPage();
+}
+
 function siteRoot() {
   const css = document.querySelector('link[href*="/assets/"]');
   return css ? css.href.replace(/\/assets\/.*$/, '') : window.location.origin;
@@ -205,20 +230,36 @@ function renderBoxPage() {
   const box = loadBox();
   const alive = box.filter(p => !p.fainted);
   const fainted = box.filter(p => p.fainted);
-  const ordered = [...alive, ...fainted];
+
+  const capIdx = loadCapIndex();
+  const cap = LEVEL_CAPS[capIdx];
 
   root.innerHTML = `
     <div class="rp-page-toolbar">
       <span class="rp-page-count">${alive.length} alive · ${fainted.length} fainted</span>
       <button class="rp-btn-primary rp-page-add-btn" id="rp-page-add">+ Add Pokémon</button>
     </div>
-    ${ordered.length === 0
+    <div class="rp-cap-bar">
+      <button class="rp-cap-nav" id="rp-cap-prev" ${capIdx === 0 ? 'disabled' : ''}>‹</button>
+      <div class="rp-cap-info">
+        <span class="rp-cap-name">${cap.name} · ${cap.gym}</span>
+        <span class="rp-cap-level">Lv. ${cap.cap}</span>
+      </div>
+      <button class="rp-cap-nav" id="rp-cap-next" ${capIdx === LEVEL_CAPS.length - 1 ? 'disabled' : ''}>›</button>
+    </div>
+    ${alive.length === 0 && fainted.length === 0
       ? '<p class="rp-empty">No Pokémon yet.</p>'
-      : `<div class="rp-box-grid-page">${ordered.map(p => slotHTML(p, box.indexOf(p))).join('')}</div>`
+      : `<div class="rp-box-grid-page">
+          ${alive.map(p => slotHTML(p, box.indexOf(p), cap.cap)).join('')}
+          ${fainted.length && alive.length ? '<div class="rp-fainted-divider">Fainted</div>' : ''}
+          ${fainted.map(p => slotHTML(p, box.indexOf(p), cap.cap)).join('')}
+        </div>`
     }
   `;
 
   root.querySelector('#rp-page-add').addEventListener('click', () => openAddModal(null, null));
+  root.querySelector('#rp-cap-prev')?.addEventListener('click', () => saveCapIndex(capIdx - 1));
+  root.querySelector('#rp-cap-next')?.addEventListener('click', () => saveCapIndex(capIdx + 1));
   root.querySelectorAll('.rp-slot[data-index]').forEach(slot => {
     slot.addEventListener('click', () => openDetailModal(parseInt(slot.dataset.index, 10)));
   });
@@ -245,11 +286,12 @@ function nextLearnedMove(pokemonId, level) {
   return next ? `Lv.${next[0]} ${next[1]}` : null;
 }
 
-function slotHTML(pokemon, index) {
+function slotHTML(pokemon, index, capLevel) {
   const label = pokemon.nickname || pokemon.speciesName;
   const bias = STAT_BIAS[pokemon.id];
-  const biasLabel = bias === 'phys' ? 'Atk' : bias === 'spec' ? 'SAtk' : 'Balanced';
+  const biasLabel = bias === 'phys' ? 'Atk' : bias === 'spec' ? 'SpAtk' : 'Balanced';
   const next = nextLearnedMove(pokemon.id, pokemon.level);
+  const atCap = capLevel && pokemon.level != null && pokemon.level >= capLevel;
   const tooltip = [
     label,
     pokemon.level ? 'Lv.' + pokemon.level : null,
@@ -258,9 +300,9 @@ function slotHTML(pokemon, index) {
     pokemon.evolutionDelayed ? (pokemon.evoDelayLevel ? `Evo delayed until Lv.${pokemon.evoDelayLevel}` : 'Evo delayed') : null,
   ].filter(Boolean).join(' · ');
 
-  return `<div class="rp-slot${pokemon.fainted ? ' rp-fainted' : ''}" data-index="${index}" title="${tooltip}">
+  return `<div class="rp-slot${pokemon.fainted ? ' rp-fainted' : ''}${atCap ? ' rp-at-cap' : ''}" data-index="${index}" title="${tooltip}">
     <img src="${spriteUrl(pokemon.id)}" alt="${pokemon.speciesName}">
-    ${pokemon.evolutionDelayed ? '<div class="rp-evo-badge" title="Evolution delayed">E</div>' : ''}
+    ${pokemon.evolutionDelayed ? `<div class="rp-evo-badge" title="Evolution delayed">${pokemon.evoDelayLevel ? 'E→' + pokemon.evoDelayLevel : 'E'}</div>` : ''}
     <div class="rp-slot-name">${label}</div>
     ${bias ? `<div class="rp-slot-bias rp-slot-bias--${bias}">${biasLabel}</div>` : ''}
     <div class="rp-slot-level">
@@ -381,37 +423,47 @@ function openDetailModal(index) {
   const p = box[index];
   if (!p) return;
 
-  const label = p.nickname ? `${p.nickname} (${p.speciesName})` : p.speciesName;
+  const next = nextLearnedMove(p.id, p.level);
 
   const modal = document.createElement('div');
   modal.id = 'rp-modal';
   modal.innerHTML = `
     <div class="rp-modal-backdrop"></div>
-    <div class="rp-modal-box">
-      <div class="rp-modal-species">
-        <img src="${spriteUrl(p.id)}" alt="${p.speciesName}"${p.fainted ? ' style="filter:grayscale(100%) opacity(.45)"' : ''}>
-        <span>${label}</span>
+    <div class="rp-modal-box rp-modal-box--detail">
+      <button class="rp-modal-close" data-action="close" aria-label="Close">✕</button>
+      <div class="rp-detail-header${p.fainted ? ' rp-detail-header--fainted' : ''}">
+        <img src="${spriteUrl(p.id)}" alt="${p.speciesName}" class="rp-detail-sprite${p.fainted ? ' rp-detail-sprite--fainted' : ''}">
+        <div class="rp-detail-header-text">
+          <div class="rp-detail-name">${p.nickname || p.speciesName}</div>
+          ${p.nickname ? `<div class="rp-detail-species">${p.speciesName}</div>` : ''}
+        </div>
       </div>
-      <div class="rp-detail-info">
-        ${p.level ? `<div>Level: ${p.level}</div>` : ''}
-        ${p.caughtAt ? `<div>Caught at: ${p.caughtAt}</div>` : ''}
-        ${p.fainted ? `<div class="rp-warning" style="margin-top:8px">This Pokémon has fainted.</div>` : ''}
-        ${p.evolutionDelayed ? `<div class="rp-evo-note">Evolution delayed${p.evoDelayLevel ? ' until Lv.' + p.evoDelayLevel : ''}</div>` : ''}
-      </div>
-      ${!p.evolutionDelayed ? `
-      <div class="rp-form-row" style="margin-top:10px">
-        <label>Delay evolution until level <small>(optional)</small></label>
-        <input id="rp-evo-level" type="number" min="1" max="100" placeholder="">
-      </div>` : ''}
-      <div class="rp-modal-actions">
-        <button class="rp-btn-primary" data-action="info" data-index="${index}">Access Info</button>
-        ${!p.fainted
-          ? `<button class="rp-btn-secondary" data-action="faint" data-index="${index}">Mark as fainted</button>`
-          : `<button class="rp-btn-secondary" data-action="revive" data-index="${index}">Restore to box</button>`
-        }
-        <button class="rp-btn-secondary" data-action="evo-delay" data-index="${index}">${p.evolutionDelayed ? 'Remove evo delay' : 'Delay evolution'}</button>
-        <button class="rp-btn-danger" data-action="remove" data-index="${index}">Remove</button>
-        <button class="rp-btn-secondary" data-action="close">Close</button>
+      <div class="rp-modal-body">
+        <div class="rp-detail-meta">
+          ${(p.level || p.caughtAt) ? `<div class="rp-detail-meta-row">
+            ${p.level ? `<span class="rp-detail-meta-pill">Lv. ${p.level}</span>` : ''}
+            ${p.caughtAt ? `<span class="rp-detail-meta-pill">${p.caughtAt}</span>` : ''}
+          </div>` : ''}
+          ${next ? `<div class="rp-detail-next-move">Next: ${next}</div>` : ''}
+          ${p.fainted ? `<div class="rp-detail-status rp-detail-status--fainted">This Pokémon has fainted</div>` : ''}
+          ${p.evolutionDelayed ? `<div class="rp-detail-status rp-detail-status--evo">Evolution delayed${p.evoDelayLevel ? ' until Lv. ' + p.evoDelayLevel : ''}</div>` : ''}
+        </div>
+        ${!p.evolutionDelayed ? `
+        <div class="rp-form-row">
+          <label>Delay evolution until level <small>(optional)</small></label>
+          <input id="rp-evo-level" type="number" min="1" max="100" placeholder="">
+        </div>` : ''}
+        <div class="rp-detail-actions">
+          <button class="rp-detail-btn rp-detail-btn--primary" data-action="info" data-index="${index}">View Pokémon page</button>
+          <div class="rp-detail-btn-pair">
+            ${!p.fainted
+              ? `<button class="rp-detail-btn rp-detail-btn--secondary" data-action="faint" data-index="${index}">Mark fainted</button>`
+              : `<button class="rp-detail-btn rp-detail-btn--secondary" data-action="revive" data-index="${index}">Restore to box</button>`
+            }
+            <button class="rp-detail-btn rp-detail-btn--secondary" data-action="evo-delay" data-index="${index}">${p.evolutionDelayed ? 'Clear evo delay' : 'Delay evolution'}</button>
+          </div>
+          <button class="rp-detail-btn rp-detail-btn--remove" data-action="remove" data-index="${index}">Remove from box</button>
+        </div>
       </div>
     </div>
   `;
