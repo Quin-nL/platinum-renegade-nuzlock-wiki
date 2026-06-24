@@ -3,12 +3,12 @@
 Trainer                | 1
 ---                    | ---
 Artist Ismael          | ![][235]<br>[Smeargle]<br>Lv. 37<ul><li>Sketch</li><li>Sketch</li><li>Sketch</li><li>Sketch</li></ul> 
-Beauty Harley          | ![][055]<br>[Golduck]<br>Lv. 37<ul><li>Hypnosis</li><li>Aqua Tail</li><li>Power Gem ^1</li><li>Psychic</li></ul> 
+Beauty Harley          | ![][055]<br>[Golduck]<br>Lv. 37<ul><li>Hypnosis</li><li>Aqua Tail</li><li>Power Gem</li><li>Psychic</li></ul> 
 Rich Boy Roman         | ![][059]<br>[Arcanine]<br>Lv. 37<ul><li>Roar</li><li>Odor Sleuth</li><li>Fire Fang</li><li>Extreme Speed</li></ul> 
-Lady Kylie             | ![][045]<br>[Vileplume]<br>Lv. 37<ul><li>Stun Spore</li><li>Aromatherapy</li><li>Earth Power ^1</li><li>Teeter Dance</li></ul> 
+Lady Kylie             | ![][045]<br>[Vileplume]<br>Lv. 37<ul><li>Stun Spore</li><li>Aromatherapy</li><li>Earth Power</li><li>Teeter Dance</li></ul> 
 Gentleman Leonardo     | ![][441]<br>[Chatot]<br>Lv. 37<ul><li>Mimic</li><li>Chatter</li><li>Roost</li><li>Agility</li></ul> 
 Socialite Rebecca      | ![][053]<br>[Persian]<br>Lv. 37<ul><li>Taunt</li><li>Power Gem</li><li>Assurance</li><li>Hypnosis</li></ul> 
-Collector Eugene       | ![][350]<br>[Milotic]<br>Lv. 37<ul><li>Recover</li><li>Hypnosis</li><li>Attract</li><li>Moonblast ^1</li></ul> 
+Collector Eugene       | ![][350]<br>[Milotic]<br>Lv. 37<ul><li>Recover</li><li>Hypnosis</li><li>Attract</li><li>Moonblast</li></ul> 
 Aroma Lady Alison      | ![][154]<br>[Meganium]<br>Lv. 37<ul><li>Energy Ball</li><li>Sweet Scent</li><li>Petal Dance</li><li>Body Slam</li></ul> 
 School Kid Esteban     | ![][195]<br>[Quagsire]<br>Lv. 37<ul><li>Aqua Tail</li><li>Yawn</li><li>Body Slam</li><li>Earthquake</li></ul> 
 Pokéfan Meredith       | ![][417]<br>[Pachirisu]<br>Lv. 37<ul><li>Sweet Kiss</li><li>Thunder Wave</li><li>Thunderbolt</li><li>Fake Tears</li></ul> 

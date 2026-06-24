@@ -6,7 +6,7 @@ Trainer                               | 1                               | 2     
 ---                                   | ---                             | ---                             | ---
 :repeat: [Ninja Boy Zach](#rematches) | ![][041]<br>[Zubat]<br>Lv. 19<ul><li>Poison Fang</li><li>Confuse Ray</li><li>Air Cutter</li><li>Mean Look</li></ul> | ![][451]<br>[Skorupi]<br>Lv. 19<ul><li>Pin Missile</li><li>Acupressure</li><li>Bug Bite</li><li>Poison Fang</li></ul> | ![][041]<br>[Zubat]<br>Lv. 19<ul><li>Poison Fang</li><li>Confuse Ray</li><li>Air Cutter</li><li>Mean Look</li></ul> 
 Hiker Louis                           | ![][074]<br>[Geodude]<br>Lv. 19<ul><li>Rock Throw</li><li>Bulldoze</li><li>Rollout</li><li>Magnitude</li></ul> | ![][218]<br>[Slugma]<br>Lv. 19<ul><li>Ember</li><li>Harden</li><li>Will-O-Wisp</li><li>Ancient Power</li></ul> | ![][374]<br>[Beldum]<br>Lv. 19<ul><li>Take Down</li><li>Zen Headbutt</li><li>Iron Head</li><li>Iron Defense</li></ul> 
-Bird Keeper Alexandra                 | ![][177]<br>[Natu]<br>Lv. 20<ul><li>Lucky Chant</li><li>Confusion ^1</li><li>Air Cutter</li><li>Ominous Wind</li></ul> | ![][333]<br>[Swablu]<br>Lv. 20<ul><li>Fury Attack</li><li>Safeguard</li><li>Pluck</li><li>Mist</li></ul> | ![][397]<br>[Staravia]<br>Lv. 20<ul><li>Wing Attack</li><li>Double Team</li><li>Foresight</li><li>Aerial Ace</li></ul> 
+Bird Keeper Alexandra                 | ![][177]<br>[Natu]<br>Lv. 20<ul><li>Lucky Chant</li><li>Confusion</li><li>Air Cutter</li><li>Ominous Wind</li></ul> | ![][333]<br>[Swablu]<br>Lv. 20<ul><li>Fury Attack</li><li>Safeguard</li><li>Pluck</li><li>Mist</li></ul> | ![][397]<br>[Staravia]<br>Lv. 20<ul><li>Wing Attack</li><li>Double Team</li><li>Foresight</li><li>Aerial Ace</li></ul> 
 
 ### Rematches
 

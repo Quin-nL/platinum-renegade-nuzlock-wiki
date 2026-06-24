@@ -6,7 +6,7 @@ Trainer       | 1                                 | 2                           
 ---           | ---                               | ---                               | ---
 Worker Dillan | ![][066]<br>[Machop]<br>Lv. 42<ul><li>Counter</li><li>Bulk Up</li><li>Cross Chop</li><li>Scary Face</li></ul> | ![][067]<br>[Machoke]<br>Lv. 43<ul><li>Payback</li><li>Counter</li><li>Bulk Up</li><li>Cross Chop</li></ul> | ![][068]<br>[Machamp]<br>Lv. 44<ul><li>Payback</li><li>Counter</li><li>Bulk Up</li><li>Cross Chop</li></ul> 
 Worker Holden | ![][081]<br>[Magnemite]<br>Lv. 42<ul><li>Flash Cannon</li><li>Screech</li><li>Thunderbolt</li><li>Lock-On</li></ul> | ![][081]<br>[Magnemite]<br>Lv. 42<ul><li>Flash Cannon</li><li>Screech</li><li>Thunderbolt</li><li>Lock-On</li></ul> | ![][208]<br>[Steelix]<br>Lv. 45<ul><li>Crunch</li><li>Stone Edge</li><li>Double-Edge</li><li>Sandstorm</li></ul> 
-Worker Conrad | ![][126]<br>[Magmar]<br>Lv. 43<ul><li>Lava Plume</li><li>Sunny Day</li><li>Cross Chop</li><li>Flamethrower</li></ul> | ![][219]<br>[Magcargo]<br>Lv. 43<ul><li>Earth Power</li><li>Flamethrower</li><li>Power Gem ^1</li><li>Body Slam</li></ul> | ![][078]<br>[Rapidash]<br>Lv. 43<ul><li>Flare Blitz</li><li>Fury Attack</li><li>Double-Edge</li><li>Bounce</li></ul> 
+Worker Conrad | ![][126]<br>[Magmar]<br>Lv. 43<ul><li>Lava Plume</li><li>Sunny Day</li><li>Cross Chop</li><li>Flamethrower</li></ul> | ![][219]<br>[Magcargo]<br>Lv. 43<ul><li>Earth Power</li><li>Flamethrower</li><li>Power Gem</li><li>Body Slam</li></ul> | ![][078]<br>[Rapidash]<br>Lv. 43<ul><li>Flare Blitz</li><li>Fury Attack</li><li>Double-Edge</li><li>Bounce</li></ul> 
 
 ## Wild Pokémon
 

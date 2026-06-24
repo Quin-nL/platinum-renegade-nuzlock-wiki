@@ -4,7 +4,7 @@
 
 Trainer         | 1                                 | 2                                  | 3
 ---             | ---                               | ---                                | ---
-Swimmer Jessica | ![][117]<br>[Seadra]<br>Lv. 43<ul><li>Muddy Water</li><li>Dragon Pulse</li><li>Signal Beam</li><li>Dragon Dance</li></ul> | ![][370]<br>[Luvdisc]<br>Lv. 43<ul><li>Captivate</li><li>Moonblast ^1</li><li>Aqua Ring</li><li>Bounce</li></ul> | ![][119]<br>[Seaking]<br>Lv. 43<ul><li>Aqua Tail</li><li>Knock Off</li><li>Drill Run</li><li>Bounce</li></ul> 
+Swimmer Jessica | ![][117]<br>[Seadra]<br>Lv. 43<ul><li>Muddy Water</li><li>Dragon Pulse</li><li>Signal Beam</li><li>Dragon Dance</li></ul> | ![][370]<br>[Luvdisc]<br>Lv. 43<ul><li>Captivate</li><li>Moonblast</li><li>Aqua Ring</li><li>Bounce</li></ul> | ![][119]<br>[Seaking]<br>Lv. 43<ul><li>Aqua Tail</li><li>Knock Off</li><li>Drill Run</li><li>Bounce</li></ul> 
 Swimmer Erica   | ![][457]<br>[Lumineon]<br>Lv. 44<ul><li>Aqua Tail</li><li>Silver Wind</li><li>Aqua Ring</li><li>Whirlpool</li></ul> | ![][222]<br>[Corsola]<br>Lv. 44<ul><li>Earth Power</li><li>Endure</li><li>Rock Blast</li><li>Aqua Ring</li></ul> | &nbsp;
 Swimmer Adrian  | ![][224]<br>[Octillery]<br>Lv. 43<ul><li>Signal Beam</li><li>Ice Beam</li><li>Seed Bomb</li><li>Flamethrower</li></ul> | ![][073]<br>[Tentacruel]<br>Lv. 43<ul><li>Poison Jab</li><li>Muddy Water</li><li>Sludge Bomb</li><li>Screech</li></ul> | ![][199]<br>[Slowking]<br>Lv. 43<ul><li>Psychic</li><li>Trump Card</li><li>Psych Up</li><li>Future Sight</li></ul> 
 Swimmer Vincent | ![][321]<br>[Wailord]<br>Lv. 45<ul><li>Water Spout</li><li>Zen Headbutt</li><li>Body Slam</li><li>Aqua Ring</li></ul> | &nbsp;                             | &nbsp;

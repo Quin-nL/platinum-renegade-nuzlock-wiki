@@ -102,6 +102,81 @@ const POKEMON = {
   "Darkrai":"491","Shaymin":"492","Arceus":"493"
 };
 
+const STAT_BIAS = {
+  "001":"spec","002":"spec","003":"spec","004":"spec","005":"spec","006":"spec","007":"spec",
+  "008":"spec","009":"spec","010":"phys","011":"spec","012":"spec","013":"phys","014":"balanced",
+  "015":"phys","016":"spec","017":"spec","018":"spec","019":"phys","020":"phys","021":"phys",
+  "022":"phys","023":"phys","024":"phys","025":"phys","026":"balanced","027":"phys","028":"phys",
+  "029":"phys","030":"phys","031":"phys","032":"phys","033":"phys","034":"phys","035":"spec",
+  "036":"spec","037":"spec","038":"spec","039":"balanced","040":"spec","041":"phys","042":"phys",
+  "043":"spec","044":"spec","045":"spec","046":"phys","047":"phys","048":"phys","049":"spec",
+  "050":"phys","051":"phys","052":"phys","053":"balanced","054":"spec","055":"spec","056":"phys",
+  "057":"phys","058":"balanced","059":"phys","060":"phys","061":"phys","062":"phys","063":"spec",
+  "064":"spec","065":"spec","066":"phys","067":"phys","068":"phys","069":"phys","070":"phys",
+  "071":"phys","072":"spec","073":"spec","074":"phys","075":"phys","076":"phys","077":"phys",
+  "078":"phys","079":"phys","080":"spec","081":"spec","082":"spec","083":"phys","084":"phys",
+  "085":"phys","086":"balanced","087":"balanced","088":"phys","089":"phys","090":"phys",
+  "091":"phys","092":"spec","093":"spec","094":"spec","095":"phys","096":"phys","097":"balanced",
+  "098":"phys","099":"phys","100":"spec","101":"spec","102":"spec","103":"spec","104":"phys",
+  "105":"phys","106":"phys","107":"phys","108":"spec","109":"phys","110":"phys","111":"phys",
+  "112":"phys","113":"spec","114":"spec","115":"phys","116":"spec","117":"spec","118":"phys",
+  "119":"phys","120":"spec","121":"spec","122":"spec","123":"phys","124":"spec","125":"spec",
+  "126":"spec","127":"phys","128":"phys","129":"spec","130":"phys","131":"balanced","132":"balanced",
+  "133":"phys","134":"spec","135":"spec","136":"phys","137":"spec","138":"spec","139":"spec",
+  "140":"phys","141":"phys","142":"phys","143":"phys","144":"spec","145":"spec","146":"spec",
+  "147":"phys","148":"phys","149":"phys","150":"spec","151":"balanced","152":"balanced","153":"spec",
+  "154":"spec","155":"spec","156":"spec","157":"spec","158":"phys","159":"phys","160":"phys",
+  "161":"phys","162":"phys","163":"spec","164":"spec","165":"phys","166":"phys","167":"phys",
+  "168":"phys","169":"phys","170":"spec","171":"spec","172":"phys","173":"spec","174":"spec",
+  "175":"spec","176":"spec","177":"spec","178":"spec","179":"spec","180":"spec","181":"spec",
+  "182":"spec","183":"spec","184":"spec","185":"phys","186":"spec","187":"spec","188":"spec",
+  "189":"spec","190":"phys","191":"balanced","192":"spec","193":"spec","194":"phys","195":"phys",
+  "196":"spec","197":"phys","198":"balanced","199":"spec","200":"spec","201":"balanced",
+  "202":"balanced","203":"spec","204":"phys","205":"phys","206":"phys","207":"phys","208":"phys",
+  "209":"phys","210":"phys","211":"phys","212":"phys","213":"balanced","214":"phys","215":"phys",
+  "216":"phys","217":"phys","218":"spec","219":"spec","220":"phys","221":"phys","222":"spec",
+  "223":"balanced","224":"balanced","225":"spec","226":"spec","227":"phys","228":"spec",
+  "229":"spec","230":"balanced","231":"phys","232":"phys","233":"spec","234":"phys","235":"balanced",
+  "236":"balanced","237":"phys","238":"spec","239":"spec","240":"phys","241":"phys","242":"spec",
+  "243":"spec","244":"phys","245":"spec","246":"phys","247":"phys","248":"phys","249":"balanced",
+  "250":"phys","251":"balanced","252":"spec","253":"spec","254":"spec","255":"spec","256":"balanced",
+  "257":"phys","258":"phys","259":"phys","260":"phys","261":"phys","262":"phys","263":"phys",
+  "264":"phys","265":"phys","266":"phys","267":"spec","268":"phys","269":"spec","270":"spec",
+  "271":"spec","272":"spec","273":"phys","274":"phys","275":"phys","276":"phys","277":"phys",
+  "278":"spec","279":"spec","280":"spec","281":"spec","282":"spec","283":"spec","284":"spec",
+  "285":"balanced","286":"phys","287":"phys","288":"phys","289":"phys","290":"phys","291":"phys",
+  "292":"phys","293":"balanced","294":"balanced","295":"balanced","296":"phys","297":"phys",
+  "298":"spec","299":"spec","300":"phys","301":"phys","302":"balanced","303":"phys","304":"phys",
+  "305":"phys","306":"phys","307":"spec","308":"spec","309":"spec","310":"spec","311":"spec",
+  "312":"spec","313":"spec","314":"spec","315":"spec","316":"balanced","317":"balanced","318":"phys",
+  "319":"phys","320":"balanced","321":"balanced","322":"spec","323":"spec","324":"balanced",
+  "325":"spec","326":"spec","327":"balanced","328":"phys","329":"spec","330":"spec","331":"balanced",
+  "332":"balanced","333":"balanced","334":"balanced","335":"phys","336":"phys","337":"spec",
+  "338":"phys","339":"phys","340":"phys","341":"phys","342":"phys","343":"balanced","344":"balanced",
+  "345":"spec","346":"balanced","347":"phys","348":"phys","349":"phys","350":"spec","351":"spec",
+  "352":"phys","353":"phys","354":"phys","355":"phys","356":"phys","357":"balanced","358":"spec",
+  "359":"phys","360":"balanced","361":"balanced","362":"phys","363":"spec","364":"spec","365":"spec",
+  "366":"spec","367":"phys","368":"spec","369":"phys","370":"spec","371":"phys","372":"phys",
+  "373":"phys","374":"phys","375":"phys","376":"phys","377":"phys","378":"spec","379":"balanced",
+  "380":"spec","381":"spec","382":"spec","383":"phys","384":"balanced","385":"balanced","386":"balanced",
+  "387":"phys","388":"phys","389":"phys","390":"balanced","391":"balanced","392":"balanced",
+  "393":"spec","394":"spec","395":"spec","396":"phys","397":"phys","398":"phys","399":"phys",
+  "400":"phys","401":"balanced","402":"phys","403":"phys","404":"phys","405":"phys","406":"spec",
+  "407":"spec","408":"phys","409":"phys","410":"phys","411":"phys","412":"spec","413":"spec",
+  "414":"spec","415":"balanced","416":"balanced","417":"spec","418":"phys","419":"phys","420":"spec",
+  "421":"spec","422":"spec","423":"spec","424":"phys","425":"spec","426":"spec","427":"phys",
+  "428":"phys","429":"spec","430":"phys","431":"phys","432":"phys","433":"spec","434":"phys",
+  "435":"phys","436":"balanced","437":"phys","438":"phys","439":"spec","440":"spec","441":"spec",
+  "442":"balanced","443":"phys","444":"phys","445":"phys","446":"phys","447":"phys","448":"spec",
+  "449":"phys","450":"phys","451":"phys","452":"phys","453":"balanced","454":"phys","455":"phys",
+  "456":"spec","457":"spec","458":"spec","459":"balanced","460":"balanced","461":"phys","462":"spec",
+  "463":"phys","464":"phys","465":"spec","466":"phys","467":"spec","468":"spec","469":"spec",
+  "470":"phys","471":"spec","472":"phys","473":"phys","474":"spec","475":"phys","476":"spec",
+  "477":"phys","478":"spec","479":"spec","480":"balanced","481":"balanced","482":"balanced",
+  "483":"spec","484":"spec","485":"spec","486":"phys","487":"balanced","488":"spec","489":"balanced",
+  "490":"balanced","491":"spec","492":"balanced","493":"balanced"
+};
+
 function loadBox() {
   try { return JSON.parse(localStorage.getItem(BOX_KEY)) || []; }
   catch { return []; }
@@ -147,22 +222,53 @@ function renderBoxPage() {
   root.querySelectorAll('.rp-slot[data-index]').forEach(slot => {
     slot.addEventListener('click', () => openDetailModal(parseInt(slot.dataset.index, 10)));
   });
+  root.querySelectorAll('.rp-lvl-btn').forEach(btn => {
+    btn.addEventListener('click', e => {
+      e.stopPropagation();
+      const index = parseInt(btn.dataset.index, 10);
+      const box = loadBox();
+      if (!box[index]) return;
+      if (btn.dataset.dir === 'inc') {
+        box[index].level = Math.min(100, (box[index].level ?? 0) + 1);
+      } else if (box[index].level) {
+        box[index].level = Math.max(1, box[index].level - 1);
+      }
+      saveBox(box);
+    });
+  });
+}
+
+function nextLearnedMove(pokemonId, level) {
+  const moves = (typeof LEVEL_UP_MOVES !== 'undefined') && LEVEL_UP_MOVES[pokemonId];
+  if (!moves || !level) return null;
+  const next = moves.find(([ml]) => ml > level);
+  return next ? `Lv.${next[0]} ${next[1]}` : null;
 }
 
 function slotHTML(pokemon, index) {
   const label = pokemon.nickname || pokemon.speciesName;
+  const bias = STAT_BIAS[pokemon.id];
+  const biasLabel = bias === 'phys' ? 'Atk' : bias === 'spec' ? 'SAtk' : 'Balanced';
+  const next = nextLearnedMove(pokemon.id, pokemon.level);
   const tooltip = [
     label,
     pokemon.level ? 'Lv.' + pokemon.level : null,
     pokemon.caughtAt || null,
     pokemon.fainted ? '(fainted)' : null,
-    pokemon.evolutionDelayed ? 'Evo delayed' : null,
+    pokemon.evolutionDelayed ? (pokemon.evoDelayLevel ? `Evo delayed until Lv.${pokemon.evoDelayLevel}` : 'Evo delayed') : null,
   ].filter(Boolean).join(' · ');
 
   return `<div class="rp-slot${pokemon.fainted ? ' rp-fainted' : ''}" data-index="${index}" title="${tooltip}">
     <img src="${spriteUrl(pokemon.id)}" alt="${pokemon.speciesName}">
     ${pokemon.evolutionDelayed ? '<div class="rp-evo-badge" title="Evolution delayed">E</div>' : ''}
     <div class="rp-slot-name">${label}</div>
+    ${bias ? `<div class="rp-slot-bias rp-slot-bias--${bias}">${biasLabel}</div>` : ''}
+    <div class="rp-slot-level">
+      <button class="rp-lvl-btn" data-dir="dec" data-index="${index}">−</button>
+      <span>${pokemon.level ? 'Lv.' + pokemon.level : '?'}</span>
+      <button class="rp-lvl-btn" data-dir="inc" data-index="${index}">+</button>
+    </div>
+    ${next ? `<div class="rp-slot-next-move" title="Next move to learn">${next}</div>` : ''}
   </div>`;
 }
 
@@ -290,8 +396,13 @@ function openDetailModal(index) {
         ${p.level ? `<div>Level: ${p.level}</div>` : ''}
         ${p.caughtAt ? `<div>Caught at: ${p.caughtAt}</div>` : ''}
         ${p.fainted ? `<div class="rp-warning" style="margin-top:8px">This Pokémon has fainted.</div>` : ''}
-        ${p.evolutionDelayed ? `<div class="rp-evo-note">Evolution delayed</div>` : ''}
+        ${p.evolutionDelayed ? `<div class="rp-evo-note">Evolution delayed${p.evoDelayLevel ? ' until Lv.' + p.evoDelayLevel : ''}</div>` : ''}
       </div>
+      ${!p.evolutionDelayed ? `
+      <div class="rp-form-row" style="margin-top:10px">
+        <label>Delay evolution until level <small>(optional)</small></label>
+        <input id="rp-evo-level" type="number" min="1" max="100" placeholder="">
+      </div>` : ''}
       <div class="rp-modal-actions">
         <button class="rp-btn-primary" data-action="info" data-index="${index}">Access Info</button>
         ${!p.fainted
@@ -334,7 +445,18 @@ function onDetailAction(e) {
       closeModal();
       break;
     case 'evo-delay':
-      if (box[index]) { box[index].evolutionDelayed = !box[index].evolutionDelayed; saveBox(box); }
+      if (box[index]) {
+        if (box[index].evolutionDelayed) {
+          box[index].evolutionDelayed = false;
+          box[index].evoDelayLevel = null;
+        } else {
+          const levelInput = document.getElementById('rp-evo-level');
+          const level = levelInput?.value ? parseInt(levelInput.value, 10) : null;
+          box[index].evolutionDelayed = true;
+          box[index].evoDelayLevel = level;
+        }
+        saveBox(box);
+      }
       closeModal();
       break;
     case 'close':

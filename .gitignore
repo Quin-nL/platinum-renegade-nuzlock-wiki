@@ -1,3 +1,4 @@
 site
 temp
 *.pyc.claude/
+.claude/

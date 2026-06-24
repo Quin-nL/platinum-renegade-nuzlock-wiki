@@ -3,7 +3,7 @@
 Trainer        | 1                                 | 2                                 | 3
 ---            | ---                               | ---                               | ---
 Galactic Grunt | ![][454]<br>[Toxicroak]<br>Lv. 56<ul><li>Cross Chop</li><li>Sludge Bomb</li><li>Flatter</li><li>Gunk Shot</li></ul> | ![][049]<br>[Venomoth]<br>Lv. 56<ul><li>Baton Pass</li><li>Psychic</li><li>Morning Sun</li><li>Bug Buzz</li></ul> | ![][042]<br>[Golbat]<br>Lv. 56<ul><li>Haze</li><li>Zen Headbutt</li><li>Nasty Plot</li><li>Brave Bird</li></ul> 
-Galactic Grunt | ![][053]<br>[Persian]<br>Lv. 56<ul><li>Play Rough</li><li>Captivate</li><li>Feint</li><li>Double-Edge</li></ul> | ![][267]<br>[Beautifly]<br>Lv. 56<ul><li>Air Slash ^1</li><li>Rage</li><li>Whirlwind</li><li>Hurricane ^1</li></ul> | ![][097]<br>[Hypno]<br>Lv. 56<ul><li>Drain Punch</li><li>Nasty Plot</li><li>Guard Swap</li><li>Future Sight</li></ul> 
+Galactic Grunt | ![][053]<br>[Persian]<br>Lv. 56<ul><li>Play Rough</li><li>Captivate</li><li>Feint</li><li>Double-Edge</li></ul> | ![][267]<br>[Beautifly]<br>Lv. 56<ul><li>Air Slash</li><li>Rage</li><li>Whirlwind</li><li>Hurricane</li></ul> | ![][097]<br>[Hypno]<br>Lv. 56<ul><li>Drain Punch</li><li>Nasty Plot</li><li>Guard Swap</li><li>Future Sight</li></ul> 
 
 ## Double Battle
 

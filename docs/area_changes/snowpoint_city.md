@@ -3,7 +3,7 @@
 Trainer              | 1                                 | 2                                  | 3
 ---                  | ---                               | ---                                | ---
 Ace Trainer Aran     | ![][214]<br>[Heracross]<br>Lv. 54<ul><li>Take Down</li><li>Close Combat</li><li>Counter</li><li>Reversal</li></ul> | ![][157]<br>[Typhlosion]<br>Lv. 54<ul><li>Gyro Ball</li><li>Flamethrower</li><li>Rollout</li><li>Double-Edge</li></ul> | ![][248]<br>[Tyranitar]<br>Lv. 54<ul><li>Earthquake</li><li>Outrage</li><li>Stone Edge</li><li>Hyper Beam</li></ul> 
-Ace Trainer Nephenee | ![][242]<br>[Blissey]<br>Lv. 54<ul><li>Light Screen</li><li>Healing Wish</li><li>Counter</li><li>Double-Edge</li></ul> | ![][154]<br>[Meganium]<br>Lv. 54<ul><li>Body Slam</li><li>Moonblast ^1</li><li>Safeguard</li><li>Aromatherapy</li></ul> | ![][160]<br>[Feraligatr]<br>Lv. 54<ul><li>Screech</li><li>Thrash</li><li>Dragon Dance</li><li>Superpower</li></ul> 
+Ace Trainer Nephenee | ![][242]<br>[Blissey]<br>Lv. 54<ul><li>Light Screen</li><li>Healing Wish</li><li>Counter</li><li>Double-Edge</li></ul> | ![][154]<br>[Meganium]<br>Lv. 54<ul><li>Body Slam</li><li>Moonblast</li><li>Safeguard</li><li>Aromatherapy</li></ul> | ![][160]<br>[Feraligatr]<br>Lv. 54<ul><li>Screech</li><li>Thrash</li><li>Dragon Dance</li><li>Superpower</li></ul> 
 
 ## Master Trainer
 

@@ -4,9 +4,9 @@
 
 Trainer                              | 1                                 | 2                                 | 3
 ---                                  | ---                               | ---                               | ---
-Twins Teri & Tia                     | ![][162]<br>[Furret]<br>Lv. 32<ul><li>Rest</li><li>Flame Wheel ^1</li><li>Zen Headbutt ^1</li><li>Amnesia</li></ul> | ![][264]<br>[Linoone]<br>Lv. 32<ul><li>Mud Sport</li><li>Slash</li><li>Take Down</li><li>Rest</li></ul> | &nbsp;
+Twins Teri & Tia                     | ![][162]<br>[Furret]<br>Lv. 32<ul><li>Rest</li><li>Flame Wheel</li><li>Zen Headbutt</li><li>Amnesia</li></ul> | ![][264]<br>[Linoone]<br>Lv. 32<ul><li>Mud Sport</li><li>Slash</li><li>Take Down</li><li>Rest</li></ul> | &nbsp;
 Jogger Wyatt                         | ![][101]<br>[Electrode]<br>Lv. 33<ul><li>Swift</li><li>Self-Destruct</li><li>Discharge</li><li>Light Screen</li></ul> | &nbsp;                            | &nbsp;
-PKMN Breeder Kahlil                  | ![][447]<br>[Riolu]<br>Lv. 31<ul><li>Reversal</li><li>Crunch</li><li>Nasty Plot</li><li>Cross Chop</li></ul> | ![][433]<br>[Chingling]<br>Lv. 31<ul><li>Yawn</li><li>Extrasensory ^1</li><li>Take Down</li><li>Uproar</li></ul> | ![][446]<br>[Munchlax]<br>Lv. 31<ul><li>Body Slam</li><li>Stockpile</li><li>Swallow</li><li>Rollout</li></ul> 
+PKMN Breeder Kahlil                  | ![][447]<br>[Riolu]<br>Lv. 31<ul><li>Reversal</li><li>Crunch</li><li>Nasty Plot</li><li>Cross Chop</li></ul> | ![][433]<br>[Chingling]<br>Lv. 31<ul><li>Yawn</li><li>Extrasensory</li><li>Take Down</li><li>Uproar</li></ul> | ![][446]<br>[Munchlax]<br>Lv. 31<ul><li>Body Slam</li><li>Stockpile</li><li>Swallow</li><li>Rollout</li></ul> 
 PKMN Breeder Amber                   | ![][458]<br>[Mantyke]<br>Lv. 31<ul><li>Signal Beam</li><li>Take Down</li><li>Agility</li><li>Air Slash</li></ul> | ![][440]<br>[Happiny]<br>Lv. 31<ul><li>Uproar</li><li>Copycat</li><li>Refresh</li><li>Sweet Kiss</li></ul> | ![][360]<br>[Wynaut]<br>Lv. 31<ul><li>Counter</li><li>Mirror Coat</li><li>Safeguard</li><li>Destiny Bond</li></ul> 
 Belle & Pa Ava & Matt                | ![][128]<br>[Tauros]<br>Lv. 33<ul><li>Payback</li><li>Take Down</li><li>Zen Headbutt</li><li>Body Slam</li></ul> | ![][241]<br>[Miltank]<br>Lv. 33<ul><li>Rollout</li><li>Body Slam</li><li>Zen Headbutt</li><li>Wake-Up Slap</li></ul> | &nbsp;
 :repeat: [Rancher Marco](#rematches) | ![][078]<br>[Rapidash]<br>Lv. 33<ul><li>Fire Spin</li><li>Agility</li><li>Hypnosis</li><li>Low Kick</li></ul> | &nbsp;                            | &nbsp;
@@ -18,8 +18,8 @@ Waitress Kati                        | ![][036]<br>[Clefable]<br>Lv. 33<ul><li>S
 
 Trainer                                           | 1                                | 2                              | 3
 ---                                               | ---                              | ---                            | ---
-Rancher Marco :material-numeric-8-circle-outline: | ![][078]<br>[Rapidash]<br>Lv. 59<ul><li>Double-Edge</li><li>Bounce</li><li>Jump Kick ^1</li><li>Fire Blast</li></ul> | ![][128]<br>[Tauros]<br>Lv. 59<ul><li>Double-Edge</li><li>Megahorn ^1</li><li>Outrage</li><li>Giga Impact</li></ul> | ![][241]<br>[Miltank]<br>Lv. 59<ul><li>Gyro Ball</li><li>Heal Bell</li><li>Hammer Arm</li><li>Double-Edge</li></ul> 
-Rancher Marco :material-alpha-c-circle-outline:   | ![][078]<br>[Rapidash]<br>Lv. 70<ul><li>Double-Edge</li><li>Bounce</li><li>Jump Kick ^1</li><li>Fire Blast</li></ul> | ![][128]<br>[Tauros]<br>Lv. 70<ul><li>Double-Edge</li><li>Megahorn ^1</li><li>Outrage</li><li>Giga Impact</li></ul> | ![][241]<br>[Miltank]<br>Lv. 70<ul><li>Gyro Ball</li><li>Heal Bell</li><li>Hammer Arm</li><li>Double-Edge</li></ul> 
+Rancher Marco :material-numeric-8-circle-outline: | ![][078]<br>[Rapidash]<br>Lv. 59<ul><li>Double-Edge</li><li>Bounce</li><li>Jump Kick</li><li>Fire Blast</li></ul> | ![][128]<br>[Tauros]<br>Lv. 59<ul><li>Double-Edge</li><li>Megahorn</li><li>Outrage</li><li>Giga Impact</li></ul> | ![][241]<br>[Miltank]<br>Lv. 59<ul><li>Gyro Ball</li><li>Heal Bell</li><li>Hammer Arm</li><li>Double-Edge</li></ul> 
+Rancher Marco :material-alpha-c-circle-outline:   | ![][078]<br>[Rapidash]<br>Lv. 70<ul><li>Double-Edge</li><li>Bounce</li><li>Jump Kick</li><li>Fire Blast</li></ul> | ![][128]<br>[Tauros]<br>Lv. 70<ul><li>Double-Edge</li><li>Megahorn</li><li>Outrage</li><li>Giga Impact</li></ul> | ![][241]<br>[Miltank]<br>Lv. 70<ul><li>Gyro Ball</li><li>Heal Bell</li><li>Hammer Arm</li><li>Double-Edge</li></ul> 
 
 ## Wild Pokémon
 

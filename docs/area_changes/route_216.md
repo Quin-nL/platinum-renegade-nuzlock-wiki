@@ -17,17 +17,17 @@ Trainer                                  | 1                                 | 2
 :repeat: [Black Belt Philip](#rematches) | ![][297]<br>[Hariyama]<br>Lv. 56<ul><li>Endure</li><li>Close Combat</li><li>Reversal</li><li>Counter</li></ul> | ![][068]<br>[Machamp]<br>Lv. 56<ul><li>Cross Chop</li><li>Scary Face</li><li>Dynamic Punch</li><li>Close Combat</li></ul> 
 Skier Bradley                            | ![][221]<br>[Piloswine]<br>Lv. 54<ul><li>Thrash</li><li>Icicle Crash</li><li>Amnesia</li><li>Blizzard</li></ul> | ![][362]<br>[Glalie]<br>Lv. 54<ul><li>Switcheroo</li><li>Hail</li><li>Blizzard</li><li>Sheer Cold</li></ul> 
 Skier Kaitlyn                            | ![][131]<br>[Lapras]<br>Lv. 55<ul><li>Avalanche</li><li>Megahorn</li><li>Hydro Pump</li><li>Sheer Cold</li></ul> | &nbsp;
-:repeat: [Skier Andrea](#rematches)      | ![][460]<br>[Abomasnow]<br>Lv. 55<ul><li>Mist</li><li>Icicle Crash ^1</li><li>Blizzard</li><li>Sheer Cold</li></ul> | &nbsp;
+:repeat: [Skier Andrea](#rematches)      | ![][460]<br>[Abomasnow]<br>Lv. 55<ul><li>Mist</li><li>Icicle Crash</li><li>Blizzard</li><li>Sheer Cold</li></ul> | &nbsp;
 
 ### Rematches
 
 Trainer                                             | 1                                 | 2                               | 3
 ---                                                 | ---                               | ---                             | ---
-Skier Edward :material-numeric-8-circle-outline:    | ![][460]<br>[Abomasnow]<br>Lv. 59<ul><li>Mist</li><li>Icicle Crash ^1</li><li>Blizzard</li><li>Sheer Cold</li></ul> | ![][362]<br>[Glalie]<br>Lv. 59<ul><li>Switcheroo</li><li>Hail</li><li>Blizzard</li><li>Sheer Cold</li></ul> | ![][221]<br>[Piloswine]<br>Lv. 59<ul><li>Thrash</li><li>Icicle Crash</li><li>Amnesia</li><li>Blizzard</li></ul> 
-Skier Edward :material-alpha-c-circle-outline:      | ![][460]<br>[Abomasnow]<br>Lv. 70<ul><li>Mist</li><li>Icicle Crash ^1</li><li>Blizzard</li><li>Sheer Cold</li></ul> | ![][362]<br>[Glalie]<br>Lv. 70<ul><li>Switcheroo</li><li>Hail</li><li>Blizzard</li><li>Sheer Cold</li></ul> | ![][473]<br>[Mamoswine]<br>Lv. 70<ul><li>Thrash</li><li>Icicle Crash</li><li>Scary Face</li><li>Blizzard</li></ul> 
-Black Belt Philip :material-alpha-c-circle-outline: | ![][297]<br>[Hariyama]<br>Lv. 70<ul><li>Endure</li><li>Close Combat</li><li>Reversal</li><li>Counter</li></ul> | ![][068]<br>[Machamp]<br>Lv. 70<ul><li>Scary Face</li><li>Dynamic Punch</li><li>Close Combat</li><li>Superpower</li></ul> | ![][062]<br>[Poliwrath]<br>Lv. 70<ul><li>Brick Break</li><li>Dynamic Punch</li><li>Mind Reader</li><li>Close Combat ^1</li></ul> 
-Skier Andrea :material-numeric-8-circle-outline:    | ![][460]<br>[Abomasnow]<br>Lv. 61<ul><li>Mist</li><li>Icicle Crash ^1</li><li>Blizzard</li><li>Sheer Cold</li></ul> | &nbsp;                          | &nbsp;
-Skier Andrea :material-alpha-c-circle-outline:      | ![][460]<br>[Abomasnow]<br>Lv. 72<ul><li>Mist</li><li>Icicle Crash ^1</li><li>Blizzard</li><li>Sheer Cold</li></ul> | &nbsp;                          | &nbsp;
+Skier Edward :material-numeric-8-circle-outline:    | ![][460]<br>[Abomasnow]<br>Lv. 59<ul><li>Mist</li><li>Icicle Crash</li><li>Blizzard</li><li>Sheer Cold</li></ul> | ![][362]<br>[Glalie]<br>Lv. 59<ul><li>Switcheroo</li><li>Hail</li><li>Blizzard</li><li>Sheer Cold</li></ul> | ![][221]<br>[Piloswine]<br>Lv. 59<ul><li>Thrash</li><li>Icicle Crash</li><li>Amnesia</li><li>Blizzard</li></ul> 
+Skier Edward :material-alpha-c-circle-outline:      | ![][460]<br>[Abomasnow]<br>Lv. 70<ul><li>Mist</li><li>Icicle Crash</li><li>Blizzard</li><li>Sheer Cold</li></ul> | ![][362]<br>[Glalie]<br>Lv. 70<ul><li>Switcheroo</li><li>Hail</li><li>Blizzard</li><li>Sheer Cold</li></ul> | ![][473]<br>[Mamoswine]<br>Lv. 70<ul><li>Thrash</li><li>Icicle Crash</li><li>Scary Face</li><li>Blizzard</li></ul> 
+Black Belt Philip :material-alpha-c-circle-outline: | ![][297]<br>[Hariyama]<br>Lv. 70<ul><li>Endure</li><li>Close Combat</li><li>Reversal</li><li>Counter</li></ul> | ![][068]<br>[Machamp]<br>Lv. 70<ul><li>Scary Face</li><li>Dynamic Punch</li><li>Close Combat</li><li>Superpower</li></ul> | ![][062]<br>[Poliwrath]<br>Lv. 70<ul><li>Brick Break</li><li>Dynamic Punch</li><li>Mind Reader</li><li>Close Combat</li></ul> 
+Skier Andrea :material-numeric-8-circle-outline:    | ![][460]<br>[Abomasnow]<br>Lv. 61<ul><li>Mist</li><li>Icicle Crash</li><li>Blizzard</li><li>Sheer Cold</li></ul> | &nbsp;                          | &nbsp;
+Skier Andrea :material-alpha-c-circle-outline:      | ![][460]<br>[Abomasnow]<br>Lv. 72<ul><li>Mist</li><li>Icicle Crash</li><li>Blizzard</li><li>Sheer Cold</li></ul> | &nbsp;                          | &nbsp;
 
 ## Wild Pokémon
 

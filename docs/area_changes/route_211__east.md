@@ -13,8 +13,8 @@ Ruin Maniac Harry [^1] | ![][142]<br>[Aerodactyl]<br>Lv. 21<ul><li>Roar</li><li>
 
 Trainer                                               | 1
 ---                                                   | ---
-Ruin Maniac Harry :material-numeric-8-circle-outline: | ![][142]<br>[Aerodactyl]<br>Lv. 61<ul><li>Stone Edge</li><li>Brave Bird ^1</li><li>Hyper Beam</li><li>Giga Impact</li></ul> 
-Ruin Maniac Harry :material-alpha-c-circle-outline:   | ![][142]<br>[Aerodactyl]<br>Lv. 72<ul><li>Brave Bird ^1</li><li>Hyper Beam</li><li>Giga Impact</li><li>Sky Attack</li></ul> 
+Ruin Maniac Harry :material-numeric-8-circle-outline: | ![][142]<br>[Aerodactyl]<br>Lv. 61<ul><li>Stone Edge</li><li>Brave Bird</li><li>Hyper Beam</li><li>Giga Impact</li></ul> 
+Ruin Maniac Harry :material-alpha-c-circle-outline:   | ![][142]<br>[Aerodactyl]<br>Lv. 72<ul><li>Brave Bird</li><li>Hyper Beam</li><li>Giga Impact</li><li>Sky Attack</li></ul> 
 
 ## Wild Pokémon
 
