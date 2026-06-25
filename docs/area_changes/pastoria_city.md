@@ -5,17 +5,14 @@
 === "Grass"
     Trainer              | 1                                 | 2                                 | 3                               | 4                                 | 5                               | 6
     ---                  | ---                               | ---                               | ---                             | ---                               | ---                             | ---
-    [PKMN Trainer Barry] | ![][398]<br>[Staraptor]<br>Lv. 41 | ![][214]<br>[Heracross]<br>Lv. 41 | ![][143]<br>[Snorlax]<br>Lv. 41 | ![][184]<br>[Azumarill]<br>Lv. 41 | ![][286]<br>[Breloom]<br>Lv. 41 | ![][392]<br>[Infernape]<br>Lv. 42
 
 === "Fire"
     Trainer              | 1                                 | 2                                 | 3                               | 4                               | 5                                | 6
     ---                  | ---                               | ---                               | ---                             | ---                             | ---                              | ---
-    [PKMN Trainer Barry] | ![][398]<br>[Staraptor]<br>Lv. 41 | ![][214]<br>[Heracross]<br>Lv. 41 | ![][143]<br>[Snorlax]<br>Lv. 41 | ![][286]<br>[Breloom]<br>Lv. 41 | ![][059]<br>[Arcanine]<br>Lv. 41 | ![][395]<br>[Empoleon]<br>Lv. 42
 
 === "Water"
     Trainer              | 1                                 | 2                                 | 3                               | 4                                 | 5                                | 6
     ---                  | ---                               | ---                               | ---                             | ---                               | ---                              | ---
-    [PKMN Trainer Barry] | ![][398]<br>[Staraptor]<br>Lv. 41 | ![][214]<br>[Heracross]<br>Lv. 41 | ![][143]<br>[Snorlax]<br>Lv. 41 | ![][184]<br>[Azumarill]<br>Lv. 41 | ![][059]<br>[Arcanine]<br>Lv. 41 | ![][389]<br>[Torterra]<br>Lv. 42
 
 ### PKMN Trainer Barry
 

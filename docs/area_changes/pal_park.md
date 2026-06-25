@@ -2,7 +2,6 @@
 
 Trainer                              | 1                               | 2                                | 3                                | 4                                 | 5                                 | 6
 ---                                  | ---                             | ---                              | ---                              | ---                               | ---                               | ---
-[Castle Valet Darach]<br>![][darach] | ![][475]<br>[Gallade]<br>Lv. 48 | ![][395]<br>[Empoleon]<br>Lv. 48 | ![][065]<br>[Alakazam]<br>Lv. 48 | ![][376]<br>[Metagross]<br>Lv. 48 | ![][398]<br>[Staraptor]<br>Lv. 48 | ![][244]<br>[Entei]<br>Lv. 48
 
 ## Castle Valet Darach
 

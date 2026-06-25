@@ -11,7 +11,6 @@ Aroma Lady Hannah                     | ![][315]<br>[Roselia]<br>Lv. 27<ul><li>S
 :repeat: [Artist William](#rematches) | ![][235]<br>[Smeargle]<br>Lv. 26<ul><li>Sketch</li><li>Sketch</li><li>Sketch</li><li>Sketch</li></ul> | ![][235]<br>[Smeargle]<br>Lv. 26<ul><li>Sketch</li><li>Sketch</li><li>Sketch</li><li>Sketch</li></ul> | ![][235]<br>[Smeargle]<br>Lv. 26<ul><li>Sketch</li><li>Sketch</li><li>Sketch</li><li>Sketch</li></ul> | &nbsp;                         | &nbsp;
 Fisherman Cody                        | ![][340]<br>[Whiscash]<br>Lv. 44<ul><li>Thrash</li><li>Muddy Water</li><li>Future Sight</li><li>Earthquake</li></ul> | ![][130]<br>[Gyarados]<br>Lv. 44<ul><li>Crunch</li><li>Dragon Dance</li><li>Outrage</li><li>Hydro Pump</li></ul> | &nbsp;                           | &nbsp;                         | &nbsp;
 Hiker Alexander                       | ![][075]<br>[Graveler]<br>Lv. 28<ul><li>Magnitude</li><li>Self-Destruct</li><li>Gyro Ball</li><li>Rock Slide</li></ul> | &nbsp;                            | &nbsp;                           | &nbsp;                         | &nbsp;
-[Elite Four Aaron]<br>![][aaron]      | ![][269]<br>[Dustox]<br>Lv. 31     | ![][267]<br>[Beautifly]<br>Lv. 31 | ![][049]<br>[Venomoth]<br>Lv. 31 | ![][212]<br>[Scizor]<br>Lv. 31 | ![][452]<br>[Drapion]<br>Lv. 32
 
 ### Elite Four Aaron
 

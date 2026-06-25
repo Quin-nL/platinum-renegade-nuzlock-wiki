@@ -4,7 +4,6 @@
 
 Trainer                             | 1                                | 2                                | 3                                | 4                                | 5                                | 6
 ---                                 | ---                              | ---                              | ---                              | ---                              | ---                              | ---
-[Arcade Star Dahlia]<br>![][dahlia] | ![][257]<br>[Blaziken]<br>Lv. 63 | ![][477]<br>[Dusknoir]<br>Lv. 63 | ![][308]<br>[Medicham]<br>Lv. 63 | ![][468]<br>[Togekiss]<br>Lv. 63 | ![][272]<br>[Ludicolo]<br>Lv. 63 | ![][145]<br>[Zapdos]<br>Lv. 63
 
 ### Arcade Star Dahlia
 

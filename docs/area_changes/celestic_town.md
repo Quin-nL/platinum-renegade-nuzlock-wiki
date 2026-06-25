@@ -5,7 +5,6 @@
 Trainer                             | 1                                | 2                                 | 3                                 | 4
 ---                                 | ---                              | ---                               | ---                               | ---
 Galactic Grunt                      | ![][229]<br>[Houndoom]<br>Lv. 43<ul><li>Crunch</li><li>Flamethrower</li><li>Dark Pulse</li><li>Embargo</li></ul> | ![][042]<br>[Golbat]<br>Lv. 43<ul><li>Hypnosis</li><li>Air Slash</li><li>Haze</li><li>Zen Headbutt</li></ul> | ![][015]<br>[Beedrill]<br>Lv. 43<ul><li>Drill Run</li><li>Agility</li><li>Endeavor</li><li>Outrage</li></ul> | &nbsp;
-[Galactic Boss Cyrus]<br>![][cyrus] | ![][169]<br>[Crobat]<br>Lv. 45   | ![][430]<br>[Honchkrow]<br>Lv. 45 | ![][462]<br>[Magnezone]<br>Lv. 45 | ![][461]<br>[Weavile]<br>Lv. 46
 
 ### Galactic Boss Cyrus
 

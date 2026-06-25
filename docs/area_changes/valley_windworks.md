@@ -7,7 +7,6 @@ Trainer                       | 1                                 | 2           
 Galactic Grunt                | ![][261]<br>[Poochyena]<br>Lv. 14<ul><li>Sand Attack</li><li>Bite</li><li>Odor Sleuth</li><li>Assurance</li></ul> | ![][316]<br>[Gulpin]<br>Lv. 14<ul><li>Yawn</li><li>Smog</li><li>Poison Gas</li><li>Amnesia</li></ul> | ![][228]<br>[Houndour]<br>Lv. 14<ul><li>Howl</li><li>Bite</li><li>Roar</li><li>Smog</li></ul> | &nbsp;
 Galactic Grunt                | ![][088]<br>[Grimer]<br>Lv. 15<ul><li>Harden</li><li>Mud-Slap</li><li>Disable</li><li>Sludge</li></ul> | ![][109]<br>[Koffing]<br>Lv. 15<ul><li>Smog</li><li>Smokescreen</li><li>Assurance</li><li>Pain Split</li></ul> | &nbsp;                           | &nbsp;
 Galactic Grunt                | ![][014]<br>[Kakuna]<br>Lv. 14<ul><li>Harden</li><li>Harden</li><li>Iron Defense</li></ul> | ![][204]<br>[Pineco]<br>Lv. 14<ul><li>Protect</li><li>Bug Bite</li><li>Self-Destruct</li><li>Rapid Spin</li></ul> | ![][011]<br>[Metapod]<br>Lv. 14<ul><li>Harden</li><li>Harden</li><li>Iron Defense</li></ul> | &nbsp;
-[Commander Mars]<br>![][mars] | ![][041]<br>[Zubat]<br>Lv. 18     | ![][436]<br>[Bronzor]<br>Lv. 18 | ![][193]<br>[Yanma]<br>Lv. 18    | ![][432]<br>[Purugly]<br>Lv. 19
 
 ### Commander Mars
 

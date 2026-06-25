@@ -11,8 +11,6 @@ This Double Battle is against both Mars and Jupiter. Barry will assist you with 
 
 Trainer                             | 1                              | 2                               | 3                                | 4                                  | 5                                  | 6
 ---                                 | ---                            | ---                             | ---                              | ---                                | ---                                | ---
-[Commander Mars]<br>![][mars]       | ![][169]<br>[Crobat]<br>Lv. 57 | ![][469]<br>[Yanmega]<br>Lv. 57 | ![][437]<br>[Bronzong]<br>Lv. 57 | ![][466]<br>[Electivire]<br>Lv. 57 | ![][115]<br>[Kangaskhan]<br>Lv. 57 | ![][432]<br>[Purugly]<br>Lv. 58
-[Commander Jupiter]<br>![][jupiter] | ![][169]<br>[Crobat]<br>Lv. 57 | ![][302]<br>[Sableye]<br>Lv. 57 | ![][437]<br>[Bronzong]<br>Lv. 57 | ![][465]<br>[Tangrowth]<br>Lv. 57  | ![][423]<br>[Gastrodon]<br>Lv. 57  | ![][435]<br>[Skuntank]<br>Lv. 58
 
 ### Barrys Teams
 

@@ -9,7 +9,6 @@ Galactic Grunt                      | ![][453]<br>[Croagunk]<br>Lv. 24<ul><li>Pu
 Galactic Grunt                      | ![][173]<br>[Cleffa]<br>Lv. 23<ul><li>Sing</li><li>Copycat</li><li>Magical Leaf</li><li>Draining Kiss</li></ul> | &nbsp;                          | &nbsp;                            | &nbsp;
 Galactic Grunt                      | ![][228]<br>[Houndour]<br>Lv. 23<ul><li>Fire Fang</li><li>Thunder Fang</li><li>Odor Sleuth</li><li>Beat Up</li></ul> | ![][451]<br>[Skorupi]<br>Lv. 23<ul><li>Acupressure</li><li>Bug Bite</li><li>Poison Fang</li><li>Pursuit</li></ul> | ![][267]<br>[Beautifly]<br>Lv. 23<ul><li>Stun Spore</li><li>Silver Wind</li><li>Mega Drain</li><li>Air Cutter</li></ul> | &nbsp;
 Scientist Travon                    | ![][096]<br>[Drowzee]<br>Lv. 24<ul><li>Poison Gas</li><li>Psybeam</li><li>Meditate</li><li>Psycho Cut</li></ul> | ![][375]<br>[Metang]<br>Lv. 24<ul><li>Iron Defense</li><li>Metal Claw</li><li>Confusion</li><li>Pursuit</li></ul> | ![][064]<br>[Kadabra]<br>Lv. 24<ul><li>Confusion</li><li>Psybeam</li><li>Disable</li><li>Night Shade</li></ul> | &nbsp;
-[Commander Jupiter]<br>![][jupiter] | ![][042]<br>[Golbat]<br>Lv. 26   | ![][302]<br>[Sableye]<br>Lv. 26 | ![][114]<br>[Tangela]<br>Lv. 26   | ![][435]<br>[Skuntank]<br>Lv. 27
 
 ## Commander Jupiter
 

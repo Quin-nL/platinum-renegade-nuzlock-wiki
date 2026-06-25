@@ -7,7 +7,6 @@ Trainer                           | 1                                | 2        
 Galactic Grunt                    | ![][432]<br>[Purugly]<br>Lv. 50<ul><li>Wake-Up Slap</li><li>Play Rough</li><li>Attract</li><li>Body Slam</li></ul> | &nbsp;                            | &nbsp;                           | &nbsp;                         | &nbsp;
 Galactic Grunt                    | ![][229]<br>[Houndoom]<br>Lv. 50<ul><li>Flamethrower</li><li>Dark Pulse</li><li>Embargo</li><li>Nasty Plot</li></ul> | &nbsp;                            | &nbsp;                           | &nbsp;                         | &nbsp;
 Galactic Grunt                    | ![][435]<br>[Skuntank]<br>Lv. 50<ul><li>Memento</li><li>Crunch</li><li>Sludge Bomb</li><li>Play Rough</li></ul> | &nbsp;                            | &nbsp;                           | &nbsp;                         | &nbsp;
-[Commander Saturn]<br>![][saturn] | ![][065]<br>[Alakazam]<br>Lv. 52 | ![][224]<br>[Octillery]<br>Lv. 52 | ![][437]<br>[Bronzong]<br>Lv. 52 | ![][112]<br>[Rhydon]<br>Lv. 52 | ![][454]<br>[Toxicroak]<br>Lv. 53
 
 ### Commander Saturn
 

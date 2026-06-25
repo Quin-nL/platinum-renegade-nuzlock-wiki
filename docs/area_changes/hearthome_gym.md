@@ -8,22 +8,18 @@ School Kid Chance                | ![][355]<br>[Duskull]<br>Lv. 26<ul><li>Shadow
 School Kid Mackenzie             | ![][353]<br>[Shuppet]<br>Lv. 26<ul><li>Will-O-Wisp</li><li>Feint Attack</li><li>Ominous Wind</li><li>Curse</li></ul> | ![][355]<br>[Duskull]<br>Lv. 26<ul><li>Shadow Sneak</li><li>Pursuit</li><li>Will-O-Wisp</li><li>Payback</li></ul> | ![][353]<br>[Shuppet]<br>Lv. 26<ul><li>Will-O-Wisp</li><li>Feint Attack</li><li>Ominous Wind</li><li>Curse</li></ul> | &nbsp;                            | &nbsp;                         | &nbsp;
 Ace Trainer Allen                | ![][093]<br>[Haunter]<br>Lv. 29<ul><li>Curse</li><li>Sucker Punch</li><li>Shadow Punch</li><li>Shadow Ball</li></ul> | ![][292]<br>[Shedinja]<br>Lv. 29<ul><li>Leech Life</li><li>Mind Reader</li><li>Shadow Sneak</li><li>X-Scissor</li></ul> | ![][302]<br>[Sableye]<br>Lv. 29<ul><li>Fake Out</li><li>Punishment</li><li>Shadow Claw</li><li>Knock Off</li></ul> | &nbsp;                            | &nbsp;                         | &nbsp;
 Ace Trainer Catherine            | ![][093]<br>[Haunter]<br>Lv. 29<ul><li>Curse</li><li>Sucker Punch</li><li>Shadow Punch</li><li>Shadow Ball</li></ul> | ![][479]<br>[Rotom]<br>Lv. 29<ul><li>Uproar</li><li>Substitute</li><li>Charge Beam</li><li>Will-O-Wisp</li></ul> | ![][478]<br>[Froslass]<br>Lv. 29<ul><li>Draining Kiss</li><li>Wake-Up Slap</li><li>Will-O-Wisp</li><li>Avalanche</li></ul> | &nbsp;                            | &nbsp;                         | &nbsp;
-[Leader Fantina]<br>![][fantina] | ![][426]<br>[Drifblim]<br>Lv. 32   | ![][356]<br>[Dusclops]<br>Lv. 32 | ![][354]<br>[Banette]<br>Lv. 32  | ![][442]<br>[Spiritomb]<br>Lv. 32 | ![][094]<br>[Gengar]<br>Lv. 32 | ![][429]<br>[Mismagius]<br>Lv. 33
 
 === "Grass"
     Trainer                            | 1                                | 2                                 | 3                               | 4
     ---                                | ---                              | ---                               | ---                             | ---
-    [PKMN Trainer Barry]<br>![][barry] | ![][397]<br>[Staravia]<br>Lv. 32 | ![][214]<br>[Heracross]<br>Lv. 32 | ![][143]<br>[Snorlax]<br>Lv. 32 | ![][391]<br>[Monferno]<br>Lv. 33
 
 === "Fire"
     Trainer                            | 1                                | 2                                 | 3                               | 4
     ---                                | ---                              | ---                               | ---                             | ---
-    [PKMN Trainer Barry]<br>![][barry] | ![][397]<br>[Staravia]<br>Lv. 32 | ![][214]<br>[Heracross]<br>Lv. 32 | ![][143]<br>[Snorlax]<br>Lv. 32 | ![][394]<br>[Prinplup]<br>Lv. 33
 
 === "Water"
     Trainer                            | 1                                | 2                                 | 3                               | 4
     ---                                | ---                              | ---                               | ---                             | ---
-    [PKMN Trainer Barry]<br>![][barry] | ![][397]<br>[Staravia]<br>Lv. 32 | ![][214]<br>[Heracross]<br>Lv. 32 | ![][143]<br>[Snorlax]<br>Lv. 32 | ![][388]<br>[Grotle]<br>Lv. 33
 
 ## Leader Fantina
 

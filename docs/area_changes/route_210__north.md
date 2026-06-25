@@ -22,29 +22,23 @@ Ninja Boy Nathan                            | ![][317]<br>[Swalot]<br>Lv. 39<ul>
     === "Grass"
         Trainer                            | 1                                | 2                                 | 3                                | 4                                  | 5                               | 6
         ---                                | ---                              | ---                               | ---                              | ---                                | ---                             | ---
-        [PKMN Trainer Lucas]<br>![][lucas] | ![][065]<br>[Alakazam]<br>Lv. 44 | ![][473]<br>[Mamoswine]<br>Lv. 44 | ![][210]<br>[Granbull]<br>Lv. 44 | ![][463]<br>[Lickilicky]<br>Lv. 44 | ![][136]<br>[Flareon]<br>Lv. 44 | ![][395]<br>[Empoleon]<br>Lv. 45
     === "Fire"
         Trainer                            | 1                                | 2                                 | 3                                | 4                                  | 5                                | 6
         ---                                | ---                              | ---                               | ---                              | ---                                | ---                              | ---
-        [PKMN Trainer Lucas]<br>![][lucas] | ![][065]<br>[Alakazam]<br>Lv. 44 | ![][473]<br>[Mamoswine]<br>Lv. 44 | ![][210]<br>[Granbull]<br>Lv. 44 | ![][463]<br>[Lickilicky]<br>Lv. 44 | ![][134]<br>[Vaporeon]<br>Lv. 44 | ![][389]<br>[Torterra]<br>Lv. 45
     === "Water"
         Trainer                            | 1                                | 2                                 | 3                                | 4                                  | 5                               | 6
         ---                                | ---                              | ---                               | ---                              | ---                                | ---                             | ---
-        [PKMN Trainer Lucas]<br>![][lucas] | ![][065]<br>[Alakazam]<br>Lv. 44 | ![][473]<br>[Mamoswine]<br>Lv. 44 | ![][210]<br>[Granbull]<br>Lv. 44 | ![][463]<br>[Lickilicky]<br>Lv. 44 | ![][135]<br>[Jolteon]<br>Lv. 44 | ![][392]<br>[Infernape]<br>Lv. 45
 
 === "Dawn"
     === "Grass"
         Trainer                          | 1                                | 2                                 | 3                                | 4                               | 5                               | 6
         ---                              | ---                              | ---                               | ---                              | ---                             | ---                             | ---
-        [PKMN Trainer Dawn]<br>![][dawn] | ![][065]<br>[Alakazam]<br>Lv. 44 | ![][473]<br>[Mamoswine]<br>Lv. 44 | ![][036]<br>[Clefable]<br>Lv. 44 | ![][428]<br>[Lopunny]<br>Lv. 44 | ![][136]<br>[Flareon]<br>Lv. 44 | ![][395]<br>[Empoleon]<br>Lv. 45
     === "Fire"
         Trainer                          | 1                                | 2                                 | 3                                | 4                               | 5                                | 6
         ---                              | ---                              | ---                               | ---                              | ---                             | ---                              | ---
-        [PKMN Trainer Dawn]<br>![][dawn] | ![][065]<br>[Alakazam]<br>Lv. 44 | ![][473]<br>[Mamoswine]<br>Lv. 44 | ![][036]<br>[Clefable]<br>Lv. 44 | ![][428]<br>[Lopunny]<br>Lv. 44 | ![][134]<br>[Vaporeon]<br>Lv. 44 | ![][389]<br>[Torterra]<br>Lv. 45
     === "Water"
         Trainer                          | 1                                | 2                                 | 3                                | 4                               | 5                               | 6
         ---                              | ---                              | ---                               | ---                              | ---                             | ---                             | ---
-        [PKMN Trainer Dawn]<br>![][dawn] | ![][065]<br>[Alakazam]<br>Lv. 44 | ![][473]<br>[Mamoswine]<br>Lv. 44 | ![][036]<br>[Clefable]<br>Lv. 44 | ![][428]<br>[Lopunny]<br>Lv. 44 | ![][135]<br>[Jolteon]<br>Lv. 44 | ![][392]<br>[Infernape]<br>Lv. 45
 
 ### PKMN Trainer Dawn
 

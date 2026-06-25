@@ -16,8 +16,6 @@ Galactic Grunt                        | ![][015]<br>[Beedrill]<br>Lv. 29<ul><li>
 Galactic Grunt                        | ![][453]<br>[Croagunk]<br>Lv. 28<ul><li>Revenge</li><li>Swagger</li><li>Mud Bomb</li><li>Poison Jab</li></ul> | ![][336]<br>[Seviper]<br>Lv. 28<ul><li>Glare</li><li>Poison Tail</li><li>Night Slash</li><li>Gastro Acid</li></ul> | ![][012]<br>[Butterfree]<br>Lv. 28<ul><li>Supersonic</li><li>Air Slash</li><li>Safeguard</li><li>Bug Buzz</li></ul> 
 Galactic Grunt                        | ![][198]<br>[Murkrow]<br>Lv. 30<ul><li>Feint Attack</li><li>Drill Peck</li><li>Mean Look</li><li>Sucker Punch</li></ul> | &nbsp;                            | &nbsp;
 Galactic Grunt                        | ![][434]<br>[Stunky]<br>Lv. 28<ul><li>Slash</li><li>Night Slash</li><li>Feint</li><li>Toxic</li></ul> | ![][048]<br>[Venonat]<br>Lv. 28<ul><li>Psybeam</li><li>Poison Fang</li><li>Leech Life</li><li>Zen Headbutt</li></ul> | ![][024]<br>[Arbok]<br>Lv. 28<ul><li>Screech</li><li>Stockpile</li><li>Swallow</li><li>Spit Up</li></ul> 
-[Commander Saturn]<br>![][saturn]     | ![][437]<br>[Bronzong]<br>Lv. 33   | ![][224]<br>[Octillery]<br>Lv. 33 | ![][454]<br>[Toxicroak]<br>Lv. 34
-[Gentleman Backlot]<br>![][gentleman] | ![][040]<br>[Wigglytuff]<br>Lv. 33 | ![][026]<br>[Raichu]<br>Lv. 33    | ![][196]<br>[Espeon]<br>Lv. 33
 
 ### After Team Galactic Plot
 

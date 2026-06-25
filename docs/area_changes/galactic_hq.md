@@ -14,8 +14,6 @@ Galactic Grunt                      | ![][042]<br>[Golbat]<br>Lv. 53<ul><li>Haze
 Scientist Darrius                   | ![][474]<br>[Porygon-Z]<br>Lv. 55<ul><li>Trick Room</li><li>Psychic</li><li>Zap Cannon</li><li>Hyper Beam</li></ul> | &nbsp;                            | &nbsp;                            | &nbsp;                            | &nbsp;                            | &nbsp;
 Galactic Grunt                      | ![][089]<br>[Muk]<br>Lv. 54<ul><li>Sludge Bomb</li><li>Acid Armor</li><li>Gunk Shot</li><li>Memento</li></ul> | ![][024]<br>[Arbok]<br>Lv. 54<ul><li>Gastro Acid</li><li>Haze</li><li>Sucker Punch</li><li>Gunk Shot</li></ul> | &nbsp;                            | &nbsp;                            | &nbsp;                            | &nbsp;
 Galactic Grunt                      | ![][205]<br>[Forretress]<br>Lv. 53<ul><li>Drill Run</li><li>Explosion</li><li>Iron Defense</li><li>Double-Edge</li></ul> | ![][336]<br>[Seviper]<br>Lv. 53<ul><li>Haze</li><li>Swords Dance</li><li>Gunk Shot</li><li>Wring Out</li></ul> | ![][469]<br>[Yanmega]<br>Lv. 53<ul><li>Pursuit</li><li>U-turn</li><li>Screech</li><li>Bug Buzz</li></ul> | &nbsp;                            | &nbsp;                            | &nbsp;
-[Galactic Boss Cyrus]<br>![][cyrus] | ![][169]<br>[Crobat]<br>Lv. 57     | ![][430]<br>[Honchkrow]<br>Lv. 57 | ![][229]<br>[Houndoom]<br>Lv. 57  | ![][462]<br>[Magnezone]<br>Lv. 57 | ![][461]<br>[Weavile]<br>Lv. 58   | &nbsp;
-[Commander Saturn]<br>![][saturn]   | ![][437]<br>[Bronzong]<br>Lv. 56   | ![][224]<br>[Octillery]<br>Lv. 56 | ![][065]<br>[Alakazam]<br>Lv. 56  | ![][464]<br>[Rhyperior]<br>Lv. 56 | ![][467]<br>[Magmortar]<br>Lv. 56 | ![][454]<br>[Toxicroak]<br>Lv. 57
 
 ## Galactic Boss Cyrus
 

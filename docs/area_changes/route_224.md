@@ -17,29 +17,23 @@ Ace Trainer Jamie                          | ![][134]<br>[Vaporeon]<br>Lv. 67<ul
     === "Grass"
         Trainer                            | 1                                | 2                                 | 3                                | 4                                  | 5                               | 6
         ---                                | ---                              | ---                               | ---                              | ---                                | ---                             | ---
-        [PKMN Trainer Lucas]<br>![][lucas] | ![][065]<br>[Alakazam]<br>Lv. 69 | ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][210]<br>[Granbull]<br>Lv. 69 | ![][463]<br>[Lickilicky]<br>Lv. 69 | ![][136]<br>[Flareon]<br>Lv. 69 | ![][395]<br>[Empoleon]<br>Lv. 70
     === "Fire"
         Trainer                            | 1                                | 2                                 | 3                                | 4                                  | 5                                | 6
         ---                                | ---                              | ---                               | ---                              | ---                                | ---                              | ---
-        [PKMN Trainer Lucas]<br>![][lucas] | ![][065]<br>[Alakazam]<br>Lv. 69 | ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][210]<br>[Granbull]<br>Lv. 69 | ![][463]<br>[Lickilicky]<br>Lv. 69 | ![][134]<br>[Vaporeon]<br>Lv. 69 | ![][389]<br>[Torterra]<br>Lv. 70
     === "Water"
         Trainer                            | 1                                | 2                                 | 3                                | 4                                  | 5                               | 6
         ---                                | ---                              | ---                               | ---                              | ---                                | ---                             | ---
-        [PKMN Trainer Lucas]<br>![][lucas] | ![][065]<br>[Alakazam]<br>Lv. 69 | ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][210]<br>[Granbull]<br>Lv. 69 | ![][463]<br>[Lickilicky]<br>Lv. 69 | ![][135]<br>[Jolteon]<br>Lv. 69 | ![][392]<br>[Infernape]<br>Lv. 70
 
 === "Dawn"
     === "Grass"
         Trainer                          | 1                                | 2                                 | 3                                | 4                               | 5                               | 6
         ---                              | ---                              | ---                               | ---                              | ---                             | ---                             | ---
-        [PKMN Trainer Dawn]<br>![][dawn] | ![][065]<br>[Alakazam]<br>Lv. 69 | ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][036]<br>[Clefable]<br>Lv. 69 | ![][428]<br>[Lopunny]<br>Lv. 69 | ![][136]<br>[Flareon]<br>Lv. 69 | ![][395]<br>[Empoleon]<br>Lv. 70
     === "Fire"
         Trainer                          | 1                                | 2                                 | 3                                | 4                               | 5                                | 6
         ---                              | ---                              | ---                               | ---                              | ---                             | ---                              | ---
-        [PKMN Trainer Dawn]<br>![][dawn] | ![][065]<br>[Alakazam]<br>Lv. 69 | ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][036]<br>[Clefable]<br>Lv. 69 | ![][428]<br>[Lopunny]<br>Lv. 69 | ![][134]<br>[Vaporeon]<br>Lv. 69 | ![][389]<br>[Torterra]<br>Lv. 70
     === "Water"
         Trainer                          | 1                                | 2                                 | 3                                | 4                               | 5                               | 6
         ---                              | ---                              | ---                               | ---                              | ---                             | ---                             | ---
-        [PKMN Trainer Dawn]<br>![][dawn] | ![][065]<br>[Alakazam]<br>Lv. 69 | ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][036]<br>[Clefable]<br>Lv. 69 | ![][428]<br>[Lopunny]<br>Lv. 69 | ![][135]<br>[Jolteon]<br>Lv. 69 | ![][392]<br>[Infernape]<br>Lv. 70
 
 ### PKMN Trainer Dawn
 

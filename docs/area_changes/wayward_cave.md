@@ -4,7 +4,6 @@
 
 Trainer                          | 1                                | 2                                 | 3                                | 4
 ---                              | ---                              | ---                               | ---                              | ---
-[PKMN Trainer Mira]<br>![][mira] | ![][176]<br>[Togetic]<br>Lv. 27  | ![][093]<br>[Haunter]<br>Lv. 27   | ![][233]<br>[Porygon2]<br>Lv. 27 | ![][064]<br>[Kadabra]<br>Lv. 28
 Hiker Reginald                   | ![][051]<br>[Dugtrio]<br>Lv. 26<ul><li>Dig</li><li>Sucker Punch</li><li>Mud Bomb</li><li>Tri Attack</li></ul> | &nbsp;                            | &nbsp;                           | &nbsp;
 Hiker Lorenzo                    | ![][111]<br>[Rhyhorn]<br>Lv. 25<ul><li>Rock Blast</li><li>Magnitude</li><li>Take Down</li><li>Drill Run</li></ul> | ![][185]<br>[Sudowoodo]<br>Lv. 25<ul><li>Mimic</li><li>Slam</li><li>Feint Attack</li><li>Rollout</li></ul> | &nbsp;                           | &nbsp;
 Lass Cassidy                     | ![][300]<br>[Skitty]<br>Lv. 24<ul><li>Covet</li><li>Copycat</li><li>Feint Attack</li><li>Wake-Up Slap</li></ul> | ![][052]<br>[Meowth]<br>Lv. 24<ul><li>Pay Day</li><li>Feint Attack</li><li>Slash</li><li>Night Slash</li></ul> | ![][133]<br>[Eevee]<br>Lv. 24<ul><li>Baton Pass</li><li>Swift</li><li>Refresh</li><li>Wish</li></ul> | &nbsp;

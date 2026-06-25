@@ -4,8 +4,6 @@
 
 Trainer                             | 1                                | 2                               | 3                                | 4                                  | 5                                  | 6
 ---                                 | ---                              | ---                             | ---                              | ---                                | ---                                | ---
-[Commander Mars]<br>![][mars]       | ![][169]<br>[Crobat]<br>Lv. 77   | ![][469]<br>[Yanmega]<br>Lv. 77 | ![][437]<br>[Bronzong]<br>Lv. 77 | ![][466]<br>[Electivire]<br>Lv. 77 | ![][115]<br>[Kangaskhan]<br>Lv. 77 | ![][432]<br>[Purugly]<br>Lv. 78
-[Commander Jupiter]<br>![][jupiter] | ![][437]<br>[Bronzong]<br>Lv. 77 | ![][302]<br>[Sableye]<br>Lv. 77 | ![][169]<br>[Crobat]<br>Lv. 77   | ![][465]<br>[Tangrowth]<br>Lv. 77  | ![][423]<br>[Gastrodon]<br>Lv. 77  | ![][435]<br>[Skuntank]<br>Lv. 78
 
 ### Commander Mars
 
