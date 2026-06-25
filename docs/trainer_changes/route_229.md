@@ -17,12 +17,8 @@ Ace Trainer Sandra                 | ![][051]<br>[Dugtrio]<br>Lv. 74   | ![][026
 !!! note
     This trainer needs to be beaten to advance into Stark Mountain
 
-![][ace_m_2] | ![][234]<br>[Stantler]<br>Lv. 76 | ![][085]<br>[Dodrio]<br>Lv. 76 | ![][203]<br>[Girafarig]<br>Lv. 76 | ![][400]<br>[Bibarel]<br>Lv. 76 | ![][474]<br>[Porygon-Z]<br>Lv. 76 | ![][143]<br>[Snorlax]<br>Lv. 77
+![][ace_m_2] | ![][234]<br>[Stantler]<br>Lv. 76<br>![][choice-scarf]<br>Choice Scarf<br>? / Intimidate<hr><ul><li>Double-Edge</li><li>Jump Kick</li><li>Megahorn</li><li>Zen Headbutt</li></ul> | ![][085]<br>[Dodrio]<br>Lv. 76<br>![][muscle-band]<br>Muscle Band<br>? / Tangled Feet<hr><ul><li>Double-Edge</li><li>Brave Bird</li><li>High Jump Kick</li><li>Drill Run</li></ul> | ![][203]<br>[Girafarig]<br>Lv. 76<br>![][wise-glasses]<br>Wise Glasses<br>? / Inner Focus<hr><ul><li>Hyper Voice</li><li>Psychic</li><li>Thunderbolt</li><li>Dazzling Gleam</li></ul> | ![][400]<br>[Bibarel]<br>Lv. 76<br>![][chople-berry]<br>Chople Berry<br>? / Simple<hr><ul><li>Double-Edge</li><li>Aqua Tail</li><li>Crunch</li><li>Curse</li></ul> | ![][474]<br>[Porygon-Z]<br>Lv. 76<br>![][life-orb]<br>Life Orb<br>? / Adaptability<hr><ul><li>Hyper Beam</li><li>Thunderbolt</li><li>Ice Beam</li><li>Psychic</li></ul> | ![][143]<br>[Snorlax]<br>Lv. 77<br>![][leftovers]<br>Leftovers<br>? / Thick Fat<hr><ul><li>Body Slam</li><li>Earthquake</li><li>Curse</li><li>Slack Off</li></ul>
 --- | --- | --- | --- | --- | --- | ---
-**Item** | ![][choice-scarf]<br>Choice Scarf | ![][muscle-band]<br>Muscle Band | ![][wise-glasses]<br>Wise Glasses | ![][chople-berry]<br>Chople Berry | ![][life-orb]<br>Life Orb | ![][leftovers]<br>Leftovers
-**Nature** | ? | ? | ? | ? | ? | ?
-**Ability** | Intimidate | Tangled Feet | Inner Focus | Simple | Adaptability | Thick Fat
-**Moves** | <ul><li>Double-Edge</li><li>Jump Kick</li><li>Megahorn</li><li>Zen Headbutt</li></ul> | <ul><li>Double-Edge</li><li>Brave Bird</li><li>High Jump Kick</li><li>Drill Run</li></ul> | <ul><li>Hyper Voice</li><li>Psychic</li><li>Thunderbolt</li><li>Dazzling Gleam</li></ul> | <ul><li>Double-Edge</li><li>Aqua Tail</li><li>Crunch</li><li>Curse</li></ul> | <ul><li>Hyper Beam</li><li>Thunderbolt</li><li>Ice Beam</li><li>Psychic</li></ul> | <ul><li>Body Slam</li><li>Earthquake</li><li>Curse</li><li>Slack Off</li></ul>
 
 --8<-- "includes/abilities.md"
 

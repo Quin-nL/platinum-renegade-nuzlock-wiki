@@ -15,12 +15,8 @@ Belle & Pa Beth & Bob   | ![][077]<br>[Ponyta]<br>Lv. 33   | ![][180]<br>[Flaaff
 
 ## Master Trainer
 
-Psychic ???<br>![][psychic_m] | ![][094]<br>[Gengar]<br>Lv. 85
+Psychic ???<br>![][psychic_m] | ![][094]<br>[Gengar]<br>Lv. 85<br>None<br>? / ?<hr><ul><li>Shadow Ball</li><li>Hypnosis</li><li>Luster Purge</li><li>-</li></ul>
 --- | ---
-**Item** | None
-**Nature** | ?
-**Ability** | ?
-**Moves** | <ul><li>Shadow Ball</li><li>Hypnosis</li><li>Luster Purge</li><li>-</li></ul>
 
 --8<-- "includes/abilities.md"
 

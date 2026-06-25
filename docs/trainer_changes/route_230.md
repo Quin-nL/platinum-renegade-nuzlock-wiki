@@ -19,12 +19,8 @@ Swimmer Mallory                       | ![][284]<br>[Masquerain]<br>Lv. 73 | ![]
 !!! note
     This trainer needs to be beaten to advance into Stark Mountain
 
-![][ace_f_2] | ![][040]<br>[Wigglytuff]<br>Lv. 76 | ![][036]<br>[Clefable]<br>Lv. 76 | ![][184]<br>[Azumarill]<br>Lv. 76 | ![][210]<br>[Granbull]<br>Lv. 76 | ![][303]<br>[Mawile]<br>Lv. 76 | ![][282]<br>[Gardevoir]<br>Lv. 77
+![][ace_f_2] | ![][040]<br>[Wigglytuff]<br>Lv. 76<br>![][expert-belt]<br>Expert Belt<br>? / Cute Charm<hr><ul><li>Moonblast</li><li>Thunderbolt</li><li>Ice Beam</li><li>Flamethrower</li></ul> | ![][036]<br>[Clefable]<br>Lv. 76<br>![][leftovers]<br>Leftovers<br>? / Cute Charm<hr><ul><li>Moonblast</li><li>Soft-Boiled</li><li>Focus Blast</li><li>Reflect</li></ul> | ![][184]<br>[Azumarill]<br>Lv. 76<br>![][white-herb]<br>White Herb<br>? / Huge Power<hr><ul><li>Play Rough</li><li>Aqua Tail</li><li>Superpower</li><li>Aqua Jet</li></ul> | ![][210]<br>[Granbull]<br>Lv. 76<br>![][muscle-band]<br>Muscle Band<br>? / Intimidate<hr><ul><li>Play Rough</li><li>Close Combat</li><li>Crunch</li><li>Lovely Kiss</li></ul> | ![][303]<br>[Mawile]<br>Lv. 76<br>![][focus-sash]<br>Focus Sash<br>? / Huge Power [^1]<hr><ul><li>Play Rough</li><li>Iron Head</li><li>Sucker Punch</li><li>Swords Dance</li></ul> | ![][282]<br>[Gardevoir]<br>Lv. 77<br>![][life-orb]<br>Life Orb<br>? / Synchronize<hr><ul><li>Moonblast</li><li>Psychic</li><li>Thunderbolt</li><li>Aura Sphere</li></ul>
 --- | --- | --- | --- | --- | --- | ---
-**Item** | ![][expert-belt]<br>Expert Belt | ![][leftovers]<br>Leftovers | ![][white-herb]<br>White Herb | ![][muscle-band]<br>Muscle Band | ![][focus-sash]<br>Focus Sash | ![][life-orb]<br>Life Orb
-**Nature** | ? | ? | ? | ? | ? | ?
-**Ability** | Cute Charm | Cute Charm | Huge Power | Intimidate | Huge Power [^1] | Synchronize
-**Moves** | <ul><li>Moonblast</li><li>Thunderbolt</li><li>Ice Beam</li><li>Flamethrower</li></ul> | <ul><li>Moonblast</li><li>Soft-Boiled</li><li>Focus Blast</li><li>Reflect</li></ul> | <ul><li>Play Rough</li><li>Aqua Tail</li><li>Superpower</li><li>Aqua Jet</li></ul> | <ul><li>Play Rough</li><li>Close Combat</li><li>Crunch</li><li>Lovely Kiss</li></ul> | <ul><li>Play Rough</li><li>Iron Head</li><li>Sucker Punch</li><li>Swords Dance</li></ul> | <ul><li>Moonblast</li><li>Psychic</li><li>Thunderbolt</li><li>Aura Sphere</li></ul>
 
 ## Rematches
 

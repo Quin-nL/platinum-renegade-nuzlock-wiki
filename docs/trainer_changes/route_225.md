@@ -21,12 +21,8 @@ Ace Trainer Quinn                            | ![][127]<br>[Pinsir]<br>Lv. 73   
 !!! note
     This trainer needs to be beaten to advance into Stark Mountain
 
-![][ace_f_2] | ![][279]<br>[Pelipper]<br>Lv. 76 | ![][468]<br>[Togekiss]<br>Lv. 76 | ![][142]<br>[Aerodactyl]<br>Lv. 76 | ![][018]<br>[Pidgeot]<br>Lv. 76 | ![][357]<br>[Tropius]<br>Lv. 76 | ![][149]<br>[Dragonite]<br>Lv. 77
+![][ace_f_2] | ![][279]<br>[Pelipper]<br>Lv. 76<br>![][focus-sash]<br>Focus Sash<br>? / Drizzle<hr><ul><li>Hydro Pump</li><li>Hurricane</li><li>Ice Beam</li><li>Tailwind</li></ul> | ![][468]<br>[Togekiss]<br>Lv. 76<br>![][expert-belt]<br>Expert Belt<br>? / Serene Grace<hr><ul><li>Hurricane</li><li>Moonblast</li><li>Shadow Ball</li><li>Roost</li></ul> | ![][142]<br>[Aerodactyl]<br>Lv. 76<br>![][life-orb]<br>Life Orb<br>? / Rock Head<hr><ul><li>Brave Bird</li><li>Stone Edge</li><li>Crunch</li><li>Earthquake</li></ul> | ![][018]<br>[Pidgeot]<br>Lv. 76<br>![][wise-glasses]<br>Wise Glasses<br>? / No Guard [^1]<hr><ul><li>Hurricane</li><li>Hyper Beam</li><li>Heat Wave</li><li>Tailwind</li></ul> | ![][357]<br>[Tropius]<br>Lv. 76<br>![][leftovers]<br>Leftovers<br>? / Chlorophyll<hr><ul><li>Hurricane</li><li>Energy Ball</li><li>Dragon Pulse</li><li>Roost</li></ul> | ![][149]<br>[Dragonite]<br>Lv. 77<br>![][white-herb]<br>White Herb<br>? / Marvel Scale [^1]<hr><ul><li>Hurricane</li><li>Draco Meteor</li><li>Thunder</li><li>Ice Beam</li></ul>
 --- | --- | --- | --- | --- | --- | ---
-**Item** | ![][focus-sash]<br>Focus Sash | ![][expert-belt]<br>Expert Belt | ![][life-orb]<br>Life Orb | ![][wise-glasses]<br>Wise Glasses | ![][leftovers]<br>Leftovers | ![][white-herb]<br>White Herb
-**Nature** | ? | ? | ? | ? | ? | ?
-**Ability** | Drizzle | Serene Grace | Rock Head | No Guard [^1] | Chlorophyll | Marvel Scale [^1]
-**Moves** | <ul><li>Hydro Pump</li><li>Hurricane</li><li>Ice Beam</li><li>Tailwind</li></ul> | <ul><li>Hurricane</li><li>Moonblast</li><li>Shadow Ball</li><li>Roost</li></ul> | <ul><li>Brave Bird</li><li>Stone Edge</li><li>Crunch</li><li>Earthquake</li></ul> | <ul><li>Hurricane</li><li>Hyper Beam</li><li>Heat Wave</li><li>Tailwind</li></ul> | <ul><li>Hurricane</li><li>Energy Ball</li><li>Dragon Pulse</li><li>Roost</li></ul> | <ul><li>Hurricane</li><li>Draco Meteor</li><li>Thunder</li><li>Ice Beam</li></ul>
 
 ## Rematches
 

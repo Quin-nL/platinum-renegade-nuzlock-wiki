@@ -8,12 +8,8 @@ Reporter Helen                       | ![][252]<br>[Treecko]<br>Lv. 10  | ![][25
 
 ## PKMN Trainer Steven
 
-![][steven] | ![][227]<br>[Skarmory]<br>Lv. 88 | ![][306]<br>[Aggron]<br>Lv. 88 | ![][142]<br>[Aerodactyl]<br>Lv. 88 | ![][346]<br>[Cradily]<br>Lv. 88 | ![][348]<br>[Armaldo]<br>Lv. 88 | ![][376]<br>[Metagross]<br>Lv. 89
+![][steven] | ![][227]<br>[Skarmory]<br>Lv. 88<br>![][occa-berry]<br>Occa Berry<br>? / Keen Eye<hr><ul><li>Brave Bird</li><li>Iron Head</li><li>Drill Run</li><li>Stealth Rock</li></ul> | ![][306]<br>[Aggron]<br>Lv. 88<br>![][focus-sash]<br>Focus Sash<br>? / Rock Head<hr><ul><li>Head Smash</li><li>Aqua Tail</li><li>Iron Tail</li><li>Thunder Wave</li></ul> | ![][142]<br>[Aerodactyl]<br>Lv. 88<br>![][muscle-band]<br>Muscle Band<br>? / Rock Head<hr><ul><li>Brave Bird</li><li>Stone Edge</li><li>Crunch</li><li>Fire Fang</li></ul> | ![][346]<br>[Cradily]<br>Lv. 88<br>![][leftovers]<br>Leftovers<br>? / Suction Cups<hr><ul><li>Power Whip</li><li>Rock Slide</li><li>Toxic</li><li>Recover</li></ul> | ![][348]<br>[Armaldo]<br>Lv. 88<br>![][passho-berry]<br>Passho Berry<br>? / Battle Armor<hr><ul><li>Stone Edge</li><li>X-Scissor</li><li>Swords Dance</li><li>Aqua Jet</li></ul> | ![][376]<br>[Metagross]<br>Lv. 89<br>![][life-orb]<br>Life Orb<br>? / Iron Fist<hr><ul><li>Meteor Mash</li><li>Zen Headbutt</li><li>Earthquake</li><li>Ice Punch</li></ul>
 --- | --- | --- | --- | --- | --- | ---
-**Item** | ![][occa-berry]<br>Occa Berry | ![][focus-sash]<br>Focus Sash | ![][muscle-band]<br>Muscle Band | ![][leftovers]<br>Leftovers | ![][passho-berry]<br>Passho Berry | ![][life-orb]<br>Life Orb
-**Nature** | ? | ? | ? | ? | ? | ?
-**Ability** | Keen Eye | Rock Head | Rock Head | Suction Cups | Battle Armor | Iron Fist
-**Moves** | <ul><li>Brave Bird</li><li>Iron Head</li><li>Drill Run</li><li>Stealth Rock</li></ul> | <ul><li>Head Smash</li><li>Aqua Tail</li><li>Iron Tail</li><li>Thunder Wave</li></ul> | <ul><li>Brave Bird</li><li>Stone Edge</li><li>Crunch</li><li>Fire Fang</li></ul> | <ul><li>Power Whip</li><li>Rock Slide</li><li>Toxic</li><li>Recover</li></ul> | <ul><li>Stone Edge</li><li>X-Scissor</li><li>Swords Dance</li><li>Aqua Jet</li></ul> | <ul><li>Meteor Mash</li><li>Zen Headbutt</li><li>Earthquake</li><li>Ice Punch</li></ul>
 
 --8<-- "includes/abilities.md"
 

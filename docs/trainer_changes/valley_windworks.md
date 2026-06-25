@@ -13,12 +13,8 @@ Galactic Grunt                | ![][014]<br>[Kakuna]<br>Lv. 14    | ![][204]<br>
 
 ## Commander Mars
 
-![][mars] | ![][041]<br>[Zubat]<br>Lv. 18 | ![][436]<br>[Bronzor]<br>Lv. 18 | ![][193]<br>[Yanma]<br>Lv. 18 | ![][432]<br>[Purugly]<br>Lv. 19
+![][mars] | ![][041]<br>[Zubat]<br>Lv. 18<br>None<br>Naive / Inner Focus<hr><ul><li>Poison Fang</li><li>Wing Attack</li><li>Toxic</li><li>Confuse Ray</li></ul> | ![][436]<br>[Bronzor]<br>Lv. 18<br>![][sitrus-berry]<br>Sitrus Berry<br>Brave / Levitate<hr><ul><li>Hypnosis</li><li>Extrasensory</li><li>Gyro Ball</li><li>Confuse Ray</li></ul> | ![][193]<br>[Yanma]<br>Lv. 18<br>None<br>Timid / Speed Boost<hr><ul><li>Silver Wind</li><li>Air Cutter</li><li>Detect</li><li>Sonic Boom</li></ul> | ![][432]<br>[Purugly]<br>Lv. 19<br>![][sitrus-berry]<br>Sitrus Berry<br>Jolly / Thick Fat<hr><ul><li>Fake Out</li><li>Hypnosis</li><li>Facade</li><li>Feint Attack</li></ul>
 --- | --- | --- | --- | ---
-**Item** | None | ![][sitrus-berry]<br>Sitrus Berry | None | ![][sitrus-berry]<br>Sitrus Berry
-**Nature** | Naive | Brave | Timid | Jolly
-**Ability** | Inner Focus | Levitate | Speed Boost | Thick Fat
-**Moves** | <ul><li>Poison Fang</li><li>Wing Attack</li><li>Toxic</li><li>Confuse Ray</li></ul> | <ul><li>Hypnosis</li><li>Extrasensory</li><li>Gyro Ball</li><li>Confuse Ray</li></ul> | <ul><li>Silver Wind</li><li>Air Cutter</li><li>Detect</li><li>Sonic Boom</li></ul> | <ul><li>Fake Out</li><li>Hypnosis</li><li>Facade</li><li>Feint Attack</li></ul>
 
 --8<-- "includes/abilities.md"
 

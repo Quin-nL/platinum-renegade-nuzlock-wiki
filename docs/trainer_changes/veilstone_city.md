@@ -9,12 +9,8 @@ Team Galactic Grunt | ![][435]<br>[Skuntank]<br>Lv. 35  | ![][269]<br>[Dustox]<b
 
 ## Master Trainer
 
-Black Belt Randy<br>![][blackbelt] | ![][475]<br>[Gallade]<br>Lv. 85
+Black Belt Randy<br>![][blackbelt] | ![][475]<br>[Gallade]<br>Lv. 85<br>None<br>? / ?<hr><ul><li>Zen Headbut</li><li>Close Combat</li><li>Thunder Wave</li><li>Confuse Ray</li></ul>
 --- | ---
-**Item** | None
-**Nature** | ?
-**Ability** | ?
-**Moves** | <ul><li>Zen Headbut</li><li>Close Combat</li><li>Thunder Wave</li><li>Confuse Ray</li></ul>
 
 --8<-- "includes/abilities.md"
 

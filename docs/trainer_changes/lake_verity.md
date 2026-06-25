@@ -14,12 +14,8 @@ Galactic Grunt                | ![][030]<br>[Nidorina]<br>Lv. 49  | ![][042]<br>
 
 ## Commander Mars
 
-![][mars] | ![][169]<br>[Crobat]<br>Lv. 52 | ![][469]<br>[Yanmega]<br>Lv. 52 | ![][437]<br>[Bronzong]<br>Lv. 52 | ![][115]<br>[Kangaskhan]<br>Lv. 52 | ![][432]<br>[Purugly]<br>Lv. 53
+![][mars] | ![][169]<br>[Crobat]<br>Lv. 52<br>![][bright-powder]<br>Bright Powder<br>? / Inner Focus<hr><ul><li>Brave Bird</li><li>Hypnosis</li><li>Double Team</li><li>Giga Drain</li></ul> | ![][469]<br>[Yanmega]<br>Lv. 52<br>![][wise-glasses]<br>Wise Glasses<br>? / Speed Boost<hr><ul><li>Bug Buzz</li><li>Air Slash</li><li>Psychic</li><li>Detect</li></ul> | ![][437]<br>[Bronzong]<br>Lv. 52<br>![][leftovers]<br>Leftovers<br>? / Levitate<hr><ul><li>Stealth Rock</li><li>Gyro Ball</li><li>Payback</li><li>Explosion</li></ul> | ![][115]<br>[Kangaskhan]<br>Lv. 52<br>![][muscle-band]<br>Muscle Band<br>? / Scrappy<hr><ul><li>Double-Edge</li><li>Hammer Arm</li><li>Crunch</li><li>Fake Out</li></ul> | ![][432]<br>[Purugly]<br>Lv. 53<br>![][sitrus-berry]<br>Sitrus Berry<br>? / Thick Fat<hr><ul><li>Body Slam</li><li>Play Rough</li><li>Hypnosis</li><li>Fake Out</li></ul>
 --- | --- | --- | --- | --- | ---
-**Item** | ![][bright-powder]<br>Bright Powder | ![][wise-glasses]<br>Wise Glasses | ![][leftovers]<br>Leftovers | ![][muscle-band]<br>Muscle Band | ![][sitrus-berry]<br>Sitrus Berry
-**Nature** | ? | ? | ? | ? | ?
-**Ability** | Inner Focus | Speed Boost | Levitate | Scrappy | Thick Fat
-**Moves** | <ul><li>Brave Bird</li><li>Hypnosis</li><li>Double Team</li><li>Giga Drain</li></ul> | <ul><li>Bug Buzz</li><li>Air Slash</li><li>Psychic</li><li>Detect</li></ul> | <ul><li>Stealth Rock</li><li>Gyro Ball</li><li>Payback</li><li>Explosion</li></ul> | <ul><li>Double-Edge</li><li>Hammer Arm</li><li>Crunch</li><li>Fake Out</li></ul> | <ul><li>Body Slam</li><li>Play Rough</li><li>Hypnosis</li><li>Fake Out</li></ul>
 
 --8<-- "includes/abilities.md"
 

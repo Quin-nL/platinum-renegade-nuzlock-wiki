@@ -16,12 +16,8 @@ Ruin Maniac Gerald               | ![][104]<br>[Cubone]<br>Lv. 25   | ![][476]<b
 
 ## PKMN Trainer Mira
 
-![][mira] | ![][176]<br>[Togetic]<br>Lv. 27 | ![][093]<br>[Haunter]<br>Lv. 27 | ![][233]<br>[Porygon2]<br>Lv. 27 | ![][064]<br>[Kadabra]<br>Lv. 28
+![][mira] | ![][176]<br>[Togetic]<br>Lv. 27<br>![][sitrus-berry]<br>Sitrus Berry<br>Modest / Serene Grace<hr><ul><li>Dazzling Gleam</li><li>Air Cutter</li><li>Soft-Boiled</li><li>Sweet Kiss</li></ul> | ![][093]<br>[Haunter]<br>Lv. 27<br>![][spell-tag]<br>Spell Tag<br>Hasty / Levitate<hr><ul><li>Shadow Ball</li><li>Double Team</li><li>Hypnosis</li><li>Curse</li></ul> | ![][233]<br>[Porygon2]<br>Lv. 27<br>![][expert-belt]<br>Expert Belt<br>Calm / Trace<hr><ul><li>Tri Attack</li><li>Charge Beam</li><li>Signal Beam</li><li>Recover</li></ul> | ![][064]<br>[Kadabra]<br>Lv. 28<br>![][life-orb]<br>Life Orb<br>Modest / Magic Guard<hr><ul><li>Psybeam</li><li>Grass Knot</li><li>Dazzling Gleam</li><li>Recover</li></ul>
 --- | --- | --- | --- | ---
-**Item** | ![][sitrus-berry]<br>Sitrus Berry | ![][spell-tag]<br>Spell Tag | ![][expert-belt]<br>Expert Belt | ![][life-orb]<br>Life Orb
-**Nature** | Modest | Hasty | Calm | Modest
-**Ability** | Serene Grace | Levitate | Trace | Magic Guard
-**Moves** | <ul><li>Dazzling Gleam</li><li>Air Cutter</li><li>Soft-Boiled</li><li>Sweet Kiss</li></ul> | <ul><li>Shadow Ball</li><li>Double Team</li><li>Hypnosis</li><li>Curse</li></ul> | <ul><li>Tri Attack</li><li>Charge Beam</li><li>Signal Beam</li><li>Recover</li></ul> | <ul><li>Psybeam</li><li>Grass Knot</li><li>Dazzling Gleam</li><li>Recover</li></ul>
 
 --8<-- "includes/abilities.md"
 

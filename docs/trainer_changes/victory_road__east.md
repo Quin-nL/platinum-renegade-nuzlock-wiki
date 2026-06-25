@@ -20,12 +20,8 @@ Ace Trainer Clarice                  | ![][317]<br>[Swalot]<br>Lv. 64     | ![][
 
 ## PKMN Trainer Marley
 
-![][marley] | ![][121]<br>[Starmie]<br>Lv. 65 | ![][101]<br>[Electrode]<br>Lv. 65 | ![][254]<br>[Sceptile]<br>Lv. 65 | ![][169]<br>[Crobat]<br>Lv. 65 | ![][461]<br>[Weavile]<br>Lv. 65 | ![][059]<br>[Arcanine]<br>Lv. 66
+![][marley] | ![][121]<br>[Starmie]<br>Lv. 65<br>![][expert-belt]<br>Expert Belt<br>? / Illuminate<hr><ul><li>Hydro Pump</li><li>Blizzard</li><li>Thunder</li><li>Psychic</li></ul> | ![][101]<br>[Electrode]<br>Lv. 65<br>![][light-clay]<br>Light Clay<br>? / Soundproof<hr><ul><li>Thunderbolt</li><li>Thunder Wave</li><li>Light Screen</li><li>Explosion</li></ul> | ![][254]<br>[Sceptile]<br>Lv. 65<br>![][petaya-berry]<br>Petaya Berry<br>? / Unburden<hr><ul><li>Energy Ball</li><li>Dragon Pulse</li><li>Focus Blast</li><li>Endure</li></ul> | ![][169]<br>[Crobat]<br>Lv. 65<br>![][bright-powder]<br>Bright Powder<br>? / Inner Focus<hr><ul><li>Brave Bird</li><li>Cross Poison</li><li>Hypnosis</li><li>Roost</li></ul> | ![][461]<br>[Weavile]<br>Lv. 65<br>![][life-orb]<br>Life Orb<br>? / Technician<hr><ul><li>Crunch</li><li>Icicle Crash</li><li>Aerial Ace</li><li>Low Kick</li></ul> | ![][059]<br>[Arcanine]<br>Lv. 66<br>![][sitrus-berry]<br>Sitrus Berry<br>? / Intimidate<hr><ul><li>Flare Blitz</li><li>Close Combat</li><li>Crunch</li><li>Extreme Speed</li></ul>
 --- | --- | --- | --- | --- | --- | ---
-**Item** | ![][expert-belt]<br>Expert Belt | ![][light-clay]<br>Light Clay | ![][petaya-berry]<br>Petaya Berry | ![][bright-powder]<br>Bright Powder | ![][life-orb]<br>Life Orb | ![][sitrus-berry]<br>Sitrus Berry
-**Nature** | ? | ? | ? | ? | ? | ?
-**Ability** | Illuminate | Soundproof | Unburden | Inner Focus | Technician | Intimidate
-**Moves** | <ul><li>Hydro Pump</li><li>Blizzard</li><li>Thunder</li><li>Psychic</li></ul> | <ul><li>Thunderbolt</li><li>Thunder Wave</li><li>Light Screen</li><li>Explosion</li></ul> | <ul><li>Energy Ball</li><li>Dragon Pulse</li><li>Focus Blast</li><li>Endure</li></ul> | <ul><li>Brave Bird</li><li>Cross Poison</li><li>Hypnosis</li><li>Roost</li></ul> | <ul><li>Crunch</li><li>Icicle Crash</li><li>Aerial Ace</li><li>Low Kick</li></ul> | <ul><li>Flare Blitz</li><li>Close Combat</li><li>Crunch</li><li>Extreme Speed</li></ul>
 
 --8<-- "includes/abilities.md"
 

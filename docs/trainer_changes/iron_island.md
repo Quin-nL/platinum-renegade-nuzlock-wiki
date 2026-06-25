@@ -20,21 +20,13 @@ Galactic Grunt                     | ![][432]<br>[Purugly]<br>Lv. 46    | ![][45
 
 ## PKMN Trainer Riley
 
-![][riley] | ![][359]<br>[Absol]<br>Lv. 49 | ![][217]<br>[Ursaring]<br>Lv. 49 | ![][376]<br>[Metagross]<br>Lv. 49 | ![][373]<br>[Salamence]<br>Lv. 49 | ![][289]<br>[Slaking]<br>Lv. 49 | ![][448]<br>[Lucario]<br>Lv. 50
+![][riley] | ![][359]<br>[Absol]<br>Lv. 49<br>![][scope-lens]<br>Scope Lens<br>? / Super Luck<hr><ul><li>Night Slash</li><li>Psycho Cut</li><li>Megahorn</li><li>Play Rough</li></ul> | ![][217]<br>[Ursaring]<br>Lv. 49<br>![][flame-orb]<br>Flame Orb<br>? / Guts<hr><ul><li>Strength</li><li>Close Combat</li><li>Play Rough</li><li>Protect</li></ul> | ![][376]<br>[Metagross]<br>Lv. 49<br>![][liechi-berry]<br>Liechi Berry<br>? / Clear Body<hr><ul><li>Meteor Mash</li><li>Earthquake</li><li>Zen Headbutt</li><li>Agility</li></ul> | ![][373]<br>[Salamence]<br>Lv. 49<br>![][power-herb]<br>Power Herb<br>? / Intimidate<hr><ul><li>Dragon Rush</li><li>Fly</li><li>Crunch</li><li>Dragon Dance</li></ul> | ![][289]<br>[Slaking]<br>Lv. 49<br>![][sitrus-berry]<br>Sitrus Berry<br>? / Truant<hr><ul><li>Body Slam</li><li>Hammer Arm</li><li>Play Rough</li><li>Slack Off</li></ul> | ![][448]<br>[Lucario]<br>Lv. 50<br>![][life-orb]<br>Life Orb<br>? / Adaptability<hr><ul><li>High Jump Kick</li><li>Meteor Mash</li><li>Blaze Kick</li><li>Bullet Punch</li></ul>
 --- | --- | --- | --- | --- | --- | ---
-**Item** | ![][scope-lens]<br>Scope Lens | ![][flame-orb]<br>Flame Orb | ![][liechi-berry]<br>Liechi Berry | ![][power-herb]<br>Power Herb | ![][sitrus-berry]<br>Sitrus Berry | ![][life-orb]<br>Life Orb
-**Nature** | ? | ? | ? | ? | ? | ?
-**Ability** | Super Luck | Guts | Clear Body | Intimidate | Truant | Adaptability
-**Moves** | <ul><li>Night Slash</li><li>Psycho Cut</li><li>Megahorn</li><li>Play Rough</li></ul> | <ul><li>Strength</li><li>Close Combat</li><li>Play Rough</li><li>Protect</li></ul> | <ul><li>Meteor Mash</li><li>Earthquake</li><li>Zen Headbutt</li><li>Agility</li></ul> | <ul><li>Dragon Rush</li><li>Fly</li><li>Crunch</li><li>Dragon Dance</li></ul> | <ul><li>Body Slam</li><li>Hammer Arm</li><li>Play Rough</li><li>Slack Off</li></ul> | <ul><li>High Jump Kick</li><li>Meteor Mash</li><li>Blaze Kick</li><li>Bullet Punch</li></ul>
 
 ## Master Trainer
 
-Scientist Julian<br>![][scientist] | ![][448]<br>[Lucario]<br>Lv. 85
+Scientist Julian<br>![][scientist] | ![][448]<br>[Lucario]<br>Lv. 85<br>None<br>? / ?<hr><ul><li>Close Combat</li><li>Blaze Kick</li><li>Earthquake</li><li>-</li></ul>
 --- | ---
-**Item** | None
-**Nature** | ?
-**Ability** | ?
-**Moves** | <ul><li>Close Combat</li><li>Blaze Kick</li><li>Earthquake</li><li>-</li></ul>
 
 --8<-- "includes/abilities.md"
 

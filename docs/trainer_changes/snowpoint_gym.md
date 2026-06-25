@@ -12,12 +12,8 @@ Ace Trainer Sergio               | ![][220]<br>[Swinub]<br>Lv. 51    | ![][221]<
 
 ## Leader Candice
 
-![][candice] | ![][460]<br>[Abomasnow]<br>Lv. 55 | ![][461]<br>[Weavile]<br>Lv. 55 | ![][471]<br>[Glaceon]<br>Lv. 55 | ![][365]<br>[Walrein]<br>Lv. 55 | ![][473]<br>[Mamoswine]<br>Lv. 55 | ![][478]<br>[Froslass]<br>Lv. 56
+![][candice] | ![][460]<br>[Abomasnow]<br>Lv. 55<br>![][expert-belt]<br>Expert Belt<br>Brave / Snow Warning<hr><ul><li>Wood Hammer</li><li>Earthquake</li><li>Blizzard</li><li>Ice Shard</li></ul> | ![][461]<br>[Weavile]<br>Lv. 55<br>![][focus-sash]<br>Focus Sash<br>Naughty / Technician [^1]<hr><ul><li>Crunch</li><li>Icicle Crash</li><li>Aerial Ace</li><li>Swords Dance</li></ul> | ![][471]<br>[Glaceon]<br>Lv. 55<br>![][bright-powder]<br>Bright Powder<br>Bold / Snow Cloak<hr><ul><li>Blizzard</li><li>Shadow Ball</li><li>Earth Power</li><li>Double Team</li></ul> | ![][365]<br>[Walrein]<br>Lv. 55<br>![][chople-berry]<br>Chople Berry<br>Quiet / Thick Fat<hr><ul><li>Blizzard</li><li>Surf</li><li>Yawn</li><li>Aqua Ring</li></ul> | ![][473]<br>[Mamoswine]<br>Lv. 55<br>![][passho-berry]<br>Passho Berry<br>Naive / Thick Fat<hr><ul><li>Earthquake</li><li>Avalanche</li><li>Stone Edge</li><li>Ice Shard</li></ul> | ![][478]<br>[Froslass]<br>Lv. 56<br>![][life-orb]<br>Life Orb<br>Modest / Levitate [^1]<hr><ul><li>Blizzard</li><li>Shadow Ball</li><li>Thunderbolt</li><li>Attract</li></ul>
 --- | --- | --- | --- | --- | --- | ---
-**Item** | ![][expert-belt]<br>Expert Belt | ![][focus-sash]<br>Focus Sash | ![][bright-powder]<br>Bright Powder | ![][chople-berry]<br>Chople Berry | ![][passho-berry]<br>Passho Berry | ![][life-orb]<br>Life Orb
-**Nature** | Brave | Naughty | Bold | Quiet | Naive | Modest
-**Ability** | Snow Warning | Technician [^1] | Snow Cloak | Thick Fat | Thick Fat | Levitate [^1]
-**Moves** | <ul><li>Wood Hammer</li><li>Earthquake</li><li>Blizzard</li><li>Ice Shard</li></ul> | <ul><li>Crunch</li><li>Icicle Crash</li><li>Aerial Ace</li><li>Swords Dance</li></ul> | <ul><li>Blizzard</li><li>Shadow Ball</li><li>Earth Power</li><li>Double Team</li></ul> | <ul><li>Blizzard</li><li>Surf</li><li>Yawn</li><li>Aqua Ring</li></ul> | <ul><li>Earthquake</li><li>Avalanche</li><li>Stone Edge</li><li>Ice Shard</li></ul> | <ul><li>Blizzard</li><li>Shadow Ball</li><li>Thunderbolt</li><li>Attract</li></ul>
 
 --8<-- "includes/abilities.md"
 

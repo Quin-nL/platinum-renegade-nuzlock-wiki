@@ -33,21 +33,13 @@ Trainer                             | 1                              | 2        
 
 ## Commander Mars
 
-![][mars] | ![][169]<br>[Crobat]<br>Lv. 57 | ![][469]<br>[Yanmega]<br>Lv. 57 | ![][437]<br>[Bronzong]<br>Lv. 57 | ![][466]<br>[Electivire]<br>Lv. 57 | ![][115]<br>[Kangaskhan]<br>Lv. 57 | ![][432]<br>[Purugly]<br>Lv. 58
+![][mars] | ![][169]<br>[Crobat]<br>Lv. 57<br>![][life-orb]<br>Life Orb<br>? / Inner Focus<hr><ul><li>Brave Bird</li><li>Sludge Bomb</li><li>Confuse Ray</li><li>Torment</li></ul> | ![][469]<br>[Yanmega]<br>Lv. 57<br>![][wise-glasses]<br>Wise Glasses<br>? / Speed Boost<hr><ul><li>Bug Buzz</li><li>Hurricane</li><li>Shadow Ball</li><li>Detect</li></ul> | ![][437]<br>[Bronzong]<br>Lv. 57<br>![][leftovers]<br>Leftovers<br>? / Levitate<hr><ul><li>Stealth Rock</li><li>Zen Headbutt</li><li>Gyro Ball</li><li>Earthquake</li></ul> | ![][466]<br>[Electivire]<br>Lv. 57<br>![][expert-belt]<br>Expert Belt<br>? / Motor Drive<hr><ul><li>Thunder Punch</li><li>Ice Punch</li><li>Cross Chop</li><li>Fire Punch</li></ul> | ![][115]<br>[Kangaskhan]<br>Lv. 57<br>![][muscle-band]<br>Muscle Band<br>? / Scrappy<hr><ul><li>Body Slam</li><li>Crunch</li><li>Hammer Arm</li><li>Fake Out</li></ul> | ![][432]<br>[Purugly]<br>Lv. 58<br>![][sitrus-berry]<br>Sitrus Berry<br>? / Thick Fat<hr><ul><li>Body Slam</li><li>Play Rough</li><li>Fake Out</li><li>Hypnosis</li></ul>
 --- | --- | --- | --- | --- | --- | ---
-**Item** | ![][life-orb]<br>Life Orb | ![][wise-glasses]<br>Wise Glasses | ![][leftovers]<br>Leftovers | ![][expert-belt]<br>Expert Belt | ![][muscle-band]<br>Muscle Band | ![][sitrus-berry]<br>Sitrus Berry
-**Nature** | ? | ? | ? | ? | ? | ?
-**Ability** | Inner Focus | Speed Boost | Levitate | Motor Drive | Scrappy | Thick Fat
-**Moves** | <ul><li>Brave Bird</li><li>Sludge Bomb</li><li>Confuse Ray</li><li>Torment</li></ul> | <ul><li>Bug Buzz</li><li>Hurricane</li><li>Shadow Ball</li><li>Detect</li></ul> | <ul><li>Stealth Rock</li><li>Zen Headbutt</li><li>Gyro Ball</li><li>Earthquake</li></ul> | <ul><li>Thunder Punch</li><li>Ice Punch</li><li>Cross Chop</li><li>Fire Punch</li></ul> | <ul><li>Body Slam</li><li>Crunch</li><li>Hammer Arm</li><li>Fake Out</li></ul> | <ul><li>Body Slam</li><li>Play Rough</li><li>Fake Out</li><li>Hypnosis</li></ul>
 
 ## Commander Jupiter
 
-![][jupiter] | ![][169]<br>[Crobat]<br>Lv. 57 | ![][302]<br>[Sableye]<br>Lv. 57 | ![][437]<br>[Bronzong]<br>Lv. 57 | ![][465]<br>[Tangrowth]<br>Lv. 57 | ![][423]<br>[Gastrodon]<br>Lv. 57 | ![][435]<br>[Skuntank]<br>Lv. 58
+![][jupiter] | ![][169]<br>[Crobat]<br>Lv. 57<br>![][bright-powder]<br>Bright Powder<br>? / Inner Focus<hr><ul><li>Brave Bird</li><li>Sludge Bomb</li><li>Double Team</li><li>Hypnosis</li></ul> | ![][302]<br>[Sableye]<br>Lv. 57<br>![][muscle-band]<br>Muscle Band<br>? / Magic Guard [^1]<hr><ul><li>Shadow Claw</li><li>Sucker Punch</li><li>Zen Headbutt</li><li>Fake Out</li></ul> | ![][437]<br>[Bronzong]<br>Lv. 57<br>![][leftovers]<br>Leftovers<br>? / Levitate<hr><ul><li>Swagger</li><li>Psychic</li><li>Flash Cannon</li><li>Grass Knot</li></ul> | ![][465]<br>[Tangrowth]<br>Lv. 57<br>![][big-root]<br>Big Root<br>? / Chlorophyll<hr><ul><li>Giga Drain</li><li>Leech Seed</li><li>Focus Blast</li><li>Sludge Bomb</li></ul> | ![][423]<br>[Gastrodon]<br>Lv. 57<br>![][wise-glasses]<br>Wise Glasses<br>? / Sticky Hold<hr><ul><li>Muddy Water</li><li>Earth Power</li><li>Ice Beam</li><li>Recover</li></ul> | ![][435]<br>[Skuntank]<br>Lv. 58<br>![][sitrus-berry]<br>Sitrus Berry<br>? / Aftermath<hr><ul><li>Gunk Shot</li><li>Crunch</li><li>Play Rough</li><li>Toxic</li></ul>
 --- | --- | --- | --- | --- | --- | ---
-**Item** | ![][bright-powder]<br>Bright Powder | ![][muscle-band]<br>Muscle Band | ![][leftovers]<br>Leftovers | ![][big-root]<br>Big Root | ![][wise-glasses]<br>Wise Glasses | ![][sitrus-berry]<br>Sitrus Berry
-**Nature** | ? | ? | ? | ? | ? | ?
-**Ability** | Inner Focus | Magic Guard [^1] | Levitate | Chlorophyll | Sticky Hold | Aftermath
-**Moves** | <ul><li>Brave Bird</li><li>Sludge Bomb</li><li>Double Team</li><li>Hypnosis</li></ul> | <ul><li>Shadow Claw</li><li>Sucker Punch</li><li>Zen Headbutt</li><li>Fake Out</li></ul> | <ul><li>Swagger</li><li>Psychic</li><li>Flash Cannon</li><li>Grass Knot</li></ul> | <ul><li>Giga Drain</li><li>Leech Seed</li><li>Focus Blast</li><li>Sludge Bomb</li></ul> | <ul><li>Muddy Water</li><li>Earth Power</li><li>Ice Beam</li><li>Recover</li></ul> | <ul><li>Gunk Shot</li><li>Crunch</li><li>Play Rough</li><li>Toxic</li></ul>
 
 --8<-- "includes/abilities.md"
 

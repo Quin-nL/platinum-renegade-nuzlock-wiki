@@ -14,12 +14,8 @@ Ace Trainer Zachery              | ![][181]<br>[Ampharos]<br>Lv. 60   | ![][462]
 
 ## Leader Volkner
 
-![][volkner] | ![][135]<br>[Jolteon]<br>Lv. 61 | ![][026]<br>[Raichu]<br>Lv. 61 | ![][479-wash]<br>[Wash Rotom]<br>Lv. 61 | ![][479-heat]<br>[Heat Rotom]<br>Lv. 61 | ![][405]<br>[Luxray]<br>Lv. 61 | ![][466]<br>[Electivire]<br>Lv. 62
+![][volkner] | ![][135]<br>[Jolteon]<br>Lv. 61<br>![][focus-sash]<br>Focus Sash<br>Naive / Static<hr><ul><li>Thunderbolt</li><li>Shadow Ball</li><li>Grass Knot</li><li>Thunder Wave</li></ul> | ![][026]<br>[Raichu]<br>Lv. 61<br>![][expert-belt]<br>Expert Belt<br>Timid / Static<hr><ul><li>Thunderbolt</li><li>Grass Knot</li><li>Focus Blast</li><li>Surf</li></ul> | ![][479-wash]<br>[Wash Rotom]<br>Lv. 61<br>![][sitrus-berry]<br>Sitrus Berry<br>Modest / Levitate<hr><ul><li>Thunderbolt</li><li>Hydro Pump</li><li>Shadow Ball</li><li>Thunder Wave</li></ul> | ![][479-heat]<br>[Heat Rotom]<br>Lv. 61<br>![][white-herb]<br>White Herb<br>Modest / Levitate<hr><ul><li>Thunderbolt</li><li>Overheat</li><li>Shadow Ball</li><li>Will-O-Wisp</li></ul> | ![][405]<br>[Luxray]<br>Lv. 61<br>![][choice-band]<br>Choice Band<br>Naughty / Intimidate<hr><ul><li>Wild Charge</li><li>Crunch</li><li>Ice Fang</li><li>Fire Fang</li></ul> | ![][466]<br>[Electivire]<br>Lv. 62<br>![][life-orb]<br>Life Orb<br>Jolly / Motor Drive<hr><ul><li>Wild Charge</li><li>Close Combat</li><li>Ice Punch</li><li>Earthquake</li></ul>
 --- | --- | --- | --- | --- | --- | ---
-**Item** | ![][focus-sash]<br>Focus Sash | ![][expert-belt]<br>Expert Belt | ![][sitrus-berry]<br>Sitrus Berry | ![][white-herb]<br>White Herb | ![][choice-band]<br>Choice Band | ![][life-orb]<br>Life Orb
-**Nature** | Naive | Timid | Modest | Modest | Naughty | Jolly
-**Ability** | Static | Static | Levitate | Levitate | Intimidate | Motor Drive
-**Moves** | <ul><li>Thunderbolt</li><li>Shadow Ball</li><li>Grass Knot</li><li>Thunder Wave</li></ul> | <ul><li>Thunderbolt</li><li>Grass Knot</li><li>Focus Blast</li><li>Surf</li></ul> | <ul><li>Thunderbolt</li><li>Hydro Pump</li><li>Shadow Ball</li><li>Thunder Wave</li></ul> | <ul><li>Thunderbolt</li><li>Overheat</li><li>Shadow Ball</li><li>Will-O-Wisp</li></ul> | <ul><li>Wild Charge</li><li>Crunch</li><li>Ice Fang</li><li>Fire Fang</li></ul> | <ul><li>Wild Charge</li><li>Close Combat</li><li>Ice Punch</li><li>Earthquake</li></ul>
 
 --8<-- "includes/abilities.md"
 

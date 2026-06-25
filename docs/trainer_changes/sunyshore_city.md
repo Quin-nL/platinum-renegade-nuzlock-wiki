@@ -10,22 +10,14 @@ Trainer                             | 1                                | 2      
 
 ## Arcade Star Dahlia
 
-![][dahlia] | ![][257]<br>[Blaziken]<br>Lv. 63 | ![][477]<br>[Dusknoir]<br>Lv. 63 | ![][308]<br>[Medicham]<br>Lv. 63 | ![][468]<br>[Togekiss]<br>Lv. 63 | ![][272]<br>[Ludicolo]<br>Lv. 63 | ![][145]<br>[Zapdos]<br>Lv. 63
+![][dahlia] | ![][257]<br>[Blaziken]<br>Lv. 63<br>![][focus-sash]<br>Focus Sash<br>? / Speed Boost<hr><ul><li>Swords Dance</li><li>Baton Pass</li><li>High Jump Kick</li><li>Blaze Kick</li></ul> | ![][477]<br>[Dusknoir]<br>Lv. 63<br>![][lum-berry]<br>Lum Berry<br>? / Iron Fist [^1]<hr><ul><li>Shadow Punch</li><li>Thunder Punch</li><li>Ice Punch</li><li>Drain Punch</li></ul> | ![][308]<br>[Medicham]<br>Lv. 63<br>![][choice-scarf]<br>Choice Scarf<br>? / Pure Power<hr><ul><li>High Jump Kick</li><li>Zen Headbutt</li><li>Ice Punch</li><li>Fire Punch</li></ul> | ![][468]<br>[Togekiss]<br>Lv. 63<br>![][wise-glasses]<br>Wise Glasses<br>? / Serene Grace<hr><ul><li>Hurricane</li><li>Moonblast</li><li>Aura Sphere</li><li>Flamethrower</li></ul> | ![][272]<br>[Ludicolo]<br>Lv. 63<br>![][life-orb]<br>Life Orb<br>? / Swift Swim<hr><ul><li>Hydro Pump</li><li>Giga Drain</li><li>Ice Beam</li><li>Fake Out</li></ul> | ![][145]<br>[Zapdos]<br>Lv. 63<br>![][sitrus-berry]<br>Sitrus Berry<br>? / Pressure<hr><ul><li>Thunderbolt</li><li>Heat Wave</li><li>Drill Peck</li><li>Light Screen</li></ul>
 --- | --- | --- | --- | --- | --- | ---
-**Item** | ![][focus-sash]<br>Focus Sash | ![][lum-berry]<br>Lum Berry | ![][choice-scarf]<br>Choice Scarf | ![][wise-glasses]<br>Wise Glasses | ![][life-orb]<br>Life Orb | ![][sitrus-berry]<br>Sitrus Berry
-**Nature** | ? | ? | ? | ? | ? | ?
-**Ability** | Speed Boost | Iron Fist [^1] | Pure Power | Serene Grace | Swift Swim | Pressure
-**Moves** | <ul><li>Swords Dance</li><li>Baton Pass</li><li>High Jump Kick</li><li>Blaze Kick</li></ul> | <ul><li>Shadow Punch</li><li>Thunder Punch</li><li>Ice Punch</li><li>Drain Punch</li></ul> | <ul><li>High Jump Kick</li><li>Zen Headbutt</li><li>Ice Punch</li><li>Fire Punch</li></ul> | <ul><li>Hurricane</li><li>Moonblast</li><li>Aura Sphere</li><li>Flamethrower</li></ul> | <ul><li>Hydro Pump</li><li>Giga Drain</li><li>Ice Beam</li><li>Fake Out</li></ul> | <ul><li>Thunderbolt</li><li>Heat Wave</li><li>Drill Peck</li><li>Light Screen</li></ul>
 
 
 ## Master Trainer
 
-Guitarist ???<br>![][guitarist] | ![][466]<br>[Electivire]<br>Lv. 85
+Guitarist ???<br>![][guitarist] | ![][466]<br>[Electivire]<br>Lv. 85<br>None<br>? / ?<hr><ul><li>Earthquake</li><li>Close Combat</li><li>Ice Punch</li></ul>
 --- | ---
-**Item** | None
-**Nature** | ?
-**Ability** | ?
-**Moves** | <ul><li>Earthquake</li><li>Close Combat</li><li>Ice Punch</li></ul>
 
 --8<-- "includes/abilities.md"
 

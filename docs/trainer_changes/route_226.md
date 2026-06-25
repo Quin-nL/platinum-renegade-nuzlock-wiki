@@ -18,21 +18,13 @@ Swimmer Wade                        | ![][319]<br>[Sharpedo]<br>Lv. 74  | ![][34
 !!! note
     This trainer needs to be beaten to advance into Stark Mountain
 
-![][ace_m_2] | ![][230]<br>[Kingdra]<br>Lv. 76 | ![][330]<br>[Flygon]<br>Lv. 76 | ![][334]<br>[Altaria]<br>Lv. 76 | ![][149]<br>[Dragonite]<br>Lv. 76 | ![][445]<br>[Garchomp]<br>Lv. 76 | ![][373]<br>[Salamence]<br>Lv. 77
+![][ace_m_2] | ![][230]<br>[Kingdra]<br>Lv. 76<br>![][haban-berry]<br>Haban Berry<br>? / Swift Swim<hr><ul><li>Waterfall</li><li>Outrage</li><li>Yawn</li><li>Dragon Dance</li></ul> | ![][330]<br>[Flygon]<br>Lv. 76<br>![][white-herb]<br>White Herb<br>? / Compound Eyes [^1]<hr><ul><li>Draco Meteor</li><li>Earth Power</li><li>Bug Buzz</li><li>Fire Blast</li></ul> | ![][334]<br>[Altaria]<br>Lv. 76<br>![][leftovers]<br>Leftovers<br>? / Cloud Nine<hr><ul><li>Dragon Claw</li><li>Toxic</li><li>Rest</li><li>Sleep Talk</li></ul> | ![][149]<br>[Dragonite]<br>Lv. 76<br>![][sitrus-berry]<br>Sitrus Berry<br>? / Marvel Scale [^1]<hr><ul><li>Outrage</li><li>Earthquake</li><li>Extreme Speed</li><li>Iron Tail</li></ul> | ![][445]<br>[Garchomp]<br>Lv. 76<br>![][choice-scarf]<br>Choice Scarf<br>? / Rough Skin<hr><ul><li>Outrage</li><li>Earthquake</li><li>Poison Jab</li><li>Fire Fang</li></ul> | ![][373]<br>[Salamence]<br>Lv. 77<br>![][focus-sash]<br>Focus Sash<br>? / Intimidate<hr><ul><li>Outrage</li><li>Aerial Ace</li><li>Dragon Dance</li><li>Earthquake</li></ul>
 --- | --- | --- | --- | --- | --- | ---
-**Item** | ![][haban-berry]<br>Haban Berry | ![][white-herb]<br>White Herb | ![][leftovers]<br>Leftovers | ![][sitrus-berry]<br>Sitrus Berry | ![][choice-scarf]<br>Choice Scarf | ![][focus-sash]<br>Focus Sash
-**Nature** | ? | ? | ? | ? | ? | ?
-**Ability** | Swift Swim | Compound Eyes [^1] | Cloud Nine | Marvel Scale [^1] | Rough Skin | Intimidate
-**Moves** | <ul><li>Waterfall</li><li>Outrage</li><li>Yawn</li><li>Dragon Dance</li></ul> | <ul><li>Draco Meteor</li><li>Earth Power</li><li>Bug Buzz</li><li>Fire Blast</li></ul> | <ul><li>Dragon Claw</li><li>Toxic</li><li>Rest</li><li>Sleep Talk</li></ul> | <ul><li>Outrage</li><li>Earthquake</li><li>Extreme Speed</li><li>Iron Tail</li></ul> | <ul><li>Outrage</li><li>Earthquake</li><li>Poison Jab</li><li>Fire Fang</li></ul> | <ul><li>Outrage</li><li>Aerial Ace</li><li>Dragon Dance</li><li>Earthquake</li></ul>
 
 ## Master Trainer
 
-Ace Trainer Edmund<br>![][ace_m] | ![][219]<br>[Magcargo]<br>Lv. 85
+Ace Trainer Edmund<br>![][ace_m] | ![][219]<br>[Magcargo]<br>Lv. 85<br>None<br>? / ?<hr><ul><li>Power Gem</li><li>Earth Power</li><li>Iron Defence</li><li>-</li></ul>
 --- | ---
-**Item** | None
-**Nature** | ?
-**Ability** | ?
-**Moves** | <ul><li>Power Gem</li><li>Earth Power</li><li>Iron Defence</li><li>-</li></ul>
 
 --8<-- "includes/abilities.md"
 

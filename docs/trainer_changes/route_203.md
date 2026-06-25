@@ -38,28 +38,16 @@ Lass Madeline :material-numeric-8-circle-outline:    | ![][055]<br>[Golduck]<br>
 ## PKMN Trainer Barry
 
 === "Grass"
-    ![][barry] | ![][396]<br>[Starly]<br>Lv. 10 | ![][446]<br>[Munchlax]<br>Lv. 10 | ![][390]<br>[Chimchar]<br>Lv. 11
+    ![][barry] | ![][396]<br>[Starly]<br>Lv. 10<br>&nbsp;<br>? / Reckless<hr><ul><li>Wing Attack</li><li>Quick Attack</li>Growl<li></li></ul> | ![][446]<br>[Munchlax]<br>Lv. 10<br>&nbsp;<br>? / Thick Fat<hr><ul><li>Tackle</li><li>Metronome</li><li>Amnesia</li><li>Rock Tomb</li></ul> | ![][390]<br>[Chimchar]<br>Lv. 11<br>![][oran-berry]<br>Oran Berry<br>? / Iron Fist<hr><ul><li>Fury Swipes</li><li>Ember</li><li>Taunt</li></ul>
     --- | --- | --- | ---
-    **Item** | &nbsp; | &nbsp; | ![][oran-berry]<br>Oran Berry
-    **Nature** | ? | ? | ?
-    **Ability** | Reckless | Thick Fat | Iron Fist
-    **Moves** | <ul><li>Wing Attack</li><li>Quick Attack</li>Growl<li></li></ul> | <ul><li>Tackle</li><li>Metronome</li><li>Amnesia</li><li>Rock Tomb</li></ul> | <ul><li>Fury Swipes</li><li>Ember</li><li>Taunt</li></ul>
 
 === "Fire"
-    ![][barry] | ![][396]<br>[Starly]<br>Lv. 10 | ![][446]<br>[Munchlax]<br>Lv. 10 | ![][393]<br>[Piplup]<br>Lv. 11
+    ![][barry] | ![][396]<br>[Starly]<br>Lv. 10<br>&nbsp;<br>? / Reckless<hr><ul><li>Wing Attack</li><li>Quick Attack</li>Growl<li></li></ul> | ![][446]<br>[Munchlax]<br>Lv. 10<br>&nbsp;<br>? / Thick Fat<hr><ul><li>Tackle</li><li>Metronome</li><li>Amnesia</li><li>Rock Tomb</li></ul> | ![][393]<br>[Piplup]<br>Lv. 11<br>![][oran-berry]<br>Oran Berry<br>? / Torrent<hr><ul><li>Water Pulse</li><li>Peck</li><li>Pound</li></ul>
     --- | --- | --- | ---
-    **Item** | &nbsp; | &nbsp; | ![][oran-berry]<br>Oran Berry
-    **Nature** | ? | ? | ?
-    **Ability** | Reckless | Thick Fat | Torrent
-    **Moves** | <ul><li>Wing Attack</li><li>Quick Attack</li>Growl<li></li></ul> | <ul><li>Tackle</li><li>Metronome</li><li>Amnesia</li><li>Rock Tomb</li></ul> | <ul><li>Water Pulse</li><li>Peck</li><li>Pound</li></ul>
 
 === "Water"
-    ![][barry] | ![][396]<br>[Starly]<br>Lv. 10 | ![][446]<br>[Munchlax]<br>Lv. 10 | ![][387]<br>[Turtwig]<br>Lv. 11
+    ![][barry] | ![][396]<br>[Starly]<br>Lv. 10<br>&nbsp;<br>? / Reckless<hr><ul><li>Wing Attack</li><li>Quick Attack</li>Growl<li></li></ul> | ![][446]<br>[Munchlax]<br>Lv. 10<br>&nbsp;<br>? / Thick Fat<hr><ul><li>Tackle</li><li>Metronome</li><li>Amnesia</li><li>Rock Tomb</li></ul> | ![][387]<br>[Turtwig]<br>Lv. 11<br>![][oran-berry]<br>Oran Berry<br>? / Overgrow<hr><ul><li>Razor Leaf</li><li>Curse</li><li>Tackle</li></ul>
     --- | --- | --- | ---
-    **Item** | &nbsp; | &nbsp; | ![][oran-berry]<br>Oran Berry
-    **Nature** | ? | ? | ?
-    **Ability** | Reckless | Thick Fat | Overgrow
-    **Moves** | <ul><li>Wing Attack</li><li>Quick Attack</li>Growl<li></li></ul> | <ul><li>Tackle</li><li>Metronome</li><li>Amnesia</li><li>Rock Tomb</li></ul> | <ul><li>Razor Leaf</li><li>Curse</li><li>Tackle</li></ul>
 
 
 [Rattata]: ../../pokemons/019/

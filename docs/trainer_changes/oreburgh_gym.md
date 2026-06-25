@@ -8,12 +8,8 @@ Youngster Darius             | ![][304]<br>[Aron]<br>Lv. 13     | ![][347]<br>[A
 
 ## Leader Roark
 
-![][roark] | ![][299]<br>[Nosepass]<br>Lv. 15 | ![][438]<br>[Bonsly]<br>Lv. 15 | ![][074]<br>[Geodude]<br>Lv. 15 | ![][095]<br>[Onix]<br>Lv. 15 | ![][246]<br>[Larvitar]<br>Lv. 15 | ![][408]<br>[Cranidos]<br>Lv. 16
+![][roark] | ![][299]<br>[Nosepass]<br>Lv. 15<br>![][smooth-rock]<br>Smooth Rock<br>Modest / Sturdy<hr><ul><li>Stealth Rock</li><li>Sandstorm</li><li>Thunder Wave</li><li>Shock Wave</li></ul> | ![][438]<br>[Bonsly]<br>Lv. 15<br>![][rindo-berry]<br>Rindo Berry<br>Impish / Rock Head<hr><ul><li>Stealth Rock</li><li>Brick Break</li><li>Rollout</li><li>Defense Curl</li></ul> | ![][074]<br>[Geodude]<br>Lv. 15<br>![][expert-belt]<br>Expert Belt<br>Adamant / Rock Head<hr><ul><li>Bulldoze</li><li>Rock Tomb</li><li>Fire Punch</li><li>Thunder Punch</li></ul> | ![][095]<br>[Onix]<br>Lv. 15<br>![][muscle-band]<br>Muscle Band<br>Jolly / Rock Head<hr><ul><li>Stealth Rock</li><li>Rock Tomb</li><li>Bulldoze</li><li>Sandstorm</li></ul> | ![][246]<br>[Larvitar]<br>Lv. 15<br>![][flame-orb]<br>Flame Orb<br>Jolly / Guts<hr><ul><li>Rock Tomb</li><li>Bulldoze</li><li>Bite</li><li>Protect</li></ul> | ![][408]<br>[Cranidos]<br>Lv. 16<br>![][sitrus-berry]<br>Sitrus Berry<br>Hasty / Rock Head [^1]<hr><ul><li>Zen Headbutt</li><li>Rock Tomb</li><li>Thunder Punch</li><li>Scary Face</li></ul>
 --- | --- | --- | --- | --- | --- | ---
-**Item** | ![][smooth-rock]<br>Smooth Rock | ![][rindo-berry]<br>Rindo Berry | ![][expert-belt]<br>Expert Belt | ![][muscle-band]<br>Muscle Band | ![][flame-orb]<br>Flame Orb | ![][sitrus-berry]<br>Sitrus Berry
-**Nature** | Modest | Impish | Adamant | Jolly | Jolly | Hasty
-**Ability** | Sturdy | Rock Head | Rock Head | Rock Head | Guts | Rock Head [^1]
-**Moves** | <ul><li>Stealth Rock</li><li>Sandstorm</li><li>Thunder Wave</li><li>Shock Wave</li></ul> | <ul><li>Stealth Rock</li><li>Brick Break</li><li>Rollout</li><li>Defense Curl</li></ul> | <ul><li>Bulldoze</li><li>Rock Tomb</li><li>Fire Punch</li><li>Thunder Punch</li></ul> | <ul><li>Stealth Rock</li><li>Rock Tomb</li><li>Bulldoze</li><li>Sandstorm</li></ul> | <ul><li>Rock Tomb</li><li>Bulldoze</li><li>Bite</li><li>Protect</li></ul> | <ul><li>Zen Headbutt</li><li>Rock Tomb</li><li>Thunder Punch</li><li>Scary Face</li></ul>
 
 --8<-- "includes/abilities.md"
 

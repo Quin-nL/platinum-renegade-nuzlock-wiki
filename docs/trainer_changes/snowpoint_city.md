@@ -7,12 +7,8 @@ Ace Trainer Nephenee | ![][242]<br>[Blissey]<br>Lv. 54   | ![][154]<br>[Meganium
 
 ## Master Trainer
 
-Ace Trainer ???<br>![][ace_f] | ![][461]<br>[Weavile]<br>Lv. 85
+Ace Trainer ???<br>![][ace_f] | ![][461]<br>[Weavile]<br>Lv. 85<br>None<br>? / ?<hr><ul><li>Low Kick</li><li>Night Slash</li><li>Quick Attack</li><li>X-Scissor</li></ul>
 --- | ---
-**Item** | None
-**Nature** | ?
-**Ability** | ?
-**Moves** | <ul><li>Low Kick</li><li>Night Slash</li><li>Quick Attack</li><li>X-Scissor</li></ul>
 
 [Meganium]: ../../pokemons/154/
 [Typhlosion]: ../../pokemons/157/
