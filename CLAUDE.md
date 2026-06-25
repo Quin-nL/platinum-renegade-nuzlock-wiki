@@ -40,7 +40,7 @@ python fix_links.py /pokemons/*.md   # add new link definitions to links.txt fir
 
 - `docs/pokemons/NNN.md` — one page per Pokémon (001–493), containing type/defense chart, abilities, base stats, level-up moves, learnable moves, and encounter locations
 - `docs/trainer_changes/` — one page per route/location listing trainer rosters; starter-choice variants use MkDocs `===` tab syntax
-- `docs/wild_pokemon/` — one page per area listing wild encounter tables with time-of-day slots
+- `docs/area_changes/` — one page per area combining trainers, wild encounter tables (with time-of-day slots), items, and Pokémon events
 - `docs/` — game-change overview pages (move_changes, type_changes, evolution_changes, item_changes, npc_changes, etc.)
 - `includes/` — reusable snippets for ability tooltips (`abilities.md`), held items (`held_items.md`), and natures (`natures.md`); these are injected via MkDocs `include` directives
 
