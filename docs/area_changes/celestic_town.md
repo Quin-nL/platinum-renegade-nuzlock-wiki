@@ -9,18 +9,13 @@ Galactic Grunt                      | ![][229]<br>[Houndoom]<br>Lv. 43<ul><li>Cr
 
 ### Galactic Boss Cyrus
 
-![][cyrus]                        | Item                              | Nature | Ability         | Moves
----                               | ---                               | ---    | ---             | ---
-![][169]<br>[Crobat]<br>Lv. 45    | ![][wise-glasses]<br>Wise Glasses | ?      | Inner Focus     | <ul><li>Sludge Bomb</li><li>Air Slash</li><li>Giga Drain</li><li>Hypnosis</li></ul>
-![][430]<br>[Honchkrow]<br>Lv. 45 | ![][scope-lens]<br>Scope Lens     | ?      | Super Luck      | <ul><li>Brave Bird</li><li>Night Slash</li><li>Swagger</li><li>Torment</li></ul>
-![][462]<br>[Magnezone]<br>Lv. 45 | ![][life-orb]<br>Life Orb         | ?      | Magnet Pull     | <ul><li>Thunderbolt</li><li>Flash Cannon</li><li>Thunder Wave</li><li>Mirror Coat</li></ul>
-![][461]<br>[Weavile]<br>Lv. 46   | ![][expert-belt]<br>Expert Belt   | ?      | Technician [^1] | <ul><li>Feint Attack</li><li>Icicle Crash</li><li>Ice Shard</li><li>Swords Dance</li></ul>
+![][cyrus] | ![][169]<br>[Crobat]<br>Lv. 45<br>![][wise-glasses]<br>Wise Glasses<br>? / Inner Focus<hr><ul><li>Sludge Bomb</li><li>Air Slash</li><li>Giga Drain</li><li>Hypnosis</li></ul> | ![][430]<br>[Honchkrow]<br>Lv. 45<br>![][scope-lens]<br>Scope Lens<br>? / Super Luck<hr><ul><li>Brave Bird</li><li>Night Slash</li><li>Swagger</li><li>Torment</li></ul> | ![][462]<br>[Magnezone]<br>Lv. 45<br>![][life-orb]<br>Life Orb<br>? / Magnet Pull<hr><ul><li>Thunderbolt</li><li>Flash Cannon</li><li>Thunder Wave</li><li>Mirror Coat</li></ul> | ![][461]<br>[Weavile]<br>Lv. 46<br>![][expert-belt]<br>Expert Belt<br>? / Technician [^1]<hr><ul><li>Feint Attack</li><li>Icicle Crash</li><li>Ice Shard</li><li>Swords Dance</li></ul>
+--- | --- | --- | --- | ---
 
 ### Master Trainer
 
-Ace Trainer Grayson<br>![][ace_m] | Item | Nature | Ability | Moves
----                               | ---  | ---    | ---     | ---
-![][445]<br>[Garchomp]<br>Lv. 85  | None | ?      | ?       | <ul><li>Outrage</li><li>Earthquake</li><li>-</li><li>-</li></ul>
+Ace Trainer Grayson<br>![][ace_m] | ![][445]<br>[Garchomp]<br>Lv. 85<br>None<br>? / ?<hr><ul><li>Outrage</li><li>Earthquake</li><li>-</li><li>-</li></ul>
+--- | ---
 
 ## Wild Pokémon
 

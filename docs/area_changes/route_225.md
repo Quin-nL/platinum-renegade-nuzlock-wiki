@@ -19,14 +19,8 @@ Ace Trainer Quinn                            | ![][127]<br>[Pinsir]<br>Lv. 73<ul
 !!! note
     This trainer needs to be beaten to advance into Stark Mountain
 
-![][ace_f_2]                       | Item                              | Nature | Ability           | Moves
----                                | ---                               | ---    | ---               | ---
-![][279]<br>[Pelipper]<br>Lv. 76   | ![][focus-sash]<br>Focus Sash     | ?      | Drizzle           | <ul><li>Hydro Pump</li><li>Hurricane</li><li>Ice Beam</li><li>Tailwind</li></ul>
-![][468]<br>[Togekiss]<br>Lv. 76   | ![][expert-belt]<br>Expert Belt   | ?      | Serene Grace      | <ul><li>Hurricane</li><li>Moonblast</li><li>Shadow Ball</li><li>Roost</li></ul>
-![][142]<br>[Aerodactyl]<br>Lv. 76 | ![][life-orb]<br>Life Orb         | ?      | Rock Head         | <ul><li>Brave Bird</li><li>Stone Edge</li><li>Crunch</li><li>Earthquake</li></ul>
-![][018]<br>[Pidgeot]<br>Lv. 76    | ![][wise-glasses]<br>Wise Glasses | ?      | No Guard [^1]     | <ul><li>Hurricane</li><li>Hyper Beam</li><li>Heat Wave</li><li>Tailwind</li></ul>
-![][357]<br>[Tropius]<br>Lv. 76    | ![][leftovers]<br>Leftovers       | ?      | Chlorophyll       | <ul><li>Hurricane</li><li>Energy Ball</li><li>Dragon Pulse</li><li>Roost</li></ul>
-![][149]<br>[Dragonite]<br>Lv. 77  | ![][white-herb]<br>White Herb     | ?      | Marvel Scale [^1] | <ul><li>Hurricane</li><li>Draco Meteor</li><li>Thunder</li><li>Ice Beam</li></ul>
+![][ace_f_2] | ![][279]<br>[Pelipper]<br>Lv. 76<br>![][focus-sash]<br>Focus Sash<br>? / Drizzle<hr><ul><li>Hydro Pump</li><li>Hurricane</li><li>Ice Beam</li><li>Tailwind</li></ul> | ![][468]<br>[Togekiss]<br>Lv. 76<br>![][expert-belt]<br>Expert Belt<br>? / Serene Grace<hr><ul><li>Hurricane</li><li>Moonblast</li><li>Shadow Ball</li><li>Roost</li></ul> | ![][142]<br>[Aerodactyl]<br>Lv. 76<br>![][life-orb]<br>Life Orb<br>? / Rock Head<hr><ul><li>Brave Bird</li><li>Stone Edge</li><li>Crunch</li><li>Earthquake</li></ul> | ![][018]<br>[Pidgeot]<br>Lv. 76<br>![][wise-glasses]<br>Wise Glasses<br>? / No Guard [^1]<hr><ul><li>Hurricane</li><li>Hyper Beam</li><li>Heat Wave</li><li>Tailwind</li></ul> | ![][357]<br>[Tropius]<br>Lv. 76<br>![][leftovers]<br>Leftovers<br>? / Chlorophyll<hr><ul><li>Hurricane</li><li>Energy Ball</li><li>Dragon Pulse</li><li>Roost</li></ul> | ![][149]<br>[Dragonite]<br>Lv. 77<br>![][white-herb]<br>White Herb<br>? / Marvel Scale [^1]<hr><ul><li>Hurricane</li><li>Draco Meteor</li><li>Thunder</li><li>Ice Beam</li></ul>
+--- | --- | --- | --- | --- | --- | ---
 
 ### Rematches
 

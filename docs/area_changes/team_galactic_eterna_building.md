@@ -13,12 +13,8 @@ Scientist Travon                    | ![][096]<br>[Drowzee]<br>Lv. 24<ul><li>Poi
 
 ## Commander Jupiter
 
-![][jupiter]                     | Item                              | Nature  | Ability          | Moves
----                              | ---                               | ---     | ---              | ---
-![][042]<br>[Golbat]<br>Lv. 26   | None                              | Jolly   | Inner Focus      | <ul><li>Wing Attack</li><li>Giga Drain</li><li>Leech Life</li><li>Confuse Ray</li></ul>
-![][302]<br>[Sableye]<br>Lv. 26  | ![][sitrus-berry]<br>Sitrus Berry | Adamant | Magic Guard [^1] | <ul><li>Fake Out</li><li>Shadow Claw</li><li>Knock Off</li><li>Shadow Sneak</li></ul>
-![][114]<br>[Tangela]<br>Lv. 26  | None                              | Modest  | Chlorophyll      | <ul><li>Giga Drain</li><li>Shock Wave</li><li>Leech Seed</li><li>Sleep Powder</li></ul>
-![][435]<br>[Skuntank]<br>Lv. 27 | ![][sitrus-berry]<br>Sitrus Berry | Adamant | Aftermath        | <ul><li>Poison Jab</li><li>Night Slash</li><li>Focus Energy</li><li>Torment</li></ul>
+![][jupiter] | ![][042]<br>[Golbat]<br>Lv. 26<br>None<br>Jolly / Inner Focus<hr><ul><li>Wing Attack</li><li>Giga Drain</li><li>Leech Life</li><li>Confuse Ray</li></ul> | ![][302]<br>[Sableye]<br>Lv. 26<br>![][sitrus-berry]<br>Sitrus Berry<br>Adamant / Magic Guard [^1]<hr><ul><li>Fake Out</li><li>Shadow Claw</li><li>Knock Off</li><li>Shadow Sneak</li></ul> | ![][114]<br>[Tangela]<br>Lv. 26<br>None<br>Modest / Chlorophyll<hr><ul><li>Giga Drain</li><li>Shock Wave</li><li>Leech Seed</li><li>Sleep Powder</li></ul> | ![][435]<br>[Skuntank]<br>Lv. 27<br>![][sitrus-berry]<br>Sitrus Berry<br>Adamant / Aftermath<hr><ul><li>Poison Jab</li><li>Night Slash</li><li>Focus Energy</li><li>Torment</li></ul>
+--- | --- | --- | --- | ---
 
 --8<-- "includes/abilities.md"
 

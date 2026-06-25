@@ -9,9 +9,8 @@ Tuber Trenton | ![][061]<br>[Poliwhirl]<br>Lv. 42<ul><li>Low Kick</li><li>Belly 
 
 ### Master Trainer
 
-Beauty Tessa<br>![][beauty]      | Item | Nature | Ability | Moves
----                              | ---  | ---    | ---     | ---
-![][272]<br>[Ludicolo]<br>Lv. 85 | None | ?      | ?       | <ul><li>Giga Drain</li><li>Leech Seed</li><li>Protect</li><li>Thunder Punch</li></ul>
+Beauty Tessa<br>![][beauty] | ![][272]<br>[Ludicolo]<br>Lv. 85<br>None<br>? / ?<hr><ul><li>Giga Drain</li><li>Leech Seed</li><li>Protect</li><li>Thunder Punch</li></ul>
+--- | ---
 
 ## Wild Pokémon
 

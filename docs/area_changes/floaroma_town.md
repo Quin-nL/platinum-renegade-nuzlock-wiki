@@ -6,9 +6,8 @@ Reporter Jenny | ![][152]<br>[Chikorita]<br>Lv. 15<ul><li>Razor Leaf</li><li>Poi
 
 ## Master Trainer
 
-Lass Sal<br>![][lass]           | Item | Nature | Ability | Moves
----                             | ---  | ---    | ---     | ---
-![][357]<br>[Tropius]<br>Lv. 85 | None | ?      | ?       | <ul><li>Hurricane</li><li>Substitute</li><li>Roost</li><li>Air Slash</li></ul>
+Lass Sal<br>![][lass] | ![][357]<br>[Tropius]<br>Lv. 85<br>None<br>? / ?<hr><ul><li>Hurricane</li><li>Substitute</li><li>Roost</li><li>Air Slash</li></ul>
+--- | ---
 
 
 ## Items

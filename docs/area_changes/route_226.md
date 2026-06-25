@@ -16,20 +16,13 @@ Swimmer Wade                        | ![][319]<br>[Sharpedo]<br>Lv. 74<ul><li>Sk
 !!! note
     This trainer needs to be beaten to advance into Stark Mountain
 
-![][ace_m_2]                      | Item                              | Nature | Ability            | Moves
----                               | ---                               | ---    | ---                | ---
-![][230]<br>[Kingdra]<br>Lv. 76   | ![][haban-berry]<br>Haban Berry   | ?      | Swift Swim         | <ul><li>Waterfall</li><li>Outrage</li><li>Yawn</li><li>Dragon Dance</li></ul>
-![][330]<br>[Flygon]<br>Lv. 76    | ![][white-herb]<br>White Herb     | ?      | Compound Eyes [^1] | <ul><li>Draco Meteor</li><li>Earth Power</li><li>Bug Buzz</li><li>Fire Blast</li></ul>
-![][334]<br>[Altaria]<br>Lv. 76   | ![][leftovers]<br>Leftovers       | ?      | Cloud Nine         | <ul><li>Dragon Claw</li><li>Toxic</li><li>Rest</li><li>Sleep Talk</li></ul>
-![][149]<br>[Dragonite]<br>Lv. 76 | ![][sitrus-berry]<br>Sitrus Berry | ?      | Marvel Scale [^1]  | <ul><li>Outrage</li><li>Earthquake</li><li>Extreme Speed</li><li>Iron Tail</li></ul>
-![][445]<br>[Garchomp]<br>Lv. 76  | ![][choice-scarf]<br>Choice Scarf | ?      | Rough Skin         | <ul><li>Outrage</li><li>Earthquake</li><li>Poison Jab</li><li>Fire Fang</li></ul>
-![][373]<br>[Salamence]<br>Lv. 77 | ![][focus-sash]<br>Focus Sash     | ?      | Intimidate         | <ul><li>Outrage</li><li>Aerial Ace</li><li>Dragon Dance</li><li>Earthquake</li></ul>
+![][ace_m_2] | ![][230]<br>[Kingdra]<br>Lv. 76<br>![][haban-berry]<br>Haban Berry<br>? / Swift Swim<hr><ul><li>Waterfall</li><li>Outrage</li><li>Yawn</li><li>Dragon Dance</li></ul> | ![][330]<br>[Flygon]<br>Lv. 76<br>![][white-herb]<br>White Herb<br>? / Compound Eyes [^1]<hr><ul><li>Draco Meteor</li><li>Earth Power</li><li>Bug Buzz</li><li>Fire Blast</li></ul> | ![][334]<br>[Altaria]<br>Lv. 76<br>![][leftovers]<br>Leftovers<br>? / Cloud Nine<hr><ul><li>Dragon Claw</li><li>Toxic</li><li>Rest</li><li>Sleep Talk</li></ul> | ![][149]<br>[Dragonite]<br>Lv. 76<br>![][sitrus-berry]<br>Sitrus Berry<br>? / Marvel Scale [^1]<hr><ul><li>Outrage</li><li>Earthquake</li><li>Extreme Speed</li><li>Iron Tail</li></ul> | ![][445]<br>[Garchomp]<br>Lv. 76<br>![][choice-scarf]<br>Choice Scarf<br>? / Rough Skin<hr><ul><li>Outrage</li><li>Earthquake</li><li>Poison Jab</li><li>Fire Fang</li></ul> | ![][373]<br>[Salamence]<br>Lv. 77<br>![][focus-sash]<br>Focus Sash<br>? / Intimidate<hr><ul><li>Outrage</li><li>Aerial Ace</li><li>Dragon Dance</li><li>Earthquake</li></ul>
+--- | --- | --- | --- | --- | --- | ---
 
 ### Master Trainer
 
-Ace Trainer Edmund<br>![][ace_m] | Item | Nature | Ability | Moves
----                              | ---  | ---    | ---     | ---
-![][219]<br>[Magcargo]<br>Lv. 85 | None | ?      | ?       | <ul><li>Power Gem</li><li>Earth Power</li><li>Iron Defence</li><li>-</li></ul>
+Ace Trainer Edmund<br>![][ace_m] | ![][219]<br>[Magcargo]<br>Lv. 85<br>None<br>? / ?<hr><ul><li>Power Gem</li><li>Earth Power</li><li>Iron Defence</li><li>-</li></ul>
+--- | ---
 
 ## Wild Pokémon
 

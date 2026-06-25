@@ -16,12 +16,8 @@ Psychic Rachael                      | ![][433]<br>[Chingling]<br>Lv. 18<ul><li>
 
 ### PKMN Trainer Cheryl
 
-![][cheryl]                      | Item                              | Nature  | Ability      | Moves
----                              | ---                               | ---     | ---          | ---
-![][425]<br>[Drifloon]<br>Lv. 19 | ![][sitrus-berry]<br>Sitrus Berry | Modest  | Unburden     | <ul><li>Ominous Wind</li><li>Air Cutter</li><li>Shock Wave</li><li>Swift</li></ul>
-![][296]<br>[Makuhita]<br>Lv. 19 | None                              | Relaxed | Thick Fat    | <ul><li>Knock Off</li><li>Fake Out</li><li>Brick Break</li><li>Bullet Punch</li></ul>
-![][320]<br>[Wailmer]<br>Lv. 19  | None                              | Relaxed | Water Veil   | <ul><li>Water Pulse</li><li>Rock Tomb</li><li>Mist</li><li>Rollout</li></ul>
-![][113]<br>[Chansey]<br>Lv. 20  | ![][sitrus-berry]<br>Sitrus Berry | Quiet   | Serene Grace | <ul><li>Hyper Voice</li><li>Soft-Boiled</li><li>Ice Beam</li><li>Thunderbolt</li></ul>
+![][cheryl] | ![][425]<br>[Drifloon]<br>Lv. 19<br>![][sitrus-berry]<br>Sitrus Berry<br>Modest / Unburden<hr><ul><li>Ominous Wind</li><li>Air Cutter</li><li>Shock Wave</li><li>Swift</li></ul> | ![][296]<br>[Makuhita]<br>Lv. 19<br>None<br>Relaxed / Thick Fat<hr><ul><li>Knock Off</li><li>Fake Out</li><li>Brick Break</li><li>Bullet Punch</li></ul> | ![][320]<br>[Wailmer]<br>Lv. 19<br>None<br>Relaxed / Water Veil<hr><ul><li>Water Pulse</li><li>Rock Tomb</li><li>Mist</li><li>Rollout</li></ul> | ![][113]<br>[Chansey]<br>Lv. 20<br>![][sitrus-berry]<br>Sitrus Berry<br>Quiet / Serene Grace<hr><ul><li>Hyper Voice</li><li>Soft-Boiled</li><li>Ice Beam</li><li>Thunderbolt</li></ul>
+--- | --- | --- | --- | ---
 
 ## Wild Pokémon
 

@@ -9,14 +9,8 @@ Aroma Lady Angela                  | ![][315]<br>[Roselia]<br>Lv. 23<ul><li>Slee
 
 ## Leader Gardenia
 
-![][gardenia]                     | Item                              | Nature  | Ability     | Moves
----                               | ---                               | ---     | ---         | ---
-![][182]<br>[Bellossom]<br>Lv. 25 | ![][wide-lens]<br>Wide Lens       | Relaxed | Chlorophyll | <ul><li>Grass Knot</li><li>Teeter Dance</li><li>Dazzling Gleam</li><li>Stun Spore</li></ul>
-![][114]<br>[Tangela]<br>Lv. 25   | ![][coba-berry]<br>Coba Berry     | Rash    | Chlorophyll | <ul><li>Grass Knot</li><li>Shock Wave</li><li>Ancient Power</li><li>Stun Spore</li></ul>
-![][421]<br>[Cherrim]<br>Lv. 25   | ![][focus-sash]<br>Focus Sash     | Hasty   | Flower Gift | <ul><li>Grass Knot</li><li>Sunny Day</li><li>Weather Ball</li><li>Morning Sun</li></ul>
-![][388]<br>[Grotle]<br>Lv. 25    | ![][leftovers]<br>Leftovers       | Adamant | Overgrow    | <ul><li>Seed Bomb</li><li>Protect</li><li>Leech Seed</li><li>Bulldoze</li></ul>
-![][286]<br>[Breloom]<br>Lv. 25   | ![][muscle-band]<br>Muscle Band   | Naughty | Technician  | <ul><li>Bullet Seed</li><li>Mach Punch</li><li>Thunder Punch</li><li>Spore</li></ul>
-![][407]<br>[Roserade]<br>Lv. 26  | ![][sitrus-berry]<br>Sitrus Berry | Timid   | Technician  | <ul><li>Magical Leaf</li><li>Sludge</li><li>Dazzling Gleam</li><li>Extrasensory</li></ul>
+![][gardenia] | ![][182]<br>[Bellossom]<br>Lv. 25<br>![][wide-lens]<br>Wide Lens<br>Relaxed / Chlorophyll<hr><ul><li>Grass Knot</li><li>Teeter Dance</li><li>Dazzling Gleam</li><li>Stun Spore</li></ul> | ![][114]<br>[Tangela]<br>Lv. 25<br>![][coba-berry]<br>Coba Berry<br>Rash / Chlorophyll<hr><ul><li>Grass Knot</li><li>Shock Wave</li><li>Ancient Power</li><li>Stun Spore</li></ul> | ![][421]<br>[Cherrim]<br>Lv. 25<br>![][focus-sash]<br>Focus Sash<br>Hasty / Flower Gift<hr><ul><li>Grass Knot</li><li>Sunny Day</li><li>Weather Ball</li><li>Morning Sun</li></ul> | ![][388]<br>[Grotle]<br>Lv. 25<br>![][leftovers]<br>Leftovers<br>Adamant / Overgrow<hr><ul><li>Seed Bomb</li><li>Protect</li><li>Leech Seed</li><li>Bulldoze</li></ul> | ![][286]<br>[Breloom]<br>Lv. 25<br>![][muscle-band]<br>Muscle Band<br>Naughty / Technician<hr><ul><li>Bullet Seed</li><li>Mach Punch</li><li>Thunder Punch</li><li>Spore</li></ul> | ![][407]<br>[Roserade]<br>Lv. 26<br>![][sitrus-berry]<br>Sitrus Berry<br>Timid / Technician<hr><ul><li>Magical Leaf</li><li>Sludge</li><li>Dazzling Gleam</li><li>Extrasensory</li></ul>
+--- | --- | --- | --- | --- | --- | ---
 
 --8<-- "includes/abilities.md"
 

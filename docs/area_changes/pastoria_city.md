@@ -20,40 +20,21 @@
 ### PKMN Trainer Barry
 
 === "Grass"
-    ![][barry]                        | Item                              | Nature | Ability    | Moves
-    ---                               | ---                               | ---    | ---        | ---
-    ![][398]<br>[Staraptor]<br>Lv. 41 | ![][muscle-band]<br>Muscle Band   | ?      | Reckless   | <ul><li>Double-Edge</li><li>Close Combat</li><li>Aerial Ace</li><li>Roost</li></ul>
-    ![][214]<br>[Heracross]<br>Lv. 41 | ![][coba-berry]<br>Coba Berry     | ?      | Guts       | <ul><li>Megahorn</li><li>Brick Break</li><li>Bullet Seed</li><li>Night Slash</li></ul>
-    ![][143]<br>[Snorlax]<br>Lv. 41   | ![][leftovers]<br>Leftovers       | ?      | Thick Fat  | <ul><li>Body Slam</li><li>Crunch</li><li>Rest</li><li>Sleep Talk</li></ul>
-    ![][184]<br>[Azumarill]<br>Lv. 41 | ![][life-orb]<br>Life Orb         | ?      | Huge Power | <ul><li>Aqua Tail</li><li>Play Rough</li><li>Body Slam</li><li>Aqua Jet</li></ul>
-    ![][286]<br>[Breloom]<br>Lv. 41   | ![][focus-sash]<br>Focus Sash     | ?      | Technician | <ul><li>Bullet Seed</li><li>Force Palm</li><li>Spore</li><li>Rock Tomb</li></ul>
-    ![][392]<br>[Infernape]<br>Lv. 42 | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist  | <ul><li>Flamethrower</li><li>Close Combat</li><li>Fake Out</li><li>Thunder Punch</li></ul>
+    ![][barry] | ![][398]<br>[Staraptor]<br>Lv. 41<br>![][muscle-band]<br>Muscle Band<br>? / Reckless<hr><ul><li>Double-Edge</li><li>Close Combat</li><li>Aerial Ace</li><li>Roost</li></ul> | ![][214]<br>[Heracross]<br>Lv. 41<br>![][coba-berry]<br>Coba Berry<br>? / Guts<hr><ul><li>Megahorn</li><li>Brick Break</li><li>Bullet Seed</li><li>Night Slash</li></ul> | ![][143]<br>[Snorlax]<br>Lv. 41<br>![][leftovers]<br>Leftovers<br>? / Thick Fat<hr><ul><li>Body Slam</li><li>Crunch</li><li>Rest</li><li>Sleep Talk</li></ul> | ![][184]<br>[Azumarill]<br>Lv. 41<br>![][life-orb]<br>Life Orb<br>? / Huge Power<hr><ul><li>Aqua Tail</li><li>Play Rough</li><li>Body Slam</li><li>Aqua Jet</li></ul> | ![][286]<br>[Breloom]<br>Lv. 41<br>![][focus-sash]<br>Focus Sash<br>? / Technician<hr><ul><li>Bullet Seed</li><li>Force Palm</li><li>Spore</li><li>Rock Tomb</li></ul> | ![][392]<br>[Infernape]<br>Lv. 42<br>![][sitrus-berry]<br>Sitrus Berry<br>? / Iron Fist<hr><ul><li>Flamethrower</li><li>Close Combat</li><li>Fake Out</li><li>Thunder Punch</li></ul>
+    --- | --- | --- | --- | --- | --- | ---
 
 === "Fire"
-    ![][barry]                        | Item                              | Nature | Ability    | Moves
-    ---                               | ---                               | ---    | ---        | ---
-    ![][398]<br>[Staraptor]<br>Lv. 41 | ![][muscle-band]<br>Muscle Band   | ?      | Reckless   | <ul><li>Double-Edge</li><li>Close Combat</li><li>Aerial Ace</li><li>Roost</li></ul>
-    ![][214]<br>[Heracross]<br>Lv. 41 | ![][coba-berry]<br>Coba Berry     | ?      | Guts       | <ul><li>Megahorn</li><li>Brick Break</li><li>Bullet Seed</li><li>Night Slash</li></ul>
-    ![][143]<br>[Snorlax]<br>Lv. 41   | ![][leftovers]<br>Leftovers       | ?      | Thick Fat  | <ul><li>Body Slam</li><li>Crunch</li><li>Rest</li><li>Sleep Talk</li></ul>
-    ![][286]<br>[Breloom]<br>Lv. 41   | ![][focus-sash]<br>Focus Sash     | ?      | Technician | <ul><li>Bullet Seed</li><li>Force Palm</li><li>Spore</li><li>Rock Tomb</li></ul>
-    ![][059]<br>[Arcanine]<br>Lv. 41  | ![][expert-belt]<br>Expert Belt   | ?      | Intimidate | <ul><li>Heat Wave</li><li>Thunder Fang</li><li>Outrage</li><li>Crunch</li></ul>
-    ![][395]<br>[Empoleon]<br>Lv. 42  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent    | <ul><li>Scald</li><li>Flash Cannon</li><li>Agility</li><li>Swagger</li></ul>
+    ![][barry] | ![][398]<br>[Staraptor]<br>Lv. 41<br>![][muscle-band]<br>Muscle Band<br>? / Reckless<hr><ul><li>Double-Edge</li><li>Close Combat</li><li>Aerial Ace</li><li>Roost</li></ul> | ![][214]<br>[Heracross]<br>Lv. 41<br>![][coba-berry]<br>Coba Berry<br>? / Guts<hr><ul><li>Megahorn</li><li>Brick Break</li><li>Bullet Seed</li><li>Night Slash</li></ul> | ![][143]<br>[Snorlax]<br>Lv. 41<br>![][leftovers]<br>Leftovers<br>? / Thick Fat<hr><ul><li>Body Slam</li><li>Crunch</li><li>Rest</li><li>Sleep Talk</li></ul> | ![][286]<br>[Breloom]<br>Lv. 41<br>![][focus-sash]<br>Focus Sash<br>? / Technician<hr><ul><li>Bullet Seed</li><li>Force Palm</li><li>Spore</li><li>Rock Tomb</li></ul> | ![][059]<br>[Arcanine]<br>Lv. 41<br>![][expert-belt]<br>Expert Belt<br>? / Intimidate<hr><ul><li>Heat Wave</li><li>Thunder Fang</li><li>Outrage</li><li>Crunch</li></ul> | ![][395]<br>[Empoleon]<br>Lv. 42<br>![][sitrus-berry]<br>Sitrus Berry<br>? / Torrent<hr><ul><li>Scald</li><li>Flash Cannon</li><li>Agility</li><li>Swagger</li></ul>
+    --- | --- | --- | --- | --- | --- | ---
 
 === "Water"
-    ![][barry]                        | Item                              | Nature | Ability    | Moves
-    ---                               | ---                               | ---    | ---        | ---
-    ![][398]<br>[Staraptor]<br>Lv. 41 | ![][muscle-band]<br>Muscle Band   | ?      | Reckless   | <ul><li>Double-Edge</li><li>Close Combat</li><li>Aerial Ace</li><li>Roost</li></ul>
-    ![][214]<br>[Heracross]<br>Lv. 41 | ![][coba-berry]<br>Coba Berry     | ?      | Guts       | <ul><li>Megahorn</li><li>Brick Break</li><li>Bullet Seed</li><li>Night Slash</li></ul>
-    ![][143]<br>[Snorlax]<br>Lv. 41   | ![][leftovers]<br>Leftovers       | ?      | Thick Fat  | <ul><li>Body Slam</li><li>Crunch</li><li>Rest</li><li>Sleep Talk</li></ul>
-    ![][184]<br>[Azumarill]<br>Lv. 41 | ![][life-orb]<br>Life Orb         | ?      | Huge Power | <ul><li>Aqua Tail</li><li>Play Rough</li><li>Body Slam</li><li>Aqua Jet</li></ul>
-    ![][059]<br>[Arcanine]<br>Lv. 41  | ![][expert-belt]<br>Expert Belt   | ?      | Intimidate | <ul><li>Heat Wave</li><li>Thunder Fang</li><li>Outrage</li><li>Crunch</li></ul>
-    ![][389]<br>[Torterra]<br>Lv. 42  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow   | <ul><li>Seed Bomb</li><li>Earthquake</li><li>Crunch</li><li>Iron Head</li></ul>
+    ![][barry] | ![][398]<br>[Staraptor]<br>Lv. 41<br>![][muscle-band]<br>Muscle Band<br>? / Reckless<hr><ul><li>Double-Edge</li><li>Close Combat</li><li>Aerial Ace</li><li>Roost</li></ul> | ![][214]<br>[Heracross]<br>Lv. 41<br>![][coba-berry]<br>Coba Berry<br>? / Guts<hr><ul><li>Megahorn</li><li>Brick Break</li><li>Bullet Seed</li><li>Night Slash</li></ul> | ![][143]<br>[Snorlax]<br>Lv. 41<br>![][leftovers]<br>Leftovers<br>? / Thick Fat<hr><ul><li>Body Slam</li><li>Crunch</li><li>Rest</li><li>Sleep Talk</li></ul> | ![][184]<br>[Azumarill]<br>Lv. 41<br>![][life-orb]<br>Life Orb<br>? / Huge Power<hr><ul><li>Aqua Tail</li><li>Play Rough</li><li>Body Slam</li><li>Aqua Jet</li></ul> | ![][059]<br>[Arcanine]<br>Lv. 41<br>![][expert-belt]<br>Expert Belt<br>? / Intimidate<hr><ul><li>Heat Wave</li><li>Thunder Fang</li><li>Outrage</li><li>Crunch</li></ul> | ![][389]<br>[Torterra]<br>Lv. 42<br>![][sitrus-berry]<br>Sitrus Berry<br>? / Overgrow<hr><ul><li>Seed Bomb</li><li>Earthquake</li><li>Crunch</li><li>Iron Head</li></ul>
+    --- | --- | --- | --- | --- | --- | ---
 
 ### Master Trainer
 
-Scientist Donnie<br>![][scientist] | Item | Nature | Ability | Moves
----                                | ---  | ---    | ---     | ---
-![][034]<br>[Nidoking]<br>Lv. 85   | None | ?      | ?       | <ul><li>Earthquake</li><li>Fire Blast</li><li>Thunderbolt</li><li>Amnesia</li></ul>
+Scientist Donnie<br>![][scientist] | ![][034]<br>[Nidoking]<br>Lv. 85<br>None<br>? / ?<hr><ul><li>Earthquake</li><li>Fire Blast</li><li>Thunderbolt</li><li>Amnesia</li></ul>
+--- | ---
 
 ## Wild Pokémon
 

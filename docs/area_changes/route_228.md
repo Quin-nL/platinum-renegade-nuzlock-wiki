@@ -19,14 +19,8 @@ Ace Trainer Meagan                       | ![][301]<br>[Delcatty]<br>Lv. 77<ul><
 !!! note
     This trainer needs to be beaten to advance into Stark Mountain
 
-![][ace_m_2]                      | Item                              | Nature | Ability         | Moves
----                               | ---                               | ---    | ---             | ---
-![][229]<br>[Houndoom]<br>Lv. 76  | ![][white-herb]<br>White Herb     | ?      | Intimidate [^1] | <ul><li>Dark Pulse</li><li>Overheat</li><li>Sludge Bomb</li><li>Thunder Fang</li></ul>
-![][461]<br>[Weavile]<br>Lv. 76   | ![][muscle-band]<br>Muscle Band   | ?      | Technician [^1] | <ul><li>Icicle Crash</li><li>Feint Attack</li><li>Aerial Ace</li><li>Low Kick</li></ul>
-![][275]<br>[Shiftry]<br>Lv. 76   | ![][wise-glasses]<br>Wise Glasses | ?      | Chlorophyll     | <ul><li>Energy Ball</li><li>Dark Pulse</li><li>Hurricane</li><li>Focus Blast</li></ul>
-![][319]<br>[Sharpedo]<br>Lv. 76  | ![][expert-belt]<br>Expert Belt   | ?      | Speed Boost     | <ul><li>Waterfall</li><li>Crunch</li><li>Ice Fang</li><li>Zen Headbutt</li></ul>
-![][442]<br>[Spiritomb]<br>Lv. 76 | ![][leftovers]<br>Leftovers       | ?      | Pressure        | <ul><li>Dark Pulse</li><li>Psychic</li><li>Hypnosis</li><li>Double Team</li></ul>
-![][248]<br>[Tyranitar]<br>Lv. 77 | ![][chople-berry]<br>Chople Berry | ?      | Sand Stream     | <ul><li>Crunch</li><li>Stone Edge</li><li>Iron Tail</li><li>Fire Punch</li></ul>
+![][ace_m_2] | ![][229]<br>[Houndoom]<br>Lv. 76<br>![][white-herb]<br>White Herb<br>? / Intimidate [^1]<hr><ul><li>Dark Pulse</li><li>Overheat</li><li>Sludge Bomb</li><li>Thunder Fang</li></ul> | ![][461]<br>[Weavile]<br>Lv. 76<br>![][muscle-band]<br>Muscle Band<br>? / Technician [^1]<hr><ul><li>Icicle Crash</li><li>Feint Attack</li><li>Aerial Ace</li><li>Low Kick</li></ul> | ![][275]<br>[Shiftry]<br>Lv. 76<br>![][wise-glasses]<br>Wise Glasses<br>? / Chlorophyll<hr><ul><li>Energy Ball</li><li>Dark Pulse</li><li>Hurricane</li><li>Focus Blast</li></ul> | ![][319]<br>[Sharpedo]<br>Lv. 76<br>![][expert-belt]<br>Expert Belt<br>? / Speed Boost<hr><ul><li>Waterfall</li><li>Crunch</li><li>Ice Fang</li><li>Zen Headbutt</li></ul> | ![][442]<br>[Spiritomb]<br>Lv. 76<br>![][leftovers]<br>Leftovers<br>? / Pressure<hr><ul><li>Dark Pulse</li><li>Psychic</li><li>Hypnosis</li><li>Double Team</li></ul> | ![][248]<br>[Tyranitar]<br>Lv. 77<br>![][chople-berry]<br>Chople Berry<br>? / Sand Stream<hr><ul><li>Crunch</li><li>Stone Edge</li><li>Iron Tail</li><li>Fire Punch</li></ul>
+--- | --- | --- | --- | --- | --- | ---
 
 ### Rematches
 

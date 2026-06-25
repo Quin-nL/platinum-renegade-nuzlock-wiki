@@ -11,13 +11,8 @@ Galactic Grunt                    | ![][435]<br>[Skuntank]<br>Lv. 50<ul><li>Meme
 
 ### Commander Saturn
 
-![][saturn]                       | Item                                | Nature | Ability      | Moves
----                               | ---                                 | ---    | ---          | ---
-![][065]<br>[Alakazam]<br>Lv. 52  | ![][wise-glasses]<br>Wise Glasses   | ?      | Magic Guard  | <ul><li>Psychic</li><li>Calm Mind</li><li>Recover</li><li>Focus Blast</li></ul>
-![][224]<br>[Octillery]<br>Lv. 52 | ![][expert-belt]<br>Expert Belt     | ?      | Suction Cups | <ul><li>Hydro Pump</li><li>Seed Bomb</li><li>Flamethrower</li><li>Flash Cannon</li></ul>
-![][437]<br>[Bronzong]<br>Lv. 52  | ![][bright-powder]<br>Bright Powder | ?      | Levitate     | <ul><li>Iron Head</li><li>Zen Headbutt</li><li>Shadow Ball</li><li>Explosion</li></ul>
-![][112]<br>[Rhydon]<br>Lv. 52    | ![][muscle-band]<br>Muscle Band     | ?      | Rock Head    | <ul><li>Stone Edge</li><li>Earthquake</li><li>Hammer Arm</li><li>Megahorn</li></ul>
-![][454]<br>[Toxicroak]<br>Lv. 53 | ![][life-orb]<br>Life Orb           | ?      | Dry Skin     | <ul><li>Gunk Shot</li><li>Cross Chop</li><li>Fake Out</li><li>Sucker Punch</li></ul>
+![][saturn] | ![][065]<br>[Alakazam]<br>Lv. 52<br>![][wise-glasses]<br>Wise Glasses<br>? / Magic Guard<hr><ul><li>Psychic</li><li>Calm Mind</li><li>Recover</li><li>Focus Blast</li></ul> | ![][224]<br>[Octillery]<br>Lv. 52<br>![][expert-belt]<br>Expert Belt<br>? / Suction Cups<hr><ul><li>Hydro Pump</li><li>Seed Bomb</li><li>Flamethrower</li><li>Flash Cannon</li></ul> | ![][437]<br>[Bronzong]<br>Lv. 52<br>![][bright-powder]<br>Bright Powder<br>? / Levitate<hr><ul><li>Iron Head</li><li>Zen Headbutt</li><li>Shadow Ball</li><li>Explosion</li></ul> | ![][112]<br>[Rhydon]<br>Lv. 52<br>![][muscle-band]<br>Muscle Band<br>? / Rock Head<hr><ul><li>Stone Edge</li><li>Earthquake</li><li>Hammer Arm</li><li>Megahorn</li></ul> | ![][454]<br>[Toxicroak]<br>Lv. 53<br>![][life-orb]<br>Life Orb<br>? / Dry Skin<hr><ul><li>Gunk Shot</li><li>Cross Chop</li><li>Fake Out</li><li>Sucker Punch</li></ul>
+--- | --- | --- | --- | --- | ---
 
 ## Wild Pokémon
 

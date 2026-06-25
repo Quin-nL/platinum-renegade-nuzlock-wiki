@@ -12,14 +12,8 @@ Ace Trainer Breanna          | ![][227]<br>[Skarmory]<br>Lv. 50<ul><li>Air Slash
 [Leader Byron]<br>![][byron] | ![][437]<br>[Bronzong]<br>Lv. 52  | ![][462]<br>[Magnezone]<br>Lv. 52  | ![][208]<br>[Steelix]<br>Lv. 52   | ![][205]<br>[Forretress]<br>Lv. 52 | ![][306]<br>[Aggron]<br>Lv. 52   | ![][411]<br>[Bastiodon]<br>Lv. 53
 
 ## Leader Byron
-![][byron]                         | Item                              | Nature  | Ability     | Moves
----                                | ---                               | ---     | ---         | ---
-![][437]<br>[Bronzong]<br>Lv. 52   | ![][light-clay]<br>Light Clay     | Impish  | Levitate    | <ul><li>Gyro Ball</li><li>Stealth Rock</li><li>Reflect</li><li>Light Screen</li></ul>
-![][462]<br>[Magnezone]<br>Lv. 52  | ![][wise-glasses]<br>Wise Glasses | Quiet   | Magnet Pull | <ul><li>Thunderbolt</li><li>Flash Cannon</li><li>Signal Beam</li><li>Thunder Wave</li></ul>
-![][208]<br>[Steelix]<br>Lv. 52    | ![][muscle-band]<br>Muscle Band   | Adamant | Rock Head   | <ul><li>Gyro Ball</li><li>Earthquake</li><li>Stone Edge</li><li>Explosion</li></ul>
-![][205]<br>[Forretress]<br>Lv. 52 | ![][sitrus-berry]<br>Sitrus Berry | Impish  | Sturdy      | <ul><li>Gyro Ball</li><li>Spikes</li><li>Toxic Spikes</li><li>Explosion</li></ul>
-![][306]<br>[Aggron]<br>Lv. 52     | ![][focus-sash]<br>Focus Sash     | Naughty | Rock Head   | <ul><li>Head Smash</li><li>Iron Head</li><li>Aqua Tail</li><li>Low Kick</li></ul>
-![][411]<br>[Bastiodon]<br>Lv. 53  | ![][leftovers]<br>Leftovers       | Sassy   | Soundproof  | <ul><li>Iron Head</li><li>Toxic</li><li>Protect</li><li>Metal Burst</li></ul>
+![][byron] | ![][437]<br>[Bronzong]<br>Lv. 52<br>![][light-clay]<br>Light Clay<br>Impish / Levitate<hr><ul><li>Gyro Ball</li><li>Stealth Rock</li><li>Reflect</li><li>Light Screen</li></ul> | ![][462]<br>[Magnezone]<br>Lv. 52<br>![][wise-glasses]<br>Wise Glasses<br>Quiet / Magnet Pull<hr><ul><li>Thunderbolt</li><li>Flash Cannon</li><li>Signal Beam</li><li>Thunder Wave</li></ul> | ![][208]<br>[Steelix]<br>Lv. 52<br>![][muscle-band]<br>Muscle Band<br>Adamant / Rock Head<hr><ul><li>Gyro Ball</li><li>Earthquake</li><li>Stone Edge</li><li>Explosion</li></ul> | ![][205]<br>[Forretress]<br>Lv. 52<br>![][sitrus-berry]<br>Sitrus Berry<br>Impish / Sturdy<hr><ul><li>Gyro Ball</li><li>Spikes</li><li>Toxic Spikes</li><li>Explosion</li></ul> | ![][306]<br>[Aggron]<br>Lv. 52<br>![][focus-sash]<br>Focus Sash<br>Naughty / Rock Head<hr><ul><li>Head Smash</li><li>Iron Head</li><li>Aqua Tail</li><li>Low Kick</li></ul> | ![][411]<br>[Bastiodon]<br>Lv. 53<br>![][leftovers]<br>Leftovers<br>Sassy / Soundproof<hr><ul><li>Iron Head</li><li>Toxic</li><li>Protect</li><li>Metal Burst</li></ul>
+--- | --- | --- | --- | --- | --- | ---
 
 --8<-- "includes/abilities.md"
 

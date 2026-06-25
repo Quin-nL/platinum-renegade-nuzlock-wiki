@@ -13,9 +13,8 @@ Belle & Pa Beth & Bob   | ![][077]<br>[Ponyta]<br>Lv. 33<ul><li>Fire Spin</li><l
 
 ### Master Trainer
 
-Psychic ???<br>![][psychic_m]  | Item | Nature | Ability | Moves
----                            | ---  | ---    | ---     | ---
-![][094]<br>[Gengar]<br>Lv. 85 | None | ?      | ?       | <ul><li>Shadow Ball</li><li>Hypnosis</li><li>Luster Purge</li><li>-</li></ul>
+Psychic ???<br>![][psychic_m] | ![][094]<br>[Gengar]<br>Lv. 85<br>None<br>? / ?<hr><ul><li>Shadow Ball</li><li>Hypnosis</li><li>Luster Purge</li><li>-</li></ul>
+--- | ---
 
 ## Wild Pokémon
 

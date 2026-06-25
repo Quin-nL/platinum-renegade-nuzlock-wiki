@@ -12,14 +12,8 @@ Sailor Samson              | ![][080]<br>[Slowbro]<br>Lv. 39<ul><li>Amnesia</li>
 
 ## Leader Wake
 
-![][wake]                         | Item                              | Nature  | Ability      | Moves
----                               | ---                               | ---     | ---          | ---
-![][195]<br>[Quagsire]<br>Lv. 43  | ![][rindo-berry]<br>Rindo Berry   | Adamant | Water Absorb | <ul><li>Aqua Tail</li><li>Earthquake</li><li>Recover</li><li>Ice Punch</li></ul>
-![][130]<br>[Gyarados]<br>Lv. 43  | ![][wacan-berry]<br>Wacan Berry   | Jolly   | Intimidate   | <ul><li>Aqua Tail</li><li>Ice Fang</li><li>Crunch</li><li>Dragon Dance</li></ul>
-![][062]<br>[Poliwrath]<br>Lv. 43 | ![][sitrus-berry]<br>Sitrus Berry | Careful | Water Absorb | <ul><li>Waterfall</li><li>Drain Punch</li><li>Ice Punch</li><li>Hypnosis</li></ul>
-![][272]<br>[Ludicolo]<br>Lv. 43  | ![][life-orb]<br>Life Orb         | Modest  | Swift Swim   | <ul><li>Hydro Pump</li><li>Ice Beam</li><li>Energy Ball</li><li>Fake Out</li></ul>
-![][319]<br>[Sharpedo]<br>Lv. 43  | ![][focus-sash]<br>Focus Sash     | Naive   | Speed Boost  | <ul><li>Waterfall</li><li>Crunch</li><li>Ice Fang</li><li>Zen Headbutt</li></ul>
-![][419]<br>[Floatzel]<br>Lv. 44  | ![][life-orb]<br>Life Orb         | Naive   | Swift Swim   | <ul><li>Aqua Tail</li><li>Crunch</li><li>Ice Punch</li><li>Aqua Jet</li></ul>
+![][wake] | ![][195]<br>[Quagsire]<br>Lv. 43<br>![][rindo-berry]<br>Rindo Berry<br>Adamant / Water Absorb<hr><ul><li>Aqua Tail</li><li>Earthquake</li><li>Recover</li><li>Ice Punch</li></ul> | ![][130]<br>[Gyarados]<br>Lv. 43<br>![][wacan-berry]<br>Wacan Berry<br>Jolly / Intimidate<hr><ul><li>Aqua Tail</li><li>Ice Fang</li><li>Crunch</li><li>Dragon Dance</li></ul> | ![][062]<br>[Poliwrath]<br>Lv. 43<br>![][sitrus-berry]<br>Sitrus Berry<br>Careful / Water Absorb<hr><ul><li>Waterfall</li><li>Drain Punch</li><li>Ice Punch</li><li>Hypnosis</li></ul> | ![][272]<br>[Ludicolo]<br>Lv. 43<br>![][life-orb]<br>Life Orb<br>Modest / Swift Swim<hr><ul><li>Hydro Pump</li><li>Ice Beam</li><li>Energy Ball</li><li>Fake Out</li></ul> | ![][319]<br>[Sharpedo]<br>Lv. 43<br>![][focus-sash]<br>Focus Sash<br>Naive / Speed Boost<hr><ul><li>Waterfall</li><li>Crunch</li><li>Ice Fang</li><li>Zen Headbutt</li></ul> | ![][419]<br>[Floatzel]<br>Lv. 44<br>![][life-orb]<br>Life Orb<br>Naive / Swift Swim<hr><ul><li>Aqua Tail</li><li>Crunch</li><li>Ice Punch</li><li>Aqua Jet</li></ul>
+--- | --- | --- | --- | --- | --- | ---
 
 --8<-- "includes/abilities.md"
 

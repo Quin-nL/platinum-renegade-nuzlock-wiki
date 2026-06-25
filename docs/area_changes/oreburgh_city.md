@@ -7,14 +7,8 @@ Reporter Helen                       | ![][252]<br>[Treecko]<br>Lv. 10<ul><li>Po
 
 ## PKMN Trainer Steven
 
-![][steven]                        | Item                              | Nature | Ability      | Moves
----                                | ---                               | ---    | ---          | ---
-![][227]<br>[Skarmory]<br>Lv. 88   | ![][occa-berry]<br>Occa Berry     | ?      | Keen Eye     | <ul><li>Brave Bird</li><li>Iron Head</li><li>Drill Run</li><li>Stealth Rock</li></ul>
-![][306]<br>[Aggron]<br>Lv. 88     | ![][focus-sash]<br>Focus Sash     | ?      | Rock Head    | <ul><li>Head Smash</li><li>Aqua Tail</li><li>Iron Tail</li><li>Thunder Wave</li></ul>
-![][142]<br>[Aerodactyl]<br>Lv. 88 | ![][muscle-band]<br>Muscle Band   | ?      | Rock Head    | <ul><li>Brave Bird</li><li>Stone Edge</li><li>Crunch</li><li>Fire Fang</li></ul>
-![][346]<br>[Cradily]<br>Lv. 88    | ![][leftovers]<br>Leftovers       | ?      | Suction Cups | <ul><li>Power Whip</li><li>Rock Slide</li><li>Toxic</li><li>Recover</li></ul>
-![][348]<br>[Armaldo]<br>Lv. 88    | ![][passho-berry]<br>Passho Berry | ?      | Battle Armor | <ul><li>Stone Edge</li><li>X-Scissor</li><li>Swords Dance</li><li>Aqua Jet</li></ul>
-![][376]<br>[Metagross]<br>Lv. 89  | ![][life-orb]<br>Life Orb         | ?      | Iron Fist    | <ul><li>Meteor Mash</li><li>Zen Headbutt</li><li>Earthquake</li><li>Ice Punch</li></ul>
+![][steven] | ![][227]<br>[Skarmory]<br>Lv. 88<br>![][occa-berry]<br>Occa Berry<br>? / Keen Eye<hr><ul><li>Brave Bird</li><li>Iron Head</li><li>Drill Run</li><li>Stealth Rock</li></ul> | ![][306]<br>[Aggron]<br>Lv. 88<br>![][focus-sash]<br>Focus Sash<br>? / Rock Head<hr><ul><li>Head Smash</li><li>Aqua Tail</li><li>Iron Tail</li><li>Thunder Wave</li></ul> | ![][142]<br>[Aerodactyl]<br>Lv. 88<br>![][muscle-band]<br>Muscle Band<br>? / Rock Head<hr><ul><li>Brave Bird</li><li>Stone Edge</li><li>Crunch</li><li>Fire Fang</li></ul> | ![][346]<br>[Cradily]<br>Lv. 88<br>![][leftovers]<br>Leftovers<br>? / Suction Cups<hr><ul><li>Power Whip</li><li>Rock Slide</li><li>Toxic</li><li>Recover</li></ul> | ![][348]<br>[Armaldo]<br>Lv. 88<br>![][passho-berry]<br>Passho Berry<br>? / Battle Armor<hr><ul><li>Stone Edge</li><li>X-Scissor</li><li>Swords Dance</li><li>Aqua Jet</li></ul> | ![][376]<br>[Metagross]<br>Lv. 89<br>![][life-orb]<br>Life Orb<br>? / Iron Fist<hr><ul><li>Meteor Mash</li><li>Zen Headbutt</li><li>Earthquake</li><li>Ice Punch</li></ul>
+--- | --- | --- | --- | --- | --- | ---
 
 --8<-- "includes/abilities.md"
 

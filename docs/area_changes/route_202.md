@@ -46,9 +46,8 @@ Youngster Tristan :material-numeric-8-circle-outline: | ![][164]<br>[Noctowl]<br
 
 ### Master Trainer
 
-Bug Catcher Louie<br>![][bug_catcher] | Item | Nature | Ability | Moves
----                                   | ---  | ---    | ---     | ---
-![][469]<br>[Yanmega]<br>Lv. 85       | None | ?      | ?       | <ul><li>Air Slash</li><li>Protect</li><li>Bug Buzz</li><li>Substitute</li></ul>
+Bug Catcher Louie<br>![][bug_catcher] | ![][469]<br>[Yanmega]<br>Lv. 85<br>None<br>? / ?<hr><ul><li>Air Slash</li><li>Protect</li><li>Bug Buzz</li><li>Substitute</li></ul>
+--- | ---
 
 ## Wild Pokémon
 

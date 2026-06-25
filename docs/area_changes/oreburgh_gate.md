@@ -10,9 +10,8 @@ Veteran Grant   | ![][448]<br>[Lucario]<br>Lv. 45<ul><li>Me First</li><li>Dragon
 
 ### Master Trainer
 
-Hiker Dexter<br>![][hiker]       | Item | Nature | Ability      | Moves
----                              | ---  | ---    | ---          | ---
-![][195]<br>[Quagsire]<br>Lv. 85 | None | ?      | Water Absorb | <ul><li>Earthquake</li><li>Aqua Tail</li><li>Ice Punch</li><li>Recover</li></ul>
+Hiker Dexter<br>![][hiker] | ![][195]<br>[Quagsire]<br>Lv. 85<br>None<br>? / Water Absorb<hr><ul><li>Earthquake</li><li>Aqua Tail</li><li>Ice Punch</li><li>Recover</li></ul>
+--- | ---
 
 ## Wild Pokémon
 

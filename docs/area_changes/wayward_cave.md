@@ -18,12 +18,8 @@ Ruin Maniac Gerald               | ![][104]<br>[Cubone]<br>Lv. 25<ul><li>Rage</l
 
 ### PKMN Trainer Mira
 
-![][mira]                        | Item                              | Nature | Ability      | Moves
----                              | ---                               | ---    | ---          | ---
-![][176]<br>[Togetic]<br>Lv. 27  | ![][sitrus-berry]<br>Sitrus Berry | Modest | Serene Grace | <ul><li>Dazzling Gleam</li><li>Air Cutter</li><li>Soft-Boiled</li><li>Sweet Kiss</li></ul>
-![][093]<br>[Haunter]<br>Lv. 27  | ![][spell-tag]<br>Spell Tag       | Hasty  | Levitate     | <ul><li>Shadow Ball</li><li>Double Team</li><li>Hypnosis</li><li>Curse</li></ul>
-![][233]<br>[Porygon2]<br>Lv. 27 | ![][expert-belt]<br>Expert Belt   | Calm   | Trace        | <ul><li>Tri Attack</li><li>Charge Beam</li><li>Signal Beam</li><li>Recover</li></ul>
-![][064]<br>[Kadabra]<br>Lv. 28  | ![][life-orb]<br>Life Orb         | Modest | Magic Guard  | <ul><li>Psybeam</li><li>Grass Knot</li><li>Dazzling Gleam</li><li>Recover</li></ul>
+![][mira] | ![][176]<br>[Togetic]<br>Lv. 27<br>![][sitrus-berry]<br>Sitrus Berry<br>Modest / Serene Grace<hr><ul><li>Dazzling Gleam</li><li>Air Cutter</li><li>Soft-Boiled</li><li>Sweet Kiss</li></ul> | ![][093]<br>[Haunter]<br>Lv. 27<br>![][spell-tag]<br>Spell Tag<br>Hasty / Levitate<hr><ul><li>Shadow Ball</li><li>Double Team</li><li>Hypnosis</li><li>Curse</li></ul> | ![][233]<br>[Porygon2]<br>Lv. 27<br>![][expert-belt]<br>Expert Belt<br>Calm / Trace<hr><ul><li>Tri Attack</li><li>Charge Beam</li><li>Signal Beam</li><li>Recover</li></ul> | ![][064]<br>[Kadabra]<br>Lv. 28<br>![][life-orb]<br>Life Orb<br>Modest / Magic Guard<hr><ul><li>Psybeam</li><li>Grass Knot</li><li>Dazzling Gleam</li><li>Recover</li></ul>
+--- | --- | --- | --- | ---
 
 ## Wild Pokémon
 

@@ -4,9 +4,8 @@
 
 ### Master Trainer
 
-Ace Trainer???<br>![][ace_f]      | Item | Nature | Ability | Moves
----                               | ---  | ---    | ---     | ---
-![][248]<br>[Tyranitar]<br>Lv. 85 | None | ?      | ?       | <ul><li>Low Kick</li><li>Stone Edge</li><li>Crunch</li><li>Earthquake</li></ul>
+Ace Trainer???<br>![][ace_f] | ![][248]<br>[Tyranitar]<br>Lv. 85<br>None<br>? / ?<hr><ul><li>Low Kick</li><li>Stone Edge</li><li>Crunch</li><li>Earthquake</li></ul>
+--- | ---
 
 ## Wild Pokémon
 

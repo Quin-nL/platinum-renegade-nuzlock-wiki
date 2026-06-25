@@ -8,9 +8,8 @@ Ruin Maniac Karl | ![][436]<br>[Bronzor]<br>Lv. 31<ul><li>Gyro Ball</li><li>Iron
 
 ### Master Trainer
 
-Psychic Frasier<br>![][psychic_m] | Item | Nature | Ability    | Moves
----                               | ---  | ---    | ---        | ---
-![][376]<br>[Metagross]<br>Lv. 85 | None | ?      | Clear Body | <ul><li>Meteor Mash</li><li>Bullet Punch</li><li>Light Screen</li><li>Thunder Punch</li></ul>
+Psychic Frasier<br>![][psychic_m] | ![][376]<br>[Metagross]<br>Lv. 85<br>None<br>? / Clear Body<hr><ul><li>Meteor Mash</li><li>Bullet Punch</li><li>Light Screen</li><li>Thunder Punch</li></ul>
+--- | ---
 
 ## Wild Pokémon
 

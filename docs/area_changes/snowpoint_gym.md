@@ -12,14 +12,8 @@ Ace Trainer Sergio               | ![][220]<br>[Swinub]<br>Lv. 51<ul><li>Flail</
 
 ## Leader Candice
 
-![][candice]                      | Item                                | Nature  | Ability         | Moves
----                               | ---                                 | ---     | ---             | ---
-![][460]<br>[Abomasnow]<br>Lv. 55 | ![][expert-belt]<br>Expert Belt     | Brave   | Snow Warning    | <ul><li>Wood Hammer</li><li>Earthquake</li><li>Blizzard</li><li>Ice Shard</li></ul>
-![][461]<br>[Weavile]<br>Lv. 55   | ![][focus-sash]<br>Focus Sash       | Naughty | Technician [^1] | <ul><li>Crunch</li><li>Icicle Crash</li><li>Aerial Ace</li><li>Swords Dance</li></ul>
-![][471]<br>[Glaceon]<br>Lv. 55   | ![][bright-powder]<br>Bright Powder | Bold    | Snow Cloak      | <ul><li>Blizzard</li><li>Shadow Ball</li><li>Earth Power</li><li>Double Team</li></ul>
-![][365]<br>[Walrein]<br>Lv. 55   | ![][chople-berry]<br>Chople Berry   | Quiet   | Thick Fat       | <ul><li>Blizzard</li><li>Surf</li><li>Yawn</li><li>Aqua Ring</li></ul>
-![][473]<br>[Mamoswine]<br>Lv. 55 | ![][passho-berry]<br>Passho Berry   | Naive   | Thick Fat       | <ul><li>Earthquake</li><li>Avalanche</li><li>Stone Edge</li><li>Ice Shard</li></ul>
-![][478]<br>[Froslass]<br>Lv. 56  | ![][life-orb]<br>Life Orb           | Modest  | Levitate [^1]   | <ul><li>Blizzard</li><li>Shadow Ball</li><li>Thunderbolt</li><li>Attract</li></ul>
+![][candice] | ![][460]<br>[Abomasnow]<br>Lv. 55<br>![][expert-belt]<br>Expert Belt<br>Brave / Snow Warning<hr><ul><li>Wood Hammer</li><li>Earthquake</li><li>Blizzard</li><li>Ice Shard</li></ul> | ![][461]<br>[Weavile]<br>Lv. 55<br>![][focus-sash]<br>Focus Sash<br>Naughty / Technician [^1]<hr><ul><li>Crunch</li><li>Icicle Crash</li><li>Aerial Ace</li><li>Swords Dance</li></ul> | ![][471]<br>[Glaceon]<br>Lv. 55<br>![][bright-powder]<br>Bright Powder<br>Bold / Snow Cloak<hr><ul><li>Blizzard</li><li>Shadow Ball</li><li>Earth Power</li><li>Double Team</li></ul> | ![][365]<br>[Walrein]<br>Lv. 55<br>![][chople-berry]<br>Chople Berry<br>Quiet / Thick Fat<hr><ul><li>Blizzard</li><li>Surf</li><li>Yawn</li><li>Aqua Ring</li></ul> | ![][473]<br>[Mamoswine]<br>Lv. 55<br>![][passho-berry]<br>Passho Berry<br>Naive / Thick Fat<hr><ul><li>Earthquake</li><li>Avalanche</li><li>Stone Edge</li><li>Ice Shard</li></ul> | ![][478]<br>[Froslass]<br>Lv. 56<br>![][life-orb]<br>Life Orb<br>Modest / Levitate [^1]<hr><ul><li>Blizzard</li><li>Shadow Ball</li><li>Thunderbolt</li><li>Attract</li></ul>
+--- | --- | --- | --- | --- | --- | ---
 
 --8<-- "includes/abilities.md"
 

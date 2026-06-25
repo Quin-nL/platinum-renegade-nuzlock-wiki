@@ -41,54 +41,30 @@ Hiker Kevin                              | ![][206]<br>[Dunsparce]<br>Lv. 25<ul>
 ### PKMN Trainer Dawn
 
 === "Grass"
-    ![][dawn]                         | Item                              | Nature | Ability      | Moves
-    ---                               | ---                               | ---    | ---          | ---
-    ![][221]<br>[Piloswine]<br>Lv. 29 | ![][focus-sash]<br>Focus Sash     | ?      | Thick Fat    | <ul><li>Avalanche</li><li>Take Down</li><li>Rock Slide</li><li>Ice Shard</li></ul>
-    ![][036]<br>[Clefable]<br>Lv. 29  | ![][leftovers]<br>Leftovers       | ?      | Cute Charm   | <ul><li>Moonblast</li><li>Moonlight</li><li>Encore</li><li>Thunder Wave</li></ul>
-    ![][428]<br>[Lopunny]<br>Lv. 29   | ![][muscle-band]<br>Muscle Band   | ?      | Scrappy [^1] | <ul><li>Dizzy Punch</li><li>Fake Out</li><li>Jump Kick</li><li>Quick Attack</li></ul>
-    ![][394]<br>[Prinplup]<br>Lv. 30  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent      | <ul><li>Bubble Beam</li><li>Icy Wind</li><li>Brick Break</li><li>Shadow Claw</li></ul>
+    ![][dawn] | ![][221]<br>[Piloswine]<br>Lv. 29<br>![][focus-sash]<br>Focus Sash<br>? / Thick Fat<hr><ul><li>Avalanche</li><li>Take Down</li><li>Rock Slide</li><li>Ice Shard</li></ul> | ![][036]<br>[Clefable]<br>Lv. 29<br>![][leftovers]<br>Leftovers<br>? / Cute Charm<hr><ul><li>Moonblast</li><li>Moonlight</li><li>Encore</li><li>Thunder Wave</li></ul> | ![][428]<br>[Lopunny]<br>Lv. 29<br>![][muscle-band]<br>Muscle Band<br>? / Scrappy [^1]<hr><ul><li>Dizzy Punch</li><li>Fake Out</li><li>Jump Kick</li><li>Quick Attack</li></ul> | ![][394]<br>[Prinplup]<br>Lv. 30<br>![][sitrus-berry]<br>Sitrus Berry<br>? / Torrent<hr><ul><li>Bubble Beam</li><li>Icy Wind</li><li>Brick Break</li><li>Shadow Claw</li></ul>
+    --- | --- | --- | --- | ---
 
 === "Fire"
-    ![][dawn]                         | Item                              | Nature | Ability      | Moves
-    ---                               | ---                               | ---    | ---          | ---
-    ![][221]<br>[Piloswine]<br>Lv. 29 | ![][focus-sash]<br>Focus Sash     | ?      | Thick Fat    | <ul><li>Avalanche</li><li>Take Down</li><li>Rock Slide</li><li>Ice Shard</li></ul>
-    ![][036]<br>[Clefable]<br>Lv. 29  | ![][leftovers]<br>Leftovers       | ?      | Cute Charm   | <ul><li>Moonblast</li><li>Moonlight</li><li>Encore</li><li>Thunder Wave</li></ul>
-    ![][428]<br>[Lopunny]<br>Lv. 29   | ![][muscle-band]<br>Muscle Band   | ?      | Scrappy [^1] | <ul><li>Dizzy Punch</li><li>Fake Out</li><li>Jump Kick</li><li>Quick Attack</li></ul>
-    ![][388]<br>[Grotle]<br>Lv. 30    | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow     | <ul><li>Seed Bomb</li><li>Body Slam</li><li>Leech Seed</li><li>Sand Tomb</li></ul>
+    ![][dawn] | ![][221]<br>[Piloswine]<br>Lv. 29<br>![][focus-sash]<br>Focus Sash<br>? / Thick Fat<hr><ul><li>Avalanche</li><li>Take Down</li><li>Rock Slide</li><li>Ice Shard</li></ul> | ![][036]<br>[Clefable]<br>Lv. 29<br>![][leftovers]<br>Leftovers<br>? / Cute Charm<hr><ul><li>Moonblast</li><li>Moonlight</li><li>Encore</li><li>Thunder Wave</li></ul> | ![][428]<br>[Lopunny]<br>Lv. 29<br>![][muscle-band]<br>Muscle Band<br>? / Scrappy [^1]<hr><ul><li>Dizzy Punch</li><li>Fake Out</li><li>Jump Kick</li><li>Quick Attack</li></ul> | ![][388]<br>[Grotle]<br>Lv. 30<br>![][sitrus-berry]<br>Sitrus Berry<br>? / Overgrow<hr><ul><li>Seed Bomb</li><li>Body Slam</li><li>Leech Seed</li><li>Sand Tomb</li></ul>
+    --- | --- | --- | --- | ---
 
 === "Water"
-    ![][dawn]                         | Item                              | Nature | Ability      | Moves
-    ---                               | ---                               | ---    | ---          | ---
-    ![][221]<br>[Piloswine]<br>Lv. 29 | ![][focus-sash]<br>Focus Sash     | ?      | Thick Fat    | <ul><li>Avalanche</li><li>Take Down</li><li>Rock Slide</li><li>Ice Shard</li></ul>
-    ![][036]<br>[Clefable]<br>Lv. 29  | ![][leftovers]<br>Leftovers       | ?      | Cute Charm   | <ul><li>Moonblast</li><li>Moonlight</li><li>Encore</li><li>Thunder Wave</li></ul>
-    ![][428]<br>[Lopunny]<br>Lv. 29   | ![][muscle-band]<br>Muscle Band   | ?      | Scrappy [^1] | <ul><li>Dizzy Punch</li><li>Fake Out</li><li>Jump Kick</li><li>Quick Attack</li></ul>
-    ![][391]<br>[Monferno]<br>Lv. 30  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist    | <ul><li>Flamethrower</li><li>Fake Out</li><li>Mach Punch</li><li>Grass Knot</li></ul>
+    ![][dawn] | ![][221]<br>[Piloswine]<br>Lv. 29<br>![][focus-sash]<br>Focus Sash<br>? / Thick Fat<hr><ul><li>Avalanche</li><li>Take Down</li><li>Rock Slide</li><li>Ice Shard</li></ul> | ![][036]<br>[Clefable]<br>Lv. 29<br>![][leftovers]<br>Leftovers<br>? / Cute Charm<hr><ul><li>Moonblast</li><li>Moonlight</li><li>Encore</li><li>Thunder Wave</li></ul> | ![][428]<br>[Lopunny]<br>Lv. 29<br>![][muscle-band]<br>Muscle Band<br>? / Scrappy [^1]<hr><ul><li>Dizzy Punch</li><li>Fake Out</li><li>Jump Kick</li><li>Quick Attack</li></ul> | ![][391]<br>[Monferno]<br>Lv. 30<br>![][sitrus-berry]<br>Sitrus Berry<br>? / Iron Fist<hr><ul><li>Flamethrower</li><li>Fake Out</li><li>Mach Punch</li><li>Grass Knot</li></ul>
+    --- | --- | --- | --- | ---
 
 ### PKMN Trainer Lucas
 
 === "Grass"
-    ![][lucas]                         | Item                              | Nature | Ability    | Moves
-    ---                                | ---                               | ---    | ---        | ---
-    ![][221]<br>[Piloswine]<br>Lv. 29  | ![][focus-sash]<br>Focus Sash     | ?      | Thick Fat  | <ul><li>Avalanche</li><li>Take Down</li><li>Rock Slide</li><li>Ice Shard</li></ul>
-    ![][210]<br>[Granbull]<br>Lv. 29   | ![][muscle-band]<br>Muscle Band   | ?      | Intimidate | <ul><li>Play Rough</li><li>Fire Fang</li><li>Thunder Fang</li><li>Ice Fang</li></ul>
-    ![][463]<br>[Lickilicky]<br>Lv. 29 | ![][leftovers]<br>Leftovers       | ?      | Own Tempo  | <ul><li>Slam</li><li>Magnitude</li><li>Knock Off</li><li>Protect</li></ul>
-    ![][394]<br>[Prinplup]<br>Lv. 30   | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent    | <ul><li>Bubble Beam</li><li>Icy Wind</li><li>Brick Break</li><li>Shadow Claw</li></ul>
+    ![][lucas] | ![][221]<br>[Piloswine]<br>Lv. 29<br>![][focus-sash]<br>Focus Sash<br>? / Thick Fat<hr><ul><li>Avalanche</li><li>Take Down</li><li>Rock Slide</li><li>Ice Shard</li></ul> | ![][210]<br>[Granbull]<br>Lv. 29<br>![][muscle-band]<br>Muscle Band<br>? / Intimidate<hr><ul><li>Play Rough</li><li>Fire Fang</li><li>Thunder Fang</li><li>Ice Fang</li></ul> | ![][463]<br>[Lickilicky]<br>Lv. 29<br>![][leftovers]<br>Leftovers<br>? / Own Tempo<hr><ul><li>Slam</li><li>Magnitude</li><li>Knock Off</li><li>Protect</li></ul> | ![][394]<br>[Prinplup]<br>Lv. 30<br>![][sitrus-berry]<br>Sitrus Berry<br>? / Torrent<hr><ul><li>Bubble Beam</li><li>Icy Wind</li><li>Brick Break</li><li>Shadow Claw</li></ul>
+    --- | --- | --- | --- | ---
 
 === "Fire"
-    ![][lucas]                         | Item                              | Nature | Ability    | Moves
-    ---                                | ---                               | ---    | ---        | ---
-    ![][221]<br>[Piloswine]<br>Lv. 29  | ![][focus-sash]<br>Focus Sash     | ?      | Thick Fat  | <ul><li>Avalanche</li><li>Take Down</li><li>Rock Slide</li><li>Ice Shard</li></ul>
-    ![][210]<br>[Granbull]<br>Lv. 29   | ![][muscle-band]<br>Muscle Band   | ?      | Intimidate | <ul><li>Play Rough</li><li>Fire Fang</li><li>Thunder Fang</li><li>Ice Fang</li></ul>
-    ![][463]<br>[Lickilicky]<br>Lv. 29 | ![][leftovers]<br>Leftovers       | ?      | Own Tempo  | <ul><li>Slam</li><li>Magnitude</li><li>Knock Off</li><li>Protect</li></ul>
-    ![][388]<br>[Grotle]<br>Lv. 30     | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow   | <ul><li>Seed Bomb</li><li>Body Slam</li><li>Leech Seed</li><li>Sand Tomb</li></ul>
+    ![][lucas] | ![][221]<br>[Piloswine]<br>Lv. 29<br>![][focus-sash]<br>Focus Sash<br>? / Thick Fat<hr><ul><li>Avalanche</li><li>Take Down</li><li>Rock Slide</li><li>Ice Shard</li></ul> | ![][210]<br>[Granbull]<br>Lv. 29<br>![][muscle-band]<br>Muscle Band<br>? / Intimidate<hr><ul><li>Play Rough</li><li>Fire Fang</li><li>Thunder Fang</li><li>Ice Fang</li></ul> | ![][463]<br>[Lickilicky]<br>Lv. 29<br>![][leftovers]<br>Leftovers<br>? / Own Tempo<hr><ul><li>Slam</li><li>Magnitude</li><li>Knock Off</li><li>Protect</li></ul> | ![][388]<br>[Grotle]<br>Lv. 30<br>![][sitrus-berry]<br>Sitrus Berry<br>? / Overgrow<hr><ul><li>Seed Bomb</li><li>Body Slam</li><li>Leech Seed</li><li>Sand Tomb</li></ul>
+    --- | --- | --- | --- | ---
 
 === "Water"
-    ![][lucas]                         | Item                              | Nature | Ability    | Moves
-    ---                                | ---                               | ---    | ---        | ---
-    ![][221]<br>[Piloswine]<br>Lv. 29  | ![][focus-sash]<br>Focus Sash     | ?      | Thick Fat  | <ul><li>Avalanche</li><li>Take Down</li><li>Rock Slide</li><li>Ice Shard</li></ul>
-    ![][210]<br>[Granbull]<br>Lv. 29   | ![][muscle-band]<br>Muscle Band   | ?      | Intimidate | <ul><li>Play Rough</li><li>Fire Fang</li><li>Thunder Fang</li><li>Ice Fang</li></ul>
-    ![][463]<br>[Lickilicky]<br>Lv. 29 | ![][leftovers]<br>Leftovers       | ?      | Own Tempo  | <ul><li>Slam</li><li>Magnitude</li><li>Knock Off</li><li>Protect</li></ul>
-    ![][391]<br>[Monferno]<br>Lv. 30   | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist  | <ul><li>Flamethrower</li><li>Fake Out</li><li>Mach Punch</li><li>Grass Knot</li></ul>
+    ![][lucas] | ![][221]<br>[Piloswine]<br>Lv. 29<br>![][focus-sash]<br>Focus Sash<br>? / Thick Fat<hr><ul><li>Avalanche</li><li>Take Down</li><li>Rock Slide</li><li>Ice Shard</li></ul> | ![][210]<br>[Granbull]<br>Lv. 29<br>![][muscle-band]<br>Muscle Band<br>? / Intimidate<hr><ul><li>Play Rough</li><li>Fire Fang</li><li>Thunder Fang</li><li>Ice Fang</li></ul> | ![][463]<br>[Lickilicky]<br>Lv. 29<br>![][leftovers]<br>Leftovers<br>? / Own Tempo<hr><ul><li>Slam</li><li>Magnitude</li><li>Knock Off</li><li>Protect</li></ul> | ![][391]<br>[Monferno]<br>Lv. 30<br>![][sitrus-berry]<br>Sitrus Berry<br>? / Iron Fist<hr><ul><li>Flamethrower</li><li>Fake Out</li><li>Mach Punch</li><li>Grass Knot</li></ul>
+    --- | --- | --- | --- | ---
 
 ### Rematches
 
@@ -100,9 +76,8 @@ Battle Girl Helen :material-alpha-c-circle-outline:   | ![][237]<br>[Hitmontop]<
 
 ### Master Trainer
 
-Hiker ???<br>![][hiker]           | Item | Nature | Ability | Moves
----                               | ---  | ---    | ---     | ---
-![][464]<br>[Rhyperior]<br>Lv. 85 | None | ?      | ?       | <ul><li>Earthquake</li><li>Stone Edge</li><li>Megahorn</li><li>Hammer Arm</li></ul>
+Hiker ???<br>![][hiker] | ![][464]<br>[Rhyperior]<br>Lv. 85<br>None<br>? / ?<hr><ul><li>Earthquake</li><li>Stone Edge</li><li>Megahorn</li><li>Hammer Arm</li></ul>
+--- | ---
 
 ## Wild Pokémon
 

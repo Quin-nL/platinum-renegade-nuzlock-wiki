@@ -15,14 +15,8 @@ Ace Trainer Sandra                 | ![][051]<br>[Dugtrio]<br>Lv. 74<ul><li>Nigh
 !!! note
     This trainer needs to be beaten to advance into Stark Mountain
 
-![][ace_m_2]                      | Item                              | Nature | Ability      | Moves
----                               | ---                               | ---    | ---          | ---
-![][234]<br>[Stantler]<br>Lv. 76  | ![][choice-scarf]<br>Choice Scarf | ?      | Intimidate   | <ul><li>Double-Edge</li><li>Jump Kick</li><li>Megahorn</li><li>Zen Headbutt</li></ul>
-![][085]<br>[Dodrio]<br>Lv. 76    | ![][muscle-band]<br>Muscle Band   | ?      | Tangled Feet | <ul><li>Double-Edge</li><li>Brave Bird</li><li>High Jump Kick</li><li>Drill Run</li></ul>
-![][203]<br>[Girafarig]<br>Lv. 76 | ![][wise-glasses]<br>Wise Glasses | ?      | Inner Focus  | <ul><li>Hyper Voice</li><li>Psychic</li><li>Thunderbolt</li><li>Dazzling Gleam</li></ul>
-![][400]<br>[Bibarel]<br>Lv. 76   | ![][chople-berry]<br>Chople Berry | ?      | Simple       | <ul><li>Double-Edge</li><li>Aqua Tail</li><li>Crunch</li><li>Curse</li></ul>
-![][474]<br>[Porygon-Z]<br>Lv. 76 | ![][life-orb]<br>Life Orb         | ?      | Adaptability | <ul><li>Hyper Beam</li><li>Thunderbolt</li><li>Ice Beam</li><li>Psychic</li></ul>
-![][143]<br>[Snorlax]<br>Lv. 77   | ![][leftovers]<br>Leftovers       | ?      | Thick Fat    | <ul><li>Body Slam</li><li>Earthquake</li><li>Curse</li><li>Slack Off</li></ul>
+![][ace_m_2] | ![][234]<br>[Stantler]<br>Lv. 76<br>![][choice-scarf]<br>Choice Scarf<br>? / Intimidate<hr><ul><li>Double-Edge</li><li>Jump Kick</li><li>Megahorn</li><li>Zen Headbutt</li></ul> | ![][085]<br>[Dodrio]<br>Lv. 76<br>![][muscle-band]<br>Muscle Band<br>? / Tangled Feet<hr><ul><li>Double-Edge</li><li>Brave Bird</li><li>High Jump Kick</li><li>Drill Run</li></ul> | ![][203]<br>[Girafarig]<br>Lv. 76<br>![][wise-glasses]<br>Wise Glasses<br>? / Inner Focus<hr><ul><li>Hyper Voice</li><li>Psychic</li><li>Thunderbolt</li><li>Dazzling Gleam</li></ul> | ![][400]<br>[Bibarel]<br>Lv. 76<br>![][chople-berry]<br>Chople Berry<br>? / Simple<hr><ul><li>Double-Edge</li><li>Aqua Tail</li><li>Crunch</li><li>Curse</li></ul> | ![][474]<br>[Porygon-Z]<br>Lv. 76<br>![][life-orb]<br>Life Orb<br>? / Adaptability<hr><ul><li>Hyper Beam</li><li>Thunderbolt</li><li>Ice Beam</li><li>Psychic</li></ul> | ![][143]<br>[Snorlax]<br>Lv. 77<br>![][leftovers]<br>Leftovers<br>? / Thick Fat<hr><ul><li>Body Slam</li><li>Earthquake</li><li>Curse</li><li>Slack Off</li></ul>
+--- | --- | --- | --- | --- | --- | ---
 
 ## Wild Pokémon
 

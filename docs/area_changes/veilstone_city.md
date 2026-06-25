@@ -8,9 +8,8 @@ Team Galactic Grunt | ![][435]<br>[Skuntank]<br>Lv. 35<ul><li>Toxic</li><li>Pois
 
 ## Master Trainer
 
-Black Belt Randy<br>![][blackbelt] | Item | Nature | Ability | Moves
----                                | ---  | ---    | ---     | ---
-![][475]<br>[Gallade]<br>Lv. 85    | None | ?      | ?       | <ul><li>Zen Headbut</li><li>Close Combat</li><li>Thunder Wave</li><li>Confuse Ray</li></ul>
+Black Belt Randy<br>![][blackbelt] | ![][475]<br>[Gallade]<br>Lv. 85<br>None<br>? / ?<hr><ul><li>Zen Headbut</li><li>Close Combat</li><li>Thunder Wave</li><li>Confuse Ray</li></ul>
+--- | ---
 
 --8<-- "includes/abilities.md"
 

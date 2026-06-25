@@ -17,14 +17,8 @@ Swimmer Mallory                       | ![][284]<br>[Masquerain]<br>Lv. 73<ul><l
 !!! note
     This trainer needs to be beaten to advance into Stark Mountain
 
-![][ace_f_2]                       | Item                            | Nature | Ability         | Moves
----                                | ---                             | ---    | ---             | ---
-![][040]<br>[Wigglytuff]<br>Lv. 76 | ![][expert-belt]<br>Expert Belt | ?      | Cute Charm      | <ul><li>Moonblast</li><li>Thunderbolt</li><li>Ice Beam</li><li>Flamethrower</li></ul>
-![][036]<br>[Clefable]<br>Lv. 76   | ![][leftovers]<br>Leftovers     | ?      | Cute Charm      | <ul><li>Moonblast</li><li>Soft-Boiled</li><li>Focus Blast</li><li>Reflect</li></ul>
-![][184]<br>[Azumarill]<br>Lv. 76  | ![][white-herb]<br>White Herb   | ?      | Huge Power      | <ul><li>Play Rough</li><li>Aqua Tail</li><li>Superpower</li><li>Aqua Jet</li></ul>
-![][210]<br>[Granbull]<br>Lv. 76   | ![][muscle-band]<br>Muscle Band | ?      | Intimidate      | <ul><li>Play Rough</li><li>Close Combat</li><li>Crunch</li><li>Lovely Kiss</li></ul>
-![][303]<br>[Mawile]<br>Lv. 76     | ![][focus-sash]<br>Focus Sash   | ?      | Huge Power [^1] | <ul><li>Play Rough</li><li>Iron Head</li><li>Sucker Punch</li><li>Swords Dance</li></ul>
-![][282]<br>[Gardevoir]<br>Lv. 77  | ![][life-orb]<br>Life Orb       | ?      | Synchronize     | <ul><li>Moonblast</li><li>Psychic</li><li>Thunderbolt</li><li>Aura Sphere</li></ul>
+![][ace_f_2] | ![][040]<br>[Wigglytuff]<br>Lv. 76<br>![][expert-belt]<br>Expert Belt<br>? / Cute Charm<hr><ul><li>Moonblast</li><li>Thunderbolt</li><li>Ice Beam</li><li>Flamethrower</li></ul> | ![][036]<br>[Clefable]<br>Lv. 76<br>![][leftovers]<br>Leftovers<br>? / Cute Charm<hr><ul><li>Moonblast</li><li>Soft-Boiled</li><li>Focus Blast</li><li>Reflect</li></ul> | ![][184]<br>[Azumarill]<br>Lv. 76<br>![][white-herb]<br>White Herb<br>? / Huge Power<hr><ul><li>Play Rough</li><li>Aqua Tail</li><li>Superpower</li><li>Aqua Jet</li></ul> | ![][210]<br>[Granbull]<br>Lv. 76<br>![][muscle-band]<br>Muscle Band<br>? / Intimidate<hr><ul><li>Play Rough</li><li>Close Combat</li><li>Crunch</li><li>Lovely Kiss</li></ul> | ![][303]<br>[Mawile]<br>Lv. 76<br>![][focus-sash]<br>Focus Sash<br>? / Huge Power [^1]<hr><ul><li>Play Rough</li><li>Iron Head</li><li>Sucker Punch</li><li>Swords Dance</li></ul> | ![][282]<br>[Gardevoir]<br>Lv. 77<br>![][life-orb]<br>Life Orb<br>? / Synchronize<hr><ul><li>Moonblast</li><li>Psychic</li><li>Thunderbolt</li><li>Aura Sphere</li></ul>
+--- | --- | --- | --- | --- | --- | ---
 
 ### Rematches
 
