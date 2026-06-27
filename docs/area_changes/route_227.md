@@ -2,12 +2,14 @@
 
 ## Trainers
 
-Trainer                                 | 1                                | 2                                  | 3                                 | 4                                | 5                                 | 6
----                                     | ---                              | ---                                | ---                               | ---                              | ---                               | ---
-:repeat: [Ace Trainer Saul](#rematches) | ![][128]<br>[Tauros]<br>Lv. 78<ul><li>Double-Edge</li><li>Megahorn</li><li>Outrage</li><li>Giga Impact</li></ul> | &nbsp;                             | &nbsp;                            | &nbsp;                           | &nbsp;                            | &nbsp;
-PKMN Ranger Felicia                     | ![][189]<br>[Jumpluff]<br>Lv. 76<ul><li>Worry Seed</li><li>Energy Ball</li><li>Aromatherapy</li><li>Memento</li></ul> | ![][428]<br>[Lopunny]<br>Lv. 76<ul><li>Bounce</li><li>Focus Punch</li><li>Healing Wish</li><li>High Jump Kick</li></ul> | &nbsp;                            | &nbsp;                           | &nbsp;                            | &nbsp;
-Black Belt Griffin                      | ![][286]<br>[Breloom]<br>Lv. 75<ul><li>Sky Uppercut</li><li>Counter</li><li>Dynamic Punch</li><li>Superpower</li></ul> | ![][308]<br>[Medicham]<br>Lv. 75<ul><li>Acupressure</li><li>Power Trick</li><li>Reversal</li><li>Recover</li></ul> | ![][448]<br>[Lucario]<br>Lv. 75<ul><li>Close Combat</li><li>Meteor Mash</li><li>High Jump Kick</li><li>Extreme Speed</li></ul> | &nbsp;                           | &nbsp;                            | &nbsp;
-Ace Trainer Mikayla                     | ![][336]<br>[Seviper]<br>Lv. 76<ul><li>Haze</li><li>Swords Dance</li><li>Gunk Shot</li><li>Wring Out</li></ul> | ![][053]<br>[Persian]<br>Lv. 76<ul><li>Play Rough</li><li>Captivate</li><li>Feint</li><li>Double-Edge</li></ul> | ![][359]<br>[Absol]<br>Lv. 76<ul><li>Megahorn</li><li>Play Rough</li><li>Future Sight</li><li>Perish Song</li></ul> | &nbsp;                           | &nbsp;                            | &nbsp;
+Trainer | 1 | 2 | 3 | 4 | 5 | 6
+--- | --- | --- | --- | --- | --- | ---
+![][ace_m]<br>Ace Trainer Saul<hr><br>Looks Left | ![][128]<br>[Tauros]<br>Lv. 78<br>Relaxed / Intimidate<br>75/100/95/40/70/110<hr>Thrash<br>Zen Headbutt<br>Megahorn<br>Payback | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp;
+Pkmn Ranger Felicia<hr><br>Looks Up | ![][189]<br>[Jumpluff]<br>Lv. 76<br>Hasty / Chlorophyll<br>75/55/70/85/95/110<hr>Worry Seed<br>Energy Ball<br>Aromatherapy<br>Memento | ![][428]<br>[Lopunny]<br>Lv. 76<br>Rash / Scrappy<br>65/106/84/44/96/105<hr>Bounce<br>Focus Punch<br>Healing Wish<br>High Jump Kick | &nbsp; | &nbsp; | &nbsp; | &nbsp;
+Black Belt Griffin<hr><br>Looks Down | ![][286]<br>[Breloom]<br>Lv. 75<br>Naive / Technician<br>60/130/80/60/60/70<hr>Spore<br>Mach Punch<br>Seed Bomb<br>Rock Slide | ![][308]<br>[Medicham]<br>Lv. 75<br>Impish / Pure Power<br>60/60/80/80/80/90<hr>Detect<br>Zen Headbutt<br>High Jump Kick<br>Ice Punch | ![][448]<br>[Lucario]<br>Lv. 75<br>Serious / Adaptability<br>70/110/70/115/70/90<hr>Aura Sphere<br>Bone Rush<br>Blaze Kick<br>Crunch | &nbsp; | &nbsp; | &nbsp;
+![][ace_m]<br>Ace Trainer Slythe<hr><br>Fights you when talked to<br>Jump over the ledge and take the Rock Climb steps down to reach her<br>Once beaten she gives you the Acid Badge<br>Can use : 2 FULL RESTORES<br>Looks Around | ![][094]<br>[Gengar]<br>Lv. 76<br>Wide Lens<br>Naughty / Levitate<br>60/65/60/130/75/110<hr>Sludge Bomb<br>Shadow Ball<br>Focus Blast<br>Thunder | ![][073]<br>[Tentacruel]<br>Lv. 76<br>Black Sludge<br>Quirky / Clear Body<br>80/70/65/80/120/100<hr>Sludge Bomb<br>Muddy Water<br>Ice Beam<br>Toxic Spikes | ![][031]<br>[Nidoqueen]<br>Lv. 76<br>Life Orb<br>Impish / Poison Point<br>90/92/87/75/85/76<hr>Poison Jab<br>Earthquake<br>Fire Blast<br>Stone Edge | ![][169]<br>[Crobat]<br>Lv. 76<br>Shell Bell<br>Jolly / Inner Focus<br>85/90/80/70/80/130<hr>Cross Poison<br>Brave Bird<br>Hypnosis<br>Leech Life | ![][454]<br>[Toxicroak]<br>Lv. 76<br>Expert Belt<br>Quirky / Dry Skin<br>83/106/65/86/65/85<hr>Gunk Shot<br>Drain Punch<br>Sucker Punch<br>Fake Out | ![][045]<br>[Vileplume]<br>Lv. 77<br>Sitrus Berry<br>Timid / Chlorophyll<br>75/80/85/110/90/50<hr>Sludge Bomb<br>Petal Dance<br>Moonblast<br>Sleep Powder
+![][ace_m]<br>Ace Trainer Mikayla<hr><br>Jump over the ledge and take the suspended bike rope to reach her<br>Looks Left | ![][336]<br>[Seviper]<br>Lv. 76<br>Jolly / Shed Skin<br>75/115/60/80/60/75<hr>Night Slash<br>Gunk Shot<br>Flamethrower<br>Glare | ![][053]<br>[Persian]<br>Lv. 76<br>Quirky / Technician<br>65/80/60/80/65/115<hr>Swift<br>Power Gem<br>Hypnosis<br>Fake Out | ![][359]<br>[Absol]<br>Lv. 76<br>Calm / Super Luck<br>65/130/60/85/60/85<hr>Night Slash<br>Psycho Cut<br>Play Rough<br>Quick Attack | &nbsp; | &nbsp; | &nbsp;
+Pkmn Trainer Buck<hr><br>Can be fought once you've gathered the 6 unofficial badges of the Island<br>Can use : 2 FULL RESTORES | ![][324]<br>[Torkoal]<br>Lv. 77<br>Shuca Berry<br>Gentle / Drought<br>70/85/140/85/70/20<hr>Fire Blast<br>Earth Power<br>Solar Beam<br>Stealth Rock | ![][213]<br>[Shuckle]<br>Lv. 77<br>Lum Berry<br>Lonely / Sturdy<br>20/10/230/10/230/5<hr>Toxic<br>Encore<br>Rest<br>Protect | ![][197]<br>[Umbreon]<br>Lv. 77<br>Chople Berry<br>Timid / Synchronize<br>95/65/110/60/130/65<hr>Payback<br>Confuse Ray<br>Toxic<br>Moonlight | ![][477]<br>[Dusknoir]<br>Lv. 77<br>Sitrus Berry<br>Quirky / Iron Fist<br>45/100/135/65/135/45<hr>Shadow Punch<br>Confuse Ray<br>Protect<br>Drain Punch | ![][091]<br>[Cloyster]<br>Lv. 77<br>Expert Belt<br>Docile / Skill Link<br>50/95/180/85/45/70<hr>Icicle Spear<br>Hydro Pump<br>Spikes<br>Toxic Spikes | ![][344]<br>[Claydol]<br>Lv. 78<br>Leftovers<br>Hardy / Levitate<br>60/70/105/70/120/75<hr>Earth Power<br>Psychic<br>Ice Beam<br>Calm Mind
 
 ### Ace Trainer Slythe
 
@@ -24,9 +26,9 @@ Ace Trainer Mikayla                     | ![][336]<br>[Seviper]<br>Lv. 76<ul><li
 
 ### Rematches
 
-Trainer                                            | 1
----                                                | ---
-Ace Trainer Saul :material-alpha-s-circle-outline: | ![][128]<br>[Tauros]<br>Lv. 80<ul><li>Double-Edge</li><li>Megahorn</li><li>Outrage</li><li>Giga Impact</li></ul> 
+Trainer | 1
+--- | ---
+![][ace_m]<br>Ace Trainer Saul<hr><br>(AFTER STARK MOUNTAIN) | ![][128]<br>[Tauros]<br>Lv. 80<br>Modest / Intimidate<br>75/100/95/40/70/110<hr>Giga Impact<br>Zen Headbutt<br>Earthquake<br>Stone Edge
 
 ## Wild Pokémon
 
@@ -139,3 +141,4 @@ Item | Name | Obtained
 [super-rod]: ../img/items/super-rod.png
 [wide-lens]: ../img/items/wide-lens.png
 [charcoal]: ../img/items/charcoal.png
+[ace_m]: ../img/trainer/ace_m.png

@@ -2,12 +2,10 @@
 
 ## Trainers
 
-Trainer                       | 1                                 | 2                                  | 3                                | 4                                  | 5
----                           | ---                               | ---                                | ---                              | ---                                | ---
-Galactic Grunt                | ![][267]<br>[Beautifly]<br>Lv. 50<ul><li>Air Slash</li><li>Rage</li><li>Whirlwind</li><li>Hurricane</li></ul> | ![][012]<br>[Butterfree]<br>Lv. 50<ul><li>Whirlwind</li><li>Tailwind</li><li>Teleport</li><li>Hurricane</li></ul> | &nbsp;                           | &nbsp;                             | &nbsp;
-Galactic Grunt                | ![][269]<br>[Dustox]<br>Lv. 50<ul><li>Tailwind</li><li>Protect</li><li>Whirlwind</li><li>Hurricane</li></ul> | ![][015]<br>[Beedrill]<br>Lv. 50<ul><li>Agility</li><li>Endeavor</li><li>Outrage</li><li>Megahorn</li></ul> | &nbsp;                           | &nbsp;                             | &nbsp;
-Galactic Grunt                | ![][033]<br>[Nidorino]<br>Lv. 49<ul><li>Sucker Punch</li><li>Poison Tail</li><li>Captivate</li><li>Head Smash</li></ul> | ![][042]<br>[Golbat]<br>Lv. 49<ul><li>Air Slash</li><li>Haze</li><li>Zen Headbutt</li><li>Nasty Plot</li></ul> | ![][413]<br>[Wormadam]<br>Lv. 49<ul><li>Attract</li><li>Psychic</li><li>Flail</li><li>Captivate</li></ul> | &nbsp;                             | &nbsp;
-Galactic Grunt                | ![][030]<br>[Nidorina]<br>Lv. 49<ul><li>Crunch</li><li>Poison Tail</li><li>Captivate</li><li>Super Fang</li></ul> | ![][042]<br>[Golbat]<br>Lv. 49<ul><li>Air Slash</li><li>Haze</li><li>Zen Headbutt</li><li>Nasty Plot</li></ul> | ![][414]<br>[Mothim]<br>Lv. 49<ul><li>Air Slash</li><li>Psychic</li><li>Flail</li><li>Camouflage</li></ul> | &nbsp;                             | &nbsp;
+Trainer | 1 | 2 | 3 | 4 | 5
+--- | --- | --- | --- | --- | ---
+![][galactic_grunt_m]<br>Galactic Grunt<hr><br>Has to be fought in a double battle with Galactic Grunt [419]<br>Her team is on the left of the double battle | ![][267]<br>[Beautifly]<br>Lv. 50<br>Quirky / Swarm<br>60/70/60/125/60/75<hr>Air Slash<br>Rage<br>Whirlwind<br>Hurricane | ![][012]<br>[Butterfree]<br>Lv. 50<br>Lax / Tinted Lens<br>60/45/45/110/100/90<hr>Whirlwind<br>Tailwind<br>Teleport<br>Hurricane | &nbsp; | &nbsp; | &nbsp;
+Commander Mars<hr><br>Fights starts when you talk to her | ![][169]<br>[Crobat]<br>Lv. 52<br>Bright Powder<br>Modest / Inner Focus<br>85/90/80/70/80/130<hr>Brave Bird<br>Hypnosis<br>Double Team<br>Giga Drain | ![][469]<br>[Yanmega]<br>Lv. 52<br>Wise Glasses<br>Rash / Speed Boost<br>86/76/86/116/56/95<hr>Bug Buzz<br>Air Slash<br>Psychic<br>Detect | ![][437]<br>[Bronzong]<br>Lv. 52<br>Leftovers<br>Naughty / Levitate<br>67/89/116/79/116/33<hr>Stealth Rock<br>Gyro Ball<br>Payback<br>Explosion | ![][115]<br>[Kangaskhan]<br>Lv. 52<br>Muscle Band<br>Impish / Scrappy<br>105/95/80/40/80/90<hr>Double-Edge<br>Hammer Arm<br>Crunch<br>Fake Out | ![][432]<br>[Purugly]<br>Lv. 53<br>Sitrus Berry<br>Lonely / Thick Fat<br>90/95/70/65/60/115<hr>Body Slam<br>Play Rough<br>Hypnosis<br>Fake Out
 
 ### Commander Mars
 
@@ -107,3 +105,5 @@ Pokémon | Level | Type | Notes
 [wise-glasses]: ../img/items/wise-glasses.png
 [481]: ../img/pokemon/481.png
 [Mesprit]: ../../pokemons/481/
+[Wormadam (P)]: ../../pokemons/413/
+[galactic_grunt_m]: ../img/trainer/galactic_grunt_m.png

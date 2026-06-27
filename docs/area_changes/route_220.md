@@ -2,15 +2,15 @@
 
 ## Trainers
 
-Trainer         | 1                                 | 2                                  | 3
----             | ---                               | ---                                | ---
-Swimmer Jessica | ![][117]<br>[Seadra]<br>Lv. 43<ul><li>Muddy Water</li><li>Dragon Pulse</li><li>Signal Beam</li><li>Dragon Dance</li></ul> | ![][370]<br>[Luvdisc]<br>Lv. 43<ul><li>Captivate</li><li>Moonblast</li><li>Aqua Ring</li><li>Bounce</li></ul> | ![][119]<br>[Seaking]<br>Lv. 43<ul><li>Aqua Tail</li><li>Knock Off</li><li>Drill Run</li><li>Bounce</li></ul> 
-Swimmer Erica   | ![][457]<br>[Lumineon]<br>Lv. 44<ul><li>Aqua Tail</li><li>Silver Wind</li><li>Aqua Ring</li><li>Whirlpool</li></ul> | ![][222]<br>[Corsola]<br>Lv. 44<ul><li>Earth Power</li><li>Endure</li><li>Rock Blast</li><li>Aqua Ring</li></ul> | &nbsp;
-Swimmer Adrian  | ![][224]<br>[Octillery]<br>Lv. 43<ul><li>Signal Beam</li><li>Ice Beam</li><li>Seed Bomb</li><li>Flamethrower</li></ul> | ![][073]<br>[Tentacruel]<br>Lv. 43<ul><li>Poison Jab</li><li>Muddy Water</li><li>Sludge Bomb</li><li>Screech</li></ul> | ![][199]<br>[Slowking]<br>Lv. 43<ul><li>Psychic</li><li>Trump Card</li><li>Psych Up</li><li>Future Sight</li></ul> 
-Swimmer Vincent | ![][321]<br>[Wailord]<br>Lv. 45<ul><li>Water Spout</li><li>Zen Headbutt</li><li>Body Slam</li><li>Aqua Ring</li></ul> | &nbsp;                             | &nbsp;
-Swimmer Claire  | ![][121]<br>[Starmie]<br>Lv. 44<ul><li>Recover</li><li>Swift</li><li>Psywave</li><li>Confuse Ray</li></ul> | ![][009]<br>[Blastoise]<br>Lv. 44<ul><li>Iron Defense</li><li>Aura Sphere</li><li>Skull Bash</li><li>Aqua Tail</li></ul> | &nbsp;
-Swimmer Erik    | ![][186]<br>[Politoed]<br>Lv. 44<ul><li>Double Slap</li><li>Perish Song</li><li>Swagger</li><li>Bounce</li></ul> | ![][171]<br>[Lanturn]<br>Lv. 44<ul><li>Discharge</li><li>Flail</li><li>Thunderbolt</li><li>Take Down</li></ul> | &nbsp;
-Swimmer Katelyn | ![][419]<br>[Floatzel]<br>Lv. 43<ul><li>Double Hit</li><li>Ice Fang</li><li>Razor Wind</li><li>Agility</li></ul> | ![][308]<br>[Medicham]<br>Lv. 43<ul><li>High Jump Kick</li><li>Psych Up</li><li>Zen Headbutt</li><li>Acupressure</li></ul> | ![][119]<br>[Seaking]<br>Lv. 43<ul><li>Aqua Tail</li><li>Knock Off</li><li>Drill Run</li><li>Bounce</li></ul> 
+Trainer | 1 | 2 | 3
+--- | --- | --- | ---
+Swimmer Katelyn<hr><br>Female Swimmer on the top path of Route 220. The one you take when you turn before the two Female Swimmers swimming back and forth at the beginning of the route<br>(SWIMS IN CIRCLES) | ![][419]<br>[Floatzel]<br>Lv. 43<br>Gentle / Swift Swim<br>85/105/55/85/50/115<hr>Double Hit<br>Ice Fang<br>Razor Wind<br>Agility | ![][308]<br>[Medicham]<br>Lv. 43<br>Naughty / Pure Power<br>60/60/80/80/80/90<hr>High Jump Kick<br>Psych Up<br>Zen Headbutt<br>Acupressure | ![][119]<br>[Seaking]<br>Lv. 43<br>Sassy / Swift Swim<br>80/122/80/45/80/78<hr>Aqua Tail<br>Knock Off<br>Drill Run<br>Bounce
+Swimmer Jessica<hr><br>Top one of the two Female Swimmers swimming back and forth at the beginning of the route<br>(SWIMS BACK AND FORTH) | ![][117]<br>[Seadra]<br>Lv. 43<br>Bold / Poison Point<br>55/65/95/95/45/85<hr>Muddy Water<br>Dragon Pulse<br>Signal Beam<br>Dragon Dance | ![][370]<br>[Luvdisc]<br>Lv. 43<br>Brave / Swift Swim<br>50/30/75/95/75/125<hr>Captivate<br>Moonblast<br>Aqua Ring<br>Bounce | ![][119]<br>[Seaking]<br>Lv. 43<br>Careful / Swift Swim<br>80/122/80/45/80/78<hr>Aqua Tail<br>Knock Off<br>Drill Run<br>Bounce
+Swimmer Erica<hr><br>Bottom one of the two Female Swimmers swimming back and forth at the beginning of the route<br>On the island under her there is a Damp Rock and a Max Repel<br>(SWIMS BACK AND FORTH) | ![][457]<br>[Lumineon]<br>Lv. 44<br>Naughty / Swift Swim<br>70/40/75/105/90/105<hr>Aqua Tail<br>Silver Wind<br>Aqua Ring<br>Whirlpool | ![][222]<br>[Corsola]<br>Lv. 44<br>Quirky / Hustle<br>65/45/115/90/115/35<hr>Earth Power<br>Endure<br>Rock Blast<br>Aqua Ring | &nbsp;
+Swimmer Adrian<hr><br>Male Swimmer past the island with a Damp Rock after Swimmer Erica<br>(LOOKS LEFT AND DOWN) | ![][224]<br>[Octillery]<br>Lv. 43<br>Jolly / Suction Cups<br>75/105/75/105/75/45<hr>Signal Beam<br>Ice Beam<br>Seed Bomb<br>Flamethrower | ![][073]<br>[Tentacruel]<br>Lv. 43<br>Careful / Clear Body<br>80/70/65/80/120/100<hr>Poison Jab<br>Muddy Water<br>Sludge Bomb<br>Screech | ![][199]<br>[Slowking]<br>Lv. 43<br>Sassy / Oblivious<br>95/75/80/100/110/30<hr>Psychic<br>Trump Card<br>Psych Up<br>Future Sight
+Swimmer Vincent<hr><br>Male Swimmer past the path blocked by a Max Repel after Swimmer Erica<br>(SWIMS BACK AND FORTH AND REGULARLY STOPS AND TURNS AROUND) | ![][321]<br>[Wailord]<br>Lv. 45<br>Gentle / Water Veil<br>170/90/45/90/45/60<hr>Water Spout<br>Zen Headbutt<br>Body Slam<br>Aqua Ring | &nbsp; | &nbsp;
+Swimmer Claire<hr><br>Female Swimmer past Swimmer Vincent. She's facing Swimmer Erik<br>Can be fought alone or with Swimmer Erik in a double battle<br>In a double battle her team is on the left<br>(LOOKS LEFT AND DOWN) | ![][121]<br>[Starmie]<br>Lv. 44<br>Impish / Illuminate<br>60/75/85/100/85/115<hr>Recover<br>Swift<br>Psywave<br>Confuse Ray | ![][009]<br>[Blastoise]<br>Lv. 44<br>Brave / Drizzle<br>79/83/100/90/105/78<hr>Iron Defense<br>Aura Sphere<br>Skull Bash<br>Aqua Tail | &nbsp;
+Swimmer Erik<hr><br>Male Swimmer past Swimmer Vincent. He's facing Swimmer Claire<br>Can be fought alone or with Swimmer Claire in a double battle<br>In a double battle his team is on the right<br>Looks Up | ![][186]<br>[Politoed]<br>Lv. 44<br>Adamant / Drizzle<br>90/75/75/90/100/70<hr>Double Slap<br>Perish Song<br>Swagger<br>Bounce | ![][171]<br>[Lanturn]<br>Lv. 44<br>Quirky / Volt Absorb<br>125/58/58/76/76/67<hr>Discharge<br>Flail<br>Thunderbolt<br>Take Down | &nbsp;
 
 ## Wild Pokémon
 
@@ -33,6 +33,10 @@ Item | Name | Obtained
 Pokémon | Level | Type | Notes
 --- | --- | --- | ---
 ![][249]<br>[Lugia] | 70 | Legendary | After the credits, a portal will appear on Route 220.
+
+--8<-- "includes/abilities.md"
+--8<-- "includes/held_items.md"
+--8<-- "includes/natures.md"
 
 [009]: ../img/pokemon/009.png
 [073]: ../img/pokemon/073.png

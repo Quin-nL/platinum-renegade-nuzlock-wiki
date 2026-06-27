@@ -2,15 +2,19 @@
 
 ## Trainers
 
-Trainer                               | 1                                  | 2                                 | 3                                | 4                              | 5
----                                   | ---                                | ---                               | ---                              | ---                            | ---
-Hiker Robert                          | ![][105]<br>[Marowak]<br>Lv. 28<ul><li>Bonemerang</li><li>False Swipe</li><li>Knock Off</li><li>Swords Dance</li></ul> | &nbsp;                            | &nbsp;                           | &nbsp;                         | &nbsp;
-Hiker Jonathan                        | ![][449]<br>[Hippopotas]<br>Lv. 26<ul><li>Yawn</li><li>Bulldoze</li><li>Take Down</li><li>Dig</li></ul> | ![][213]<br>[Shuckle]<br>Lv. 26<ul><li>Rock Throw</li><li>Rest</li><li>Bug Bite</li><li>Rock Slide</li></ul> | ![][436]<br>[Bronzor]<br>Lv. 26<ul><li>Extrasensory</li><li>Feint Attack</li><li>Gyro Ball</li><li>Iron Defense</li></ul> | &nbsp;                         | &nbsp;
-Black Belt Kyle                       | ![][067]<br>[Machoke]<br>Lv. 29<ul><li>Revenge</li><li>Knock Off</li><li>Vital Throw</li><li>Wake-Up Slap</li></ul> | &nbsp;                            | &nbsp;                           | &nbsp;                         | &nbsp;
-Aroma Lady Hannah                     | ![][315]<br>[Roselia]<br>Lv. 27<ul><li>Sludge</li><li>Spikes</li><li>Toxic Spikes</li><li>Giga Drain</li></ul> | ![][192]<br>[Sunflora]<br>Lv. 27<ul><li>Nature Power</li><li>Giga Drain</li><li>Bullet Seed</li><li>Morning Sun</li></ul> | &nbsp;                           | &nbsp;                         | &nbsp;
-:repeat: [Artist William](#rematches) | ![][235]<br>[Smeargle]<br>Lv. 26<ul><li>Sketch</li><li>Sketch</li><li>Sketch</li><li>Sketch</li></ul> | ![][235]<br>[Smeargle]<br>Lv. 26<ul><li>Sketch</li><li>Sketch</li><li>Sketch</li><li>Sketch</li></ul> | ![][235]<br>[Smeargle]<br>Lv. 26<ul><li>Sketch</li><li>Sketch</li><li>Sketch</li><li>Sketch</li></ul> | &nbsp;                         | &nbsp;
-Fisherman Cody                        | ![][340]<br>[Whiscash]<br>Lv. 44<ul><li>Thrash</li><li>Muddy Water</li><li>Future Sight</li><li>Earthquake</li></ul> | ![][130]<br>[Gyarados]<br>Lv. 44<ul><li>Crunch</li><li>Dragon Dance</li><li>Outrage</li><li>Hydro Pump</li></ul> | &nbsp;                           | &nbsp;                         | &nbsp;
-Hiker Alexander                       | ![][075]<br>[Graveler]<br>Lv. 28<ul><li>Magnitude</li><li>Self-Destruct</li><li>Gyro Ball</li><li>Rock Slide</li></ul> | &nbsp;                            | &nbsp;                           | &nbsp;                         | &nbsp;
+Trainer | 1 | 2
+--- | --- | ---
+![][fisherman]<br>Fisherman Cody<hr><br>Fisherman at the base of a cliff in the middle of the area. Accessible with Surf when taking the stairs past the walking Black Belt<br>Doesn't give you aaannnything<br>Looks Right | ![][340]<br>[Whiscash]<br>Lv. 44<br>Lax / Oblivious<br>110/78/73/76/71/60<hr>Thrash<br>Muddy Water<br>Future Sight<br>Earthquake | ![][130]<br>[Gyarados]<br>Lv. 44<br>Naive / Intimidate<br>95/125/79/60/100/81<hr>Crunch<br>Dragon Dance<br>Outrage<br>Hydro Pump
+
+## Elite Four Aaron
+
+![][aaron] | ![][269]<br>[Dustox]<br>Lv. 31<br>![][leftovers]<br>Leftovers<br>Calm / Shield Dust<br>60/50/75/75/115/75<hr>Bug Buzz<br>Toxic<br>Protect<br>Moonlight | ![][267]<br>[Beautifly]<br>Lv. 31<br>![][focus-sash]<br>Focus Sash<br>Mild / Swarm<br>60/70/60/125/60/75<hr>Bug Buzz<br>Air Slash<br>Energy Ball<br>Psychic | ![][049]<br>[Venomoth]<br>Lv. 31<br>![][wise-glasses]<br>Wise Glasses<br>Naive / Tinted Lens<br>70/55/60/100/75/90<hr>Bug Buzz<br>Psychic<br>Sludge Bomb<br>Sleep Powder | ![][212]<br>[Scizor]<br>Lv. 31<br>![][muscle-band]<br>Muscle Band<br>Adamant / Technician<br>70/130/100/55/80/65<hr>X-Scissor<br>Bullet Punch<br>Iron Head<br>Swords Dance | ![][452]<br>[Drapion]<br>Lv. 32<br>![][scope-lens]<br>Scope Lens<br>Jolly / Sniper<br>70/90/110/60/75/95<hr>Cross Poison<br>X-Scissor<br>Night Slash<br>Swords Dance
+--- | --- | --- | --- | --- | ---
+
+## Elite Four Aaron
+
+Elite Four Aaron | ![][269]<br>[Dustox]<br>Lv. 31<br>![][leftovers]<br>Leftovers<br>Calm / Shield Dust<br>60/50/75/75/115/75<hr>Bug Buzz<br>Toxic<br>Protect<br>Moonlight | ![][267]<br>[Beautifly]<br>Lv. 31<br>![][focus-sash]<br>Focus Sash<br>Mild / Swarm<br>60/70/60/125/60/75<hr>Bug Buzz<br>Air Slash<br>Energy Ball<br>Psychic | ![][049]<br>[Venomoth]<br>Lv. 31<br>![][wise-glasses]<br>Wise Glasses<br>Naive / Tinted Lens<br>70/55/60/100/75/90<hr>Bug Buzz<br>Psychic<br>Sludge Bomb<br>Sleep Powder | ![][212]<br>[Scizor]<br>Lv. 31<br>![][muscle-band]<br>Muscle Band<br>Adamant / Technician<br>70/130/100/55/80/65<hr>X-Scissor<br>Bullet Punch<br>Iron Head<br>Swords Dance | ![][452]<br>[Drapion]<br>Lv. 32<br>![][scope-lens]<br>Scope Lens<br>Jolly / Sniper<br>70/90/110/60/75/95<hr>Cross Poison<br>X-Scissor<br>Night Slash<br>Swords Dance
+--- | --- | --- | --- | --- | ---
 
 ### Elite Four Aaron
 
@@ -19,11 +23,23 @@ Hiker Alexander                       | ![][075]<br>[Graveler]<br>Lv. 28<ul><li>
 
 ### Rematches
 
-Trainer                                            | 1                                | 2                                | 3
----                                                | ---                              | ---                              | ---
-Artist William :material-numeric-5-circle-outline: | ![][235]<br>[Smeargle]<br>Lv. 38<ul><li>Sketch</li><li>Sketch</li><li>Sketch</li><li>Sketch</li></ul> | ![][235]<br>[Smeargle]<br>Lv. 38<ul><li>Sketch</li><li>Sketch</li><li>Sketch</li><li>Sketch</li></ul> | ![][235]<br>[Smeargle]<br>Lv. 38<ul><li>Sketch</li><li>Sketch</li><li>Sketch</li><li>Sketch</li></ul> 
-Artist William :material-numeric-8-circle-outline: | ![][235]<br>[Smeargle]<br>Lv. 53<ul><li>Sketch</li><li>Sketch</li><li>Sketch</li><li>Sketch</li></ul> | ![][235]<br>[Smeargle]<br>Lv. 53<ul><li>Sketch</li><li>Sketch</li><li>Sketch</li><li>Sketch</li></ul> | ![][235]<br>[Smeargle]<br>Lv. 53<ul><li>Sketch</li><li>Sketch</li><li>Sketch</li><li>Sketch</li></ul> 
-Artist William :material-alpha-c-circle-outline:   | ![][235]<br>[Smeargle]<br>Lv. 70<ul><li>Sketch</li><li>Sketch</li><li>Sketch</li><li>Sketch</li></ul> | ![][235]<br>[Smeargle]<br>Lv. 70<ul><li>Sketch</li><li>Sketch</li><li>Sketch</li><li>Sketch</li></ul> | ![][235]<br>[Smeargle]<br>Lv. 70<ul><li>Sketch</li><li>Sketch</li><li>Sketch</li><li>Sketch</li></ul> 
+=== "After 5 Badges"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    Artist William<hr> | ![][235]<br>[Smeargle]<br>Lv. 38<br>Quirky / Technician<br>55/20/35/20/45/75<hr>Blast Burn | ![][235]<br>[Smeargle]<br>Lv. 38<br>Quirky / Technician<br>55/20/35/20/45/75<hr>Hydro Cannon | ![][235]<br>[Smeargle]<br>Lv. 38<br>Quirky / Technician<br>55/20/35/20/45/75<hr>Frenzy Plant
+
+=== "After 8 Badges"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    Artist William<hr> | ![][235]<br>[Smeargle]<br>Lv. 53<br>Bold / Technician<br>55/20/35/20/45/75<hr>Blast Burn | ![][235]<br>[Smeargle]<br>Lv. 53<br>Bold / Technician<br>55/20/35/20/45/75<hr>Hydro Cannon | ![][235]<br>[Smeargle]<br>Lv. 53<br>Bold / Technician<br>55/20/35/20/45/75<hr>Frenzy Plant
+
+=== "ARTIST WILLIAM"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    Artist William<hr><br>(AFTER CYNTHIA) | ![][235]<br>[Smeargle]<br>Lv. 70<br>Impish / Technician<br>55/20/35/20/45/75<hr>Blast Burn | ![][235]<br>[Smeargle]<br>Lv. 70<br>Impish / Technician<br>55/20/35/20/45/75<hr>Hydro Cannon | ![][235]<br>[Smeargle]<br>Lv. 70<br>Impish / Technician<br>55/20/35/20/45/75<hr>Frenzy Plant
 
 ## Wild Pokémon
 
@@ -146,3 +162,6 @@ Pokémon | Level | Type | Notes
 [wise-glasses]: ../img/items/wise-glasses.png
 [243]: ../img/pokemon/243.png
 [Raikou]: ../../pokemons/243/
+[hiker]: ../img/trainer/hiker.png
+[aroma_lady]: ../img/trainer/aroma_lady.png
+[fisherman]: ../img/trainer/fisherman.png

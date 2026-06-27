@@ -2,19 +2,26 @@
 
 ## Trainers
 
-Trainer                | 1
----                    | ---
-Bird Keeper Katherine  | ![][164]<br>[Noctowl]<br>Lv. 22<ul><li>Air Cutter</li><li>Uproar</li><li>Extrasensory</li><li>Psycho Shift</li></ul> 
-Ninja Boy Nick         | ![][291]<br>[Ninjask]<br>Lv. 20<ul><li>Mind Reader</li><li>Double Team</li><li>Fury Cutter</li><li>Screech</li></ul> 
-Black Belt Sean        | ![][214]<br>[Heracross]<br>Lv. 22<ul><li>Feint</li><li>Aerial Ace</li><li>Bug Bite</li><li>Brick Break</li></ul> 
-Ruin Maniac Harry [^1] | ![][142]<br>[Aerodactyl]<br>Lv. 21<ul><li>Roar</li><li>Agility</li><li>Wing Attack</li><li>Ancient Power</li></ul> 
+Trainer | 1
+--- | ---
+![][bird_keeper]<br>Bird Keeper Katherine<hr><br>Can be fought alone or with Ruin Maniac Harry [442] in a double battle<br>If fought in a double battle her team will be on the right<br>Looks Right | ![][164]<br>[Noctowl]<br>Lv. 22<br>Brave / Tinted Lens<br>100/40/40/106/116/60<hr>Air Cutter<br>Uproar<br>Extrasensory<br>Psycho Shift
+![][ruin_maniac]<br>Ruin Maniac Harry<hr><br>Can be fought alone or with Bird Keeper Katherine [81] in a double battle<br>If fought in a double battle his team will be on the left<br>Looks Left | ![][142]<br>[Aerodactyl]<br>Lv. 21<br>Hardy / Rock Head<br>80/105/65/60/75/130<hr>Roar<br>Agility<br>Wing Attack<br>Ancient Power
+Ninja Boy Nick<hr><br>Only Ninja on the Route<br>(HIDES) | ![][291]<br>[Ninjask]<br>Lv. 20<br>Hasty / Speed Boost<br>61/90/45/50/50/160<hr>Mind Reader<br>Double Team<br>Fury Cutter<br>Screech
+Black Belt Sean<hr><br>Only Black Belt on the Route<br>(WALKS BACK AND FORTH) | ![][214]<br>[Heracross]<br>Lv. 22<br>Rash / Guts<br>80/125/75/40/95/85<hr>Feint<br>Aerial Ace<br>Bug Bite<br>Brick Break
 
 ### Rematches
 
-Trainer                                               | 1
----                                                   | ---
-Ruin Maniac Harry :material-numeric-8-circle-outline: | ![][142]<br>[Aerodactyl]<br>Lv. 61<ul><li>Stone Edge</li><li>Brave Bird</li><li>Hyper Beam</li><li>Giga Impact</li></ul> 
-Ruin Maniac Harry :material-alpha-c-circle-outline:   | ![][142]<br>[Aerodactyl]<br>Lv. 72<ul><li>Brave Bird</li><li>Hyper Beam</li><li>Giga Impact</li><li>Sky Attack</li></ul> 
+=== "After 8 Badges"
+
+    Trainer | 1
+    --- | ---
+    ![][ruin_maniac]<br>Ruin Maniac Harry<hr> | ![][142]<br>[Aerodactyl]<br>Lv. 61<br>Rash / Rock Head<br>80/105/65/60/75/130<hr>Stone Edge<br>Brave Bird<br>Hyper Beam<br>Giga Impact
+
+=== "RUIN MANIAC HARRY"
+
+    Trainer | 1
+    --- | ---
+    ![][ruin_maniac]<br>Ruin Maniac Harry<hr><br>(AFTER CYNTHIA) | ![][142]<br>[Aerodactyl]<br>Lv. 72<br>Rash / Rock Head<br>80/105/65/60/75/130<hr>Brave Bird<br>Hyper Beam<br>Giga Impact<br>Sky Attack
 
 ## Wild Pokémon
 
@@ -45,6 +52,10 @@ TM77 | Psych Up | Gift from NPC
 Pokémon | Level | Type | Notes
 --- | --- | --- | ---
 ![][244]<br>[Entei] | 60 | Legendary | Speak to Rowan after the Distortion World events.
+
+--8<-- "includes/abilities.md"
+--8<-- "includes/held_items.md"
+--8<-- "includes/natures.md"
 
 [011]: ../img/pokemon/011.png
 [014]: ../img/pokemon/014.png
@@ -85,3 +96,5 @@ Pokémon | Level | Type | Notes
 [red-flute]: ../img/items/red-flute.png
 [244]: ../img/pokemon/244.png
 [Entei]: ../../pokemons/244/
+[bird_keeper]: ../img/trainer/bird_keeper.png
+[ruin_maniac]: ../img/trainer/ruin_maniac.png

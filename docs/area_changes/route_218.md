@@ -2,19 +2,19 @@
 
 ## Trainers
 
-Trainer                                 | 1                                  | 2                                | 3
----                                     | ---                                | ---                              | ---
-:repeat: [Fisherman Miguel](#rematches) | ![][367]<br>[Huntail]<br>Lv. 44<ul><li>Aqua Tail</li><li>Crunch</li><li>Baton Pass</li><li>Confuse Ray</li></ul> | ![][368]<br>[Gorebyss]<br>Lv. 44<ul><li>Muddy Water</li><li>Psychic</li><li>Baton Pass</li><li>Confuse Ray</li></ul> | &nbsp;
-Fisherman Luc                           | ![][342]<br>[Crawdaunt]<br>Lv. 45<ul><li>Knock Off</li><li>Swords Dance</li><li>Crunch</li><li>Payback</li></ul> | &nbsp;                           | &nbsp;
-Sailor Skyler                           | ![][139]<br>[Omastar]<br>Lv. 43<ul><li>Spike Cannon</li><li>Muddy Water</li><li>Earth Power</li><li>Tickle</li></ul> | ![][141]<br>[Kabutops]<br>Lv. 43<ul><li>Night Slash</li><li>Waterfall</li><li>Knock Off</li><li>Mega Drain</li></ul> | ![][369]<br>[Relicanth]<br>Lv. 43<ul><li>Zen Headbutt</li><li>Flail</li><li>Stone Edge</li><li>Amnesia</li></ul> 
-:repeat: [Guitarist Tony](#rematches)   | ![][402]<br>[Kricketune]<br>Lv. 44<ul><li>Knock Off</li><li>Taunt</li><li>Heal Bell</li><li>Bug Buzz</li></ul> | ![][295]<br>[Exploud]<br>Lv. 44<ul><li>Rest</li><li>Sleep Talk</li><li>Crunch</li><li>Hammer Arm</li></ul> | &nbsp;
+Trainer | 1 | 2 | 3
+--- | --- | --- | ---
+![][fisherman]<br>Fisherman Miguel<hr><br>He's fishing<br>Only fights you when talked to<br>If not talked to he just fishes<br>He stands right next to a Hyper Potion<br>Looks Right | ![][367]<br>[Huntail]<br>Lv. 44<br>Lonely / Swift Swim<br>55/104/105/94/75/52<hr>Aqua Tail<br>Crunch<br>Baton Pass<br>Confuse Ray | ![][368]<br>[Gorebyss]<br>Lv. 44<br>Serious / Swift Swim<br>55/84/105/114/75/52<hr>Muddy Water<br>Psychic<br>Baton Pass<br>Confuse Ray | &nbsp;
+![][fisherman]<br>Fisherman Luc<hr><br>He's fishing<br>Only fights you when talked to<br>If not talked to he just fishes<br>Looks Right | ![][342]<br>[Crawdaunt]<br>Lv. 45<br>Lonely / Adaptability<br>63/120/85/90/55/55<hr>Knock Off<br>Swords Dance<br>Crunch<br>Payback | &nbsp; | &nbsp;
+![][sailor]<br>Sailor Skyler<hr><br>Only Sailor on the Route<br>(LOOKS UP AND RIGHT) | ![][139]<br>[Omastar]<br>Lv. 43<br>Hasty / Swift Swim<br>70/60/125/115/70/55<hr>Spike Cannon<br>Muddy Water<br>Earth Power<br>Tickle | ![][141]<br>[Kabutops]<br>Lv. 43<br>Lax / Swift Swim<br>60/115/105/65/70/80<hr>Night Slash<br>Waterfall<br>Knock Off<br>Mega Drain | ![][369]<br>[Relicanth]<br>Lv. 43<br>Bashful / Rock Head<br>100/90/130/45/65/55<hr>Zen Headbutt<br>Flail<br>Stone Edge<br>Amnesia
+![][guitarist]<br>Guitarist Tony<hr><br>Only Guitarist on the route<br>Looks Down | ![][402]<br>[Kricketune]<br>Lv. 44<br>Mild / Technician<br>80/115/70/50/70/65<hr>Knock Off<br>Taunt<br>Heal Bell<br>Bug Buzz | ![][295]<br>[Exploud]<br>Lv. 44<br>Serious / Soundproof<br>104/91/63/91/73/68<hr>Rest<br>Sleep Talk<br>Crunch<br>Hammer Arm | &nbsp;
 
 ### Rematches
 
-Trainer                                            | 1                                  | 2                               | 3
----                                                | ---                                | ---                             | ---
-Fisherman Miguel :material-alpha-c-circle-outline: | ![][366]<br>[Clamperl]<br>Lv. 70<ul><li>Whirlpool</li><li>Iron Defense</li><li>Water Pulse</li><li>Muddy Water</li></ul> | ![][367]<br>[Huntail]<br>Lv. 70<ul><li>Baton Pass</li><li>Confuse Ray</li><li>Super Fang</li><li>Hydro Pump</li></ul> | ![][368]<br>[Gorebyss]<br>Lv. 70<ul><li>Baton Pass</li><li>Confuse Ray</li><li>Barrier</li><li>Hydro Pump</li></ul> 
-Guitarist Tony :material-alpha-c-circle-outline:   | ![][402]<br>[Kricketune]<br>Lv. 71<ul><li>Heal Bell</li><li>Bug Buzz</li><li>Hyper Voice</li><li>Perish Song</li></ul> | ![][295]<br>[Exploud]<br>Lv. 71<ul><li>Crunch</li><li>Hammer Arm</li><li>Endeavor</li><li>Hyper Beam</li></ul> | &nbsp;
+Trainer | 1 | 2 | 3
+--- | --- | --- | ---
+![][fisherman]<br>Fisherman Miguel<hr><br>(AFTER CYNTHIA) | ![][366]<br>[Clamperl]<br>Lv. 70<br>Hasty / Shell Armor<br>35/64/85/74/55/32<hr>Whirlpool<br>Iron Defense<br>Water Pulse<br>Muddy Water | ![][367]<br>[Huntail]<br>Lv. 70<br>Sassy / Swift Swim<br>55/104/105/94/75/52<hr>Baton Pass<br>Confuse Ray<br>Super Fang<br>Hydro Pump | ![][368]<br>[Gorebyss]<br>Lv. 70<br>Impish / Swift Swim<br>55/84/105/114/75/52<hr>Baton Pass<br>Confuse Ray<br>Barrier<br>Hydro Pump
+![][guitarist]<br>Guitarist Tony<hr><br>(AFTER CYNTHIA) | ![][402]<br>[Kricketune]<br>Lv. 71<br>Bold / Technician<br>80/115/70/50/70/65<hr>Heal Bell<br>Bug Buzz<br>Hyper Voice<br>Perish Song | ![][295]<br>[Exploud]<br>Lv. 71<br>Mild / Soundproof<br>104/91/63/91/73/68<hr>Crunch<br>Hammer Arm<br>Endeavor<br>Hyper Beam | &nbsp;
 
 ## Wild Pokémon
 
@@ -45,6 +45,10 @@ Item | Name | Obtained
 TM | Name | Obtained
 --- | --- | ---
 TM03 | Water Pulse | Item on ground
+
+--8<-- "includes/abilities.md"
+--8<-- "includes/held_items.md"
+--8<-- "includes/natures.md"
 
 [072]: ../img/pokemon/072.png
 [073]: ../img/pokemon/073.png
@@ -118,3 +122,6 @@ TM03 | Water Pulse | Item on ground
 [honey]: ../img/items/honey.png
 [old-rod]: ../img/items/old-rod.png
 [super-rod]: ../img/items/super-rod.png
+[guitarist]: ../img/trainer/guitarist.png
+[fisherman]: ../img/trainer/fisherman.png
+[sailor]: ../img/trainer/sailor.png

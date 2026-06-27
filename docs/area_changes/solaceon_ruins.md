@@ -2,9 +2,9 @@
 
 ## Trainers
 
-Trainer          | 1                               | 2                                | 3
----              | ---                             | ---                              | ---
-Ruin Maniac Karl | ![][436]<br>[Bronzor]<br>Lv. 31<ul><li>Gyro Ball</li><li>Iron Defense</li><li>Zen Headbutt</li><li>Safeguard</li></ul> | ![][075]<br>[Graveler]<br>Lv. 31<ul><li>Self-Destruct</li><li>Gyro Ball</li><li>Rock Slide</li><li>Stealth Rock</li></ul> | ![][028]<br>[Sandslash]<br>Lv. 31<ul><li>Crush Claw</li><li>Slash</li><li>Night Slash</li><li>Dig</li></ul> 
+Trainer | 1 | 2 | 3
+--- | --- | --- | ---
+![][ruin_maniac]<br>Ruin Maniac Karl<hr><br>Do not worry about the Hiker in the ruins, he does not fight you | ![][436]<br>[Bronzor]<br>Lv. 31<br>Quirky / Levitate<br>57/24/86/24/86/23<hr>Gyro Ball<br>Iron Defense<br>Zen Headbutt<br>Safeguard | ![][075]<br>[Graveler]<br>Lv. 31<br>Quiet / Rock Head<br>55/95/115/45/45/35<hr>Self-Destruct<br>Gyro Ball<br>Rock Slide<br>Stealth Rock | ![][028]<br>[Sandslash]<br>Lv. 31<br>Quiet / Sand Veil<br>75/100/110/45/55/65<hr>Crush Claw<br>Night Slash<br>Slash<br>Dig
 
 ### Master Trainer
 
@@ -69,3 +69,4 @@ Pokémon | Level | Type | Notes
 [mind-plate]: ../img/items/mind-plate.png
 [385]: ../img/pokemon/385.png
 [Jirachi]: ../../pokemons/385/
+[ruin_maniac]: ../img/trainer/ruin_maniac.png

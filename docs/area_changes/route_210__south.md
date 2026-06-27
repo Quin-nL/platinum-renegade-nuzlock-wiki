@@ -2,24 +2,28 @@
 
 ## Trainers
 
-Trainer                              | 1                                 | 2                                 | 3
----                                  | ---                               | ---                               | ---
-Twins Teri & Tia                     | ![][162]<br>[Furret]<br>Lv. 32<ul><li>Rest</li><li>Flame Wheel</li><li>Zen Headbutt</li><li>Amnesia</li></ul> | ![][264]<br>[Linoone]<br>Lv. 32<ul><li>Mud Sport</li><li>Slash</li><li>Take Down</li><li>Rest</li></ul> | &nbsp;
-Jogger Wyatt                         | ![][101]<br>[Electrode]<br>Lv. 33<ul><li>Swift</li><li>Self-Destruct</li><li>Discharge</li><li>Light Screen</li></ul> | &nbsp;                            | &nbsp;
-PKMN Breeder Kahlil                  | ![][447]<br>[Riolu]<br>Lv. 31<ul><li>Reversal</li><li>Crunch</li><li>Nasty Plot</li><li>Cross Chop</li></ul> | ![][433]<br>[Chingling]<br>Lv. 31<ul><li>Yawn</li><li>Extrasensory</li><li>Take Down</li><li>Uproar</li></ul> | ![][446]<br>[Munchlax]<br>Lv. 31<ul><li>Body Slam</li><li>Stockpile</li><li>Swallow</li><li>Rollout</li></ul> 
-PKMN Breeder Amber                   | ![][458]<br>[Mantyke]<br>Lv. 31<ul><li>Signal Beam</li><li>Take Down</li><li>Agility</li><li>Air Slash</li></ul> | ![][440]<br>[Happiny]<br>Lv. 31<ul><li>Uproar</li><li>Copycat</li><li>Refresh</li><li>Sweet Kiss</li></ul> | ![][360]<br>[Wynaut]<br>Lv. 31<ul><li>Counter</li><li>Mirror Coat</li><li>Safeguard</li><li>Destiny Bond</li></ul> 
-Belle & Pa Ava & Matt                | ![][128]<br>[Tauros]<br>Lv. 33<ul><li>Payback</li><li>Take Down</li><li>Zen Headbutt</li><li>Body Slam</li></ul> | ![][241]<br>[Miltank]<br>Lv. 33<ul><li>Rollout</li><li>Body Slam</li><li>Zen Headbutt</li><li>Wake-Up Slap</li></ul> | &nbsp;
-:repeat: [Rancher Marco](#rematches) | ![][078]<br>[Rapidash]<br>Lv. 33<ul><li>Fire Spin</li><li>Agility</li><li>Hypnosis</li><li>Low Kick</li></ul> | &nbsp;                            | &nbsp;
-Collector Fernando                   | ![][147]<br>[Dratini]<br>Lv. 31<ul><li>Agility</li><li>Dragon Pulse</li><li>Aqua Tail</li><li>Safeguard</li></ul> | ![][148]<br>[Dragonair]<br>Lv. 33<ul><li>Agility</li><li>Dragon Pulse</li><li>Aqua Tail</li><li>Safeguard</li></ul> | &nbsp;
-Collector Edwin                      | ![][371]<br>[Bagon]<br>Lv. 31<ul><li>Dragon Claw</li><li>Crunch</li><li>Zen Headbutt</li><li>Scary Face</li></ul> | ![][372]<br>[Shelgon]<br>Lv. 33<ul><li>Crunch</li><li>Zen Headbutt</li><li>Protect</li><li>Scary Face</li></ul> | &nbsp;
-Waitress Kati                        | ![][036]<br>[Clefable]<br>Lv. 33<ul><li>Sing</li><li>Double Slap</li><li>Minimize</li><li>Metronome</li></ul> | &nbsp;                            | &nbsp;
+Trainer | 1 | 2 | 3
+--- | --- | --- | ---
+Rancher Marco<hr><br>Rancher standing in the highgrass close to Solaceon Town | ![][078]<br>[Rapidash]<br>Lv. 33<br>Hasty / Flame Body<br>65/100/70/80/80/105<hr>Fire Spin<br>Agility<br>Hypnosis<br>Low Kick | &nbsp; | &nbsp;
+![][jogger]<br>Jogger Wyatt<hr><br>Can be fought in the morning<br>(JOGS AROUND) | ![][101]<br>[Electrode]<br>Lv. 33<br>Relaxed / Soundproof<br>60/50/70/80/80/150<hr>Swift<br>Self-Destruct<br>Discharge<br>Light Screen | &nbsp; | &nbsp;
+Belle & Pa Ava & Matt<hr><br>DOUBLE BATTLE | ![][128]<br>[Tauros]<br>Lv. 33<br>Naive / Intimidate<br>75/100/95/40/70/110<hr>Payback<br>Take Down<br>Zen Headbutt<br>Body Slam | ![][241]<br>[Miltank]<br>Lv. 33<br>Brave / Thick Fat<br>95/80/105/40/70/100<hr>Rollout<br>Body Slam<br>Zen Headbutt<br>Wake-Up Slap | &nbsp;
+Twins Teri ＆ Tia<hr><br>DOUBLE BATTLE | ![][162]<br>[Furret]<br>Lv. 32<br>Mild / Scrappy<br>95/85/65/45/55/105<hr>Rest<br>Flame Wheel<br>Zen Headbutt<br>Amnesia | ![][264]<br>[Linoone]<br>Lv. 32<br>Adamant / Pickup<br>85/85/60/50/60/110<hr>Mud Sport<br>Slash<br>Take Down<br>Rest | &nbsp;
+Pkmn Breeder Kahlil<hr><br>There is a Life Orb right past him | ![][447]<br>[Riolu]<br>Lv. 31<br>Bold / Steadfast<br>40/70/40/35/40/60<hr>Reversal<br>Crunch<br>Nasty Plot<br>Cross Chop | ![][433]<br>[Chingling]<br>Lv. 31<br>Timid / Levitate<br>45/30/50/80/60/45<hr>Yawn<br>Extrasensory<br>Take Down<br>Uproar | ![][446]<br>[Munchlax]<br>Lv. 31<br>Bold / Thick Fat<br>135/85/40/40/85/5<hr>Body Slam<br>Stockpile<br>Swallow<br>Rollout
+Pkmn Breeder Amber<hr><br>(LOOKS DOWN AND LEFT) | ![][458]<br>[Mantyke]<br>Lv. 31<br>Calm / Swift Swim<br>45/20/50/60/120/50<hr>Signal Beam<br>Take Down<br>Agility<br>Air Slash | ![][440]<br>[Happiny]<br>Lv. 31<br>Gentle / Serene Grace<br>100/5/5/15/65/30<hr>Uproar<br>Copycat<br>Refresh<br>Sweet Kiss | ![][360]<br>[Wynaut]<br>Lv. 31<br>Modest / Shadow Tag<br>95/23/48/23/48/23<hr>Counter<br>Mirror Coat<br>Safeguard<br>Destiny Bond
 
 ### Rematches
 
-Trainer                                           | 1                                | 2                              | 3
----                                               | ---                              | ---                            | ---
-Rancher Marco :material-numeric-8-circle-outline: | ![][078]<br>[Rapidash]<br>Lv. 59<ul><li>Double-Edge</li><li>Bounce</li><li>Jump Kick</li><li>Fire Blast</li></ul> | ![][128]<br>[Tauros]<br>Lv. 59<ul><li>Double-Edge</li><li>Megahorn</li><li>Outrage</li><li>Giga Impact</li></ul> | ![][241]<br>[Miltank]<br>Lv. 59<ul><li>Gyro Ball</li><li>Heal Bell</li><li>Hammer Arm</li><li>Double-Edge</li></ul> 
-Rancher Marco :material-alpha-c-circle-outline:   | ![][078]<br>[Rapidash]<br>Lv. 70<ul><li>Double-Edge</li><li>Bounce</li><li>Jump Kick</li><li>Fire Blast</li></ul> | ![][128]<br>[Tauros]<br>Lv. 70<ul><li>Double-Edge</li><li>Megahorn</li><li>Outrage</li><li>Giga Impact</li></ul> | ![][241]<br>[Miltank]<br>Lv. 70<ul><li>Gyro Ball</li><li>Heal Bell</li><li>Hammer Arm</li><li>Double-Edge</li></ul> 
+=== "After 8 Badges"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    Rancher Marco<hr> | ![][078]<br>[Rapidash]<br>Lv. 59<br>Serious / Flame Body<br>65/100/70/80/80/105<hr>Double-Edge<br>Bounce<br>Jump Kick<br>Fire Blast | ![][128]<br>[Tauros]<br>Lv. 59<br>Gentle / Intimidate<br>75/100/95/40/70/110<hr>Double-Edge<br>Megahorn<br>Outrage<br>Giga Impact | ![][241]<br>[Miltank]<br>Lv. 59<br>Rash / Thick Fat<br>95/80/105/40/70/100<hr>Gyro Ball<br>Heal Bell<br>Hammer Arm<br>Double-Edge
+
+=== "RANCHER MARCO"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    Rancher Marco<hr><br>(AFTER CYNTHIA) | ![][078]<br>[Rapidash]<br>Lv. 70<br>Rash / Flame Body<br>65/100/70/80/80/105<hr>Double-Edge<br>Bounce<br>Jump Kick<br>Fire Blast | ![][128]<br>[Tauros]<br>Lv. 70<br>Lax / Intimidate<br>75/100/95/40/70/110<hr>Double-Edge<br>Megahorn<br>Outrage<br>Giga Impact | ![][241]<br>[Miltank]<br>Lv. 70<br>Timid / Thick Fat<br>95/80/105/40/70/100<hr>Gyro Ball<br>Heal Bell<br>Hammer Arm<br>Double-Edge
 
 ## Wild Pokémon
 
@@ -50,6 +54,10 @@ TM | Name | Obtained
 --- | --- | ---
 TM22 | Solar Beam | Item on ground
 TM51 | Roost | Gift from NPC
+
+--8<-- "includes/abilities.md"
+--8<-- "includes/held_items.md"
+--8<-- "includes/natures.md"
 
 [017]: ../img/pokemon/017.png
 [036]: ../img/pokemon/036.png
@@ -118,3 +126,4 @@ TM51 | Roost | Gift from NPC
 [life-orb]: ../img/items/life-orb.png
 [smoke-ball]: ../img/items/smoke-ball.png
 [old-charm]: ../img/items/old-charm.png
+[jogger]: ../img/trainer/jogger.png

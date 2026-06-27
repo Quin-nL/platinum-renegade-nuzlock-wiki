@@ -2,11 +2,10 @@
 
 ## Trainers
 
-Trainer         | 1                               | 2                               | 3
----             | ---                             | ---                             | ---
-Camper Curtis   | ![][273]<br>[Seedot]<br>Lv. 10<ul><li>Harden</li><li>Growth</li><li>Bullet Seed</li><li>Nature Power</li></ul> | ![][050]<br>[Diglett]<br>Lv. 10<ul><li>Mud-Slap</li><li>Growl</li><li>Astonish</li><li>Bulldoze</li></ul> | &nbsp;
-Picnicker Diana | ![][293]<br>[Whismur]<br>Lv. 10<ul><li>Howl</li><li>Disarming Voice</li><li>Astonish</li><li>Uproar</li></ul> | ![][194]<br>[Wooper]<br>Lv. 10<ul><li>Tail Whip</li><li>Mud Sport</li><li>Mud Shot</li><li>Slam</li></ul> | &nbsp;
-Veteran Grant   | ![][448]<br>[Lucario]<br>Lv. 45<ul><li>Me First</li><li>Dragon Pulse</li><li>Blaze Kick</li><li>Close Combat</li></ul> | ![][076]<br>[Golem]<br>Lv. 45<ul><li>Stealth Rock</li><li>Earthquake</li><li>Rock Blast</li><li>Explosion</li></ul> | ![][398]<br>[Staraptor]<br>Lv. 45<ul><li>Close Combat</li><li>Take Down</li><li>Roost</li><li>Agility</li></ul> 
+Trainer | 1 | 2
+--- | --- | ---
+![][camper]<br>Camper Curtis<hr><br>Looks Up | ![][273]<br>[Seedot]<br>Lv. 10<br>Careful / Chlorophyll<br>40/40/50/30/30/30<hr>Nature Power<br>Bullet Seed<br>Growth<br>Harden | ![][050]<br>[Diglett]<br>Lv. 10<br>Brave / Sand Veil<br>10/55/25/35/45/95<hr>Bulldoze<br>Astonish<br>Growl<br>Mud-slap
+Picknicker Diana<hr><br>Looks Down | ![][293]<br>[Whismur]<br>Lv. 10<br>Serious / Soundproof<br>64/51/23/51/23/28<hr>Uproar<br>Astonish<br>Disarming Voice<br>Howl | ![][194]<br>[Wooper]<br>Lv. 10<br>Lonely / Water Absorb<br>55/55/55/25/25/15<hr>Slam<br>Mud Shot<br>Mud Sport<br>Tail Whip
 
 ### Master Trainer
 
@@ -104,3 +103,4 @@ Pokémon | Level | Type | Notes
 [earth-plate]: ../img/items/earth-plate.png
 [150]: ../img/pokemon/150.png
 [Mewtwo]: ../../pokemons/150/
+[camper]: ../img/trainer/camper.png

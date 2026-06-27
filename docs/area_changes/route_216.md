@@ -2,13 +2,12 @@
 
 ## Trainers
 
-Trainer                             | 1                                | 2                                | 3
----                                 | ---                              | ---                              | ---
-Ace Trainer Blake                   | ![][137]<br>[Porygon]<br>Lv. 23<ul><li>Recover</li><li>Charge Beam</li><li>Signal Beam</li><li>Recycle</li></ul> | ![][288]<br>[Vigoroth]<br>Lv. 23<ul><li>Uproar</li><li>Crush Claw</li><li>Fury Swipes</li><li>Slash</li></ul> | &nbsp;
-Ace Trainer Maria                   | ![][195]<br>[Quagsire]<br>Lv. 22<ul><li>Double Kick</li><li>Mud Bomb</li><li>Curse</li><li>Amnesia</li></ul> | ![][156]<br>[Quilava]<br>Lv. 22<ul><li>Quick Attack</li><li>Double Kick</li><li>Flame Wheel</li><li>Defense Curl</li></ul> | ![][185]<br>[Sudowoodo]<br>Lv. 22<ul><li>Rock Tomb</li><li>Mimic</li><li>Slam</li><li>Feint Attack</li></ul> 
-Ace Trainer Laura                   | ![][176]<br>[Togetic]<br>Lv. 23<ul><li>Wish</li><li>Air Cutter</li><li>Safeguard</li><li>Ancient Power</li></ul> | ![][277]<br>[Swellow]<br>Lv. 23<ul><li>Wing Attack</li><li>Double Team</li><li>Aerial Ace</li><li>Reversal</li></ul> | &nbsp;
-:repeat: [Skier Edward](#rematches) | ![][459]<br>[Snover]<br>Lv. 20<ul><li>Grass Whistle</li><li>Swagger</li><li>Bullet Seed</li><li>Ice Shard</li></ul> | ![][361]<br>[Snorunt]<br>Lv. 20<ul><li>Ice Shard</li><li>Icy Wind</li><li>Bite</li><li>Disable</li></ul> | ![][220]<br>[Swinub]<br>Lv. 20<ul><li>Powder Snow</li><li>Ice Shard</li><li>Bulldoze</li><li>Endure</li></ul> 
-Ace Trainer Garrett                 | ![][122]<br>[Mr. Mime]<br>Lv. 22<ul><li>Double Slap</li><li>Encore</li><li>Mimic</li><li>Psybeam</li></ul> | ![][274]<br>[Nuzleaf]<br>Lv. 22<ul><li>Nature Power</li><li>Razor Leaf</li><li>Fake Out</li><li>Torment</li></ul> | ![][123]<br>[Scyther]<br>Lv. 22<ul><li>Agility</li><li>Wing Attack</li><li>Slash</li><li>Night Slash</li></ul> 
+Trainer | 1 | 2
+--- | --- | ---
+Black Belt Philip<hr><br>(LOOKS UP AND RIGHT) | ![][297]<br>[Hariyama]<br>Lv. 55<br>Quiet / Thick Fat<br>144/120/60/40/60/50<hr>Endure<br>Close Combat<br>Reversal<br>Counter | ![][068]<br>[Machamp]<br>Lv. 55<br>Hardy / Guts<br>90/130/80/65/85/55<hr>Cross Chop<br>Scary Face<br>Dynamic Punch<br>Close Combat
+![][skier]<br>Skier Kaitlyn<hr><br>(SKIS IN A CIRCLE, COUNTERCLOCKWISE) | ![][131]<br>[Lapras]<br>Lv. 55<br>Docile / Water Absorb<br>130/85/80/85/95/60<hr>Avalanche<br>Megahorn<br>Hydro Pump<br>Sheer Cold | &nbsp;
+![][skier]<br>Skier Bradley<hr><br>(SKIS BACK AND FOURTH WHILE SPINNING) | ![][221]<br>[Piloswine]<br>Lv. 54<br>Naughty / Thick Fat<br>100/100/80/60/60/50<hr>Thrash<br>Icicle Crash<br>Amnesia<br>Blizzard | ![][362]<br>[Glalie]<br>Lv. 54<br>Hasty / Levitate<br>80/110/110/60/60/80<hr>Switcheroo<br>Hail<br>Blizzard<br>Sheer Cold
+![][skier]<br>Skier Andrea<hr><br>There are 4 items all around her<br>- a Mental Herb<br>- a HP Up<br>- a Blue Flute<br>- a Max Potion<br>(SKIS IN A CIRCLE, CLOCKWISE) | ![][460]<br>[Abomasnow]<br>Lv. 55<br>Quirky / Snow Warning<br>90/92/75/92/85/60<hr>Mist<br>Icicle Crash<br>Blizzard<br>Sheer Cold | &nbsp;
 
 ### With Rock Climb
 
@@ -21,13 +20,33 @@ Skier Kaitlyn                            | ![][131]<br>[Lapras]<br>Lv. 55<ul><li
 
 ### Rematches
 
-Trainer                                             | 1                                 | 2                               | 3
----                                                 | ---                               | ---                             | ---
-Skier Edward :material-numeric-8-circle-outline:    | ![][460]<br>[Abomasnow]<br>Lv. 59<ul><li>Mist</li><li>Icicle Crash</li><li>Blizzard</li><li>Sheer Cold</li></ul> | ![][362]<br>[Glalie]<br>Lv. 59<ul><li>Switcheroo</li><li>Hail</li><li>Blizzard</li><li>Sheer Cold</li></ul> | ![][221]<br>[Piloswine]<br>Lv. 59<ul><li>Thrash</li><li>Icicle Crash</li><li>Amnesia</li><li>Blizzard</li></ul> 
-Skier Edward :material-alpha-c-circle-outline:      | ![][460]<br>[Abomasnow]<br>Lv. 70<ul><li>Mist</li><li>Icicle Crash</li><li>Blizzard</li><li>Sheer Cold</li></ul> | ![][362]<br>[Glalie]<br>Lv. 70<ul><li>Switcheroo</li><li>Hail</li><li>Blizzard</li><li>Sheer Cold</li></ul> | ![][473]<br>[Mamoswine]<br>Lv. 70<ul><li>Thrash</li><li>Icicle Crash</li><li>Scary Face</li><li>Blizzard</li></ul> 
-Black Belt Philip :material-alpha-c-circle-outline: | ![][297]<br>[Hariyama]<br>Lv. 70<ul><li>Endure</li><li>Close Combat</li><li>Reversal</li><li>Counter</li></ul> | ![][068]<br>[Machamp]<br>Lv. 70<ul><li>Scary Face</li><li>Dynamic Punch</li><li>Close Combat</li><li>Superpower</li></ul> | ![][062]<br>[Poliwrath]<br>Lv. 70<ul><li>Brick Break</li><li>Dynamic Punch</li><li>Mind Reader</li><li>Close Combat</li></ul> 
-Skier Andrea :material-numeric-8-circle-outline:    | ![][460]<br>[Abomasnow]<br>Lv. 61<ul><li>Mist</li><li>Icicle Crash</li><li>Blizzard</li><li>Sheer Cold</li></ul> | &nbsp;                          | &nbsp;
-Skier Andrea :material-alpha-c-circle-outline:      | ![][460]<br>[Abomasnow]<br>Lv. 72<ul><li>Mist</li><li>Icicle Crash</li><li>Blizzard</li><li>Sheer Cold</li></ul> | &nbsp;                          | &nbsp;
+=== "After 8 Badges"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    ![][skier]<br>Skier Edward<hr> | ![][460]<br>[Abomasnow]<br>Lv. 59<br>Docile / Snow Warning<br>90/92/75/92/85/60<hr>Mist<br>Icicle Crash<br>Blizzard<br>Sheer Cold | ![][362]<br>[Glalie]<br>Lv. 59<br>Rash / Levitate<br>80/110/110/60/60/80<hr>Switcheroo<br>Hail<br>Blizzard<br>Sheer Cold | ![][221]<br>[Piloswine]<br>Lv. 59<br>Serious / Thick Fat<br>100/100/80/60/60/50<hr>Thrash<br>Icicle Crash<br>Amnesia<br>Blizzard
+
+=== "SKIER EDWARD"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    ![][skier]<br>Skier Edward<hr><br>(AFTER CYNTHIA) | ![][460]<br>[Abomasnow]<br>Lv. 70<br>Adamant / Snow Warning<br>90/92/75/92/85/60<hr>Mist<br>Icicle Crash<br>Blizzard<br>Sheer Cold | ![][362]<br>[Glalie]<br>Lv. 70<br>Mild / Levitate<br>80/110/110/60/60/80<hr>Switcheroo<br>Hail<br>Blizzard<br>Sheer Cold | ![][221]<br>[Piloswine]<br>Lv. 70<br>Careful / Thick Fat<br>100/100/80/60/60/50<hr>Thrash<br>Icicle Crash<br>Scary Face<br>Blizzard
+
+=== "After 8 Badges"
+
+    Trainer | 1
+    --- | ---
+    ![][skier]<br>Skier Andrea<hr> | ![][460]<br>[Abomasnow]<br>Lv. 61<br>Mild / Snow Warning<br>90/92/75/92/85/60<hr>Mist<br>Icicle Crash<br>Blizzard<br>Sheer Cold
+
+=== "SKIER ANDREA"
+
+    Trainer | 1
+    --- | ---
+    ![][skier]<br>Skier Andrea<hr><br>(AFTER CYNTHIA) | ![][460]<br>[Abomasnow]<br>Lv. 72<br>Quiet / Snow Warning<br>90/92/75/92/85/60<hr>Mist<br>Icicle Crash<br>Blizzard<br>Sheer Cold
+
+Trainer | 1 | 2 | 3
+--- | --- | --- | ---
+Black Belt Philip<hr><br>(AFTER CYNTHIA) | ![][297]<br>[Hariyama]<br>Lv. 70<br>Quirky / Thick Fat<br>144/120/60/40/60/50<hr>Endure<br>Close Combat<br>Reversal<br>Counter | ![][068]<br>[Machamp]<br>Lv. 70<br>Lonely / Guts<br>90/130/80/65/85/55<hr>Scary Face<br>Dynamic Punch<br>Close Combat<br>Superpower | ![][062]<br>[Poliwrath]<br>Lv. 70<br>Careful / Water Absorb<br>90/95/95/70/90/70<hr>Brick Break<br>Dynamic Punch<br>Mind Reader<br>Close Combat
 
 ## Wild Pokémon
 
@@ -52,6 +71,10 @@ Item | Name | Obtained
 TM | Name | Obtained
 --- | --- | ---
 TM13 | Ice Beam | Gift from NPC
+
+--8<-- "includes/abilities.md"
+--8<-- "includes/held_items.md"
+--8<-- "includes/natures.md"
 
 [062]: ../img/pokemon/062.png
 [068]: ../img/pokemon/068.png
@@ -104,3 +127,5 @@ TM13 | Ice Beam | Gift from NPC
 [poke-radar]: ../img/items/poke-radar.png
 [blue-flute]: ../img/items/blue-flute.png
 [mental-herb]: ../img/items/mental-herb.png
+[ace_m]: ../img/trainer/ace_m.png
+[skier]: ../img/trainer/skier.png

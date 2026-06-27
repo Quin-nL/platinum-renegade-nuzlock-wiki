@@ -2,11 +2,9 @@
 
 ## Trainers
 
-Trainer        | 1                                  | 2                                 | 3
----            | ---                                | ---                               | ---
-Galactic Grunt | ![][042]<br>[Golbat]<br>Lv. 56<ul><li>Haze</li><li>Zen Headbutt</li><li>Nasty Plot</li><li>Brave Bird</li></ul> | &nbsp;                            | &nbsp;
-Galactic Grunt | ![][198]<br>[Murkrow]<br>Lv. 54<ul><li>Tailwind</li><li>Dark Pulse</li><li>Torment</li><li>Brave Bird</li></ul> | ![][262]<br>[Mightyena]<br>Lv. 54<ul><li>Yawn</li><li>Take Down</li><li>Play Rough</li><li>Sucker Punch</li></ul> | ![][215]<br>[Sneasel]<br>Lv. 54<ul><li>Crunch</li><li>Snatch</li><li>Punishment</li><li>Dark Pulse</li></ul> 
-Galactic Grunt | ![][284]<br>[Masquerain]<br>Lv. 55<ul><li>Stun Spore</li><li>Air Slash</li><li>Hydro Pump</li><li>Bug Buzz</li></ul> | ![][089]<br>[Muk]<br>Lv. 55<ul><li>Sludge Bomb</li><li>Acid Armor</li><li>Gunk Shot</li><li>Memento</li></ul> | &nbsp;
+Trainer | 1
+--- | ---
+![][galactic_grunt_m]<br>Galactic Grunt<hr><br>Looks Down | ![][042]<br>[Golbat]<br>Lv. 56<br>Mild / Inner Focus<br>75/80/70/65/75/90<hr>Haze<br>Zen Headbutt<br>Nasty Plot<br>Brave Bird
 
 ## Wild Pokémon
 
@@ -18,6 +16,10 @@ Area                        | Pokémon                      | &nbsp;            
 &nbsp;                      | ![][374]<br>[Beldum]<br>10%  | ![][338]<br>[Solrock]<br>5%  | ![][337]<br>[Lunatone]<br>5%  | &nbsp;                        | &nbsp;                        | &nbsp;
 🌙<br>Night<br>Lv. 18 - 19   | ![][074]<br>[Geodude]<br>20% | ![][436]<br>[Bronzor]<br>20% | ![][035]<br>[Clefairy]<br>10% | ![][299]<br>[Nosepass]<br>10% | ![][358]<br>[Chimecho]<br>10% | ![][041]<br>[Zubat]<br>10%
 &nbsp;                      | ![][374]<br>[Beldum]<br>10%  | ![][338]<br>[Solrock]<br>5%  | ![][337]<br>[Lunatone]<br>5%  | &nbsp;                        | &nbsp;                        | &nbsp;
+
+--8<-- "includes/abilities.md"
+--8<-- "includes/held_items.md"
+--8<-- "includes/natures.md"
 
 [035]: ../img/pokemon/035.png
 [041]: ../img/pokemon/041.png
@@ -49,3 +51,4 @@ Area                        | Pokémon                      | &nbsp;            
 [Sneasel]: ../../pokemons/215/
 [Solrock]: ../../pokemons/338/
 [Zubat]: ../../pokemons/041/
+[galactic_grunt_m]: ../img/trainer/galactic_grunt_m.png

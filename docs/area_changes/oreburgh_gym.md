@@ -1,13 +1,10 @@
-# Oreburgh Gym
-
-Trainer                      | 1                                | 2                               | 3                               | 4                            | 5                                | 6
----                          | ---                              | ---                             | ---                             | ---                          | ---                              | ---
-Youngster Jonathon           | ![][111]<br>[Rhyhorn]<br>Lv. 13<ul><li>Fury Attack</li><li>Scary Face</li><li>Bulldoze</li><li>Stomp</li></ul> | ![][138]<br>[Omanyte]<br>Lv. 13<ul><li>Withdraw</li><li>Leer</li><li>Bite</li><li>Rollout</li></ul> | ![][140]<br>[Kabuto]<br>Lv. 13<ul><li>Leer</li><li>Absorb</li><li>Aqua Jet</li><li>Rollout</li></ul> | &nbsp;                       | &nbsp;                           | &nbsp;
-Youngster Darius             | ![][304]<br>[Aron]<br>Lv. 13<ul><li>Mud-Slap</li><li>Headbutt</li><li>Metal Claw</li><li>Rock Tomb</li></ul> | ![][347]<br>[Anorith]<br>Lv. 13<ul><li>Water Gun</li><li>Mud Sport</li><li>Aqua Jet</li><li>Fury Cutter</li></ul> | ![][345]<br>[Lileep]<br>Lv. 13<ul><li>Astonish</li><li>Acid</li><li>Ingrain</li><li>Confuse Ray</li></ul> | &nbsp;                       | &nbsp;                           | &nbsp;
+Trainer | 1 | 2 | 3
+--- | --- | --- | ---
+![][youngster]<br>Youngster Jonathon<hr><br>Looks Right | ![][111]<br>[Rhyhorn]<br>Lv. 13<br>Lax / Rock Head<br>80/85/95/30/30/25<hr>Stomp<br>Bulldoze<br>Scary Face<br>Fury Attack | ![][138]<br>[Omanyte]<br>Lv. 13<br>Docile / Swift Swim<br>35/40/100/90/55/35<hr>Rollout<br>Bite<br>Leer<br>Withdraw | ![][140]<br>[Kabuto]<br>Lv. 13<br>Impish / Swift Swim<br>30/80/90/55/45/55<hr>Rollout<br>Aqua Jet<br>Absorb<br>Leer
+![][youngster]<br>Youngster Darius<hr><br>Looks Left | ![][304]<br>[Aron]<br>Lv. 13<br>Relaxed / Rock Head<br>50/70/100/40/40/30<hr>Rock Throw<br>Metal Claw<br>Headbutt<br>Mud-slap | ![][347]<br>[Anorith]<br>Lv. 13<br>Lax / Battle Armor<br>45/95/50/40/50/75<hr>Fury Cutter<br>Aqua Jet<br>Mud Sport<br>Water Gun | ![][345]<br>[Lileep]<br>Lv. 13<br>Lonely / Suction Cups<br>66/41/77/61/87/23<hr>Confuse Ray<br>Ingrain<br>Acid<br>Astonish
 
 ## Leader Roark
-
-![][roark] | ![][299]<br>[Nosepass]<br>Lv. 15<br>![][smooth-rock]<br>Smooth Rock<br>Modest / Sturdy<hr><ul><li>Stealth Rock</li><li>Sandstorm</li><li>Thunder Wave</li><li>Shock Wave</li></ul> | ![][438]<br>[Bonsly]<br>Lv. 15<br>![][rindo-berry]<br>Rindo Berry<br>Impish / Rock Head<hr><ul><li>Stealth Rock</li><li>Brick Break</li><li>Rollout</li><li>Defense Curl</li></ul> | ![][074]<br>[Geodude]<br>Lv. 15<br>![][expert-belt]<br>Expert Belt<br>Adamant / Rock Head<hr><ul><li>Bulldoze</li><li>Rock Tomb</li><li>Fire Punch</li><li>Thunder Punch</li></ul> | ![][095]<br>[Onix]<br>Lv. 15<br>![][muscle-band]<br>Muscle Band<br>Jolly / Rock Head<hr><ul><li>Stealth Rock</li><li>Rock Tomb</li><li>Bulldoze</li><li>Sandstorm</li></ul> | ![][246]<br>[Larvitar]<br>Lv. 15<br>![][flame-orb]<br>Flame Orb<br>Jolly / Guts<hr><ul><li>Rock Tomb</li><li>Bulldoze</li><li>Bite</li><li>Protect</li></ul> | ![][408]<br>[Cranidos]<br>Lv. 16<br>![][sitrus-berry]<br>Sitrus Berry<br>Hasty / Rock Head [^1]<hr><ul><li>Zen Headbutt</li><li>Rock Tomb</li><li>Thunder Punch</li><li>Scary Face</li></ul>
+![][roark] | ![][299]<br>[Nosepass]<br>Lv. 15<br>![][smooth-rock]<br>Smooth Rock<br>Modest / Sturdy<br>30/35/135/55/90/30<hr>Stealth Rock<br>Sandstorm<br>Thunder Wave<br>Shock Wave | ![][438]<br>[Bonsly]<br>Lv. 15<br>![][rindo-berry]<br>Rindo Berry<br>Impish / Rock Head<br>60/85/95/10/55/10<hr>Stealth Rock<br>Brick Break<br>Rollout<br>Defense Curl | ![][074]<br>[Geodude]<br>Lv. 15<br>![][expert-belt]<br>Expert Belt<br>Adamant / Rock Head<br>40/80/100/30/30/20<hr>Bulldoze<br>Rock Tomb<br>Fire Punch<br>Thunder Punch | ![][095]<br>[Onix]<br>Lv. 15<br>![][muscle-band]<br>Muscle Band<br>Jolly / Rock Head<br>35/75/160/30/45/80<hr>Stealth Rock<br>Rock Tomb<br>Bulldoze<br>Sandstorm | ![][246]<br>[Larvitar]<br>Lv. 15<br>![][flame-orb]<br>Flame Orb<br>Jolly / Guts<br>50/64/50/45/50/41<hr>Rock Tomb<br>Bulldoze<br>Bite<br>Protect | ![][408]<br>[Cranidos]<br>Lv. 16<br>![][sitrus-berry]<br>Sitrus Berry<br>Hasty / Rock Head<br>67/125/40/30/30/58<hr>Zen Headbutt<br>Rock Tomb<br>Thunder Punch<br>Scary Face
 --- | --- | --- | --- | --- | --- | ---
 
 --8<-- "includes/abilities.md"
@@ -48,7 +45,6 @@ TM76 | Stealth Rock | Gift from Roark
 [Omanyte]: ../../pokemons/138/
 [Onix]: ../../pokemons/095/
 [Rhyhorn]: ../../pokemons/111/
-[^1]: Only in Complete version
 [expert-belt]: ../img/items/expert-belt.png
 [flame-orb]: ../img/items/flame-orb.png
 [muscle-band]: ../img/items/muscle-band.png
@@ -56,3 +52,4 @@ TM76 | Stealth Rock | Gift from Roark
 [roark]: ../img/trainer/roark.png
 [sitrus-berry]: ../img/items/sitrus-berry.png
 [smooth-rock]: ../img/items/smooth-rock.png
+[youngster]: ../img/trainer/youngster.png

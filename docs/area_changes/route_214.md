@@ -2,28 +2,73 @@
 
 ## Trainers
 
-Trainer                                 | 1                                  | 2                                | 3
----                                     | ---                                | ---                              | ---
-:repeat: [PI Carlos](#rematches)        | ![][051]<br>[Dugtrio]<br>Lv. 36<ul><li>Mud Bomb</li><li>Tri Attack</li><li>Rock Slide</li><li>Earth Power</li></ul> | &nbsp;                           | &nbsp;
-Collector Douglas                       | ![][135]<br>[Jolteon]<br>Lv. 33<ul><li>Thunder Fang</li><li>Discharge</li><li>Extrasensory</li><li>Agility</li></ul> | ![][134]<br>[Vaporeon]<br>Lv. 33<ul><li>Aqua Ring</li><li>Scald</li><li>Extrasensory</li><li>Acid Armor</li></ul> | ![][136]<br>[Flareon]<br>Lv. 33<ul><li>Flame Wheel</li><li>Lava Plume</li><li>Play Rough</li><li>Scary Face</li></ul> 
-Collector Brady                         | ![][115]<br>[Kangaskhan]<br>Lv. 33<ul><li>Mega Punch</li><li>Dizzy Punch</li><li>Crunch</li><li>Body Slam</li></ul> | ![][357]<br>[Tropius]<br>Lv. 33<ul><li>Nature Power</li><li>Body Slam</li><li>Air Slash</li><li>Energy Ball</li></ul> | ![][317]<br>[Swalot]<br>Lv. 33<ul><li>Pain Split</li><li>Body Slam</li><li>Sludge Bomb</li><li>Toxic</li></ul> 
-Ruin Maniac Bryan                       | ![][347]<br>[Anorith]<br>Lv. 33<ul><li>Metal Claw</li><li>Water Pulse</li><li>X-Scissor</li><li>Slash</li></ul> | ![][345]<br>[Lileep]<br>Lv. 33<ul><li>Giga Drain</li><li>Gastro Acid</li><li>Amnesia</li><li>Earth Power</li></ul> | ![][142]<br>[Aerodactyl]<br>Lv. 33<ul><li>Ancient Power</li><li>Crunch</li><li>Rock Slide</li><li>Take Down</li></ul> 
-Ruin Maniac Ronald                      | ![][369]<br>[Relicanth]<br>Lv. 35<ul><li>Magnitude</li><li>Aqua Tail</li><li>Rest</li><li>Zen Headbutt</li></ul> | &nbsp;                           | &nbsp;
-Collector Jamal                         | ![][131]<br>[Lapras]<br>Lv. 35<ul><li>Ice Beam</li><li>Bubble Beam</li><li>Safeguard</li><li>Dragon Pulse</li></ul> | &nbsp;                           | &nbsp;
-Beauty Devon                            | ![][413]<br>[Wormadam]<br>Lv. 33<ul><li>Confusion</li><li>Bug Buzz</li><li>Growth</li><li>Energy Ball</li></ul> | ![][413]<br>[Wormadam]<br>Lv. 33<ul><li>Confusion</li><li>Bug Buzz</li><li>Growth</li><li>Energy Ball</li></ul> | ![][413]<br>[Wormadam]<br>Lv. 33<ul><li>Confusion</li><li>Bug Buzz</li><li>Growth</li><li>Energy Ball</li></ul> 
-:repeat: [Psychic Mitchell](#rematches) | ![][064]<br>[Kadabra]<br>Lv. 34<ul><li>Reflect</li><li>Light Screen</li><li>Psycho Cut</li><li>Recover</li></ul> | ![][326]<br>[Grumpig]<br>Lv. 34<ul><li>Rest</li><li>Snore</li><li>Sleep Talk</li><li>Teeter Dance</li></ul> | ![][097]<br>[Hypno]<br>Lv. 34<ul><li>Psycho Cut</li><li>Wake-Up Slap</li><li>Psych Up</li><li>Zen Headbutt</li></ul> 
-:repeat: [Psychic Abigail](#rematches)  | ![][281]<br>[Kirlia]<br>Lv. 34<ul><li>Magical Leaf</li><li>Hypnosis</li><li>Psychic</li><li>Calm Mind</li></ul> | ![][358]<br>[Chimecho]<br>Lv. 34<ul><li>Extrasensory</li><li>Heal Bell</li><li>Safeguard</li><li>Psychic</li></ul> | ![][203]<br>[Girafarig]<br>Lv. 34<ul><li>Uproar</li><li>Zen Headbutt</li><li>Magic Coat</li><li>Crunch</li></ul> 
+Trainer | 1 | 2 | 3
+--- | --- | --- | ---
+![][psychic_m]<br>Psychic Abigail<hr><br>First Psychic of the route when coming from Veilstone City | ![][281]<br>[Kirlia]<br>Lv. 34<br>Relaxed / Synchronize<br>38/35/35/95/85/50<hr>Magical Leaf<br>Hypnosis<br>Psychic<br>Calm Mind | ![][358]<br>[Chimecho]<br>Lv. 34<br>Lax / Levitate<br>75/40/80/110/100/65<hr>Extrasensory<br>Heal Bell<br>Safeguard<br>Psychic | ![][203]<br>[Girafarig]<br>Lv. 34<br>Mild / Inner Focus<br>70/80/65/90/65/85<hr>Uproar<br>Zen Headbutt<br>Magic Coat<br>Crunch
+Pi Carlos<hr><br>Stands right next to a Max Repel<br>(LOOKS UP AND DOWN) | ![][051]<br>[Dugtrio]<br>Lv. 36<br>Sassy / Sand Veil<br>35/100/50/50/70/120<hr>Fissure<br>Rock Slide | &nbsp; | &nbsp;
+![][collector]<br>Collector Brady<hr><br>(WALKS UP LOOKS LEFT AND RIGHT THEN WALKS DOWN AND LOOKS LEFT AND RIGHT) | ![][115]<br>[Kangaskhan]<br>Lv. 33<br>Serious / Scrappy<br>105/95/80/40/80/90<hr>Mega Punch<br>Dizzy Punch<br>Crunch<br>Body Slam | ![][357]<br>[Tropius]<br>Lv. 33<br>Quiet / Chlorophyll<br>110/95/95/95/95/45<hr>Nature Power<br>Body Slam<br>Air Slash<br>Energy Ball | ![][317]<br>[Swalot]<br>Lv. 33<br>Sassy / Liquid Ooze<br>100/73/83/73/83/55<hr>Pain Split<br>Body Slam<br>Sludge Bomb<br>Toxic
+![][beauty]<br>Beauty Devon<hr><br>Only Beauty on the route<br>Even though Wormadam Sand and Trash don't have the same learnset as Wormadam Plant the game doesn't recognize them as their specific cloak form and just gives them Wormadam Plant's learnset | ![][413]<br>[Wormadam (P)]<br>Lv. 33<br>Bold / Battle Armor<br>60/50/90/110/110/30<hr>Confusion<br>Bug Buzz<br>Growth<br>Energy Ball | ![][413]<br>[Wormadam (S)]<br>Lv. 33<br>Bold / Battle Armor<br>60/50/110/110/90/30<hr>Confusion<br>Bug Buzz<br>Growth<br>Energy Ball | ![][413]<br>[Wormadam (T)]<br>Lv. 33<br>Bold / Battle Armor<br>60/50/100/110/100/30<hr>Confusion<br>Bug Buzz<br>Growth<br>Energy Ball
+![][psychic_m]<br>Psychic Mitchell<hr><br>Second Psychic of the route<br>(i am not describing all of that but he walks and turns in a set pattern) | ![][064]<br>[Kadabra]<br>Lv. 34<br>Brave / Magic Guard<br>40/35/30/120/70/105<hr>Reflect<br>Light Screen<br>Psycho Cut<br>Recover | ![][326]<br>[Grumpig]<br>Lv. 34<br>Lax / Thick Fat<br>80/45/65/90/110/80<hr>Rest<br>Snore<br>Sleep Talk<br>Teeter Dance | ![][097]<br>[Hypno]<br>Lv. 34<br>Relaxed / Insomnia<br>85/73/70/73/115/67<hr>Psycho Cut<br>Wake-Up Slap<br>Psych Up<br>Zen Headbutt
+![][ruin_maniac]<br>Ruin Maniac Bryan<hr><br>Only Ruin Maniac on the route<br>Stands on the right path of the route<br>Is looking to the right | ![][347]<br>[Anorith]<br>Lv. 33<br>Impish / Battle Armor<br>45/95/50/40/50/75<hr>Metal Claw<br>Water Pulse<br>X-Scissor<br>Slash | ![][345]<br>[Lileep]<br>Lv. 33<br>Gentle / Suction Cups<br>66/41/77/61/87/23<hr>Giga Drain<br>Gastro Acid<br>Amnesia<br>Earth Power | ![][142]<br>[Aerodactyl]<br>Lv. 33<br>Sassy / Rock Head<br>80/105/65/60/75/130<hr>Ancient Power<br>Crunch<br>Rock Slide<br>Take Down
+![][collector]<br>Collector Jamal<hr><br>Collector in the high grass<br>(SPINS REGULARLY) | ![][131]<br>[Lapras]<br>Lv. 35<br>Sassy / Water Absorb<br>130/85/80/85/95/60<hr>Ice Beam<br>Bubble Beam<br>Safeguard<br>Dragon Pulse | &nbsp; | &nbsp;
+![][ruin_maniac]<br>Ruin Maniac Ronald<hr><br>(LOOKS UP AND DOWN) | ![][369]<br>[Relicanth]<br>Lv. 35<br>Naive / Rock Head<br>100/90/130/45/65/55<hr>Magnitude<br>Aqua Tail<br>Rest<br>Zen Headbutt | &nbsp; | &nbsp;
+![][collector]<br>Collector Douglas<hr><br>(LOOKS UP AND LEFT) | ![][135]<br>[Jolteon]<br>Lv. 33<br>Naughty / Volt Absorb<br>65/65/60/110/95/130<hr>Thunder Fang<br>Discharge<br>Extrasensory<br>Agility | ![][134]<br>[Vaporeon]<br>Lv. 33<br>Bold / Water Absorb<br>130/65/60/110/95/65<hr>Aqua Ring<br>Scald<br>Extrasensory<br>Acid Armor | ![][136]<br>[Flareon]<br>Lv. 33<br>Rash / Flash Fire<br>110/130/60/65/65/95<hr>Flame Wheel<br>Lava Plume<br>Play Rough<br>Scary Face
+Artist Ismael<hr><br>DOUBLE BATTLE | ![][235]<br>[Smeargle]<br>Lv. 37<br>Adamant / Technician<br>55/20/35/20/45/75<hr>Dark Void<br>Protect<br>Leech Seed<br>Substitute | &nbsp; | &nbsp;
+![][beauty]<br>Beauty Harley<hr><br>DOUBLE BATTLE | ![][055]<br>[Golduck]<br>Lv. 37<br>Brave / Damp<br>80/82/78/95/80/85<hr>Hypnosis<br>Aqua Tail<br>Power Gem<br>Psychic | &nbsp; | &nbsp;
+Rich Boy Roman<hr><br>DOUBLE BATTLE<br>can use : 1 FULL RESTORE | ![][059]<br>[Arcanine]<br>Lv. 37<br>Lax / Intimidate<br>90/110/80/100/80/95<hr>Roar<br>Odor Sleuth<br>Fire Fang<br>Extreme Speed | &nbsp; | &nbsp;
+![][lady]<br>Lady Kylie<hr><br>DOUBLE BATTLE<br>can use : 1 FULL RESTORE | ![][045]<br>[Vileplume]<br>Lv. 37<br>Mild / Chlorophyll<br>75/80/85/110/90/50<hr>Stun Spore<br>Aromatherapy<br>Earth Power<br>Teeter Dance | &nbsp; | &nbsp;
+![][gentleman]<br>Gentleman Leonardo<hr><br>DOUBLE BATTLE<br>can use : 1 FULL RESTORE | ![][441]<br>[Chatot]<br>Lv. 37<br>Lonely / Soundproof<br>75/45/55/110/55/110<hr>Mimic<br>Chatter<br>Roost<br>Agility | &nbsp; | &nbsp;
+![][socialite]<br>Socialite Rebecca<hr><br>DOUBLE BATTLE<br>can use : 1 FULL RESTORE | ![][053]<br>[Persian]<br>Lv. 37<br>Calm / Technician<br>65/80/60/80/65/115<hr>Taunt<br>Power Gem<br>Assurance<br>Hypnosis | &nbsp; | &nbsp;
+![][collector]<br>Collector Eugene<hr><br>DOUBLE BATTLE | ![][350]<br>[Milotic]<br>Lv. 37<br>Hasty / Marvel Scale<br>95/60/79/100/125/81<hr>Recover<br>Hypnosis<br>Attract<br>Moonblast | &nbsp; | &nbsp;
+![][aroma_lady]<br>Aroma Lady Alison<hr><br>DOUBLE BATTLE | ![][154]<br>[Meganium]<br>Lv. 37<br>Quiet / Serene Grace<br>80/82/100/93/100/80<hr>Energy Ball<br>Sweet Scent<br>Petal Dance<br>Body Slam | &nbsp; | &nbsp;
+![][school_kid_m]<br>School Kid Esteban<hr><br>DOUBLE BATTLE<br>can use : 1 X SP. DEF | ![][195]<br>[Quagsire]<br>Lv. 37<br>Naughty / Water Absorb<br>95/95/95/65/65/35<hr>Aqua Tail<br>Yawn<br>Body Slam<br>Earthquake | &nbsp; | &nbsp;
+Pokéfan Meredith<hr><br>DOUBLE BATTLE | ![][417]<br>[Pachirisu]<br>Lv. 37<br>Sitrus Berry<br>Adamant / Volt Absorb<br>60/45/80/80/90/95<hr>Sweet Kiss<br>Thunder Wave<br>Thunderbolt<br>Fake Tears | &nbsp; | &nbsp;
+![][veteran]<br>Veteran Emanuel<hr><br>DOUBLE BATTLE | ![][257]<br>[Blaziken]<br>Lv. 37<br>Timid / Speed Boost<br>80/120/75/110/70/80<hr>Focus Energy<br>Sky Uppercut<br>Flamethrower<br>Blaze Kick | &nbsp; | &nbsp;
+![][lass]<br>Lass Blythe<hr><br>DOUBLE BATTLE | ![][428]<br>[Lopunny]<br>Lv. 37<br>Adamant / Scrappy<br>65/106/84/44/96/105<hr>Agility<br>Switcheroo<br>Charm<br>Flail | &nbsp; | &nbsp;
+Cameraman Darryl<hr><br>DOUBLE BATTLE | ![][082]<br>[Magneton]<br>Lv. 37<br>Hasty / Magnet Pull<br>50/60/95/120/70/70<hr>Discharge<br>Tri Attack<br>Flash Cannon<br>Screech | &nbsp; | &nbsp;
+![][reporter]<br>Reporter Valerie<hr><br>DOUBLE BATTLE | ![][294]<br>[Loudred]<br>Lv. 37<br>Gentle / Soundproof<br>84/71/43/71/43/48<hr>Extrasensory<br>Fake Tears<br>Hyper Voice<br>Roar | &nbsp; | &nbsp;
+Pi Kendrick<hr><br>DOUBLE BATTLE | ![][112]<br>[Rhydon]<br>Lv. 37<br>Bold / Rock Head<br>105/130/120/45/45/40<hr>Crunch<br>Rock Slide<br>Poison Jab<br>Hammer Arm | &nbsp; | &nbsp;
+![][beauty]<br>Beauty Gabriella<hr><br>DOUBLE BATTLE | ![][457]<br>[Lumineon]<br>Lv. 37<br>Calm / Swift Swim<br>70/40/75/105/90/105<hr>Captivate<br>Safeguard<br>Aqua Tail<br>Silver Wind | &nbsp; | &nbsp;
+![][scientist]<br>Scientist Emilio<hr><br>DOUBLE BATTLE<br>can use : 1 X SPECIAL | ![][065]<br>[Alakazam]<br>Lv. 37<br>Brave / Magic Guard<br>55/50/45/135/95/120<hr>Light Screen<br>Psycho Cut<br>Recover<br>Psychic | &nbsp; | &nbsp;
+Pkmn Breeder Kaylee<hr><br>DOUBLE BATTLE | ![][184]<br>[Azumarill]<br>Lv. 37<br>Hasty / Huge Power<br>110/50/80/80/80/50<hr>Aqua Tail<br>Play Rough<br>Aqua Ring<br>Rain Dance | &nbsp; | &nbsp;
 
 ### Rematches
 
-Trainer                                              | 1                                 | 2                                | 3
----                                                  | ---                               | ---                              | ---
-PI Carlos :material-numeric-8-circle-outline:        | ![][051]<br>[Dugtrio]<br>Lv. 62<ul><li>Night Slash</li><li>Earthquake</li><li>Memento</li><li>Fissure</li></ul> | &nbsp;                           | &nbsp;
-PI Carlos :material-alpha-c-circle-outline:          | ![][051]<br>[Dugtrio]<br>Lv. 70<ul><li>Night Slash</li><li>Earthquake</li><li>Memento</li><li>Fissure</li></ul> | ![][131]<br>[Lapras]<br>Lv. 70<ul><li>Avalanche</li><li>Megahorn</li><li>Hydro Pump</li><li>Sheer Cold</li></ul> | ![][099]<br>[Kingler]<br>Lv. 70<ul><li>Slam</li><li>X-Scissor</li><li>Agility</li><li>Flail</li></ul> 
-Psychic Mitchell :material-numeric-8-circle-outline: | ![][065]<br>[Alakazam]<br>Lv. 60<ul><li>Future Sight</li><li>Substitute</li><li>Trick</li><li>Aura Sphere</li></ul> | ![][326]<br>[Grumpig]<br>Lv. 60<ul><li>Payback</li><li>Bounce</li><li>Future Sight</li><li>Trick</li></ul> | ![][097]<br>[Hypno]<br>Lv. 60<ul><li>Drain Punch</li><li>Nasty Plot</li><li>Guard Swap</li><li>Future Sight</li></ul> 
-Psychic Mitchell :material-alpha-c-circle-outline:   | ![][065]<br>[Alakazam]<br>Lv. 72<ul><li>Future Sight</li><li>Substitute</li><li>Trick</li><li>Aura Sphere</li></ul> | ![][326]<br>[Grumpig]<br>Lv. 72<ul><li>Payback</li><li>Bounce</li><li>Future Sight</li><li>Trick</li></ul> | ![][097]<br>[Hypno]<br>Lv. 72<ul><li>Drain Punch</li><li>Nasty Plot</li><li>Guard Swap</li><li>Future Sight</li></ul> 
-Psychic Abigail :material-numeric-8-circle-outline:  | ![][282]<br>[Gardevoir]<br>Lv. 60<ul><li>Imprison</li><li>Captivate</li><li>Future Sight</li><li>Dream Eater</li></ul> | ![][358]<br>[Chimecho]<br>Lv. 60<ul><li>Double-Edge</li><li>Recover</li><li>Hyper Voice</li><li>Healing Wish</li></ul> | ![][203]<br>[Girafarig]<br>Lv. 60<ul><li>Psychic</li><li>Baton Pass</li><li>Hyper Voice</li><li>Nasty Plot</li></ul> 
-Psychic Abigail :material-alpha-c-circle-outline:    | ![][282]<br>[Gardevoir]<br>Lv. 72<ul><li>Imprison</li><li>Captivate</li><li>Future Sight</li><li>Dream Eater</li></ul> | ![][358]<br>[Chimecho]<br>Lv. 72<ul><li>Double-Edge</li><li>Recover</li><li>Hyper Voice</li><li>Healing Wish</li></ul> | ![][203]<br>[Girafarig]<br>Lv. 72<ul><li>Psychic</li><li>Baton Pass</li><li>Hyper Voice</li><li>Nasty Plot</li></ul> 
+=== "After 8 Badges"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    ![][psychic_m]<br>Psychic Abigail<hr> | ![][282]<br>[Gardevoir]<br>Lv. 60<br>Quirky / Synchronize<br>68/65/65/125/115/80<hr>Imprison<br>Captivate<br>Dream Eater<br>Future Sight | ![][358]<br>[Chimecho]<br>Lv. 60<br>Sassy / Levitate<br>75/40/80/110/100/65<hr>Double-Edge<br>Recover<br>Hyper Voice<br>Healing Wish | ![][203]<br>[Girafarig]<br>Lv. 60<br>Timid / Inner Focus<br>70/80/65/90/65/85<hr>Psychic<br>Baton Pass<br>Hyper Voice<br>Nasty Plot
+
+=== "PSYCHIC ABIGAIL"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    ![][psychic_m]<br>Psychic Abigail<hr><br>(AFTER CYNTHIA) | ![][282]<br>[Gardevoir]<br>Lv. 72<br>Rash / Synchronize<br>68/65/65/125/115/80<hr>Imprison<br>Captivate<br>Dream Eater<br>Future Sight | ![][358]<br>[Chimecho]<br>Lv. 72<br>Careful / Levitate<br>75/40/80/110/100/65<hr>Double-Edge<br>Recover<br>Hyper Voice<br>Healing Wish | ![][203]<br>[Girafarig]<br>Lv. 72<br>Hasty / Inner Focus<br>70/80/65/90/65/85<hr>Psychic<br>Baton Pass<br>Hyper Voice<br>Nasty Plot
+
+=== "After 8 Badges"
+
+    Trainer | 1
+    --- | ---
+    Pi Carlos<hr> | ![][051]<br>[Dugtrio]<br>Lv. 62<br>Adamant / Sand Veil<br>35/100/50/50/70/120<hr>Fissure<br>Rock Slide
+
+=== "PI CARLOS"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    Pi Carlos<hr><br>(AFTER CYNTHIA) | ![][051]<br>[Dugtrio]<br>Lv. 70<br>Hardy / Sand Veil<br>35/100/50/50/70/120<hr>Fissure<br>Rock Slide | ![][131]<br>[Lapras]<br>Lv. 70<br>Naughty / Water Absorb<br>130/85/80/85/95/60<hr>Sheer Cold<br>Thunderbolt<br>Surf | ![][099]<br>[Kingler]<br>Lv. 70<br>Jolly / Hyper Cutter<br>55/130/115/50/50/75<hr>Guillotine<br>Crabhammer<br>X-Scissor
+
+=== "After 8 Badges"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    ![][psychic_m]<br>Psychic Mitchell<hr> | ![][065]<br>[Alakazam]<br>Lv. 60<br>Gentle / Magic Guard<br>55/50/45/135/95/120<hr>Future Sight<br>Substitute<br>Trick<br>Aura Sphere | ![][326]<br>[Grumpig]<br>Lv. 60<br>Docile / Thick Fat<br>80/45/65/90/110/80<hr>Double-Edge<br>Recover<br>Hyper Voice<br>Healing Wish | ![][097]<br>[Hypno]<br>Lv. 60<br>Timid / Insomnia<br>85/73/70/73/115/67<hr>Psychic<br>Baton Pass<br>Hyper Voice<br>Nasty Plot
+
+=== "PSYCHIC MITCHELL"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    ![][psychic_m]<br>Psychic Mitchell<hr><br>(AFTER CYNTHIA) | ![][065]<br>[Alakazam]<br>Lv. 72<br>Bold / Magic Guard<br>55/50/45/135/95/120<hr>Future Sight<br>Substitute<br>Trick<br>Aura Sphere | ![][326]<br>[Grumpig]<br>Lv. 72<br>Hardy / Thick Fat<br>80/45/65/90/110/80<hr>Payback<br>Bounce<br>Future Sight<br>Trick | ![][097]<br>[Hypno]<br>Lv. 72<br>Quiet / Insomnia<br>85/73/70/73/115/67<hr>Drain Punch<br>Nasty Plot<br>Guard Swap<br>Future Sight
 
 ## Wild Pokémon
 
@@ -48,6 +93,10 @@ Item | Name | Obtained
 ![][choice-band] | Choice Band | &nbsp;
 ![][heat-rock] | Heat Rock | &nbsp;
 ![][razor-fang] | Razor Fang | Hidden
+
+--8<-- "includes/abilities.md"
+--8<-- "includes/held_items.md"
+--8<-- "includes/natures.md"
 
 [012]: ../img/pokemon/012.png
 [015]: ../img/pokemon/015.png
@@ -138,3 +187,51 @@ Item | Name | Obtained
 [choice-band]: ../img/items/choice-band.png
 [heat-rock]: ../img/items/heat-rock.png
 [razor-fang]: ../img/items/razor-fang.png
+[psychic_m]: ../img/trainer/psychic_m.png
+[045]: ../img/pokemon/045.png
+[053]: ../img/pokemon/053.png
+[059]: ../img/pokemon/059.png
+[082]: ../img/pokemon/082.png
+[112]: ../img/pokemon/112.png
+[154]: ../img/pokemon/154.png
+[184]: ../img/pokemon/184.png
+[195]: ../img/pokemon/195.png
+[235]: ../img/pokemon/235.png
+[257]: ../img/pokemon/257.png
+[294]: ../img/pokemon/294.png
+[350]: ../img/pokemon/350.png
+[417]: ../img/pokemon/417.png
+[428]: ../img/pokemon/428.png
+[441]: ../img/pokemon/441.png
+[457]: ../img/pokemon/457.png
+[Vileplume]: ../../pokemons/045/
+[Persian]: ../../pokemons/053/
+[Arcanine]: ../../pokemons/059/
+[Magneton]: ../../pokemons/082/
+[Rhydon]: ../../pokemons/112/
+[Meganium]: ../../pokemons/154/
+[Azumarill]: ../../pokemons/184/
+[Quagsire]: ../../pokemons/195/
+[Smeargle]: ../../pokemons/235/
+[Blaziken]: ../../pokemons/257/
+[Loudred]: ../../pokemons/294/
+[Milotic]: ../../pokemons/350/
+[Wormadam (P)]: ../../pokemons/413/
+[Wormadam (S)]: ../../pokemons/413/
+[Wormadam (T)]: ../../pokemons/413/
+[Pachirisu]: ../../pokemons/417/
+[Lopunny]: ../../pokemons/428/
+[Chatot]: ../../pokemons/441/
+[Lumineon]: ../../pokemons/457/
+[beauty]: ../img/trainer/beauty.png
+[gentleman]: ../img/trainer/gentleman.png
+[lass]: ../img/trainer/lass.png
+[scientist]: ../img/trainer/scientist.png
+[aroma_lady]: ../img/trainer/aroma_lady.png
+[collector]: ../img/trainer/collector.png
+[lady]: ../img/trainer/lady.png
+[reporter]: ../img/trainer/reporter.png
+[ruin_maniac]: ../img/trainer/ruin_maniac.png
+[school_kid_m]: ../img/trainer/school_kid_m.png
+[socialite]: ../img/trainer/socialite.png
+[veteran]: ../img/trainer/veteran.png

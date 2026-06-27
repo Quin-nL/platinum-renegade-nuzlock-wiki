@@ -1,8 +1,6 @@
-# Oreburgh City
-
-Trainer                              | 1                                | 2                               | 3                                  | 4                               | 5                               | 6
----                                  | ---                              | ---                             | ---                                | ---                             | ---                             | ---
-Reporter Helen                       | ![][252]<br>[Treecko]<br>Lv. 10<ul><li>Pound</li><li>Leer</li><li>Absorb</li><li>Quick Attack</li></ul> | ![][255]<br>[Torchic]<br>Lv. 10<ul><li>Scratch</li><li>Growl</li><li>Ember</li><li>Sand Attack</li></ul> | ![][258]<br>[Mudkip]<br>Lv. 10<ul><li>Tackle</li><li>Growl</li><li>Water Gun</li><li>Mud-Slap</li></ul> | &nbsp;                          | &nbsp;                          | &nbsp;
+Trainer | 1 | 2 | 3 | 4 | 5 | 6
+--- | --- | --- | --- | --- | --- | ---
+Hoenn Pokemon League               Champion Steven<hr><br>He's in a house next to Oreburgh Mine, the one on the right<br>Can use : 2 FULL RESTORES | ![][227]<br>[Skarmory]<br>Lv. 88<br>Occa Berry<br>Modest / Keen Eye<br>65/80/140/40/70/70<hr>Brave Bird<br>Iron Head<br>Drill Run<br>Stealth Rock | ![][306]<br>[Aggron]<br>Lv. 88<br>Focus Sash<br>Jolly / Rock Head<br>70/110/180/60/60/50<hr>Head Smash<br>Aqua Tail<br>Iron Tail<br>Thunder Wave | ![][142]<br>[Aerodactyl]<br>Lv. 88<br>Muscle Band<br>Relaxed / Rock Head<br>80/105/65/60/75/130<hr>Brave Bird<br>Stone Edge<br>Crunch<br>Fire Fang | ![][346]<br>[Cradily]<br>Lv. 88<br>Leftovers<br>Gentle / Suction Cups<br>86/81/97/81/107/43<hr>Power Whip<br>Rock Slide<br>Toxic<br>Recover | ![][348]<br>[Armaldo]<br>Lv. 88<br>Passho Berry<br>Jolly / Battle Armor<br>75/125/100/70/80/45<hr>Stone Edge<br>X-Scissor<br>Swords Dance<br>Aqua Jet | ![][376]<br>[Metagross]<br>Lv. 89<br>Life Orb<br>Modest / Iron Fist<br>80/135/130/95/90/70<hr>Meteor Mash<br>Zen Headbutt<br>Earthquake<br>Ice Punch
 
 ## PKMN Trainer Steven
 
@@ -68,3 +66,4 @@ Pokémon | Level | Type | Notes
 [red-orb]: ../img/items/red-orb.png
 [374]: ../img/pokemon/374.png
 [Beldum]: ../../pokemons/374/
+[reporter]: ../img/trainer/reporter.png

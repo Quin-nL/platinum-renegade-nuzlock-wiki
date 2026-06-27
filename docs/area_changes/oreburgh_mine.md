@@ -2,10 +2,10 @@
 
 ## Trainers
 
-Trainer      | 1                               | 2                               | 3
----          | ---                             | ---                             | ---
-Worker Mason | ![][304]<br>[Aron]<br>Lv. 12<ul><li>Harden</li><li>Mud-Slap</li><li>Headbutt</li><li>Metal Claw</li></ul> | ![][231]<br>[Phanpy]<br>Lv. 12<ul><li>Defense Curl</li><li>Mud-Slap</li><li>Headbutt</li><li>Rollout</li></ul> | ![][447]<br>[Riolu]<br>Lv. 12<ul><li>Low Kick</li><li>Bite</li><li>Counter</li><li>Force Palm</li></ul> 
-Worker Colin | ![][074]<br>[Geodude]<br>Lv. 12<ul><li>Defense Curl</li><li>Mud Sport</li><li>Rock Polish</li><li>Rock Throw</li></ul> | ![][293]<br>[Whismur]<br>Lv. 12<ul><li>Howl</li><li>Disarming Voice</li><li>Astonish</li><li>Uproar</li></ul> | ![][066]<br>[Machop]<br>Lv. 12<ul><li>Leer</li><li>Focus Energy</li><li>Karate Chop</li><li>Foresight</li></ul> 
+Trainer | 1 | 2 | 3
+--- | --- | --- | ---
+![][worker]<br>Worker Mason<hr><br>Only fights you when talked to<br>Looks Left | ![][304]<br>[Aron]<br>Lv. 12<br>Relaxed / Rock Head<br>50/70/100/40/40/30<hr>Metal Claw<br>Headbutt<br>Mud-slap<br>Harden | ![][231]<br>[Phanpy]<br>Lv. 12<br>Jolly / Sand Veil<br>90/60/60/40/40/40<hr>Rollout<br>Headbutt<br>Mud-slap<br>Defense Curl | ![][447]<br>[Riolu]<br>Lv. 12<br>Careful / Steadfast<br>40/70/40/35/40/60<hr>Force Palm<br>Counter<br>Bite<br>Low Kick
+![][worker]<br>Worker Colin<hr><br>Only fights you when talked to<br>Looks Up | ![][074]<br>[Geodude]<br>Lv. 12<br>Mild / Rock Head<br>40/80/100/30/30/20<hr>Rock Throw<br>Rock Polish<br>Mud Sport<br>Defense Curl | ![][293]<br>[Whismur]<br>Lv. 12<br>Timid / Soundproof<br>64/51/23/51/23/28<hr>Uproar<br>Astonish<br>Disarming Voice<br>Howl | ![][066]<br>[Machop]<br>Lv. 12<br>Naive / Guts<br>70/80/50/35/35/35<hr>Foresight<br>Karate Chop<br>Focus Energy<br>Leer
 
 ## Wild Pokémon
 
@@ -39,6 +39,10 @@ Item | Name | Obtained
 ![][thunder-stone] | Thunder Stone | &nbsp;
 ![][water-stone] | Water Stone | &nbsp;
 
+--8<-- "includes/abilities.md"
+--8<-- "includes/held_items.md"
+--8<-- "includes/natures.md"
+
 [041]: ../img/pokemon/041.png
 [066]: ../img/pokemon/066.png
 [074]: ../img/pokemon/074.png
@@ -64,3 +68,4 @@ Item | Name | Obtained
 [sun-stone]: ../img/items/sun-stone.png
 [thunder-stone]: ../img/items/thunder-stone.png
 [water-stone]: ../img/items/water-stone.png
+[worker]: ../img/trainer/worker.png

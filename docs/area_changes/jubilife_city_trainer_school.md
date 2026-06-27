@@ -1,10 +1,7 @@
-# Jubilife City Trainer School
-
-Trainer             | 1                            | 2
----                 | ---                          | ---
-Schoolkid Harrison  | ![][063]<br>[Abra]<br>Lv. 8<ul><li>Teleport</li></ul> | ![][054]<br>[Psyduck]<br>Lv. 8<ul><li>Water Sport</li><li>Scratch</li><li>Tail Whip</li><li>Water Gun</li></ul> 
-Schoolkid Christine | ![][280]<br>[Ralts]<br>Lv. 8<ul><li>Growl</li><li>Confusion</li><li>Double Team</li><li>Disarming Voice</li></ul> | ![][120]<br>[Staryu]<br>Lv. 8<ul><li>Harden</li><li>Water Gun</li><li>Rapid Spin</li><li>Psywave</li></ul> 
-
+Trainer | 1 | 2
+--- | --- | ---
+![][school_kid_m]<br>School Kid Harrison<hr><br>Fighting type Hidden Power for both mons<br>BP = 30<br>can use : 1 POTION<br>Looks Down | ![][063]<br>[Abra]<br>Lv. 8<br>Mild / Magic Guard<br>25/20/15/105/55/90<hr>Hidden Power | ![][054]<br>[Psyduck]<br>Lv. 8<br>Relaxed / Damp<br>50/52/48/65/50/55<hr>Hidden Power<br>Water Gun
+![][school_kid_m]<br>School Kid Christine<hr><br>Fighting type Hidden Power for both mons<br>BP = 30<br>Beating them both gives you TM10s HIdden Power<br>can use : 1 POTION<br>Looks Down | ![][280]<br>[Ralts]<br>Lv. 8<br>Modest / Synchronize<br>28/25/25/65/55/40<hr>Confusion<br>Hidden Power | ![][120]<br>[Staryu]<br>Lv. 8<br>Serious / Illuminate<br>30/45/55/70/55/85<hr>Hidden Power<br>Water Gun
 
 ## Pokémon Events
 
@@ -28,6 +25,10 @@ Pokémon | Level | Type | Notes
 ![][446]<br>[Munchlax] | 1 | Gift | Talk to the Cowgirl in the Jubilife School to receive an Egg.
 ![][447]<br>[Riolu] | 1 | Gift | Talk to the Cowgirl in the Jubilife School to receive an Egg.
 ![][458]<br>[Mantyke] | 1 | Gift | Talk to the Cowgirl in the Jubilife School to receive an Egg.
+
+--8<-- "includes/abilities.md"
+--8<-- "includes/held_items.md"
+--8<-- "includes/natures.md"
 
 [054]: ../img/pokemon/054.png
 [063]: ../img/pokemon/063.png
@@ -73,3 +74,4 @@ Pokémon | Level | Type | Notes
 [Riolu]: ../../pokemons/447/
 [458]: ../img/pokemon/458.png
 [Mantyke]: ../../pokemons/458/
+[school_kid_m]: ../img/trainer/school_kid_m.png

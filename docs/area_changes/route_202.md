@@ -3,46 +3,71 @@
 ## Trainers
 
 === "Lucas"
-    === "Grass"
-        Trainer                          | 1
-        ---                              | ---
-        PKMN Trainer Lucas<br>![][lucas] | ![][393]<br>[Piplup]<br>Lv. 9
-    === "Fire"
-        Trainer                          | 1
-        ---                              | ---
-        PKMN Trainer Lucas<br>![][lucas] | ![][387]<br>[Turtwig]<br>Lv. 9
-    === "Water"
-        Trainer                          | 1
-        ---                              | ---
-        PKMN Trainer Lucas<br>![][lucas] | ![][390]<br>[Chimchar]<br>Lv. 9
+
+    === "Chose Turtwig"
+
+        Trainer | 1
+        --- | ---
+        ![][lucas]<br>Pkmn Trainer Lucas<hr><br>LUCAS if you play as a girl<br>DAWN if you play as a boy | ![][393]<br>[Piplup]<br>Lv. 9<br>Hasty / Torrent<br>53/51/53/61/56/40<hr>Water Sport<br>Bubble<br>Growl<br>Pound
+
+    === "Chose Chimchar"
+
+        Trainer | 1
+        --- | ---
+        ![][lucas]<br>Pkmn Trainer Lucas<hr><br>LUCAS if you play as a girl<br>DAWN if you play as a boy | ![][387]<br>[Turtwig]<br>Lv. 9<br>Hasty / Overgrow<br>55/68/64/45/55/31<hr>Razor Leaf<br>Absorb<br>Withdraw<br>Tackle
+
+    === "Chose Piplup"
+
+        Trainer | 1
+        --- | ---
+        ![][lucas]<br>Pkmn Trainer Lucas<hr><br>LUCAS if you play as a girl<br>DAWN if you play as a boy | ![][390]<br>[Chimchar]<br>Lv. 9<br>Hasty / Iron Fist<br>44/58/44/58/44/61<hr>Taunt<br>Ember<br>Leer<br>Scratch
 
 === "Dawn"
-    === "Grass"
-        Trainer                        | 1
-        ---                            | ---
-        PKMN Trainer Dawn<br>![][dawn] | ![][393]<br>[Piplup]<br>Lv. 9
-    === "Fire"
-        Trainer                        | 1
-        ---                            | ---
-        PKMN Trainer Dawn<br>![][dawn] | ![][387]<br>[Turtwig]<br>Lv. 9
-    === "Water"
-        Trainer                        | 1
-        ---                            | ---
-        PKMN Trainer Dawn<br>![][dawn] | ![][390]<br>[Chimchar]<br>Lv. 9
 
-Trainer                                  | 1                                | 2                             | 3
----                                      | ---                              | ---                           | ---
-Lass Natalie                             | ![][161]<br>[Sentret]<br>Lv. 7<ul><li>Foresight</li><li>Defense Curl</li><li>Quick Attack</li><li>Fury Swipes</li></ul> | ![][399]<br>[Bidoof]<br>Lv. 7<ul><li>Tackle</li><li>Growl</li><li>Defense Curl</li></ul> | &nbsp;
-:repeat: [Youngster Tristan](#rematches) | ![][163]<br>[Hoothoot]<br>Lv. 7<ul><li>Growl</li><li>Foresight</li><li>Peck</li><li>Hypnosis</li></ul> | ![][396]<br>[Starly]<br>Lv. 7<ul><li>Tackle</li><li>Growl</li><li>Quick Attack</li></ul> | &nbsp;
-Youngster Logan                          | ![][058]<br>[Growlithe]<br>Lv. 7<ul><li>Leer</li><li>Roar</li><li>Howl</li><li>Ember</li></ul> | ![][412]<br>[Burmy]<br>Lv. 7<ul><li>Protect</li><li>Tackle</li><li>Bug Bite</li><li>Hidden Power</li></ul> | ![][263]<br>[Zigzagoon]<br>Lv. 7<ul><li>Growl</li><li>Tail Whip</li><li>Sand Attack</li><li>Covet</li></ul> 
+    === "Chose Turtwig"
+
+        Trainer | 1
+        --- | ---
+        ![][dawn]<br>Pkmn Trainer Dawn<hr><br>LUCAS if you play as a girl<br>DAWN if you play as a boy | ![][393]<br>[Piplup]<br>Lv. 9<br>Hasty / Torrent<br>53/51/53/61/56/40<hr>Water Sport<br>Bubble<br>Growl<br>Pound
+
+    === "Chose Chimchar"
+
+        Trainer | 1
+        --- | ---
+        ![][dawn]<br>Pkmn Trainer Dawn<hr><br>LUCAS if you play as a girl<br>DAWN if you play as a boy | ![][387]<br>[Turtwig]<br>Lv. 9<br>Hasty / Overgrow<br>55/68/64/45/55/31<hr>Razor Leaf<br>Absorb<br>Withdraw<br>Tackle
+
+    === "Chose Piplup"
+
+        Trainer | 1
+        --- | ---
+        ![][dawn]<br>Pkmn Trainer Dawn<hr><br>LUCAS if you play as a girl<br>DAWN if you play as a boy | ![][390]<br>[Chimchar]<br>Lv. 9<br>Hasty / Iron Fist<br>44/58/44/58/44/61<hr>Taunt<br>Ember<br>Leer<br>Scratch
+
+
+Trainer | 1 | 2 | 3
+--- | --- | --- | ---
+![][lass]<br>Lass Natalie<hr><br>Looks Down | ![][161]<br>[Sentret]<br>Lv. 7<br>Hasty / Run Away<br>45/45/35/35/45/40<hr>Fury Swipes<br>Quick Attack<br>Defense Curl<br>Foresight | ![][399]<br>[Bidoof]<br>Lv. 7<br>Quiet / Simple<br>59/45/40/35/40/31<hr>Defense Curl<br>Growl<br>Tackle | &nbsp;
+![][youngster]<br>Youngster Tristan<hr><br>Looks Down | ![][163]<br>[Hoothoot]<br>Lv. 7<br>Jolly / Tinted Lens<br>60/30/30/36/56/50<hr>Hypnosis<br>Peck<br>Foresight<br>Growl | ![][396]<br>[Starly]<br>Lv. 7<br>Lax / Reckless<br>40/55/30/30/30/60<hr>Quick Attack<br>Growl<br>Tackle | &nbsp;
+![][youngster]<br>Youngster Logan<hr><br>Fighting type Hidden Power Burmy<br>BP = 30<br>Looks Down | ![][058]<br>[Growlithe]<br>Lv. 7<br>Docile / Intimidate<br>55/70/45/70/50/60<hr>Ember<br>Howl<br>Roar<br>Leer | ![][412]<br>[Burmy]<br>Lv. 7<br>Jolly / Battle Armor<br>40/20/45/45/45/30<hr>Hidden Power<br>Bug Bite<br>Tackle<br>Protect | ![][263]<br>[Zigzagoon]<br>Lv. 7<br>Adamant / Pickup<br>38/40/41/30/41/60<hr>Covet<br>Sand Attack<br>Tail Whip<br>Growl
 
 ### Rematches
 
-Trainer                                               | 1                               | 2                                 | 3
----                                                   | ---                             | ---                               | ---
-Youngster Tristan :material-numeric-3-circle-outline: | ![][164]<br>[Noctowl]<br>Lv. 27<ul><li>Uproar</li><li>Extrasensory</li><li>Psycho Shift</li><li>Air Slash</li></ul> | ![][397]<br>[Staravia]<br>Lv. 27<ul><li>Foresight</li><li>Aerial Ace</li><li>Facade</li><li>Endeavor</li></ul> | &nbsp;
-Youngster Tristan :material-numeric-5-circle-outline: | ![][164]<br>[Noctowl]<br>Lv. 39<ul><li>Air Slash</li><li>Reflect</li><li>Psychic</li><li>Zen Headbutt</li></ul> | ![][398]<br>[Staraptor]<br>Lv. 39<ul><li>Endeavor</li><li>Whirlwind</li><li>Close Combat</li><li>Take Down</li></ul> | &nbsp;
-Youngster Tristan :material-numeric-8-circle-outline: | ![][164]<br>[Noctowl]<br>Lv. 59<ul><li>Moonblast</li><li>Roost</li><li>Dream Eater</li><li>Hurricane</li></ul> | ![][398]<br>[Staraptor]<br>Lv. 59<ul><li>Roost</li><li>Agility</li><li>Brave Bird</li><li>Double-Edge</li></ul> | ![][018]<br>[Pidgeot]<br>Lv. 59<ul><li>Whirlwind</li><li>Tailwind</li><li>Mirror Move</li><li>Hurricane</li></ul> 
+=== "After 3 Badges"
+
+    Trainer | 1 | 2
+    --- | --- | ---
+    ![][youngster]<br>Youngster Tristan<hr> | ![][164]<br>[Noctowl]<br>Lv. 27<br>Modest / Tinted Lens<br>100/40/40/106/116/60<hr>Uproar<br>Extrasensory<br>Psycho Shift<br>Air Slash | ![][397]<br>[Staravia]<br>Lv. 27<br>Gentle / Reckless<br>55/75/50/40/40/80<hr>Foresight<br>Aerial Ace<br>Facade<br>Endeavor
+
+=== "After 5 Badges"
+
+    Trainer | 1 | 2
+    --- | --- | ---
+    ![][youngster]<br>Youngster Tristan<hr> | ![][164]<br>[Noctowl]<br>Lv. 39<br>Docile / Tinted Lens<br>100/40/40/106/116/60<hr>Air Slash<br>Reflect<br>Psychic<br>Zen Headbutt | ![][398]<br>[Staraptor]<br>Lv. 39<br>Impish / Reckless<br>85/120/70/50/60/100<hr>Endeavor<br>Whirlwind<br>Close Combat<br>Take Down
+
+=== "After 8 Badges"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    ![][youngster]<br>Youngster Tristan<hr> | ![][164]<br>[Noctowl]<br>Lv. 59<br>Careful / Tinted Lens<br>100/40/40/106/116/60<hr>Moonblast<br>Roost<br>Dream Eater<br>Hurricane | ![][398]<br>[Staraptor]<br>Lv. 59<br>Docile / Reckless<br>85/120/70/50/60/100<hr>Roost<br>Agility<br>Brave Bird<br>Double-Edge | ![][018]<br>[Pidgeot]<br>Lv. 59<br>Calm / No Guard<br>83/60/70/115/70/101<hr>Whirlwind<br>Tailwind<br>Mirror Move<br>Hurricane
 
 ### Master Trainer
 
@@ -67,6 +92,10 @@ Area                                       | Pokémon                       | &n
 Item | Name | Obtained
 --- | --- | ---
 ![][insect-plate] | Insect Plate | Master Trainer
+
+--8<-- "includes/abilities.md"
+--8<-- "includes/held_items.md"
+--8<-- "includes/natures.md"
 
 [018]: ../img/pokemon/018.png
 [019]: ../img/pokemon/019.png
@@ -111,3 +140,5 @@ Item | Name | Obtained
 [lucas]: ../img/trainer/lucas.png
 [poke-radar]: ../img/items/poke-radar.png
 [insect-plate]: ../img/items/insect-plate.png
+[lass]: ../img/trainer/lass.png
+[youngster]: ../img/trainer/youngster.png

@@ -2,18 +2,25 @@
 
 ## Trainers
 
-Trainer                                 | 1                                | 2                               | 3
----                                     | ---                              | ---                             | ---
-:repeat: [Fisherman Joseph](#rematches) | ![][118]<br>[Goldeen]<br>Lv. 18<ul><li>Horn Attack</li><li>Flail</li><li>Water Pulse</li><li>Aqua Ring</li></ul> | ![][060]<br>[Poliwag]<br>Lv. 18<ul><li>Water Gun</li><li>Double Slap</li><li>Rain Dance</li><li>Bubble Beam</li></ul> | ![][341]<br>[Corphish]<br>Lv. 18<ul><li>Aqua Jet</li><li>Protect</li><li>Bubble Beam</li><li>Double Hit</li></ul> 
-Fisherman Andrew                        | ![][129]<br>[Magikarp]<br>Lv. 18<ul><li>Splash</li><li>Tackle</li><li>Flail</li><li>Bounce</li></ul> | ![][349]<br>[Feebas]<br>Lv. 18<ul><li>Splash</li><li>Tackle</li><li>Flail</li><li>Water Pulse</li></ul> | ![][129]<br>[Magikarp]<br>Lv. 18<ul><li>Splash</li><li>Tackle</li><li>Flail</li><li>Bounce</li></ul> 
-Fisherman Zachary                       | ![][098]<br>[Krabby]<br>Lv. 19<ul><li>Leer</li><li>Mud Shot</li><li>Bubble Beam</li><li>Metal Claw</li></ul> | ![][456]<br>[Finneon]<br>Lv. 19<ul><li>Attract</li><li>Rain Dance</li><li>Gust</li><li>Water Pulse</li></ul> | &nbsp;
+Trainer | 1 | 2 | 3
+--- | --- | --- | ---
+![][fisherman]<br>Fisherman Joseph<hr><br>From left to right he's the second fisherman on the bridge. The first one doesn't fight you.<br>Fights you when talked to<br>(LOOKS DOWN, FISHES) | ![][118]<br>[Goldeen]<br>Lv. 18<br>Bashful / Swift Swim<br>45/77/60/25/50/73<hr>Horn Attack<br>Flail<br>Water Pulse<br>Aqua Ring | ![][060]<br>[Poliwag]<br>Lv. 18<br>Hardy / Water Absorb<br>40/50/40/40/40/90<hr>Water Gun<br>Double Slap<br>Rain Dance<br>Bubble Beam | ![][341]<br>[Corphish]<br>Lv. 18<br>Naughty / Adaptability<br>43/80/65/50/35/35<hr>Aqua Jet<br>Protect<br>Bubble Beam<br>Double Hit
+![][fisherman]<br>Fisherman Andrew<hr><br>From left to right he's the third fisherman on the bridge.<br>Fights you when talked to<br>(LOOKS RIGHT, FISHES) | ![][129]<br>[Magikarp]<br>Lv. 18<br>Naive / Swift Swim<br>20/10/55/15/20/80<hr>Splash<br>Tackle<br>Flail<br>Bounce | ![][349]<br>[Feebas]<br>Lv. 18<br>Quirky / Swift Swim<br>20/15/20/10/55/80<hr>Splash<br>Tackle<br>Flail<br>Water Pulse | ![][129]<br>[Magikarp]<br>Lv. 18<br>Naive / Swift Swim<br>20/10/55/15/20/80<hr>Splash<br>Tackle<br>Flail<br>Bounce
+![][fisherman]<br>Fisherman Zachary<hr><br>From left to right he's the fourth fisherman on the bridge.<br>Fights you when talked to<br>(LOOKS DOWN, FISHES) | ![][098]<br>[Krabby]<br>Lv. 19<br>Mild / Hyper Cutter<br>30/105/90/25/25/50<hr>Leer<br>Mud Shot<br>Bubble Beam<br>Metal Claw | ![][456]<br>[Finneon]<br>Lv. 19<br>Naughty / Swift Swim<br>50/30/60/60/60/70<hr>Attract<br>Rain Dance<br>Gust<br>Water Pulse | &nbsp;
 
 ### Rematches
 
-Trainer                                              | 1                               | 2                                 | 3
----                                                  | ---                             | ---                               | ---
-Fisherman Joseph :material-numeric-5-circle-outline: | ![][119]<br>[Seaking]<br>Lv. 38<ul><li>Agility</li><li>Body Slam</li><li>Aqua Tail</li><li>Knock Off</li></ul> | ![][061]<br>[Poliwhirl]<br>Lv. 38<ul><li>Body Slam</li><li>Low Kick</li><li>Belly Drum</li><li>Mud Bomb</li></ul> | ![][342]<br>[Crawdaunt]<br>Lv. 38<ul><li>Switcheroo</li><li>Swift</li><li>Knock Off</li><li>Swords Dance</li></ul> 
-Fisherman Joseph :material-alpha-c-circle-outline:   | ![][119]<br>[Seaking]<br>Lv. 70<ul><li>Drill Run</li><li>Bounce</li><li>Megahorn</li><li>Hydro Pump</li></ul> | ![][186]<br>[Politoed]<br>Lv. 70<ul><li>Perish Song</li><li>Swagger</li><li>Bounce</li><li>Hyper Voice</li></ul> | ![][342]<br>[Crawdaunt]<br>Lv. 70<ul><li>Payback</li><li>Dragon Dance</li><li>Superpower</li><li>Guillotine</li></ul> 
+=== "After 5 Badges"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    ![][fisherman]<br>Fisherman Joseph<hr> | ![][119]<br>[Seaking]<br>Lv. 38<br>Relaxed / Swift Swim<br>80/122/80/45/80/78<hr>Agility<br>Body Slam<br>Aqua Tail<br>Knock Off | ![][061]<br>[Poliwhirl]<br>Lv. 38<br>Hasty / Water Absorb<br>65/65/65/50/50/90<hr>Body Slam<br>Low Kick<br>Belly Drum<br>Mud Bomb | ![][342]<br>[Crawdaunt]<br>Lv. 38<br>Modest / Adaptability<br>63/120/85/90/55/55<hr>Switcheroo<br>Swift<br>Knock Off<br>Swords Dance
+
+=== "FISHERMAN JOSEPH"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    ![][fisherman]<br>Fisherman Joseph<hr><br>(AFTER CYNTHIA) | ![][119]<br>[Seaking]<br>Lv. 70<br>Adamant / Swift Swim<br>80/122/80/45/80/78<hr>Drill Run<br>Bounce<br>Megahorn<br>Hydro Pump | ![][186]<br>[Politoed]<br>Lv. 70<br>Docile / Drizzle<br>90/75/75/90/100/70<hr>Perish Song<br>Swagger<br>Bounce<br>Hyper Voice | ![][342]<br>[Crawdaunt]<br>Lv. 70<br>Hasty / Adaptability<br>63/120/85/90/55/55<hr>Payback<br>Dragon Dance<br>Superpower<br>Guillotine
 
 ## Wild Pokémon
 
@@ -39,6 +46,10 @@ Item | Name | Obtained
 --- | --- | ---
 ![][destiny-knot] | Destiny Knot | &nbsp;
 ![][water-stone] | Water Stone | &nbsp;
+
+--8<-- "includes/abilities.md"
+--8<-- "includes/held_items.md"
+--8<-- "includes/natures.md"
 
 [016]: ../img/pokemon/016.png
 [060]: ../img/pokemon/060.png
@@ -99,3 +110,4 @@ Item | Name | Obtained
 [super-rod]: ../img/items/super-rod.png
 [destiny-knot]: ../img/items/destiny-knot.png
 [water-stone]: ../img/items/water-stone.png
+[fisherman]: ../img/trainer/fisherman.png

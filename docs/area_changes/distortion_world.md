@@ -1,7 +1,7 @@
-# Distortion World
-
-Trainer                             | 1                              | 2                                 | 3                                | 4                                | 5                                 | 6
----                                 | ---                            | ---                               | ---                              | ---                              | ---                               | ---
+Trainer | 1 | 2 | 3 | 4 | 5 | 6
+--- | --- | --- | --- | --- | --- | ---
+Galactic Boss Cyrus<hr><br>DOUBLE BATTLE<br>this fight and the next one are fought back to back but the game heals you in between | ![][483]<br>[Dialga]<br>Lv. 70<br>Naughty / Pressure<br>100/120/120/150/100/90<hr>Aura Sphere<br>Earth Power<br>Flash Cannon<br>Roar of Time | ![][484]<br>[Palkia]<br>Lv. 70<br>Brave / Pressure<br>90/120/100/150/120/100<hr>Aura Sphere<br>Earth Power<br>Hydro Pump<br>Spacial Rend | &nbsp; | &nbsp; | &nbsp; | &nbsp;
+Galactic Boss Cyrus<hr><br>SINGLE BATTLE<br>Once Cyrus beaten you get healed by Cynthia before facing Giratina | ![][169]<br>[Crobat]<br>Lv. 59<br>Choice Band<br>Jolly / Inner Focus<br>85/90/80/70/80/130<hr>Brave Bird<br>U-turn<br>Cross Poison<br>Zen Headbutt | ![][430]<br>[Honchkrow]<br>Lv. 59<br>White Herb<br>Naughty / Super Luck<br>100/125/52/105/52/71<hr>Brave Bird<br>Sucker Punch<br>Thunder Wave<br>Superpower | ![][229]<br>[Houndoom]<br>Lv. 59<br>Life Orb<br>Hasty / Intimidate<br>75/90/50/110/80/95<hr>Dark Pulse<br>Flamethrower<br>Sludge Bomb<br>Nasty Plot | ![][130]<br>[Gyarados]<br>Lv. 59<br>Muscle Band<br>Jolly / Intimidate<br>95/125/79/60/100/81<hr>Aqua Tail<br>Stone Edge<br>Ice Fang<br>Dragon Dance | ![][462]<br>[Magnezone]<br>Lv. 59<br>Wise Glasses<br>Modest / Magnet Pull<br>70/70/115/130/90/60<hr>Thunderbolt<br>Flash Cannon<br>Signal Beam<br>Mirror Coat | ![][461]<br>[Weavile]<br>Lv. 60<br>Focus Sash<br>Jolly / Technician<br>70/120/65/45/85/125<hr>Feint Attack<br>Icicle Crash<br>Aerial Ace<br>Swords Dance
 
 ## Galactic Boss Cyrus
 Both Battles are back to back

@@ -1,7 +1,5 @@
-# Pal Park
-
-Trainer                              | 1                               | 2                                | 3                                | 4                                 | 5                                 | 6
----                                  | ---                             | ---                              | ---                              | ---                               | ---                               | ---
+Castle Valet Darach | ![][475]<br>[Gallade]<br>Lv. 48<br>![][scope-lens]<br>Scope Lens<br>Docile / Steadfast<br>68/125/65/65/115/80<hr>Psycho Cut<br>Night Slash<br>Close Combat<br>Leaf Blade | ![][395]<br>[Empoleon]<br>Lv. 48<br>![][sitrus-berry]<br>Sitrus Berry<br>Careful / Torrent<br>84/86/88/116/101/60<hr>Hydro Pump<br>Flash Cannon<br>Ice Beam<br>Aqua Jet | ![][065]<br>[Alakazam]<br>Lv. 48<br>![][expert-belt]<br>Expert Belt<br>Naive / Magic Guard<br>55/50/45/135/95/120<hr>Psychic<br>Dazzling Gleam<br>Focus Blast<br>Energy Ball | ![][376]<br>[Metagross]<br>Lv. 48<br>![][life-orb]<br>Life Orb<br>Impish / Iron Fist<br>80/135/130/95/90/70<hr>Meteor Mash<br>Zen Headbutt<br>Earthquake<br>Hammer Arm | ![][398]<br>[Staraptor]<br>Lv. 48<br>![][kings-rock]<br>King's Rock<br>Naive / Reckless<br>85/120/70/50/60/100<hr>Return<br>Brave Bird<br>Close Combat<br>Roost | ![][244]<br>[Entei]<br>Lv. 48<br>![][shuca-berry]<br>Shuca Berry<br>Calm / Pressure<br>115/115/85/90/75/100<hr>Sacred Fire<br>Stone Edge<br>Extreme Speed<br>Iron Head
+--- | --- | --- | --- | --- | --- | ---
 
 ## Castle Valet Darach
 
