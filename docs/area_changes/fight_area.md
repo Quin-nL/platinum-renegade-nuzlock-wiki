@@ -1,3 +1,15 @@
+Trainer | 1 | 2 | 3 | 4 | 5 | 6
+--- | --- | --- | --- | --- | --- | ---
+![][barry]<br>Rival Barry<hr><br>Your partner in the double battle | ![][398]<br>[Staraptor]<br>Lv. 74<br>Lax / Reckless<br>85/120/70/50/60/100<hr>Double-Edge<br>Brave Bird<br>Close Combat<br>U-turn | ![][214]<br>[Heracross]<br>Lv. 74<br>Brave / Guts<br>80/125/75/40/95/85<hr>Megahorn<br>Close Combat<br>Stone Edge<br>Protect | ![][143]<br>[Snorlax]<br>Lv. 74<br>Gentle / Thick Fat<br>160/110/65/65/110/30<hr>Body Slam<br>Earthquake<br>Curse<br>Slack Off | ![][184]<br>[Azumarill]<br>Lv. 74<br>Rash / Huge Power<br>110/50/80/80/80/50<hr>Aqua Tail<br>Play Rough<br>Ice Punch<br>Aqua Jet | ![][059]<br>[Arcanine]<br>Lv. 74<br>Quirky / Intimidate<br>90/110/80/100/80/95<hr>Flare Blitz<br>Close Combat<br>Wild Charge<br>Crunch | ![][389]<br>[Torterra]<br>Lv. 75<br>Relaxed / Overgrow<br>95/114/110/75/85/56<hr>Wood Hammer<br>Earthquake<br>Stone Edge<br>Crunch
+![][barry]<br>Rival Barry<hr><br>Your partner in the double battle | ![][398]<br>[Staraptor]<br>Lv. 74<br>Rash / Reckless<br>85/120/70/50/60/100<hr>Double-Edge<br>Brave Bird<br>Close Combat<br>U-turn | ![][214]<br>[Heracross]<br>Lv. 74<br>Gentle / Guts<br>80/125/75/40/95/85<hr>Megahorn<br>Close Combat<br>Stone Edge<br>Protect | ![][143]<br>[Snorlax]<br>Lv. 74<br>Modest / Thick Fat<br>160/110/65/65/110/30<hr>Body Slam<br>Earthquake<br>Curse<br>Slack Off | ![][184]<br>[Azumarill]<br>Lv. 74<br>Naughty / Huge Power<br>110/50/80/80/80/50<hr>Aqua Tail<br>Play Rough<br>Ice Punch<br>Aqua Jet | ![][286]<br>[Breloom]<br>Lv. 74<br>Bashful / Technician<br>60/130/80/60/60/70<hr>Bullet Seed<br>Force Palm<br>Stone Edge<br>Spore | ![][392]<br>[Infernape]<br>Lv. 75<br>Bold / Iron Fist<br>76/104/71/104/71/109<hr>Flare Blitz<br>Close Combat<br>Stone Edge<br>Grass Knot
+![][barry]<br>Rival Barry<hr><br>Your partner in the double battle | ![][398]<br>[Staraptor]<br>Lv. 74<br>Jolly / Reckless<br>85/120/70/50/60/100<hr>Double-Edge<br>Brave Bird<br>Close Combat<br>U-turn | ![][214]<br>[Heracross]<br>Lv. 74<br>Serious / Guts<br>80/125/75/40/95/85<hr>Megahorn<br>Close Combat<br>Stone Edge<br>Protect | ![][143]<br>[Snorlax]<br>Lv. 74<br>Lax / Thick Fat<br>160/110/65/65/110/30<hr>Body Slam<br>Earthquake<br>Curse<br>Slack Off | ![][059]<br>[Arcanine]<br>Lv. 74<br>Adamant / Intimidate<br>90/110/80/100/80/95<hr>Flare Blitz<br>Wild Charge<br>Close Combat<br>Crunch | ![][286]<br>[Breloom]<br>Lv. 74<br>Bashful / Technician<br>60/130/80/60/60/70<hr>Bullet Seed<br>Force Palm<br>Stone Edge<br>Spore | ![][395]<br>[Empoleon]<br>Lv. 75<br>Lax / Torrent<br>84/86/88/116/101/60<hr>Hydro Pump<br>Flash Cannon<br>Grass Knot<br>Blizzard
+
+Trainer | 1 | 2 | 3 | 4 | 5 | 6
+--- | --- | --- | --- | --- | --- | ---
+![][barry]<br>Rival Barry<hr><br>Your partner in the double battle | ![][398]<br>[Staraptor]<br>Lv. 74<br>Lax / Reckless<br>85/120/70/50/60/100<hr>Double-Edge<br>Brave Bird<br>Close Combat<br>U-turn | ![][214]<br>[Heracross]<br>Lv. 74<br>Brave / Guts<br>80/125/75/40/95/85<hr>Megahorn<br>Close Combat<br>Stone Edge<br>Protect | ![][143]<br>[Snorlax]<br>Lv. 74<br>Gentle / Thick Fat<br>160/110/65/65/110/30<hr>Body Slam<br>Earthquake<br>Curse<br>Slack Off | ![][184]<br>[Azumarill]<br>Lv. 74<br>Rash / Huge Power<br>110/50/80/80/80/50<hr>Aqua Tail<br>Play Rough<br>Ice Punch<br>Aqua Jet | ![][059]<br>[Arcanine]<br>Lv. 74<br>Quirky / Intimidate<br>90/110/80/100/80/95<hr>Flare Blitz<br>Close Combat<br>Wild Charge<br>Crunch | ![][389]<br>[Torterra]<br>Lv. 75<br>Relaxed / Overgrow<br>95/114/110/75/85/56<hr>Wood Hammer<br>Earthquake<br>Stone Edge<br>Crunch
+![][barry]<br>Rival Barry<hr><br>Your partner in the double battle | ![][398]<br>[Staraptor]<br>Lv. 74<br>Rash / Reckless<br>85/120/70/50/60/100<hr>Double-Edge<br>Brave Bird<br>Close Combat<br>U-turn | ![][214]<br>[Heracross]<br>Lv. 74<br>Gentle / Guts<br>80/125/75/40/95/85<hr>Megahorn<br>Close Combat<br>Stone Edge<br>Protect | ![][143]<br>[Snorlax]<br>Lv. 74<br>Modest / Thick Fat<br>160/110/65/65/110/30<hr>Body Slam<br>Earthquake<br>Curse<br>Slack Off | ![][184]<br>[Azumarill]<br>Lv. 74<br>Naughty / Huge Power<br>110/50/80/80/80/50<hr>Aqua Tail<br>Play Rough<br>Ice Punch<br>Aqua Jet | ![][286]<br>[Breloom]<br>Lv. 74<br>Bashful / Technician<br>60/130/80/60/60/70<hr>Bullet Seed<br>Force Palm<br>Stone Edge<br>Spore | ![][392]<br>[Infernape]<br>Lv. 75<br>Bold / Iron Fist<br>76/104/71/104/71/109<hr>Flare Blitz<br>Close Combat<br>Stone Edge<br>Grass Knot
+![][barry]<br>Rival Barry<hr><br>Your partner in the double battle | ![][398]<br>[Staraptor]<br>Lv. 74<br>Jolly / Reckless<br>85/120/70/50/60/100<hr>Double-Edge<br>Brave Bird<br>Close Combat<br>U-turn | ![][214]<br>[Heracross]<br>Lv. 74<br>Serious / Guts<br>80/125/75/40/95/85<hr>Megahorn<br>Close Combat<br>Stone Edge<br>Protect | ![][143]<br>[Snorlax]<br>Lv. 74<br>Lax / Thick Fat<br>160/110/65/65/110/30<hr>Body Slam<br>Earthquake<br>Curse<br>Slack Off | ![][059]<br>[Arcanine]<br>Lv. 74<br>Adamant / Intimidate<br>90/110/80/100/80/95<hr>Flare Blitz<br>Wild Charge<br>Close Combat<br>Crunch | ![][286]<br>[Breloom]<br>Lv. 74<br>Bashful / Technician<br>60/130/80/60/60/70<hr>Bullet Seed<br>Force Palm<br>Stone Edge<br>Spore | ![][395]<br>[Empoleon]<br>Lv. 75<br>Lax / Torrent<br>84/86/88/116/101/60<hr>Hydro Pump<br>Flash Cannon<br>Grass Knot<br>Blizzard
+
 # Fight Area
 
 Trainer                        | 1                                | 2                               | 3
@@ -26,6 +38,10 @@ Elite Four Flint<br>![][flint] | ![][059]<br>[Arcanine]<br>Lv. 74<ul><li>Fire Fa
 Item | Name | Obtained
 --- | --- | ---
 ![][scope-lens] | Scope Lens | &nbsp;
+
+--8<-- "includes/abilities.md"
+--8<-- "includes/held_items.md"
+--8<-- "includes/natures.md"
 
 [026]: ../img/pokemon/026.png
 [059]: ../img/pokemon/059.png
@@ -59,3 +75,8 @@ Item | Name | Obtained
 [flint]: ../img/trainer/flint.png
 [volkner]: ../img/trainer/volkner.png
 [scope-lens]: ../img/items/scope-lens.png
+[muscle-band]: ../img/items/muscle-band.png
+[shell-bell]: ../img/items/shell-bell.png
+[sitrus-berry]: ../img/items/sitrus-berry.png
+[wide-lens]: ../img/items/wide-lens.png
+[wise-glasses]: ../img/items/wise-glasses.png

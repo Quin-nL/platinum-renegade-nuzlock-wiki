@@ -2,20 +2,14 @@
 
 ## Trainers
 
-Trainer                               | 1                                  | 2                                 | 3
----                                   | ---                                | ---                               | ---
-Galactic Grunt                        | ![][262]<br>[Mightyena]<br>Lv. 29<ul><li>Roar</li><li>Swagger</li><li>Crunch</li><li>Scary Face</li></ul> | ![][024]<br>[Arbok]<br>Lv. 29<ul><li>Screech</li><li>Stockpile</li><li>Swallow</li><li>Spit Up</li></ul> | &nbsp;
-Galactic Grunt                        | ![][402]<br>[Kricketune]<br>Lv. 30<ul><li>Focus Energy</li><li>Slash</li><li>Night Slash</li><li>X-Scissor</li></ul> | &nbsp;                            | &nbsp;
-Galactic Grunt                        | ![][431]<br>[Glameow]<br>Lv. 28<ul><li>Charm</li><li>Slash</li><li>Assist</li><li>Knock Off</li></ul> | ![][109]<br>[Koffing]<br>Lv. 28<ul><li>Self-Destruct</li><li>Haze</li><li>Gyro Ball</li><li>Sludge Bomb</li></ul> | ![][269]<br>[Dustox]<br>Lv. 28<ul><li>Psybeam</li><li>Signal Beam</li><li>Moonlight</li><li>Bug Buzz</li></ul> 
-Galactic Grunt                        | ![][337]<br>[Lunatone]<br>Lv. 29<ul><li>Rock Slide</li><li>Embargo</li><li>Psychic</li><li>Cosmic Power</li></ul> | ![][338]<br>[Solrock]<br>Lv. 29<ul><li>Rock Slide</li><li>Embargo</li><li>Zen Headbutt</li><li>Cosmic Power</li></ul> | &nbsp;
-Galactic Grunt                        | ![][338]<br>[Solrock]<br>Lv. 29<ul><li>Rock Slide</li><li>Embargo</li><li>Zen Headbutt</li><li>Cosmic Power</li></ul> | ![][337]<br>[Lunatone]<br>Lv. 29<ul><li>Rock Slide</li><li>Embargo</li><li>Psychic</li><li>Cosmic Power</li></ul> | &nbsp;
-Galactic Grunt                        | ![][290]<br>[Nincada]<br>Lv. 30<ul><li>Leech Life</li><li>Mind Reader</li><li>Metal Claw</li><li>Dig</li></ul> | &nbsp;                            | &nbsp;
-Galactic Grunt                        | ![][291]<br>[Ninjask]<br>Lv. 30<ul><li>Screech</li><li>Slash</li><li>Night Slash</li><li>Aerial Ace</li></ul> | &nbsp;                            | &nbsp;
-Galactic Grunt                        | ![][292]<br>[Shedinja]<br>Lv. 30<ul><li>Leech Life</li><li>Mind Reader</li><li>Shadow Sneak</li><li>X-Scissor</li></ul> | &nbsp;                            | &nbsp;
-Galactic Grunt                        | ![][015]<br>[Beedrill]<br>Lv. 29<ul><li>Focus Energy</li><li>Poison Jab</li><li>Assurance</li><li>X-Scissor</li></ul> | ![][042]<br>[Golbat]<br>Lv. 29<ul><li>Mean Look</li><li>Crunch</li><li>Leech Life</li><li>Swift</li></ul> | &nbsp;
-Galactic Grunt                        | ![][453]<br>[Croagunk]<br>Lv. 28<ul><li>Revenge</li><li>Swagger</li><li>Mud Bomb</li><li>Poison Jab</li></ul> | ![][336]<br>[Seviper]<br>Lv. 28<ul><li>Glare</li><li>Poison Tail</li><li>Night Slash</li><li>Gastro Acid</li></ul> | ![][012]<br>[Butterfree]<br>Lv. 28<ul><li>Supersonic</li><li>Air Slash</li><li>Safeguard</li><li>Bug Buzz</li></ul> 
-Galactic Grunt                        | ![][198]<br>[Murkrow]<br>Lv. 30<ul><li>Feint Attack</li><li>Drill Peck</li><li>Mean Look</li><li>Sucker Punch</li></ul> | &nbsp;                            | &nbsp;
-Galactic Grunt                        | ![][434]<br>[Stunky]<br>Lv. 28<ul><li>Slash</li><li>Night Slash</li><li>Feint</li><li>Toxic</li></ul> | ![][048]<br>[Venonat]<br>Lv. 28<ul><li>Psybeam</li><li>Poison Fang</li><li>Leech Life</li><li>Zen Headbutt</li></ul> | ![][024]<br>[Arbok]<br>Lv. 28<ul><li>Screech</li><li>Stockpile</li><li>Swallow</li><li>Spit Up</li></ul> 
+Trainer | 1 | 2
+--- | --- | ---
+![][galactic_grunt_m]<br>Galactic Grunt<hr><br>First Grunt on the route when coming from the north<br>(ROAMS AROUND) | ![][262]<br>[Mightyena]<br>Lv. 29<br>Timid / Intimidate<br>70/110/70/60/60/95<hr>Roar<br>Swagger<br>Crunch<br>Scary Face | ![][024]<br>[Arbok]<br>Lv. 29<br>Gentle / Intimidate<br>60/110/70/55/80/80<hr>Screech<br>Swallow<br>Spit Up<br>Stockpile
+![][socialite]<br>Socialite Reina<hr><br>Can be fought alone or with Gentleman Jeremy<br>Her team is on the left in the double battle<br>can use : 1 FULL RESTORE<br>(SPINNING) | ![][301]<br>[Delcatty]<br>Lv. 31<br>Hardy / Cute Charm<br>70/95/65/85/55/95<hr>Fake Out<br>Sing<br>Attract<br>Double Slap | &nbsp;
+![][gentleman]<br>Gentleman Jeremy<hr><br>Can be fought alone or with Socialite Reina<br>His team is on the right in the double battle<br>can use : 1 FULL RESTORE<br>(SPINNING) | ![][441]<br>[Chatot]<br>Lv. 31<br>Quiet / Soundproof<br>75/45/55/110/55/110<hr>Taunt<br>Uproar<br>Mimic<br>Chatter | &nbsp;
+Policeman Dylan<hr><br>Can be fought at night<br>(WALKS BACK AND FORTH, LOOKS AROUND) | ![][059]<br>[Arcanine]<br>Lv. 31<br>Hardy / Intimidate<br>90/110/80/100/80/95<hr>Bite<br>Roar<br>Odor Sleuth<br>Fire Fang | &nbsp;
+Policeman Alex<hr><br>Can be fought at night<br>(WALKS BACK AND FORTH) | ![][068]<br>[Machamp]<br>Lv. 31<br>Adamant / Guts<br>90/130/80/65/85/55<hr>Knock Off<br>Vital Throw<br>Wake-Up Slap<br>Payback | &nbsp;
+Policeman Bobby<hr><br>Can be fought at night<br>(LOOKS DOWN AND RIGHT) | ![][164]<br>[Noctowl]<br>Lv. 31<br>Lax / Tinted Lens<br>100/40/40/106/116/60<hr>Extrasensory<br>Psycho Shift<br>Air Slash<br>Reflect | &nbsp;
 
 ### After Team Galactic Plot
 
@@ -42,16 +36,35 @@ Rich Boy Jason                          | ![][394]<br>[Prinplup]<br>Lv. 30<ul><l
 
 ### Rematches
 
-Trainer                                              | 1                                 | 2                               | 3
----                                                  | ---                               | ---                             | ---
-Lady Melissa :material-numeric-5-circle-outline:     | ![][044]<br>[Gloom]<br>Lv. 38<ul><li>Moonlight</li><li>Giga Drain</li><li>Toxic</li><li>Moonblast</li></ul> | ![][421]<br>[Cherrim]<br>Lv. 38<ul><li>Giga Drain</li><li>Take Down</li><li>Grass Whistle</li><li>Energy Ball</li></ul> | ![][189]<br>[Jumpluff]<br>Lv. 38<ul><li>Giga Drain</li><li>Air Slash</li><li>U-turn</li><li>Worry Seed</li></ul> 
-Lady Melissa :material-numeric-8-circle-outline:     | ![][182]<br>[Bellossom]<br>Lv. 59<ul><li>Earth Power</li><li>Teeter Dance</li><li>Petal Dance</li><li>Leaf Storm</li></ul> | ![][421]<br>[Cherrim]<br>Lv. 59<ul><li>Energy Ball</li><li>Lucky Chant</li><li>Healing Wish</li><li>Solar Beam</li></ul> | ![][189]<br>[Jumpluff]<br>Lv. 59<ul><li>Worry Seed</li><li>Energy Ball</li><li>Aromatherapy</li><li>Memento</li></ul> 
-Lady Melissa :material-alpha-c-circle-outline:       | ![][182]<br>[Bellossom]<br>Lv. 70<ul><li>Earth Power</li><li>Teeter Dance</li><li>Petal Dance</li><li>Leaf Storm</li></ul> | ![][421]<br>[Cherrim]<br>Lv. 70<ul><li>Energy Ball</li><li>Lucky Chant</li><li>Healing Wish</li><li>Solar Beam</li></ul> | ![][189]<br>[Jumpluff]<br>Lv. 70<ul><li>Worry Seed</li><li>Energy Ball</li><li>Aromatherapy</li><li>Memento</li></ul> 
-Gentleman Jeremy :material-numeric-5-circle-outline: | ![][441]<br>[Chatot]<br>Lv. 41<ul><li>Chatter</li><li>Roost</li><li>Agility</li><li>Hyper Voice</li></ul> | &nbsp;                          | &nbsp;
-Gentleman Jeremy :material-numeric-8-circle-outline: | ![][441]<br>[Chatot]<br>Lv. 62<ul><li>Hyper Voice</li><li>Feather Dance</li><li>Nasty Plot</li><li>Hurricane</li></ul> | &nbsp;                          | &nbsp;
-Gentleman Jeremy :material-alpha-c-circle-outline:   | ![][441]<br>[Chatot]<br>Lv. 73<ul><li>Hyper Voice</li><li>Feather Dance</li><li>Nasty Plot</li><li>Hurricane</li></ul> | &nbsp;                          | &nbsp;
-Socialite Reina :material-numeric-8-circle-outline:  | ![][301]<br>[Delcatty]<br>Lv. 62<ul><li>Fake Out</li><li>Sing</li><li>Attract</li><li>Double Slap</li></ul> | &nbsp;                          | &nbsp;
-Socialite Reina :material-alpha-c-circle-outline:    | ![][301]<br>[Delcatty]<br>Lv. 73<ul><li>Fake Out</li><li>Sing</li><li>Attract</li><li>Double Slap</li></ul> | &nbsp;                          | &nbsp;
+=== "After 8 Badges"
+
+    Trainer | 1
+    --- | ---
+    ![][socialite]<br>Socialite Reina<hr><br>Can use : 1 FULL RESTORE | ![][301]<br>[Delcatty]<br>Lv. 62<br>Brave / Cute Charm<br>70/95/65/85/55/95<hr>Fake Out<br>Sing<br>Attract<br>Double Slap
+
+=== "After 8 Badges"
+
+    Trainer | 1
+    --- | ---
+    ![][socialite]<br>Socialite Reina<hr><br>Can use : 1 FULL RESTORE | ![][301]<br>[Delcatty]<br>Lv. 73<br>Hardy / Cute Charm<br>70/95/65/85/55/95<hr>Fake Out<br>Sing<br>Attract<br>Double Slap
+
+=== "After 5 Badges"
+
+    Trainer | 1
+    --- | ---
+    ![][gentleman]<br>Gentleman Jeremy<hr><br>Can use : 1 FULL RESTORE | ![][441]<br>[Chatot]<br>Lv. 41<br>Timid / Soundproof<br>75/45/55/110/55/110<hr>Chatter<br>Roost<br>Agility<br>Hyper Voice
+
+=== "After 8 Badges"
+
+    Trainer | 1
+    --- | ---
+    ![][gentleman]<br>Gentleman Jeremy<hr><br>Can use : 1 FULL RESTORE | ![][441]<br>[Chatot]<br>Lv. 62<br>Lonely / Soundproof<br>75/45/55/110/55/110<hr>Hyper Voice<br>Feather Dance<br>Nasty Plot<br>Hurricane
+
+=== "GENTLEMAN JEREMY"
+
+    Trainer | 1
+    --- | ---
+    ![][gentleman]<br>Gentleman Jeremy<hr><br>(AFTER CYNTHIA)<br>Can use : 1 FULL RESTORE | ![][441]<br>[Chatot]<br>Lv. 73<br>Jolly / Soundproof<br>75/45/55/110/55/110<hr>Hyper Voice<br>Feather Dance<br>Nasty Plot<br>Hurricane
 
 ## Wild Pokémon
 
@@ -211,3 +224,5 @@ TM20 | Safeguard | Item on ground
 [wise-glasses]: ../img/items/wise-glasses.png
 [zoom-lens]: ../img/items/zoom-lens.png
 [rose-incense]: ../img/items/rose-incense.png
+[galactic_grunt_m]: ../img/trainer/galactic_grunt_m.png
+[socialite]: ../img/trainer/socialite.png

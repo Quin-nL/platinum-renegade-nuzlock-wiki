@@ -2,30 +2,72 @@
 
 ## Trainers
 
-Trainer                                     | 1                                 | 2                                 | 3
----                                         | ---                               | ---                               | ---
-Hiker Daniel                                | ![][050]<br>[Diglett]<br>Lv. 15<ul><li>Growl</li><li>Astonish</li><li>Bulldoze</li><li>Magnitude</li></ul> | ![][410]<br>[Shieldon]<br>Lv. 15<ul><li>Taunt</li><li>Metal Sound</li><li>Take Down</li><li>Iron Defense</li></ul> | ![][322]<br>[Numel]<br>Lv. 15<ul><li>Tackle</li><li>Ember</li><li>Focus Energy</li><li>Magnitude</li></ul> 
-:repeat: [Aroma Lady Elizabeth](#rematches) | ![][152]<br>[Chikorita]<br>Lv. 16<ul><li>Razor Leaf</li><li>Poison Powder</li><li>Synthesis</li><li>Magical Leaf</li></ul> | ![][001]<br>[Bulbasaur]<br>Lv. 16<ul><li>Leech Seed</li><li>Razor Leaf</li><li>Poison Powder</li><li>Sleep Powder</li></ul> | &nbsp;
-Camper Jacob                                | ![][077]<br>[Ponyta]<br>Lv. 15<ul><li>Tail Whip</li><li>Ember</li><li>Stomp</li><li>Double Kick</li></ul> | ![][179]<br>[Mareep]<br>Lv. 15<ul><li>Thunder Wave</li><li>Thunder Shock</li><li>Cotton Spore</li><li>Charge</li></ul> | ![][418]<br>[Buizel]<br>Lv. 15<ul><li>Growl</li><li>Water Gun</li><li>Quick Attack</li><li>Water Sport</li></ul> 
-Picnicker Siena                             | ![][417]<br>[Pachirisu]<br>Lv. 17<ul><li>Charm</li><li>Spark</li><li>Endure</li><li>Charge Beam</li></ul> | &nbsp;                            | &nbsp;
-Hiker Nicholas                              | ![][422]<br>[Shellos]<br>Lv. 16<ul><li>Harden</li><li>Water Pulse</li><li>Mud Bomb</li><li>Hidden Power</li></ul> | ![][095]<br>[Onix]<br>Lv. 16<ul><li>Rock Throw</li><li>Bulldoze</li><li>Rock Tomb</li><li>Rage</li></ul> | &nbsp;
-Battle Girl Kelsey                          | ![][066]<br>[Machop]<br>Lv. 16<ul><li>Karate Chop</li><li>Foresight</li><li>Brick Break</li><li>Seismic Toss</li></ul> | ![][056]<br>[Mankey]<br>Lv. 16<ul><li>Fury Swipes</li><li>Karate Chop</li><li>Covet</li><li>Pursuit</li></ul> | ![][307]<br>[Meditite]<br>Lv. 16<ul><li>Confusion</li><li>Endure</li><li>Feint</li><li>Force Palm</li></ul> 
-:repeat: [Picnicker Karina](#rematches)     | ![][393]<br>[Piplup]<br>Lv. 16<ul><li>Bubble</li><li>Water Sport</li><li>Peck</li><li>Bide</li></ul> | ![][390]<br>[Chimchar]<br>Lv. 16<ul><li>Ember</li><li>Taunt</li><li>Fury Swipes</li><li>Flame Wheel</li></ul> | &nbsp;
-:repeat: [Camper Zackary](#rematches)       | ![][190]<br>[Aipom]<br>Lv. 15<ul><li>Astonish</li><li>Tickle</li><li>Baton Pass</li><li>Pursuit</li></ul> | ![][287]<br>[Slakoth]<br>Lv. 15<ul><li>Yawn</li><li>Encore</li><li>Slack Off</li><li>Crush Claw</li></ul> | ![][276]<br>[Taillow]<br>Lv. 15<ul><li>Growl</li><li>Focus Energy</li><li>Quick Attack</li><li>Wing Attack</li></ul> 
+Trainer | 1 | 2 | 3
+--- | --- | --- | ---
+![][camper]<br>Camper Jacob<hr><br>(LOOKS UP RIGHT AND DOWN) | ![][077]<br>[Ponyta]<br>Lv. 15<br>Quirky / Flame Body<br>50/85/55/65/65/90<hr>Double Kick<br>Stomp<br>Ember<br>Tail Whip | ![][179]<br>[Mareep]<br>Lv. 15<br>Serious / Static<br>55/40/40/65/45/35<hr>Charge<br>Cotton Spore<br>Thunder Shock<br>Thunder Wave | ![][418]<br>[Buizel]<br>Lv. 15<br>Bold / Swift Swim<br>55/65/35/60/30/85<hr>Water Sport<br>Quick Attack<br>Water Gun<br>Growl
+![][hiker]<br>Hiker Daniel<hr><br>(LOOKS LEFT AND DOWN) | ![][050]<br>[Diglett]<br>Lv. 15<br>Impish / Sand Veil<br>10/55/25/35/45/95<hr>Magnitude<br>Bulldoze<br>Astonish<br>Growl | ![][410]<br>[Shieldon]<br>Lv. 15<br>Relaxed / Soundproof<br>30/62/118/22/88/30<hr>Iron Defense<br>Take Down<br>Metal Sound<br>Taunt | ![][322]<br>[Numel]<br>Lv. 15<br>Serious / Simple<br>60/60/40/65/45/35<hr>Magnitude<br>Focus Energy<br>Ember<br>Tackle
+![][aroma_lady]<br>Aroma Lady Elizabeth<hr><br>Aroma Lady in the grass downstairs from Hiker Daniel<br>(SPINS COUNTER CLOCKWISE) | ![][152]<br>[Chikorita]<br>Lv. 16<br>Jolly / Serene Grace<br>45/49/65/49/65/45<hr>Razor Leaf<br>Poison Powder<br>Synthesis<br>Magical Leaf | ![][001]<br>[Bulbasaur]<br>Lv. 16<br>Brave / Chlorophyll<br>45/49/49/65/65/45<hr>Leech Seed<br>Razor Leaf<br>Poison Powder<br>Sleep Powder | &nbsp;
+Picknicker Siena<hr><br>Picknicker wandering around under the bridge after Aroma Lady Elizabeth<br>There's a Destiny Knot next to the water<br>(WANDERS AROUND) | ![][417]<br>[Pachirisu]<br>Lv. 17<br>Lonely / Volt Absorb<br>60/45/80/80/90/95<hr>Charm<br>Spark<br>Endure<br>Charge Beam | &nbsp; | &nbsp;
+![][camper]<br>Camper Zackary<hr><br>Camper upstairs from Hiker Daniel<br>(WALKS IN A CIRCLE) | ![][190]<br>[Aipom]<br>Lv. 15<br>Quirky / Run Away<br>55/70/55/40/55/85<hr>Astonish<br>Tickle<br>Baton Pass<br>Pursuit | ![][287]<br>[Slakoth]<br>Lv. 15<br>Timid / Truant<br>60/60/60/35/35/30<hr>Yawn<br>Encore<br>Slack Off<br>Crush Claw | ![][276]<br>[Taillow]<br>Lv. 15<br>Gentle / Guts<br>40/55/30/30/30/85<hr>Growl<br>Focus Energy<br>Quick Attack<br>Wing Attack
+![][hiker]<br>Hiker Nicholas<hr><br>(LOOKS DOWN AND LEFT) | ![][422]<br>[Shellos]<br>Lv. 16<br>Relaxed / Sticky Hold<br>76/48/48/57/62/34<hr>Harden<br>Water Pulse<br>Mud Bomb<br>Hidden Power | ![][095]<br>[Onix]<br>Lv. 16<br>Brave / Rock Head<br>35/75/160/30/45/80<hr>Rock Throw<br>Bulldoze<br>Rock Tomb<br>Rage | &nbsp;
+Battle Girl Kelsey<hr><br>There is a Repel next to her<br>(WALKS IN A CIRCLE) | ![][066]<br>[Machop]<br>Lv. 16<br>Lonely / Guts<br>70/80/50/35/35/35<hr>Karate Chop<br>Foresight<br>Brick Break<br>Seismic Toss | ![][056]<br>[Mankey]<br>Lv. 16<br>Quiet / Vital Spirit<br>40/80/35/35/45/70<hr>Fury Swipes<br>Karate Chop<br>Covet<br>Pursuit | ![][307]<br>[Meditite]<br>Lv. 16<br>Serious / Pure Power<br>30/40/55/60/55/60<hr>Confusion<br>Endure<br>Feint<br>Force Palm
+Picknicker Karina<hr><br>Picknicker standing above the Battle Girl<br>You can rest in the house next to her<br>There is a Super Potion on the ground below the house<br>(LOOKING UP AND DOWN) | ![][393]<br>[Piplup]<br>Lv. 16<br>Quiet / Torrent<br>53/51/53/61/56/40<hr>Bubble<br>Water Sport<br>Peck<br>Bide | ![][390]<br>[Chimchar]<br>Lv. 16<br>Modest / Iron Fist<br>44/58/44/58/44/61<hr>Ember<br>Taunt<br>Fury Swipes<br>Flame Wheel | &nbsp;
 
 ### Rematches
 
-Trainer                                                  | 1                                | 2                                 | 3
----                                                      | ---                              | ---                               | ---
-Aroma Lady Elizabeth :material-numeric-3-circle-outline: | ![][153]<br>[Bayleef]<br>Lv. 27<ul><li>Reflect</li><li>Light Screen</li><li>Draining Kiss</li><li>Energy Ball</li></ul> | ![][002]<br>[Ivysaur]<br>Lv. 27<ul><li>Magical Leaf</li><li>Sludge</li><li>Take Down</li><li>Sweet Scent</li></ul> | &nbsp;
-Aroma Lady Elizabeth :material-numeric-5-circle-outline: | ![][154]<br>[Meganium]<br>Lv. 39<ul><li>Energy Ball</li><li>Sweet Scent</li><li>Petal Dance</li><li>Body Slam</li></ul> | ![][003]<br>[Venusaur]<br>Lv. 39<ul><li>Sweet Scent</li><li>Sludge Bomb</li><li>Petal Dance</li><li>Growth</li></ul> | &nbsp;
-Aroma Lady Elizabeth :material-alpha-c-circle-outline:   | ![][154]<br>[Meganium]<br>Lv. 71<ul><li>Safeguard</li><li>Aromatherapy</li><li>Solar Beam</li><li>Leaf Storm</li></ul> | ![][003]<br>[Venusaur]<br>Lv. 71<ul><li>Double-Edge</li><li>Synthesis</li><li>Solar Beam</li><li>Leaf Storm</li></ul> | &nbsp;
-Camper Zackary :material-numeric-3-circle-outline:       | ![][190]<br>[Aipom]<br>Lv. 26<ul><li>Fury Swipes</li><li>Covet</li><li>Swift</li><li>Screech</li></ul> | ![][288]<br>[Vigoroth]<br>Lv. 26<ul><li>Uproar</li><li>Crush Claw</li><li>Fury Swipes</li><li>Slash</li></ul> | ![][277]<br>[Swellow]<br>Lv. 26<ul><li>Wing Attack</li><li>Double Team</li><li>Aerial Ace</li><li>Reversal</li></ul> 
-Camper Zackary :material-numeric-5-circle-outline:       | ![][424]<br>[Ambipom]<br>Lv. 38<ul><li>Agility</li><li>Double Hit</li><li>Fake Out</li><li>Fling</li></ul> | ![][288]<br>[Vigoroth]<br>Lv. 38<ul><li>Slash</li><li>Endure</li><li>Facade</li><li>Night Slash</li></ul> | ![][277]<br>[Swellow]<br>Lv. 38<ul><li>Reversal</li><li>Agility</li><li>U-turn</li><li>Air Slash</li></ul> 
-Camper Zackary :material-alpha-c-circle-outline:         | ![][424]<br>[Ambipom]<br>Lv. 70<ul><li>Bounce</li><li>Nasty Plot</li><li>Switcheroo</li><li>Last Resort</li></ul> | ![][289]<br>[Slaking]<br>Lv. 70<ul><li>Play Rough</li><li>Fling</li><li>Punishment</li><li>Hammer Arm</li></ul> | ![][277]<br>[Swellow]<br>Lv. 70<ul><li>Air Slash</li><li>Endeavor</li><li>Brave Bird</li><li>Hurricane</li></ul> 
-Picnicker Karina :material-numeric-3-circle-outline:     | ![][394]<br>[Prinplup]<br>Lv. 27<ul><li>Metal Claw</li><li>Bubble Beam</li><li>Icy Wind</li><li>Scald</li></ul> | ![][391]<br>[Monferno]<br>Lv. 27<ul><li>Flame Wheel</li><li>Low Kick</li><li>Fake Out</li><li>Flamethrower</li></ul> | &nbsp;
-Picnicker Karina :material-numeric-5-circle-outline:     | ![][395]<br>[Empoleon]<br>Lv. 39<ul><li>Fury Attack</li><li>Mist</li><li>Flash Cannon</li><li>Whirlpool</li></ul> | ![][392]<br>[Infernape]<br>Lv. 39<ul><li>Flamethrower</li><li>Feint</li><li>Close Combat</li><li>Vacuum Wave</li></ul> | &nbsp;
-Picnicker Karina :material-alpha-c-circle-outline:       | ![][395]<br>[Empoleon]<br>Lv. 71<ul><li>Whirlpool</li><li>Yawn</li><li>Drill Peck</li><li>Hydro Pump</li></ul> | ![][392]<br>[Infernape]<br>Lv. 71<ul><li>Torment</li><li>Fire Spin</li><li>Slack Off</li><li>Flare Blitz</li></ul> | &nbsp;
+=== "After 3 Badges"
+
+    Trainer | 1 | 2
+    --- | --- | ---
+    ![][aroma_lady]<br>Aroma Lady Elizabeth<hr> | ![][153]<br>[Bayleef]<br>Lv. 27<br>Brave / Serene Grace<br>60/62/80/63/80/60<hr>Reflect<br>Light Screen<br>Draining Kiss<br>Energy Ball | ![][002]<br>[Ivysaur]<br>Lv. 27<br>Mild / Chlorophyll<br>60/62/63/80/80/60<hr>Magical Leaf<br>Sludge<br>Take Down<br>Sweet Scent
+
+=== "After 5 Badges"
+
+    Trainer | 1 | 2
+    --- | --- | ---
+    ![][aroma_lady]<br>Aroma Lady Elizabeth<hr> | ![][154]<br>[Meganium]<br>Lv. 39<br>Timid / Serene Grace<br>80/82/100/93/100/80<hr>Energy Ball<br>Sweet Scent<br>Petal Dance<br>Body Slam | ![][003]<br>[Venusaur]<br>Lv. 39<br>Modest / Thick Fat<br>80/82/83/110/100/80<hr>Sweet Scent<br>Sludge Bomb<br>Petal Dance<br>Growth
+
+=== "AROMA LADY ELIZABETH"
+
+    Trainer | 1 | 2
+    --- | --- | ---
+    ![][aroma_lady]<br>Aroma Lady Elizabeth<hr><br>(AFTER CYNTHIA) | ![][154]<br>[Meganium]<br>Lv. 71<br>Lax / Serene Grace<br>80/82/100/93/100/80<hr>Safeguard<br>Aromatherapy<br>Solar Beam<br>Leaf Storm | ![][003]<br>[Venusaur]<br>Lv. 71<br>Naive / Thick Fat<br>80/82/83/110/100/80<hr>Double-Edge<br>Synthesis<br>Solar Beam<br>Leaf Storm
+
+=== "After 3 Badges"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    ![][camper]<br>Camper Zackary<hr> | ![][190]<br>[Aipom]<br>Lv. 26<br>Quirky / Run Away<br>55/70/55/40/55/85<hr>Fury Swipes<br>Covet<br>Swift<br>Screech | ![][288]<br>[Vigoroth]<br>Lv. 26<br>Naughty / Vital Spirit<br>80/80/80/55/55/90<hr>Uproar<br>Crush Claw<br>Fury Swipes<br>Slash | ![][277]<br>[Swellow]<br>Lv. 26<br>Modest / Guts<br>60/90/60/80/50/125<hr>Wing Attack<br>Double Team<br>Aerial Ace<br>Reversal
+
+=== "After 5 Badges"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    ![][camper]<br>Camper Zackary<hr> | ![][424]<br>[Ambipom]<br>Lv. 38<br>Calm / Technician<br>75/100/66/60/66/115<hr>Agility<br>Double Hit<br>Fake Out<br>Fling | ![][288]<br>[Vigoroth]<br>Lv. 38<br>Hardy / Vital Spirit<br>80/80/80/55/55/90<hr>Slash<br>Endure<br>Facade<br>Night Slash | ![][277]<br>[Swellow]<br>Lv. 38<br>Hasty / Guts<br>60/90/60/80/50/125<hr>Reversal<br>Agility<br>U-turn<br>Air Slash
+
+=== "CAMPER ZACKARY"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    ![][camper]<br>Camper Zackary<hr><br>(AFTER CYNTHIA) | ![][424]<br>[Ambipom]<br>Lv. 70<br>Brave / Technician<br>75/100/66/60/66/115<hr>Bounce<br>Nasty Plot<br>Switcheroo<br>Last Resort | ![][289]<br>[Slaking]<br>Lv. 70<br>Lonely / Truant<br>150/160/100/95/65/100<hr>Play Rough<br>Fling<br>Punishment<br>Hammer Arm | ![][277]<br>[Swellow]<br>Lv. 70<br>Bashful / Guts<br>60/90/60/80/50/125<hr>Air Slash<br>Endeavor<br>Brave Bird<br>Hurricane
+
+=== "After 3 Badges"
+
+    Trainer | 1 | 2
+    --- | --- | ---
+    Picknicker Karina<hr> | ![][394]<br>[Prinplup]<br>Lv. 27<br>Gentle / Torrent<br>64/66/68/81/76/50<hr>Metal Claw<br>Bubble Beam<br>Icy Wind<br>Scald | ![][391]<br>[Monferno]<br>Lv. 27<br>Hardy / Iron Fist<br>64/78/52/78/52/81<hr>Flame Wheel<br>Low Kick<br>Fake Out<br>Flamethrower
+
+=== "After 5 Badges"
+
+    Trainer | 1 | 2
+    --- | --- | ---
+    Picknicker Karina<hr> | ![][395]<br>[Empoleon]<br>Lv. 39<br>Lonely / Torrent<br>84/86/88/116/101/60<hr>Fury Attack<br>Mist<br>Flash Cannon<br>Whirlpool | ![][392]<br>[Infernape]<br>Lv. 39<br>Bold / Iron Fist<br>76/104/71/104/71/109<hr>Flamethrower<br>Feint<br>Close Combat<br>Vacuum Wave
+
+=== "PICKNICKER KARINA"
+
+    Trainer | 1 | 2
+    --- | --- | ---
+    Picknicker Karina<hr><br>(AFTER CYNTHIA) | ![][395]<br>[Empoleon]<br>Lv. 71<br>Careful / Torrent<br>84/86/88/116/101/60<hr>Whirlpool<br>Yawn<br>Drill Peck<br>Hydro Pump | ![][392]<br>[Infernape]<br>Lv. 71<br>Serious / Iron Fist<br>76/104/71/104/71/109<hr>Torment<br>Fire Spin<br>Slack Off<br>Flare Blitz
 
 ## Wild Pokémon
 
@@ -54,6 +96,10 @@ Item | Name | Obtained
 TM | Name | Obtained
 --- | --- | ---
 TM08 | Bulk Up | Item on ground
+
+--8<-- "includes/abilities.md"
+--8<-- "includes/held_items.md"
+--8<-- "includes/natures.md"
 
 [001]: ../img/pokemon/001.png
 [002]: ../img/pokemon/002.png
@@ -160,3 +206,6 @@ TM08 | Bulk Up | Item on ground
 [super-rod]: ../img/items/super-rod.png
 [destiny-knot]: ../img/items/destiny-knot.png
 [water-stone]: ../img/items/water-stone.png
+[hiker]: ../img/trainer/hiker.png
+[aroma_lady]: ../img/trainer/aroma_lady.png
+[camper]: ../img/trainer/camper.png

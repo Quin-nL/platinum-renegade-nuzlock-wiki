@@ -2,28 +2,48 @@
 
 ## Trainers
 
-Trainer                                   | 1                                 | 2                                 | 3
----                                       | ---                               | ---                               | ---
-:repeat: [Ace Trainer Dalton](#rematches) | ![][467]<br>[Magmortar]<br>Lv. 52<ul><li>Cross Chop</li><li>Flamethrower</li><li>Flare Blitz</li><li>Aura Sphere</li></ul> | ![][003]<br>[Venusaur]<br>Lv. 52<ul><li>Growth</li><li>Worry Seed</li><li>Double-Edge</li><li>Synthesis</li></ul> | ![][230]<br>[Kingdra]<br>Lv. 52<ul><li>Signal Beam</li><li>Dragon Dance</li><li>Outrage</li><li>Hydro Pump</li></ul> 
-Skier Shawn                               | ![][459]<br>[Snover]<br>Lv. 49<ul><li>Mist</li><li>Icicle Crash</li><li>Blizzard</li><li>Sheer Cold</li></ul> | ![][459]<br>[Snover]<br>Lv. 49<ul><li>Mist</li><li>Icicle Crash</li><li>Blizzard</li><li>Sheer Cold</li></ul> | ![][460]<br>[Abomasnow]<br>Lv. 52<ul><li>Mist</li><li>Icicle Crash</li><li>Blizzard</li><li>Sheer Cold</li></ul> 
-Ninja Boy Matthew                         | ![][169]<br>[Crobat]<br>Lv. 51<ul><li>Haze</li><li>Zen Headbutt</li><li>Nasty Plot</li><li>Brave Bird</li></ul> | &nbsp;                            | &nbsp;
-:repeat: [Skier Madison](#rematches)      | ![][238]<br>[Smoochum]<br>Lv. 49<ul><li>Avalanche</li><li>Perish Song</li><li>Blizzard</li><li>Nasty Plot</li></ul> | ![][361]<br>[Snorunt]<br>Lv. 49<ul><li>Protect</li><li>Switcheroo</li><li>Hail</li><li>Blizzard</li></ul> | ![][124]<br>[Jynx]<br>Lv. 52<ul><li>Body Slam</li><li>Avalanche</li><li>Perish Song</li><li>Blizzard</li></ul> 
-Ninja Boy Ethan                           | ![][452]<br>[Drapion]<br>Lv. 51<ul><li>Night Slash</li><li>Scary Face</li><li>Crunch</li><li>Cross Poison</li></ul> | &nbsp;                            | &nbsp;
-:repeat: [Skier Bjorn](#rematches)        | ![][220]<br>[Swinub]<br>Lv. 49<ul><li>Flail</li><li>Icicle Crash</li><li>Amnesia</li><li>Blizzard</li></ul> | ![][220]<br>[Swinub]<br>Lv. 49<ul><li>Flail</li><li>Icicle Crash</li><li>Amnesia</li><li>Blizzard</li></ul> | ![][221]<br>[Piloswine]<br>Lv. 52<ul><li>Thrash</li><li>Icicle Crash</li><li>Amnesia</li><li>Blizzard</li></ul> 
-Skier Lexie                               | ![][087]<br>[Dewgong]<br>Lv. 51<ul><li>Safeguard</li><li>Dive</li><li>Hail</li><li>Megahorn</li></ul> | ![][471]<br>[Glaceon]<br>Lv. 51<ul><li>Ice Beam</li><li>Earth Power</li><li>Last Resort</li><li>Blizzard</li></ul> | &nbsp;
-Black Belt Luke                           | ![][068]<br>[Machamp]<br>Lv. 51<ul><li>Bulk Up</li><li>Cross Chop</li><li>Scary Face</li><li>Dynamic Punch</li></ul> | ![][454]<br>[Toxicroak]<br>Lv. 51<ul><li>Sucker Punch</li><li>Cross Chop</li><li>Sludge Bomb</li><li>Flatter</li></ul> | ![][448]<br>[Lucario]<br>Lv. 51<ul><li>Dragon Pulse</li><li>Blaze Kick</li><li>Close Combat</li><li>Meteor Mash</li></ul> 
-:repeat: [Ace Trainer Olivia](#rematches) | ![][275]<br>[Shiftry]<br>Lv. 52<ul><li>Whirlwind</li><li>Nasty Plot</li><li>Hurricane</li><li>Leaf Storm</li></ul> | ![][334]<br>[Altaria]<br>Lv. 52<ul><li>Dragon Dance</li><li>Dragon Pulse</li><li>Perish Song</li><li>Brave Bird</li></ul> | ![][242]<br>[Blissey]<br>Lv. 52<ul><li>Light Screen</li><li>Healing Wish</li><li>Counter</li><li>Double-Edge</li></ul> 
+Trainer | 1 | 2 | 3
+--- | --- | --- | ---
+![][ace_m]<br>Ace Trainer Dalton<hr><br>Looks Left | ![][467]<br>[Magmortar]<br>Lv. 52<br>Impish / Flame Body<br>75/95/67/125/95/83<hr>Flamethrower<br>Thunderbolt<br>Psychic<br>Focus Blast | ![][003]<br>[Venusaur]<br>Lv. 52<br>Calm / Thick Fat<br>80/82/83/110/100/80<hr>Petal Dance<br>Sludge Bomb<br>Earthquake<br>Sleep Powder | ![][230]<br>[Kingdra]<br>Lv. 52<br>Mild / Swift Swim<br>75/95/95/95/95/85<hr>Muddy Water<br>Ice Beam<br>Dragon Pulse<br>Yawn
+![][skier]<br>Skier Shawn<hr><br>Skis on the right side of the route<br>(SKIS IN A CIRCLE) | ![][459]<br>[Snover]<br>Lv. 49<br>Careful / Snow Warning<br>60/62/50/62/60/40<hr>Mist<br>Icicle Crash<br>Blizzard<br>Sheer Cold | ![][459]<br>[Snover]<br>Lv. 49<br>Careful / Snow Warning<br>60/62/50/62/60/40<hr>Mist<br>Icicle Crash<br>Blizzard<br>Sheer Cold | ![][460]<br>[Abomasnow]<br>Lv. 52<br>Bold / Snow Warning<br>90/92/75/92/85/60<hr>Mist<br>Icicle Crash<br>Blizzard<br>Sheer Cold
+Ninja Boy Matthew<hr><br>Ninja Boy hiding in the snow next to an Ultra Ball<br>He's to the left of Skier Shawn<br>(HIDES IN THE SNOW) | ![][169]<br>[Crobat]<br>Lv. 51<br>Naughty / Inner Focus<br>85/90/80/70/80/130<hr>Haze<br>Zen Headbutt<br>Nasty Plot<br>Brave Bird | &nbsp; | &nbsp;
+![][skier]<br>Skier Madison<hr><br>Stands on the left side of the route<br>There is a Nugget hidden in the corner above her<br>(SPINS CLOCKWISE) | ![][238]<br>[Smoochum]<br>Lv. 49<br>Quiet / Hydration<br>45/30/15/95/65/65<hr>Perish Song<br>Blizzard<br>Nasty Plot<br>Psycho Boost | ![][361]<br>[Snorunt]<br>Lv. 49<br>Hasty / Inner Focus<br>50/50/50/50/50/50<hr>Switcheroo<br>Hail<br>Blizzard<br>Destiny Bond | ![][124]<br>[Jynx]<br>Lv. 52<br>Serious / Dry Skin<br>75/40/35/125/95/95<hr>Perish Song<br>Blizzard<br>Nasty Plot<br>Psycho Boost
+Ninja Boy Ethan<hr><br>Ninja Boy hiding in the snow on the left side of the route<br>Above him there are TM07s Hail on the ground and a house where you can get healed<br>(HIDES IN THE SNOW) | ![][452]<br>[Drapion]<br>Lv. 51<br>Modest / Sniper<br>70/90/110/60/75/95<hr>Night Slash<br>Scary Face<br>Crunch<br>Cross Poison | &nbsp; | &nbsp;
+![][skier]<br>Skier Lexie<hr><br>Skis on the left side of the route, above Ninja Boy Ethan<br>(SKIS IN A CIRCLE) | ![][087]<br>[Dewgong]<br>Lv. 51<br>Hasty / Thick Fat<br>90/80/80/80/95/70<hr>Safeguard<br>Dive<br>Hail<br>Megahorn | ![][471]<br>[Glaceon]<br>Lv. 51<br>Mild / Snow Cloak<br>65/60/110/130/65/95<hr>Ice Beam<br>Earth Power<br>Last Resort<br>Blizzard | &nbsp;
+![][skier]<br>Skier Bjorn<hr><br>Skis on the right side of the route. There is a house above him with a lady having a nightmare in it.<br>(SKIS IN A CIRCLE WHILE SPINNING) | ![][220]<br>[Swinub]<br>Lv. 49<br>Brave / Thick Fat<br>50/50/40/30/30/50<hr>Flail<br>Icicle Crash<br>Amnesia<br>Blizzard | ![][220]<br>[Swinub]<br>Lv. 49<br>Brave / Thick Fat<br>50/50/40/30/30/50<hr>Flail<br>Icicle Crash<br>Amnesia<br>Blizzard | ![][221]<br>[Piloswine]<br>Lv. 52<br>Lax / Thick Fat<br>100/100/80/60/60/50<hr>Thrash<br>Icicle Crash<br>Amnesia<br>Blizzard
+Black Belt Luke<hr><br>(WALKS UP AND DOWN AND SPINS) | ![][068]<br>[Machamp]<br>Lv. 51<br>Bashful / Guts<br>90/130/80/65/85/55<hr>Bulk Up<br>Cross Chop<br>Scary Face<br>Dynamic Punch | ![][454]<br>[Toxicroak]<br>Lv. 51<br>Docile / Dry Skin<br>83/106/65/86/65/85<hr>Sucker Punch<br>Cross Chop<br>Sludge Bomb<br>Flatter | ![][448]<br>[Lucario]<br>Lv. 51<br>Adamant / Adaptability<br>70/110/70/115/70/90<hr>Dragon Pulse<br>Blaze Kick<br>Close Combat<br>Meteor Mash
+![][ace_m]<br>Ace Trainer Olivia<hr><br>Looks Left | ![][275]<br>[Shiftry]<br>Lv. 52<br>Quiet / Chlorophyll<br>90/100/60/90/60/80<hr>Leaf Blade<br>Dark Pulse<br>Hurricane<br>Fake Out | ![][334]<br>[Altaria]<br>Lv. 52<br>Rash / Cloud Nine<br>75/90/90/90/105/80<hr>Dragon Pulse<br>Moonblast<br>Flamethrower<br>Ice Beam | ![][242]<br>[Blissey]<br>Lv. 52<br>Modest / Serene Grace<br>255/10/10/75/135/55<hr>Hyper Voice<br>Thunderbolt<br>Soft-Boiled<br>Flamethrower
 
 ### Rematches
 
-Trainer                                              | 1                                 | 2                                 | 3
----                                                  | ---                               | ---                               | ---
-Ace Trainer Dalton :material-alpha-c-circle-outline: | ![][467]<br>[Magmortar]<br>Lv. 72<ul><li>Aura Sphere</li><li>Fire Blast</li><li>Hyper Beam</li><li>Magma Storm</li></ul> | ![][003]<br>[Venusaur]<br>Lv. 72<ul><li>Double-Edge</li><li>Synthesis</li><li>Solar Beam</li><li>Leaf Storm</li></ul> | ![][230]<br>[Kingdra]<br>Lv. 72<ul><li>Dragon Dance</li><li>Outrage</li><li>Hydro Pump</li><li>Hyper Beam</li></ul> 
-Skier Madison :material-numeric-8-circle-outline:    | ![][124]<br>[Jynx]<br>Lv. 59<ul><li>Perish Song</li><li>Blizzard</li><li>Nasty Plot</li><li>Psycho Boost</li></ul> | ![][478]<br>[Froslass]<br>Lv. 59<ul><li>Switcheroo</li><li>Hail</li><li>Blizzard</li><li>Destiny Bond</li></ul> | ![][124]<br>[Jynx]<br>Lv. 59<ul><li>Perish Song</li><li>Blizzard</li><li>Nasty Plot</li><li>Psycho Boost</li></ul> 
-Skier Madison :material-alpha-c-circle-outline:      | ![][124]<br>[Jynx]<br>Lv. 70<ul><li>Perish Song</li><li>Blizzard</li><li>Nasty Plot</li><li>Psycho Boost</li></ul> | ![][478]<br>[Froslass]<br>Lv. 70<ul><li>Switcheroo</li><li>Hail</li><li>Blizzard</li><li>Destiny Bond</li></ul> | ![][124]<br>[Jynx]<br>Lv. 70<ul><li>Perish Song</li><li>Blizzard</li><li>Nasty Plot</li><li>Psycho Boost</li></ul> 
-Skier Bjorn :material-numeric-8-circle-outline:      | ![][221]<br>[Piloswine]<br>Lv. 59<ul><li>Thrash</li><li>Icicle Crash</li><li>Amnesia</li><li>Blizzard</li></ul> | ![][221]<br>[Piloswine]<br>Lv. 59<ul><li>Thrash</li><li>Icicle Crash</li><li>Amnesia</li><li>Blizzard</li></ul> | ![][473]<br>[Mamoswine]<br>Lv. 59<ul><li>Thrash</li><li>Icicle Crash</li><li>Scary Face</li><li>Blizzard</li></ul> 
-Skier Bjorn :material-alpha-c-circle-outline:        | ![][473]<br>[Mamoswine]<br>Lv. 72<ul><li>Thrash</li><li>Icicle Crash</li><li>Scary Face</li><li>Blizzard</li></ul> | ![][473]<br>[Mamoswine]<br>Lv. 72<ul><li>Thrash</li><li>Icicle Crash</li><li>Scary Face</li><li>Blizzard</li></ul> | ![][473]<br>[Mamoswine]<br>Lv. 72<ul><li>Thrash</li><li>Icicle Crash</li><li>Scary Face</li><li>Blizzard</li></ul> 
-Ace Trainer Olivia :material-alpha-c-circle-outline: | ![][275]<br>[Shiftry]<br>Lv. 72<ul><li>Whirlwind</li><li>Nasty Plot</li><li>Hurricane</li><li>Leaf Storm</li></ul> | ![][334]<br>[Altaria]<br>Lv. 72<ul><li>Dragon Pulse</li><li>Perish Song</li><li>Brave Bird</li><li>Sky Attack</li></ul> | ![][242]<br>[Blissey]<br>Lv. 72<ul><li>Light Screen</li><li>Healing Wish</li><li>Counter</li><li>Double-Edge</li></ul> 
+=== "After 8 Badges"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    ![][skier]<br>Skier Bjorn<hr> | ![][221]<br>[Piloswine]<br>Lv. 59<br>Impish / Thick Fat<br>100/100/80/60/60/50<hr>Thrash<br>Icicle Crash<br>Amnesia<br>Blizzard | ![][221]<br>[Piloswine]<br>Lv. 59<br>Impish / Thick Fat<br>100/100/80/60/60/50<hr>Thrash<br>Icicle Crash<br>Amnesia<br>Blizzard | ![][473]<br>[Mamoswine]<br>Lv. 59<br>Adamant / Thick Fat<br>110/130/80/70/60/80<hr>Thrash<br>Icicle Crash<br>Scary Face<br>Blizzard
+
+=== "SKIER BJORN"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    ![][skier]<br>Skier Bjorn<hr><br>(AFTER CYNTHIA) | ![][473]<br>[Mamoswine]<br>Lv. 72<br>Bold / Thick Fat<br>110/130/80/70/60/80<hr>Thrash<br>Icicle Crash<br>Scary Face<br>Blizzard | ![][473]<br>[Mamoswine]<br>Lv. 72<br>Bold / Thick Fat<br>110/130/80/70/60/80<hr>Thrash<br>Icicle Crash<br>Scary Face<br>Blizzard | ![][473]<br>[Mamoswine]<br>Lv. 72<br>Bold / Thick Fat<br>110/130/80/70/60/80<hr>Thrash<br>Icicle Crash<br>Scary Face<br>Blizzard
+
+=== "After 8 Badges"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    ![][skier]<br>Skier Madison<hr> | ![][124]<br>[Jynx]<br>Lv. 59<br>Jolly / Dry Skin<br>75/40/35/125/95/95<hr>Perish Song<br>Blizzard<br>Nasty Plot<br>Psycho Boost | ![][478]<br>[Froslass]<br>Lv. 59<br>Gentle / Levitate<br>70/70/70/110/70/110<hr>Switcheroo<br>Hail<br>Blizzard<br>Destiny Bond | ![][124]<br>[Jynx]<br>Lv. 59<br>Jolly / Dry Skin<br>75/40/35/125/95/95<hr>Perish Song<br>Blizzard<br>Nasty Plot<br>Psycho Boost
+
+=== "SKIER MADISON"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    ![][skier]<br>Skier Madison<hr><br>(AFTER CYNTHIA) | ![][124]<br>[Jynx]<br>Lv. 70<br>Calm / Dry Skin<br>75/40/35/125/95/95<hr>Perish Song<br>Blizzard<br>Nasty Plot<br>Psycho Boost | ![][478]<br>[Froslass]<br>Lv. 70<br>Sassy / Levitate<br>70/70/70/110/70/110<hr>Switcheroo<br>Hail<br>Blizzard<br>Destiny Bond | ![][124]<br>[Jynx]<br>Lv. 70<br>Calm / Dry Skin<br>75/40/35/125/95/95<hr>Perish Song<br>Blizzard<br>Nasty Plot<br>Psycho Boost
+
+Trainer | 1 | 2 | 3
+--- | --- | --- | ---
+![][ace_m]<br>Ace Trainer Dalton<hr><br>(AFTER CYNTHIA) | ![][467]<br>[Magmortar]<br>Lv. 72<br>Hardy / Flame Body<br>75/95/67/125/95/83<hr>Flamethrower<br>Thunderbolt<br>Psychic<br>Focus Blast | ![][003]<br>[Venusaur]<br>Lv. 72<br>Serious / Thick Fat<br>80/82/83/110/100/80<hr>Petal Dance<br>Sludge Bomb<br>Earthquake<br>Sleep Powder | ![][230]<br>[Kingdra]<br>Lv. 72<br>Impish / Swift Swim<br>75/95/95/95/95/85<hr>Muddy Water<br>Ice Beam<br>Dragon Pulse<br>Yawn
+![][ace_m]<br>Ace Trainer Olivia<hr><br>(AFTER CYNTHIA) | ![][275]<br>[Shiftry]<br>Lv. 72<br>Naive / Chlorophyll<br>90/100/60/90/60/80<hr>Leaf Blade<br>Dark Pulse<br>Hurricane<br>Fake Out | ![][334]<br>[Altaria]<br>Lv. 72<br>Relaxed / Cloud Nine<br>75/90/90/90/105/80<hr>Dragon Pulse<br>Moonblast<br>Flamethrower<br>Ice Beam | ![][242]<br>[Blissey]<br>Lv. 72<br>Serious / Serene Grace<br>255/10/10/75/135/55<hr>Hyper Voice<br>Thunderbolt<br>Soft-Boiled<br>Flamethrower
 
 ## Wild Pokémon
 
@@ -53,6 +73,10 @@ TM | Name | Obtained
 --- | --- | ---
 TM07 | Hail | Item on ground
 TM52 | Focus Blast | Gift from Maylene
+
+--8<-- "includes/abilities.md"
+--8<-- "includes/held_items.md"
+--8<-- "includes/natures.md"
 
 [003]: ../img/pokemon/003.png
 [068]: ../img/pokemon/068.png
@@ -108,3 +132,5 @@ TM52 | Focus Blast | Gift from Maylene
 [icy-rock]: ../img/items/icy-rock.png
 [spell-tag]: ../img/items/spell-tag.png
 [member-card]: ../img/items/member-card.png
+[ace_m]: ../img/trainer/ace_m.png
+[skier]: ../img/trainer/skier.png

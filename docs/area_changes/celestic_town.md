@@ -2,9 +2,9 @@
 
 ## Trainers
 
-Trainer                             | 1                                | 2                                 | 3                                 | 4
----                                 | ---                              | ---                               | ---                               | ---
-Galactic Grunt                      | ![][229]<br>[Houndoom]<br>Lv. 43<ul><li>Crunch</li><li>Flamethrower</li><li>Dark Pulse</li><li>Embargo</li></ul> | ![][042]<br>[Golbat]<br>Lv. 43<ul><li>Hypnosis</li><li>Air Slash</li><li>Haze</li><li>Zen Headbutt</li></ul> | ![][015]<br>[Beedrill]<br>Lv. 43<ul><li>Drill Run</li><li>Agility</li><li>Endeavor</li><li>Outrage</li></ul> | &nbsp;
+Trainer | 1 | 2 | 3
+--- | --- | --- | ---
+![][galactic_grunt_m]<br>Galactic Grunt<hr><br>Grunt outside of the Celestic Town Ruins<br>Asks you if you want to fight him<br>Once beaten you get to come inside | ![][229]<br>[Houndoom]<br>Lv. 43<br>Impish / Intimidate<br>75/90/50/110/80/95<hr>Crunch<br>Flamethrower<br>Dark Pulse<br>Embargo | ![][042]<br>[Golbat]<br>Lv. 43<br>Lax / Inner Focus<br>75/80/70/65/75/90<hr>Hypnosis<br>Air Slash<br>Haze<br>Zen Headbutt | ![][015]<br>[Beedrill]<br>Lv. 43<br>Quiet / Adaptability<br>65/115/40/40/95/95<hr>Drill Run<br>Agility<br>Endeavor<br>Outrage
 
 ### Galactic Boss Cyrus
 
@@ -92,3 +92,4 @@ HM03 | Surf | Gift from NPC
 [dragon-fang]: ../img/items/dragon-fang.png
 [kings-rock]: ../img/items/kings-rock.png
 [draco-plate]: ../img/items/draco-plate.png
+[galactic_grunt_m]: ../img/trainer/galactic_grunt_m.png

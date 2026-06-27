@@ -1,12 +1,6 @@
-# Valor Lakefront
-
-Area                                         | Pokémon                        | &nbsp;                       | &nbsp;                        | &nbsp;                        | &nbsp;
----                                          | ---                            | ---                          | ---                           | ---                           | ---
-🌅<br>Morning<br>Lv. 31 - 33                  | ![][203]<br>[Girafarig]<br>30% | ![][400]<br>[Bibarel]<br>20% | ![][030]<br>[Nidorina]<br>20% | ![][033]<br>[Nidorino]<br>20% | ![][402]<br>[Kricketune]<br>10%
-🌞<br>Day<br>Lv. 31 - 33                      | ![][203]<br>[Girafarig]<br>30% | ![][400]<br>[Bibarel]<br>20% | ![][030]<br>[Nidorina]<br>20% | ![][033]<br>[Nidorino]<br>20% | ![][402]<br>[Kricketune]<br>10%
-🌙<br>Night<br>Lv. 31 - 33                    | ![][203]<br>[Girafarig]<br>30% | ![][400]<br>[Bibarel]<br>20% | ![][030]<br>[Nidorina]<br>20% | ![][033]<br>[Nidorino]<br>20% | ![][402]<br>[Kricketune]<br>10%
-![][poke-radar]<br>Poké Radar<br>Lv. 31 - 33 | ![][049]<br>[Venomoth]<br>22%  | &nbsp;                       | &nbsp;                        | &nbsp;                        | &nbsp;
-
+Trainer | 1
+--- | ---
+![][galactic_grunt_m]<br>Galactic Grunt<hr><br>You fight him after chasing him from Pastoria City and through Route 213 and the Hotel Grand Lake<br>Once you beat him Cynthia gives you the Secret Potion to cure the Psyducks on Route 210 | ![][454]<br>[Toxicroak]<br>Lv. 41<br>Jolly / Dry Skin<br>83/106/65/86/65/85<hr>Poison Jab<br>Drain Punch<br>Nasty Plot<br>Sucker Punch
 
 ## Items
 
@@ -22,6 +16,10 @@ Item | Name | Obtained
 TM | Name | Obtained
 --- | --- | ---
 TM53 | Energy Ball | Item on ground
+
+--8<-- "includes/abilities.md"
+--8<-- "includes/held_items.md"
+--8<-- "includes/natures.md"
 
 [030]: ../img/pokemon/030.png
 [033]: ../img/pokemon/033.png
@@ -40,3 +38,6 @@ TM53 | Energy Ball | Item on ground
 [sun-stone]: ../img/items/sun-stone.png
 [white-flute]: ../img/items/white-flute.png
 [secret-potion]: ../img/items/secret-potion.png
+[454]: ../img/pokemon/454.png
+[Toxicroak]: ../../pokemons/454/
+[galactic_grunt_m]: ../img/trainer/galactic_grunt_m.png

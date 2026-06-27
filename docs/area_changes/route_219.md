@@ -2,10 +2,10 @@
 
 ## Trainers
 
-Trainer       | 1                                 | 2                                 | 3
----           | ---                               | ---                               | ---
-Tuber Mariel  | ![][184]<br>[Azumarill]<br>Lv. 43<ul><li>Aqua Ring</li><li>Rain Dance</li><li>Belly Drum</li><li>Double-Edge</li></ul> | ![][134]<br>[Vaporeon]<br>Lv. 43<ul><li>Muddy Water</li><li>Ice Beam</li><li>Last Resort</li><li>Hydro Pump</li></ul> | &nbsp;
-Tuber Trenton | ![][061]<br>[Poliwhirl]<br>Lv. 42<ul><li>Low Kick</li><li>Belly Drum</li><li>Mud Bomb</li><li>Wake-Up Slap</li></ul> | ![][423]<br>[Gastrodon]<br>Lv. 42<ul><li>Muddy Water</li><li>Body Slam</li><li>Counter</li><li>Mirror Coat</li></ul> | ![][400]<br>[Bibarel]<br>Lv. 42<ul><li>Super Fang</li><li>Swords Dance</li><li>Amnesia</li><li>Superpower</li></ul> 
+Trainer | 1 | 2 | 3
+--- | --- | --- | ---
+![][tuber_m]<br>Tuber Mariel<hr><br>Can be fought alone or with Tuber Trenton in a double battle<br>In a double battle her team is on the left<br>Looks Left | ![][184]<br>[Azumarill]<br>Lv. 43<br>Jolly / Huge Power<br>110/50/80/80/80/50<hr>Aqua Ring<br>Rain Dance<br>Belly Drum<br>Double-Edge | ![][134]<br>[Vaporeon]<br>Lv. 43<br>Relaxed / Water Absorb<br>130/65/60/110/95/65<hr>Muddy Water<br>Ice Beam<br>Last Resort<br>Hydro Pump | &nbsp;
+Tuber Trenton<hr><br>Can be fought alone or with Tuber Mariel in a double battle<br>In a double battle his team is on the right<br>(WALKS BACK AND FORTH) | ![][061]<br>[Poliwhirl]<br>Lv. 42<br>Rash / Water Absorb<br>65/65/65/50/50/90<hr>Low Kick<br>Belly Drum<br>Mud Bomb<br>Wake-Up Slap | ![][423]<br>[Gastrodon]<br>Lv. 42<br>Mild / Sticky Hold<br>111/83/68/92/82/39<hr>Muddy Water<br>Body Slam<br>Mirror Coat<br>Counter | ![][400]<br>[Bibarel]<br>Lv. 42<br>Relaxed / Simple<br>94/100/65/55/65/71<hr>Super Fang<br>Amnesia<br>Swords Dance<br>Superpower
 
 ### Master Trainer
 
@@ -27,6 +27,10 @@ Area                                  | Pokémon                      | &nbsp;  
 Item | Name | Obtained
 --- | --- | ---
 ![][splash-plate] | Splash Plate | Master Trainer
+
+--8<-- "includes/abilities.md"
+--8<-- "includes/held_items.md"
+--8<-- "includes/natures.md"
 
 [061]: ../img/pokemon/061.png
 [072]: ../img/pokemon/072.png
@@ -65,3 +69,4 @@ Item | Name | Obtained
 [old-rod]: ../img/items/old-rod.png
 [super-rod]: ../img/items/super-rod.png
 [splash-plate]: ../img/items/splash-plate.png
+[tuber_m]: ../img/trainer/tuber_m.png

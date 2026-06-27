@@ -2,29 +2,51 @@
 
 ## Trainers
 
-Trainer                              | 1                                 | 2                                | 3
----                                  | ---                               | ---                              | ---
-:repeat: [Beauty Cyndy](#rematches)  | ![][301]<br>[Delcatty]<br>Lv. 37<ul><li>Fake Out</li><li>Sing</li><li>Attract</li><li>Double Slap</li></ul> | ![][053]<br>[Persian]<br>Lv. 37<ul><li>Taunt</li><li>Power Gem</li><li>Assurance</li><li>Hypnosis</li></ul> | &nbsp;
-Fisherman Kenneth                    | ![][318]<br>[Carvanha]<br>Lv. 36<ul><li>Waterfall</li><li>Scary Face</li><li>Crunch</li><li>Poison Fang</li></ul> | ![][223]<br>[Remoraid]<br>Lv. 36<ul><li>Signal Beam</li><li>Ice Beam</li><li>Seed Bomb</li><li>Flamethrower</li></ul> | ![][116]<br>[Horsea]<br>Lv. 36<ul><li>Octazooka</li><li>Agility</li><li>Muddy Water</li><li>Dragon Pulse</li></ul> 
-:repeat: [Tuber Jared](#rematches)   | ![][423]<br>[Gastrodon]<br>Lv. 37<ul><li>Earth Power</li><li>Sludge Bomb</li><li>Muddy Water</li><li>Body Slam</li></ul> | &nbsp;                           | &nbsp;
-:repeat: [Tuber Chelsea](#rematches) | ![][184]<br>[Azumarill]<br>Lv. 37<ul><li>Aqua Tail</li><li>Play Rough</li><li>Aqua Ring</li><li>Rain Dance</li></ul> | &nbsp;                           | &nbsp;
-Swimmer Haley                        | ![][055]<br>[Golduck]<br>Lv. 43<ul><li>Power Gem</li><li>Psychic</li><li>Psych Up</li><li>Future Sight</li></ul> | ![][226]<br>[Mantine]<br>Lv. 43<ul><li>Aqua Ring</li><li>Mirror Coat</li><li>Bounce</li><li>Tailwind</li></ul> | ![][222]<br>[Corsola]<br>Lv. 43<ul><li>Earth Power</li><li>Endure</li><li>Rock Blast</li><li>Aqua Ring</li></ul> 
-Swimmer Sheltin                      | ![][130]<br>[Gyarados]<br>Lv. 43<ul><li>Scary Face</li><li>Crunch</li><li>Dragon Dance</li><li>Outrage</li></ul> | ![][130]<br>[Gyarados]<br>Lv. 43<ul><li>Scary Face</li><li>Crunch</li><li>Dragon Dance</li><li>Outrage</li></ul> | ![][130]<br>[Gyarados]<br>Lv. 43<ul><li>Scary Face</li><li>Crunch</li><li>Dragon Dance</li><li>Outrage</li></ul> 
-Sailor Paul                          | ![][186]<br>[Politoed]<br>Lv. 45<ul><li>Double Slap</li><li>Perish Song</li><li>Swagger</li><li>Bounce</li></ul> | &nbsp;                           | &nbsp;
-Swimmer Evan                         | ![][195]<br>[Quagsire]<br>Lv. 44<ul><li>Body Slam</li><li>Earthquake</li><li>Counter</li><li>Rain Dance</li></ul> | ![][319]<br>[Sharpedo]<br>Lv. 44<ul><li>Night Slash</li><li>Crunch</li><li>Poison Fang</li><li>Skull Bash</li></ul> | &nbsp;
-Swimmer Mary                         | ![][279]<br>[Pelipper]<br>Lv. 44<ul><li>Roost</li><li>Air Slash</li><li>Tailwind</li><li>Uproar</li></ul> | ![][457]<br>[Lumineon]<br>Lv. 44<ul><li>Aqua Tail</li><li>Silver Wind</li><li>Aqua Ring</li><li>Whirlpool</li></ul> | &nbsp;
-Galactic Grunt                       | ![][454]<br>[Toxicroak]<br>Lv. 41<ul><li>Poison Jab</li><li>Drain Punch</li><li>Nasty Plot</li><li>Sucker Punch</li></ul> | &nbsp;                           | &nbsp;
+Trainer | 1 | 2 | 3
+--- | --- | --- | ---
+Swimmer Haley<hr><br>You can find her when surfing down from the beach | ![][055]<br>[Golduck]<br>Lv. 43<br>Careful / Damp<br>80/82/78/95/80/85<hr>Power Gem<br>Psychic<br>Psych Up<br>Future Sight | ![][226]<br>[Mantine]<br>Lv. 43<br>Jolly / Swift Swim<br>85/40/70/80/140/70<hr>Aqua Ring<br>Mirror Coat<br>Bounce<br>Tailwind | ![][222]<br>[Corsola]<br>Lv. 43<br>Gentle / Hustle<br>65/45/115/90/115/35<hr>Earth Power<br>Endure<br>Rock Blast<br>Aqua Ring
+Swimmer Sheltin<hr><br>When you go down and left after Swimmer Haley<br>He sort of guards a Max Revive and a hidden Big Pearl<br>(SWIMS IN CIRCLES CLOCKWISE) | ![][130]<br>[Gyarados]<br>Lv. 43<br>Quirky / Intimidate<br>95/125/79/60/100/81<hr>Scary Face<br>Crunch<br>Dragon Dance<br>Outrage | ![][130]<br>[Gyarados]<br>Lv. 43<br>Quirky / Intimidate<br>95/125/79/60/100/81<hr>Scary Face<br>Crunch<br>Dragon Dance<br>Outrage | ![][130]<br>[Gyarados]<br>Lv. 43<br>Quirky / Intimidate<br>95/125/79/60/100/81<hr>Scary Face<br>Crunch<br>Dragon Dance<br>Outrage
+![][sailor]<br>Sailor Paul<hr><br>Only Sailor in the surf accessible area<br>Looks Up | ![][186]<br>[Politoed]<br>Lv. 45<br>Sassy / Drizzle<br>90/75/75/90/100/70<hr>Double Slap<br>Perish Song<br>Swagger<br>Bounce | &nbsp; | &nbsp;
+![][swimmer_m]<br>Swimmer Mary<hr><br>Can be fought alone or with Swimmer Evan in a double battle<br>Team on the left side of the battle<br>Her and Evan guard a Water Stone<br>Looks Left | ![][279]<br>[Pelipper]<br>Lv. 44<br>Quirky / Drizzle<br>60/50/110/95/80/65<hr>Roost<br>Air Slash<br>Tailwind<br>Uproar | ![][457]<br>[Lumineon]<br>Lv. 44<br>Hardy / Swift Swim<br>70/40/75/105/90/105<hr>Aqua Tail<br>Silver Wind<br>Aqua Ring<br>Whirlpool | &nbsp;
+Swimmer Evan<hr><br>Can be fought alone or with Swimmer Mary in a double battle<br>Team on the right side of the battle<br>(LOOKS RIGHT AND DOWN) | ![][195]<br>[Quagsire]<br>Lv. 44<br>Quirky / Water Absorb<br>95/95/95/65/65/35<hr>Body Slam<br>Earthquake<br>Counter<br>Rain Dance | ![][319]<br>[Sharpedo]<br>Lv. 44<br>Modest / Speed Boost<br>70/120/40/95/40/95<hr>Night Slash<br>Crunch<br>Poison Fang<br>Skull Bash | &nbsp;
 
 ### Rematches
 
-Trainer                                           | 1                                 | 2                               | 3
----                                               | ---                               | ---                             | ---
-Beauty Cyndy :material-numeric-8-circle-outline:  | ![][301]<br>[Delcatty]<br>Lv. 59<ul><li>Fake Out</li><li>Sing</li><li>Attract</li><li>Double Slap</li></ul> | ![][053]<br>[Persian]<br>Lv. 59<ul><li>Play Rough</li><li>Captivate</li><li>Feint</li><li>Double-Edge</li></ul> | ![][432]<br>[Purugly]<br>Lv. 59<ul><li>Attract</li><li>Body Slam</li><li>Flail</li><li>Last Resort</li></ul> 
-Beauty Cyndy :material-alpha-c-circle-outline:    | ![][301]<br>[Delcatty]<br>Lv. 70<ul><li>Fake Out</li><li>Sing</li><li>Attract</li><li>Double Slap</li></ul> | ![][053]<br>[Persian]<br>Lv. 70<ul><li>Play Rough</li><li>Captivate</li><li>Feint</li><li>Double-Edge</li></ul> | ![][432]<br>[Purugly]<br>Lv. 70<ul><li>Attract</li><li>Body Slam</li><li>Flail</li><li>Last Resort</li></ul> 
-Tuber Jared :material-numeric-5-circle-outline:   | ![][423]<br>[Gastrodon]<br>Lv. 39<ul><li>Earth Power</li><li>Sludge Bomb</li><li>Muddy Water</li><li>Body Slam</li></ul> | &nbsp;                          | &nbsp;
-Tuber Jared :material-alpha-c-circle-outline:     | ![][423]<br>[Gastrodon]<br>Lv. 69<ul><li>Mirror Coat</li><li>Acid Armor</li><li>Amnesia</li><li>Recover</li></ul> | &nbsp;                          | &nbsp;
-Tuber Chelsea :material-numeric-8-circle-outline: | ![][184]<br>[Azumarill]<br>Lv. 59<ul><li>Belly Drum</li><li>Double-Edge</li><li>Superpower</li><li>Hydro Pump</li></ul> | &nbsp;                          | &nbsp;
-Tuber Chelsea :material-alpha-c-circle-outline:   | ![][184]<br>[Azumarill]<br>Lv. 69<ul><li>Belly Drum</li><li>Double-Edge</li><li>Superpower</li><li>Hydro Pump</li></ul> | &nbsp;                          | &nbsp;
+=== "After 8 Badges"
+
+    Trainer | 1
+    --- | ---
+    Tuber Chelsea<hr> | ![][184]<br>[Azumarill]<br>Lv. 59<br>Sassy / Huge Power<br>110/50/80/80/80/50<hr>Belly Drum<br>Double-Edge<br>Superpower<br>Hydro Pump
+
+=== "TUBER CHELSEA"
+
+    Trainer | 1
+    --- | ---
+    Tuber Chelsea<hr><br>(AFTER CYNTHIA) | ![][184]<br>[Azumarill]<br>Lv. 69<br>Calm / Huge Power<br>110/50/80/80/80/50<hr>Belly Drum<br>Double-Edge<br>Superpower<br>Hydro Pump
+
+=== "After 5 Badges"
+
+    Trainer | 1
+    --- | ---
+    Tuber Jared<hr> | ![][423]<br>[Gastrodon]<br>Lv. 39<br>Relaxed / Sticky Hold<br>111/83/68/92/82/39<hr>Earth Power<br>Sludge Bomb<br>Muddy Water<br>Body Slam
+
+=== "TUBER JARED"
+
+    Trainer | 1
+    --- | ---
+    Tuber Jared<hr><br>(AFTER CYNTHIA) | ![][423]<br>[Gastrodon]<br>Lv. 69<br>Relaxed / Sticky Hold<br>111/83/68/92/82/39<hr>Counter<br>Amnesia<br>Acid Armor<br>Recover
+
+=== "After 8 Badges"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    ![][beauty]<br>Beauty Cyndy<hr> | ![][301]<br>[Delcatty]<br>Lv. 59<br>Calm / Cute Charm<br>70/95/65/85/55/95<hr>Fake Out<br>Sing<br>Attract<br>Double Slap | ![][053]<br>[Persian]<br>Lv. 59<br>Hasty / Technician<br>65/80/60/80/65/115<hr>Play Rough<br>Captivate<br>Feint<br>Double-Edge | ![][432]<br>[Purugly]<br>Lv. 59<br>Mild / Thick Fat<br>90/95/70/65/60/115<hr>Attract<br>Body Slam<br>Flail<br>Last Resort
+
+=== "BEAUTY CYNDY"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    ![][beauty]<br>Beauty Cyndy<hr><br>(AFTER CYNTHIA) | ![][301]<br>[Delcatty]<br>Lv. 70<br>Lonely / Cute Charm<br>70/95/65/85/55/95<hr>Fake Out<br>Sing<br>Attract<br>Double Slap | ![][053]<br>[Persian]<br>Lv. 70<br>Hasty / Technician<br>65/80/60/80/65/115<hr>Play Rough<br>Captivate<br>Feint<br>Double-Edge | ![][432]<br>[Purugly]<br>Lv. 70<br>Mild / Thick Fat<br>90/95/70/65/60/115<hr>Attract<br>Body Slam<br>Flail<br>Last Resort
 
 ## Wild Pokémon
 
@@ -63,6 +85,10 @@ TM92 | Trick Room | Gift from NPC
 Pokémon | Level | Type | Notes
 --- | --- | --- | ---
 ![][245]<br>[Suicune] | 60 | Legendary | Speak to Rowan after the Distortion World events.
+
+--8<-- "includes/abilities.md"
+--8<-- "includes/held_items.md"
+--8<-- "includes/natures.md"
 
 [017]: ../img/pokemon/017.png
 [053]: ../img/pokemon/053.png
@@ -143,3 +169,7 @@ Pokémon | Level | Type | Notes
 [suite-key]: ../img/items/suite-key.png
 [245]: ../img/pokemon/245.png
 [Suicune]: ../../pokemons/245/
+[beauty]: ../img/trainer/beauty.png
+[fisherman]: ../img/trainer/fisherman.png
+[sailor]: ../img/trainer/sailor.png
+[swimmer_m]: ../img/trainer/swimmer_m.png

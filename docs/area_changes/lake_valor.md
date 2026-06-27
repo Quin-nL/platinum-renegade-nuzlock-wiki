@@ -2,11 +2,10 @@
 
 ## Trainers
 
-Trainer                           | 1                                | 2                                 | 3                                | 4                              | 5
----                               | ---                              | ---                               | ---                              | ---                            | ---
-Galactic Grunt                    | ![][432]<br>[Purugly]<br>Lv. 50<ul><li>Wake-Up Slap</li><li>Play Rough</li><li>Attract</li><li>Body Slam</li></ul> | &nbsp;                            | &nbsp;                           | &nbsp;                         | &nbsp;
-Galactic Grunt                    | ![][229]<br>[Houndoom]<br>Lv. 50<ul><li>Flamethrower</li><li>Dark Pulse</li><li>Embargo</li><li>Nasty Plot</li></ul> | &nbsp;                            | &nbsp;                           | &nbsp;                         | &nbsp;
-Galactic Grunt                    | ![][435]<br>[Skuntank]<br>Lv. 50<ul><li>Memento</li><li>Crunch</li><li>Sludge Bomb</li><li>Play Rough</li></ul> | &nbsp;                            | &nbsp;                           | &nbsp;                         | &nbsp;
+Trainer | 1 | 2 | 3 | 4 | 5
+--- | --- | --- | --- | --- | ---
+![][galactic_grunt_m]<br>Galactic Grunt<hr><br>(LOOKS RIGHT AND DOWN) | ![][432]<br>[Purugly]<br>Lv. 50<br>Docile / Thick Fat<br>90/95/70/65/60/115<hr>Wake-Up Slap<br>Play Rough<br>Attract<br>Body Slam | &nbsp; | &nbsp; | &nbsp; | &nbsp;
+Commander Saturn<hr><br>Standing in the middle of the cave | ![][065]<br>[Alakazam]<br>Lv. 52<br>Wise Glasses<br>Impish / Magic Guard<br>55/50/45/135/95/120<hr>Psychic<br>Calm Mind<br>Recover<br>Focus Blast | ![][224]<br>[Octillery]<br>Lv. 52<br>Expert Belt<br>Brave / Suction Cups<br>75/105/75/105/75/45<hr>Hydro Pump<br>Seed Bomb<br>Flamethrower<br>Flash Cannon | ![][437]<br>[Bronzong]<br>Lv. 52<br>Bright Powder<br>Mild / Levitate<br>67/89/116/79/116/33<hr>Iron Head<br>Zen Headbutt<br>Shadow Ball<br>Explosion | ![][112]<br>[Rhydon]<br>Lv. 52<br>Muscle Band<br>Rash / Rock Head<br>105/130/120/45/45/40<hr>Stone Edge<br>Hammer Arm<br>Earthquake<br>Megahorn | ![][454]<br>[Toxicroak]<br>Lv. 53<br>Life Orb<br>Hasty / Dry Skin<br>83/106/65/86/65/85<hr>Gunk Shot<br>Cross Chop<br>Fake Out<br>Sucker Punch
 
 ### Commander Saturn
 
@@ -92,3 +91,4 @@ Pokémon | Level | Type | Notes
 [wise-glasses]: ../img/items/wise-glasses.png
 [482]: ../img/pokemon/482.png
 [Azelf]: ../../pokemons/482/
+[galactic_grunt_m]: ../img/trainer/galactic_grunt_m.png

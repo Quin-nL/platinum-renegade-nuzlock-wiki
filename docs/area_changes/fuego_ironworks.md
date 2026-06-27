@@ -2,11 +2,11 @@
 
 ## Trainers
 
-Trainer       | 1                                 | 2                                 | 3
----           | ---                               | ---                               | ---
-Worker Dillan | ![][066]<br>[Machop]<br>Lv. 42<ul><li>Counter</li><li>Bulk Up</li><li>Cross Chop</li><li>Scary Face</li></ul> | ![][067]<br>[Machoke]<br>Lv. 43<ul><li>Payback</li><li>Counter</li><li>Bulk Up</li><li>Cross Chop</li></ul> | ![][068]<br>[Machamp]<br>Lv. 44<ul><li>Payback</li><li>Counter</li><li>Bulk Up</li><li>Cross Chop</li></ul> 
-Worker Holden | ![][081]<br>[Magnemite]<br>Lv. 42<ul><li>Flash Cannon</li><li>Screech</li><li>Thunderbolt</li><li>Lock-On</li></ul> | ![][081]<br>[Magnemite]<br>Lv. 42<ul><li>Flash Cannon</li><li>Screech</li><li>Thunderbolt</li><li>Lock-On</li></ul> | ![][208]<br>[Steelix]<br>Lv. 45<ul><li>Crunch</li><li>Stone Edge</li><li>Double-Edge</li><li>Sandstorm</li></ul> 
-Worker Conrad | ![][126]<br>[Magmar]<br>Lv. 43<ul><li>Lava Plume</li><li>Sunny Day</li><li>Cross Chop</li><li>Flamethrower</li></ul> | ![][219]<br>[Magcargo]<br>Lv. 43<ul><li>Earth Power</li><li>Flamethrower</li><li>Power Gem</li><li>Body Slam</li></ul> | ![][078]<br>[Rapidash]<br>Lv. 43<ul><li>Flare Blitz</li><li>Fury Attack</li><li>Double-Edge</li><li>Bounce</li></ul> 
+Trainer | 1 | 2 | 3
+--- | --- | --- | ---
+![][worker]<br>Worker Dillan<hr><br>Top Left worker<br>(LOOKS DOWN AND LEFT) | ![][066]<br>[Machop]<br>Lv. 42<br>Rash / Guts<br>70/80/50/35/35/35<hr>Counter<br>Bulk Up<br>Cross Chop<br>Scary Face | ![][067]<br>[Machoke]<br>Lv. 43<br>Bashful / Guts<br>80/100/70/50/60/45<hr>Payback<br>Counter<br>Bulk Up<br>Cross Chop | ![][068]<br>[Machamp]<br>Lv. 44<br>Quiet / Guts<br>90/130/80/65/85/55<hr>Payback<br>Counter<br>Bulk Up<br>Cross Chop
+![][worker]<br>Worker Holden<hr><br>Top Center worker<br>(LOOKS UP AND DOWN) | ![][081]<br>[Magnemite]<br>Lv. 42<br>Careful / Magnet Pull<br>25/35/70/95/55/45<hr>Flash Cannon<br>Screech<br>Thunderbolt<br>Lock-On | ![][081]<br>[Magnemite]<br>Lv. 42<br>Careful / Magnet Pull<br>25/35/70/95/55/45<hr>Flash Cannon<br>Screech<br>Thunderbolt<br>Lock-On | ![][208]<br>[Steelix]<br>Lv. 45<br>Timid / Rock Head<br>75/105/200/45/65/30<hr>Crunch<br>Stone Edge<br>Double-Edge<br>Sandstorm
+![][worker]<br>Worker Conrad<hr><br>Bottom worker<br>Only mandatory trainer here if you try to get to Mr Fuego. Mr Fuego allows you to trade Star Pieces for one of each color of shard.  There are TM35s Flamethrower next to the furnace he's standing close to.<br>Looks Left | ![][126]<br>[Magmar]<br>Lv. 43<br>Lax / Flame Body<br>65/95/57/100/85/93<hr>Lava Plume<br>Sunny Day<br>Cross Chop<br>Flamethrower | ![][219]<br>[Magcargo]<br>Lv. 43<br>Hasty / Solid Rock<br>60/50/150/110/100/30<hr>Earth Power<br>Flamethrower<br>Power Gem<br>Body Slam | ![][078]<br>[Rapidash]<br>Lv. 43<br>Rash / Flame Body<br>65/100/70/80/80/105<hr>Flare Blitz<br>Fury Attack<br>Double-Edge<br>Bounce
 
 ## Wild Pokémon
 
@@ -36,6 +36,10 @@ Item | Name | Obtained
 TM | Name | Obtained
 --- | --- | ---
 TM35 | Flamethrower | Item on ground
+
+--8<-- "includes/abilities.md"
+--8<-- "includes/held_items.md"
+--8<-- "includes/natures.md"
 
 [066]: ../img/pokemon/066.png
 [067]: ../img/pokemon/067.png
@@ -100,3 +104,4 @@ TM35 | Flamethrower | Item on ground
 [super-rod]: ../img/items/super-rod.png
 [fire-stone]: ../img/items/fire-stone.png
 [rock-incense]: ../img/items/rock-incense.png
+[worker]: ../img/trainer/worker.png

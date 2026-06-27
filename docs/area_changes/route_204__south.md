@@ -2,19 +2,31 @@
 
 ## Trainers
 
-Trainer                              | 1                                | 2                               | 3
----                                  | ---                              | ---                             | ---
-Lass Sarah                           | ![][403]<br>[Shinx]<br>Lv. 8<ul><li>Tackle</li><li>Leer</li><li>Howl</li><li>Quick Attack</li></ul> | ![][029]<br>[Nidoran♀]<br>Lv. 8<ul><li>Scratch</li><li>Tail Whip</li><li>Poison Sting</li><li>Fury Swipes</li></ul> | ![][016]<br>[Pidgey]<br>Lv. 8<ul><li>Tackle</li><li>Sand Attack</li><li>Gust</li><li>Quick Attack</li></ul> 
-:repeat: [Lass Samantha](#rematches) | ![][043]<br>[Oddish]<br>Lv. 8<ul><li>Absorb</li><li>Growth</li><li>Acid</li><li>Sweet Scent</li></ul> | ![][406]<br>[Budew]<br>Lv. 8<ul><li>Absorb</li><li>Growth</li><li>Water Sport</li></ul> | ![][069]<br>[Bellsprout]<br>Lv. 8<ul><li>Vine Whip</li><li>Growth</li><li>Acid</li><li>Wrap</li></ul> 
-Youngster Tyler                      | ![][129]<br>[Magikarp]<br>Lv. 11<ul><li>Splash</li><li>Tackle</li><li>Flail</li></ul> | &nbsp;                          | &nbsp;
+Trainer | 1 | 2 | 3
+--- | --- | --- | ---
+![][lass]<br>Lass Sarah<hr><br>(LOOKS UP AND DOWN) | ![][403]<br>[Shinx]<br>Lv. 8<br>Brave / Intimidate<br>45/65/34/40/34/45<hr>Quick Attack<br>Howl<br>Leer<br>Tackle | ![][029]<br>[Nidoran♀]<br>Lv. 8<br>Brave / Poison Point<br>55/47/52/40/40/41<hr>Fury Swipes<br>Poison Sting<br>Tail Whip<br>Scratch | ![][016]<br>[Pidgey]<br>Lv. 8<br>Hardy / Keen Eye<br>40/35/35/50/35/56<hr>Quick Attack<br>Gust<br>Sand Attack<br>Tackle
+![][youngster]<br>Youngster Tyler<hr><br>(LOOKS LEFT AND RIGHT) | ![][129]<br>[Magikarp]<br>Lv. 11<br>Gentle / Swift Swim<br>20/10/55/15/20/80<hr>Flail<br>Tackle<br>Splash | &nbsp; | &nbsp;
+![][lass]<br>Lass Samantha<hr><br>Looks Down | ![][043]<br>[Oddish]<br>Lv. 8<br>Naive / Chlorophyll<br>45/50/55/75/65/30<hr>Sweet Scent<br>Acid<br>Growth<br>Absorb | ![][406]<br>[Budew]<br>Lv. 8<br>Naive / Poison Point<br>40/30/35/50/70/55<hr>Water Sport<br>Growth<br>Absorb | ![][069]<br>[Bellsprout]<br>Lv. 8<br>Adamant / Chlorophyll<br>50/75/35/70/30/40<hr>Wrap<br>Acid<br>Growth<br>Vine Whip
 
 ### Rematches
 
-Trainer                                           | 1                              | 2                                | 3
----                                               | ---                            | ---                              | ---
-Lass Samantha :material-numeric-3-circle-outline: | ![][404]<br>[Luxio]<br>Lv. 26<ul><li>Double Kick</li><li>Thunder Fang</li><li>Ice Fang</li><li>Fire Fang</li></ul> | ![][315]<br>[Roselia]<br>Lv. 26<ul><li>Magical Leaf</li><li>Sludge</li><li>Spikes</li><li>Toxic Spikes</li></ul> | ![][070]<br>[Weepinbell]<br>Lv. 26<ul><li>Razor Leaf</li><li>Sweet Scent</li><li>Gastro Acid</li><li>Leech Life</li></ul> 
-Lass Samantha :material-numeric-5-circle-outline: | ![][404]<br>[Luxio]<br>Lv. 38<ul><li>Fire Fang</li><li>Roar</li><li>Crunch</li><li>Swagger</li></ul> | ![][315]<br>[Roselia]<br>Lv. 38<ul><li>Giga Drain</li><li>Sweet Scent</li><li>Sludge Bomb</li><li>Ingrain</li></ul> | ![][070]<br>[Weepinbell]<br>Lv. 38<ul><li>Leech Life</li><li>Poison Jab</li><li>Seed Bomb</li><li>Knock Off</li></ul> 
-Lass Samantha :material-alpha-c-circle-outline:   | ![][405]<br>[Luxray]<br>Lv. 70<ul><li>Wild Charge</li><li>Scary Face</li><li>Discharge</li><li>Sucker Punch</li></ul> | ![][407]<br>[Roserade]<br>Lv. 70<ul><li>Mega Drain</li><li>Magical Leaf</li><li>Sweet Scent</li><li>Leaf Storm</li></ul> | ![][071]<br>[Victreebel]<br>Lv. 70<ul><li>Razor Leaf</li><li>Leaf Blade</li><li>Power Whip</li><li>Leaf Storm</li></ul> 
+=== "After 3 Badges"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    ![][lass]<br>Lass Samantha<hr> | ![][404]<br>[Luxio]<br>Lv. 26<br>Naive / Intimidate<br>60/85/49/60/49/60<hr>Double Kick<br>Thunder Fang<br>Ice Fang<br>Fire Fang | ![][315]<br>[Roselia]<br>Lv. 26<br>Lonely / Poison Point<br>50/60/45/100/80/65<hr>Magical Leaf<br>Sludge<br>Spikes<br>Toxic Spikes | ![][070]<br>[Weepinbell]<br>Lv. 26<br>Careful / Chlorophyll<br>65/90/50/85/45/55<hr>Razor Leaf<br>Sweet Scent<br>Gastro Acid<br>Leech Life
+
+=== "After 5 Badges"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    ![][lass]<br>Lass Samantha<hr> | ![][404]<br>[Luxio]<br>Lv. 38<br>Lonely / Intimidate<br>60/85/49/60/49/60<hr>Fire Fang<br>Roar<br>Crunch<br>Swagger | ![][315]<br>[Roselia]<br>Lv. 38<br>Adamant / Poison Point<br>50/60/45/100/80/65<hr>Giga Drain<br>Sweet Scent<br>Sludge Bomb<br>Ingrain | ![][070]<br>[Weepinbell]<br>Lv. 38<br>Hardy / Chlorophyll<br>65/90/50/85/45/55<hr>Leech Life<br>Poison Jab<br>Seed Bomb<br>Knock Off
+
+=== "After 8 Badges"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    ![][lass]<br>Lass Samantha<hr> | ![][405]<br>[Luxray]<br>Lv. 70<br>Lonely / Intimidate<br>80/120/79/95/79/70<hr>Wild Charge<br>Scary Face<br>Discharge<br>Sucker Punch | ![][407]<br>[Roserade]<br>Lv. 70<br>Jolly / Technician<br>60/70/65/125/105/90<hr>Mega Drain<br>Magical Leaf<br>Sweet Scent<br>Leaf Storm | ![][071]<br>[Victreebel]<br>Lv. 70<br>Hardy / Chlorophyll<br>80/105/65/100/70/70<hr>Razor Leaf<br>Leaf Blade<br>Power Whip<br>Leaf Storm
 
 ## Wild Pokémon
 
@@ -38,6 +50,10 @@ Area                                       | Pokémon                       | &n
 Item | Name | Obtained
 --- | --- | ---
 ![][sea-incense] | Sea Incense | &nbsp;
+
+--8<-- "includes/abilities.md"
+--8<-- "includes/held_items.md"
+--8<-- "includes/natures.md"
 
 [010]: ../img/pokemon/010.png
 [013]: ../img/pokemon/013.png
@@ -100,3 +116,5 @@ Item | Name | Obtained
 [poke-radar]: ../img/items/poke-radar.png
 [super-rod]: ../img/items/super-rod.png
 [sea-incense]: ../img/items/sea-incense.png
+[lass]: ../img/trainer/lass.png
+[youngster]: ../img/trainer/youngster.png

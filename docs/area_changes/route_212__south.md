@@ -2,37 +2,94 @@
 
 ## Trainers
 
-Trainer                                       | 1                                 | 2                                 | 3
----                                           | ---                               | ---                               | ---
-Parasol Lady Sabrina                          | ![][351]<br>[Castform]<br>Lv. 39<ul><li>Weather Ball</li><li>Hydro Pump</li><li>Fire Blast</li><li>Blizzard</li></ul> | &nbsp;                            | &nbsp;
-:repeat: [Scientist Shaun](#rematches)        | ![][082]<br>[Magneton]<br>Lv. 37<ul><li>Discharge</li><li>Tri Attack</li><li>Flash Cannon</li><li>Screech</li></ul> | ![][101]<br>[Electrode]<br>Lv. 37<ul><li>Self-Destruct</li><li>Discharge</li><li>Light Screen</li><li>Magnet Rise</li></ul> | ![][233]<br>[Porygon2]<br>Lv. 37<ul><li>Discharge</li><li>Lock-On</li><li>Magic Coat</li><li>Thunderbolt</li></ul> 
-:repeat: [Pokémon Ranger Taylor](#rematches)  | ![][455]<br>[Carnivine]<br>Lv. 39<ul><li>Spit Up</li><li>Swallow</li><li>Crunch</li><li>Energy Ball</li></ul> | ![][352]<br>[Kecleon]<br>Lv. 39<ul><li>Fake Out</li><li>Camouflage</li><li>Shadow Claw</li><li>Screech</li></ul> | ![][125]<br>[Electabuzz]<br>Lv. 39<ul><li>Brick Break</li><li>Discharge</li><li>Screech</li><li>Cross Chop</li></ul> 
-:repeat: [Parasol Lady Alexa](#rematches)     | ![][117]<br>[Seadra]<br>Lv. 38<ul><li>Octazooka</li><li>Agility</li><li>Muddy Water</li><li>Dragon Pulse</li></ul> | ![][055]<br>[Golduck]<br>Lv. 38<ul><li>Aqua Tail</li><li>Power Gem</li><li>Psychic</li><li>Psych Up</li></ul> | &nbsp;
-Fisherman Juan                                | ![][090]<br>[Shellder]<br>Lv. 36<ul><li>Whirlpool</li><li>Iron Defense</li><li>Ice Beam</li><li>Aqua Ring</li></ul> | ![][366]<br>[Clamperl]<br>Lv. 36<ul><li>Whirlpool</li><li>Iron Defense</li><li>Water Pulse</li><li>Muddy Water</li></ul> | ![][091]<br>[Cloyster]<br>Lv. 39<ul><li>Spike Cannon</li><li>Spikes</li><li>Twineedle</li><li>Rock Blast</li></ul> 
-Fisherman Josh                                | ![][223]<br>[Remoraid]<br>Lv. 36<ul><li>Signal Beam</li><li>Ice Beam</li><li>Seed Bomb</li><li>Flamethrower</li></ul> | ![][118]<br>[Goldeen]<br>Lv. 36<ul><li>Agility</li><li>Body Slam</li><li>Aqua Tail</li><li>Knock Off</li></ul> | ![][224]<br>[Octillery]<br>Lv. 39<ul><li>Octazooka</li><li>Signal Beam</li><li>Ice Beam</li><li>Seed Bomb</li></ul> 
-Fisherman Travis                              | ![][339]<br>[Barboach]<br>Lv. 38<ul><li>Earth Power</li><li>Muddy Water</li><li>Future Sight</li><li>Earthquake</li></ul> | ![][211]<br>[Qwilfish]<br>Lv. 38<ul><li>Poison Jab</li><li>Revenge</li><li>Aqua Tail</li><li>Pin Missile</li></ul> | &nbsp;
-Collector Dean                                | ![][196]<br>[Espeon]<br>Lv. 37<ul><li>Power Gem</li><li>Morning Sun</li><li>Psychic</li><li>Aura Sphere</li></ul> | ![][197]<br>[Umbreon]<br>Lv. 37<ul><li>Play Rough</li><li>Moonlight</li><li>Sucker Punch</li><li>Gunk Shot</li></ul> | ![][471]<br>[Glaceon]<br>Lv. 37<ul><li>Extrasensory</li><li>Barrier</li><li>Ice Beam</li><li>Earth Power</li></ul> 
-:crescent_moon: Policeman Danny               | ![][058]<br>[Growlithe]<br>Lv. 37<ul><li>Flamethrower</li><li>Crunch</li><li>Outrage</li><li>Heat Wave</li></ul> | ![][067]<br>[Machoke]<br>Lv. 37<ul><li>Vital Throw</li><li>Wake-Up Slap</li><li>Payback</li><li>Counter</li></ul> | ![][164]<br>[Noctowl]<br>Lv. 37<ul><li>Psycho Shift</li><li>Air Slash</li><li>Reflect</li><li>Psychic</li></ul> 
-Scientist Stefano                             | ![][110]<br>[Weezing]<br>Lv. 38<ul><li>Lava Plume</li><li>Destiny Bond</li><li>Double Hit</li><li>Dark Pulse</li></ul> | ![][089]<br>[Muk]<br>Lv. 38<ul><li>Poison Jab</li><li>Payback</li><li>Screech</li><li>Sludge Bomb</li></ul> | &nbsp;
-:repeat: [Pokémon Ranger Allison](#rematches) | ![][350]<br>[Milotic]<br>Lv. 39<ul><li>Hypnosis</li><li>Attract</li><li>Moonblast</li><li>Dragon Pulse</li></ul> | ![][470]<br>[Leafeon]<br>Lv. 39<ul><li>Night Slash</li><li>Swords Dance</li><li>Leaf Blade</li><li>Psycho Cut</li></ul> | ![][124]<br>[Jynx]<br>Lv. 39<ul><li>Wake-Up Slap</li><li>Ice Beam</li><li>Wring Out</li><li>Body Slam</li></ul> 
-Pokémon Ranger Jeffrey                        | ![][126]<br>[Magmar]<br>Lv. 39<ul><li>Brick Break</li><li>Lava Plume</li><li>Sunny Day</li><li>Cross Chop</li></ul> | ![][310]<br>[Manectric]<br>Lv. 39<ul><li>Fire Fang</li><li>Roar</li><li>Discharge</li><li>Crunch</li></ul> | ![][034]<br>[Nidoking]<br>Lv. 39<ul><li>Double Kick</li><li>Poison Sting</li><li>Thrash</li><li>Earth Power</li></ul> 
+Trainer | 1 | 2 | 3
+--- | --- | --- | ---
+Pkmn Ranger Taylor<hr><br>Raining<br>First trainer on the route when coming from Pastoria City | ![][455]<br>[Carnivine]<br>Lv. 39<br>Lonely / Levitate<br>74/110/72/100/72/36<hr>Spit Up<br>Swallow<br>Crunch<br>Energy Ball | ![][352]<br>[Kecleon]<br>Lv. 39<br>Bashful / Color Change<br>60/100/70/60/120/40<hr>Fake Out<br>Camouflage<br>Shadow Claw<br>Screech | ![][125]<br>[Electabuzz]<br>Lv. 39<br>Calm / Static<br>65/83/57/95/85/105<hr>Brick Break<br>Discharge<br>Screech<br>Cross Chop
+Parasol Lady Alexa<hr><br>Raining<br>Parasol Lady closest to the Move Tutor house<br>(SPINS REGULARLY) | ![][117]<br>[Seadra]<br>Lv. 38<br>Rash / Poison Point<br>55/65/95/95/45/85<hr>Octazooka<br>Agility<br>Muddy Water<br>Dragon Pulse | ![][055]<br>[Golduck]<br>Lv. 38<br>Hasty / Damp<br>80/82/78/95/80/85<hr>Aqua Tail<br>Power Gem<br>Psychic<br>Psych Up | &nbsp;
+![][scientist]<br>Scientist Shaun<hr><br>Raining<br>First trainer you can fight when taking the top path of the route (accessible through riding the bike on the tight plank)<br>can use : 1 X SPECIAL<br>(LOOKS UP AND RIGHT) | ![][082]<br>[Magneton]<br>Lv. 37<br>Quirky / Magnet Pull<br>50/60/95/120/70/70<hr>Discharge<br>Tri Attack<br>Flash Cannon<br>Screech | ![][101]<br>[Electrode]<br>Lv. 37<br>Quirky / Soundproof<br>60/50/70/80/80/150<hr>Self-Destruct<br>Discharge<br>Light Screen<br>Magnet Rise | ![][233]<br>[Porygon2]<br>Lv. 37<br>Bashful / Trace<br>85/80/90/105/95/60<hr>Discharge<br>Lock-On<br>Magic Coat<br>Thunderbolt
+Parasol Lady Sabrina<hr><br>Raining<br>Due to permanent rain on this route #351 Castform is Water type here<br>Second trainer you can fight when taking the top path of the route (accessible through riding the bike on the tight plank)<br>(LOOKS DOWN AND LEFT) | ![][351]<br>[Castform]<br>Lv. 39<br>Hardy / Forecast<br>60/60/60/105/70/95<hr>Weather Ball<br>Hydro Pump<br>Fire Blast<br>Blizzard | &nbsp; | &nbsp;
+![][fisherman]<br>Fisherman Juan<hr><br>Raining<br>First fisherman on the bridge. He's looking up.<br>Only fights you if you talk to him | ![][090]<br>[Shellder]<br>Lv. 36<br>Naive / Skill Link<br>30/65/100/45/25/40<hr>Whirlpool<br>Iron Defense<br>Ice Beam<br>Aqua Ring | ![][366]<br>[Clamperl]<br>Lv. 36<br>Calm / Shell Armor<br>35/64/85/74/55/32<hr>Whirlpool<br>Iron Defense<br>Water Pulse<br>Muddy Water | ![][091]<br>[Cloyster]<br>Lv. 39<br>Quiet / Skill Link<br>50/95/180/85/45/70<hr>Spike Cannon<br>Spikes<br>Twineedle<br>Rock Blast
+![][fisherman]<br>Fisherman Josh<hr><br>Raining<br>Fisherman on the bridge going up. He's looking to the left.<br>Only fights you if you talk to him<br>You can take this path and then two tight planks (one going down and one left) to get to TM84s Poison Jab | ![][223]<br>[Remoraid]<br>Lv. 36<br>Naive / Hustle<br>35/65/35/65/35/65<hr>Signal Beam<br>Ice Beam<br>Seed Bomb<br>Flamethrower | ![][118]<br>[Goldeen]<br>Lv. 36<br>Careful / Swift Swim<br>45/77/60/25/50/73<hr>Agility<br>Body Slam<br>Aqua Tail<br>Knock Off | ![][224]<br>[Octillery]<br>Lv. 39<br>Quiet / Suction Cups<br>75/105/75/105/75/45<hr>Octazooka<br>Signal Beam<br>Ice Beam<br>Seed Bomb
+![][fisherman]<br>Fisherman Travis<hr><br>Raining<br>Fisherman on the bridge going left. He's looking down.<br>Only fights you if you talk to him | ![][339]<br>[Barboach]<br>Lv. 38<br>Lonely / Oblivious<br>50/48/43/46/41/60<hr>Earth Power<br>Muddy Water<br>Future Sight<br>Earthquake | ![][211]<br>[Qwilfish]<br>Lv. 38<br>Naughty / Poison Point<br>65/95/95/45/55/95<hr>Poison Jab<br>Revenge<br>Aqua Tail<br>Pin Missile | &nbsp;
+![][collector]<br>Collector Dean<hr><br>Raining<br>Collector past Fisherman Travis. When you go past him and atop the stairs you can access TM62s Bug Buzz across the tight plank going right<br>(LOOKS UP AND RIGHT) | ![][197]<br>[Umbreon]<br>Lv. 37<br>Timid / Synchronize<br>95/65/110/60/130/65<hr>Play Rough<br>Moonlight<br>Sucker Punch<br>Gunk Shot | ![][196]<br>[Espeon]<br>Lv. 37<br>Calm / Synchronize<br>65/65/60/130/95/110<hr>Power Gem<br>Morning Sun<br>Psychic<br>Aura Sphere | ![][471]<br>[Glaceon]<br>Lv. 37<br>Calm / Snow Cloak<br>65/60/110/130/65/95<hr>Extrasensory<br>Barrier<br>Ice Beam<br>Earth Power
+Policeman Danny<hr><br>Raining<br>Can be fought at night<br>Policeman on the ground past Collector Dean<br>(LOOKS LEFT AND DOWN) | ![][058]<br>[Growlithe]<br>Lv. 37<br>Mild / Intimidate<br>55/70/45/70/50/60<hr>Flamethrower<br>Crunch<br>Outrage<br>Heat Wave | ![][067]<br>[Machoke]<br>Lv. 37<br>Quirky / Guts<br>80/100/70/50/60/45<hr>Vital Throw<br>Wake-Up Slap<br>Payback<br>Counter | ![][164]<br>[Noctowl]<br>Lv. 37<br>Modest / Tinted Lens<br>100/40/40/106/116/60<hr>Psycho Shift<br>Air Slash<br>Reflect<br>Psychic
+![][scientist]<br>Scientist Stefano<hr><br>Raining<br>Scientist on the bottom path of the route<br>Defends a Full Heal<br>can use : 1 X DEFEND<br>(LOOKS LEFT AND DOWN) | ![][089]<br>[Muk]<br>Lv. 38<br>Docile / Stench<br>105/105/75/65/100/50<hr>Poison Jab<br>Payback<br>Screech<br>Sludge Bomb | ![][110]<br>[Weezing]<br>Lv. 38<br>Sassy / Levitate<br>65/90/120/85/70/60<hr>Lava Plume<br>Destiny Bond<br>Double Hit<br>Dark Pulse | &nbsp;
+Pkmn Ranger Jeffrey<hr><br>Raining<br>Can be fought alone or with PKMN Ranger Allison but has to be fought<br>His team is on the left side of the double battle | ![][126]<br>[Magmar]<br>Lv. 39<br>Rash / Flame Body<br>65/95/57/100/85/93<hr>Brick Break<br>Lava Plume<br>Sunny Day<br>Cross Chop | ![][310]<br>[Manectric]<br>Lv. 39<br>Jolly / Static<br>70/75/60/105/60/105<hr>Fire Fang<br>Ice Fang<br>Discharge<br>Crunch | ![][034]<br>[Nidoking]<br>Lv. 39<br>Hasty / Poison Point<br>81/102/77/85/75/85<hr>Double Kick<br>Poison Sting<br>Thrash<br>Earth Power
+Pkmn Ranger Allison<hr><br>Raining<br>Can be fought alone or with PKMN Ranger Jeffrey but has to be fought<br>Her team is on the right side of the double battle | ![][350]<br>[Milotic]<br>Lv. 39<br>Serious / Marvel Scale<br>95/60/79/100/125/81<hr>Hypnosis<br>Attract<br>Moonblast<br>Dragon Pulse | ![][470]<br>[Leafeon]<br>Lv. 39<br>Careful / Leaf Guard<br>65/110/130/60/65/95<hr>Night Slash<br>Swords Dance<br>Leaf Blade<br>Psycho Cut | ![][124]<br>[Jynx]<br>Lv. 39<br>Lax / Dry Skin<br>75/40/35/125/95/95<hr>Wake-Up Slap<br>Ice Beam<br>Wring Out<br>Body Slam
 
 ### Rematches
 
-Trainer                                                    | 1                                 | 2                                 | 3
----                                                        | ---                               | ---                               | ---
-Scientist Shaun :material-numeric-5-circle-outline:        | ![][082]<br>[Magneton]<br>Lv. 38<ul><li>Discharge</li><li>Tri Attack</li><li>Flash Cannon</li><li>Screech</li></ul> | ![][101]<br>[Electrode]<br>Lv. 38<ul><li>Self-Destruct</li><li>Discharge</li><li>Light Screen</li><li>Magnet Rise</li></ul> | ![][233]<br>[Porygon2]<br>Lv. 38<ul><li>Discharge</li><li>Lock-On</li><li>Magic Coat</li><li>Thunderbolt</li></ul> 
-Scientist Shaun :material-numeric-8-circle-outline:        | ![][082]<br>[Magneton]<br>Lv. 59<ul><li>Lock-On</li><li>Magnet Rise</li><li>Gyro Ball</li><li>Zap Cannon</li></ul> | ![][101]<br>[Electrode]<br>Lv. 59<ul><li>Explosion</li><li>Gyro Ball</li><li>Mirror Coat</li><li>Thunder</li></ul> | ![][233]<br>[Porygon2]<br>Lv. 59<ul><li>Trick Room</li><li>Psychic</li><li>Zap Cannon</li><li>Hyper Beam</li></ul> 
-Scientist Shaun :material-alpha-c-circle-outline:          | ![][462]<br>[Magnezone]<br>Lv. 70<ul><li>Lock-On</li><li>Magnet Rise</li><li>Gyro Ball</li><li>Zap Cannon</li></ul> | ![][101]<br>[Electrode]<br>Lv. 70<ul><li>Explosion</li><li>Gyro Ball</li><li>Mirror Coat</li><li>Thunder</li></ul> | ![][474]<br>[Porygon-Z]<br>Lv. 70<ul><li>Trick Room</li><li>Psychic</li><li>Zap Cannon</li><li>Hyper Beam</li></ul> 
-Pokémon Ranger Taylor :material-numeric-5-circle-outline:  | ![][455]<br>[Carnivine]<br>Lv. 40<ul><li>Spit Up</li><li>Swallow</li><li>Crunch</li><li>Energy Ball</li></ul> | ![][352]<br>[Kecleon]<br>Lv. 40<ul><li>Camouflage</li><li>Shadow Claw</li><li>Screech</li><li>Sucker Punch</li></ul> | ![][125]<br>[Electabuzz]<br>Lv. 40<ul><li>Brick Break</li><li>Discharge</li><li>Screech</li><li>Cross Chop</li></ul> 
-Pokémon Ranger Taylor :material-numeric-8-circle-outline:  | ![][455]<br>[Carnivine]<br>Lv. 60<ul><li>Crunch</li><li>Energy Ball</li><li>Wring Out</li><li>Power Whip</li></ul> | ![][352]<br>[Kecleon]<br>Lv. 60<ul><li>Sucker Punch</li><li>Recover</li><li>Substitute</li><li>Double-Edge</li></ul> | ![][466]<br>[Electivire]<br>Lv. 60<ul><li>Wild Charge</li><li>Close Combat</li><li>Thunder</li><li>Giga Impact</li></ul> 
-Pokémon Ranger Taylor :material-alpha-c-circle-outline:    | ![][455]<br>[Carnivine]<br>Lv. 71<ul><li>Crunch</li><li>Energy Ball</li><li>Wring Out</li><li>Power Whip</li></ul> | ![][352]<br>[Kecleon]<br>Lv. 71<ul><li>Sucker Punch</li><li>Recover</li><li>Substitute</li><li>Double-Edge</li></ul> | ![][466]<br>[Electivire]<br>Lv. 71<ul><li>Wild Charge</li><li>Close Combat</li><li>Thunder</li><li>Giga Impact</li></ul> 
-Pokémon Ranger Allison :material-numeric-5-circle-outline: | ![][350]<br>[Milotic]<br>Lv. 40<ul><li>Hypnosis</li><li>Attract</li><li>Moonblast</li><li>Dragon Pulse</li></ul> | ![][470]<br>[Leafeon]<br>Lv. 40<ul><li>Swords Dance</li><li>Leaf Blade</li><li>Psycho Cut</li><li>Last Resort</li></ul> | ![][124]<br>[Jynx]<br>Lv. 40<ul><li>Wake-Up Slap</li><li>Ice Beam</li><li>Wring Out</li><li>Body Slam</li></ul> 
-Pokémon Ranger Allison :material-numeric-8-circle-outline: | ![][350]<br>[Milotic]<br>Lv. 60<ul><li>Rain Dance</li><li>Safeguard</li><li>Mirror Coat</li><li>Hydro Pump</li></ul> | ![][470]<br>[Leafeon]<br>Lv. 60<ul><li>Leaf Blade</li><li>Psycho Cut</li><li>Last Resort</li><li>Power Whip</li></ul> | ![][124]<br>[Jynx]<br>Lv. 60<ul><li>Perish Song</li><li>Blizzard</li><li>Nasty Plot</li><li>Psycho Boost</li></ul> 
-Pokémon Ranger Allison :material-alpha-c-circle-outline:   | ![][350]<br>[Milotic]<br>Lv. 71<ul><li>Rain Dance</li><li>Safeguard</li><li>Mirror Coat</li><li>Hydro Pump</li></ul> | ![][470]<br>[Leafeon]<br>Lv. 71<ul><li>Leaf Blade</li><li>Psycho Cut</li><li>Last Resort</li><li>Power Whip</li></ul> | ![][124]<br>[Jynx]<br>Lv. 71<ul><li>Perish Song</li><li>Blizzard</li><li>Nasty Plot</li><li>Psycho Boost</li></ul> 
-Parasol Lady Alexa :material-numeric-5-circle-outline:     | ![][117]<br>[Seadra]<br>Lv. 39<ul><li>Agility</li><li>Muddy Water</li><li>Dragon Pulse</li><li>Signal Beam</li></ul> | ![][055]<br>[Golduck]<br>Lv. 39<ul><li>Aqua Tail</li><li>Power Gem</li><li>Psychic</li><li>Psych Up</li></ul> | &nbsp;
-Parasol Lady Alexa :material-numeric-8-circle-outline:     | ![][230]<br>[Kingdra]<br>Lv. 60<ul><li>Dragon Dance</li><li>Outrage</li><li>Hydro Pump</li><li>Hyper Beam</li></ul> | ![][055]<br>[Golduck]<br>Lv. 60<ul><li>Future Sight</li><li>Amnesia</li><li>Cross Chop</li><li>Hydro Pump</li></ul> | &nbsp;
-Parasol Lady Alexa :material-alpha-c-circle-outline:       | ![][230]<br>[Kingdra]<br>Lv. 71<ul><li>Dragon Dance</li><li>Outrage</li><li>Hydro Pump</li><li>Hyper Beam</li></ul> | ![][055]<br>[Golduck]<br>Lv. 71<ul><li>Future Sight</li><li>Amnesia</li><li>Cross Chop</li><li>Hydro Pump</li></ul> | &nbsp;
+=== "After 5 Badges"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    Pkmn Ranger Taylor<hr> | ![][455]<br>[Carnivine]<br>Lv. 40<br>Sassy / Levitate<br>74/110/72/100/72/36<hr>Spit Up<br>Swallow<br>Crunch<br>Energy Ball | ![][352]<br>[Kecleon]<br>Lv. 40<br>Naive / Color Change<br>60/100/70/60/120/40<hr>Camouflage<br>Shadow Claw<br>Screech<br>Sucker Punch | ![][125]<br>[Electabuzz]<br>Lv. 40<br>Mild / Static<br>65/83/57/95/85/105<hr>Brick Break<br>Discharge<br>Screech<br>Cross Chop
+
+=== "After 8 Badges"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    Pkmn Ranger Taylor<hr> | ![][455]<br>[Carnivine]<br>Lv. 60<br>Naughty / Levitate<br>74/110/72/100/72/36<hr>Crunch<br>Energy Ball<br>Wring Out<br>Power Whip | ![][352]<br>[Kecleon]<br>Lv. 60<br>Bold / Color Change<br>60/100/70/60/120/40<hr>Sucker Punch<br>Recover<br>Substitute<br>Double-Edge | ![][125]<br>[Electabuzz]<br>Lv. 60<br>Jolly / Static<br>65/83/57/95/85/105<hr>Wild Charge<br>Close Combat<br>Thunder<br>Giga Impact
+
+=== "PKMN RANGER TAYLOR"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    Pkmn Ranger Taylor<hr><br>(AFTER CYNTHIA) | ![][455]<br>[Carnivine]<br>Lv. 71<br>Hardy / Levitate<br>74/110/72/100/72/36<hr>Crunch<br>Energy Ball<br>Wring Out<br>Power Whip | ![][352]<br>[Kecleon]<br>Lv. 71<br>Quiet / Color Change<br>60/100/70/60/120/40<hr>Sucker Punch<br>Recover<br>Substitute<br>Double-Edge | ![][466]<br>[Electivire]<br>Lv. 71<br>Rash / Motor Drive<br>75/123/67/95/85/95<hr>Wild Charge<br>Close Combat<br>Thunder<br>Giga Impact
+
+=== "After 5 Badges"
+
+    Trainer | 1 | 2
+    --- | --- | ---
+    Parasol Lady Alexa<hr> | ![][117]<br>[Seadra]<br>Lv. 39<br>Impish / Poison Point<br>55/65/95/95/45/85<hr>Agility<br>Muddy Water<br>Dragon Pulse<br>Signal Beam | ![][055]<br>[Golduck]<br>Lv. 39<br>Hardy / Damp<br>80/82/78/95/80/85<hr>Aqua Tail<br>Power Gem<br>Psychic<br>Psych Up
+
+=== "After 8 Badges"
+
+    Trainer | 1 | 2
+    --- | --- | ---
+    Parasol Lady Alexa<hr> | ![][230]<br>[Kingdra]<br>Lv. 60<br>Modest / Swift Swim<br>75/95/95/95/95/85<hr>Dragon Dance<br>Outrage<br>Hydro Pump<br>Hyper Beam | ![][055]<br>[Golduck]<br>Lv. 60<br>Gentle / Damp<br>80/82/78/95/80/85<hr>Future Sight<br>Amnesia<br>Cross Chop<br>Hydro Pump
+
+=== "PARASOL LADY ALEXA"
+
+    Trainer | 1 | 2
+    --- | --- | ---
+    Parasol Lady Alexa<hr><br>(AFTER CYNTHIA) | ![][230]<br>[Kingdra]<br>Lv. 71<br>Bold / Swift Swim<br>75/95/95/95/95/85<hr>Dragon Dance<br>Outrage<br>Hydro Pump<br>Hyper Beam | ![][055]<br>[Golduck]<br>Lv. 71<br>Hasty / Damp<br>80/82/78/95/80/85<hr>Future Sight<br>Amnesia<br>Cross Chop<br>Hydro Pump
+
+=== "After 5 Badges"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    ![][scientist]<br>Scientist Shaun<hr><br>Can use : 1 X ATTACK | ![][082]<br>[Magneton]<br>Lv. 38<br>Relaxed / Magnet Pull<br>50/60/95/120/70/70<hr>Discharge<br>Tri Attack<br>Flash Cannon<br>Screech | ![][101]<br>[Electrode]<br>Lv. 38<br>Mild / Soundproof<br>60/50/70/80/80/150<hr>Self-Destruct<br>Discharge<br>Light Screen<br>Magnet Rise | ![][233]<br>[Porygon2]<br>Lv. 38<br>Lonely / Trace<br>85/80/90/105/95/60<hr>Discharge<br>Lock-On<br>Magic Coat<br>Thunderbolt
+
+=== "After 8 Badges"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    ![][scientist]<br>Scientist Shaun<hr><br>Can use : 1 X ATTACK | ![][082]<br>[Magneton]<br>Lv. 59<br>Rash / Magnet Pull<br>50/60/95/120/70/70<hr>Lock-On<br>Magnet Rise<br>Gyro Ball<br>Zap Cannon | ![][101]<br>[Electrode]<br>Lv. 59<br>Rash / Soundproof<br>60/50/70/80/80/150<hr>Explosion<br>Gyro Ball<br>Mirror Coat<br>Thunder | ![][233]<br>[Porygon2]<br>Lv. 59<br>Jolly / Trace<br>85/80/90/105/95/60<hr>Trick Room<br>Psychic<br>Zap Cannon<br>Hyper Beam
+
+=== "SCIENTIST SHAUN"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    ![][scientist]<br>Scientist Shaun<hr><br>(AFTER CYNTHIA)<br>Can use : 1 X ATTACK | ![][462]<br>[Magnezone]<br>Lv. 70<br>Rash / Magnet Pull<br>70/70/115/130/90/60<hr>Lock-On<br>Magnet Rise<br>Gyro Ball<br>Zap Cannon | ![][101]<br>[Electrode]<br>Lv. 70<br>Impish / Soundproof<br>60/50/70/80/80/150<hr>Explosion<br>Gyro Ball<br>Mirror Coat<br>Thunder | ![][474]<br>[Porygon-Z]<br>Lv. 70<br>Bold / Adaptability<br>85/80/70/135/75/90<hr>Trick Room<br>Psychic<br>Zap Cannon<br>Hyper Beam
+
+=== "After 5 Badges"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    Pkmn Ranger Allison<hr> | ![][350]<br>[Milotic]<br>Lv. 40<br>Bold / Marvel Scale<br>95/60/79/100/125/81<hr>Hypnosis<br>Attract<br>Moonblast<br>Dragon Pulse | ![][470]<br>[Leafeon]<br>Lv. 40<br>Mild / Leaf Guard<br>65/110/130/60/65/95<hr>Swords Dance<br>Leaf Blade<br>Psycho Cut<br>Last Resort | ![][124]<br>[Jynx]<br>Lv. 40<br>Brave / Dry Skin<br>75/40/35/125/95/95<hr>Wake-Up Slap<br>Ice Beam<br>Wring Out<br>Body Slam
+
+=== "After 8 Badges"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    Pkmn Ranger Allison<hr> | ![][350]<br>[Milotic]<br>Lv. 60<br>Lax / Marvel Scale<br>95/60/79/100/125/81<hr>Rain Dance<br>Safeguard<br>Mirror Coat<br>Hydro Pump | ![][470]<br>[Leafeon]<br>Lv. 60<br>Naive / Leaf Guard<br>65/110/130/60/65/95<hr>Leaf Blade<br>Psycho Cut<br>Last Resort<br>Power Whip | ![][124]<br>[Jynx]<br>Lv. 60<br>Hardy / Dry Skin<br>75/40/35/125/95/95<hr>Perish Song<br>Blizzard<br>Nasty Plot<br>Psycho Boost
+
+=== "PKMN RANGER ALLISON"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    Pkmn Ranger Allison<hr><br>(AFTER CYNTHIA) | ![][350]<br>[Milotic]<br>Lv. 71<br>Adamant / Marvel Scale<br>95/60/79/100/125/81<hr>Rain Dance<br>Safeguard<br>Mirror Coat<br>Hydro Pump | ![][470]<br>[Leafeon]<br>Lv. 71<br>Impish / Leaf Guard<br>65/110/130/60/65/95<hr>Leaf Blade<br>Psycho Cut<br>Last Resort<br>Power Whip | ![][124]<br>[Jynx]<br>Lv. 71<br>Hardy / Dry Skin<br>75/40/35/125/95/95<hr>Perish Song<br>Blizzard<br>Nasty Plot<br>Psycho Boost
 
 ## Wild Pokémon
 
@@ -66,6 +123,10 @@ TM | Name | Obtained
 TM06 | Toxic | Item on ground
 TM62 | Bug Buzz | Item on ground
 TM84 | Poison Jab | Item on ground
+
+--8<-- "includes/abilities.md"
+--8<-- "includes/held_items.md"
+--8<-- "includes/natures.md"
 
 [023]: ../img/pokemon/023.png
 [024]: ../img/pokemon/024.png
@@ -184,3 +245,6 @@ TM84 | Poison Jab | Item on ground
 [super-rod]: ../img/items/super-rod.png
 [dawn-stone]: ../img/items/dawn-stone.png
 [rose-incense]: ../img/items/rose-incense.png
+[scientist]: ../img/trainer/scientist.png
+[collector]: ../img/trainer/collector.png
+[fisherman]: ../img/trainer/fisherman.png

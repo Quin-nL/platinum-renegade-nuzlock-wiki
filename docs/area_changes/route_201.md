@@ -2,20 +2,23 @@
 
 ## Trainers
 
-=== "Grass"
-    Trainer                          | 1
-    ---                              | ---
-    PKMN Trainer Barry<br>![][barry] | ![][390]<br>[Chimchar]<br>Lv. 5
+=== "Chose Piplup"
 
-=== "Fire"
-    Trainer                          | 1
-    ---                              | ---
-    PKMN Trainer Barry<br>![][barry] | ![][393]<br>[Piplup]<br>Lv. 5
+    Trainer | 1
+    --- | ---
+    ![][barry]<br>Rival Barry<hr> | ![][387]<br>[Turtwig]<br>Lv. 5<br>Serious / Overgrow<br>55/68/64/45/55/31<hr>Tackle<br>Withdraw
 
-=== "Water"
-    Trainer                          | 1
-    ---                              | ---
-    PKMN Trainer Barry<br>![][barry] | ![][387]<br>[Turtwig]<br>Lv. 5
+=== "Chose Turtwig"
+
+    Trainer | 1
+    --- | ---
+    ![][barry]<br>Rival Barry<hr> | ![][390]<br>[Chimchar]<br>Lv. 5<br>Timid / Iron Fist<br>44/58/44/58/44/61<hr>Scratch<br>Leer
+
+=== "Chose Chimchar"
+
+    Trainer | 1
+    --- | ---
+    ![][barry]<br>Rival Barry<hr> | ![][393]<br>[Piplup]<br>Lv. 5<br>Naive / Torrent<br>53/51/53/61/56/40<hr>Pound<br>Growl
 
 ## Wild Pokémon
 
@@ -32,6 +35,10 @@ Area                                       | Pokémon                     | &nbs
 Pokémon | Level | Type | Notes
 --- | --- | --- | ---
 ![][151]<br>[Mew] | 40 | Legendary | A Shroomish is in the top-left of Route 203 near some trees.
+
+--8<-- "includes/abilities.md"
+--8<-- "includes/held_items.md"
+--8<-- "includes/natures.md"
 
 [016]: ../img/pokemon/016.png
 [029]: ../img/pokemon/029.png

@@ -2,35 +2,50 @@
 
 ## Trainers
 
-Trainer                                  | 1                                 | 2                                 | 3
----                                      | ---                               | ---                               | ---
-Camper Anthony                           | ![][240]<br>[Magby]<br>Lv. 24<ul><li>Fire Spin</li><li>Will-O-Wisp</li><li>Fire Punch</li><li>Confuse Ray</li></ul> | ![][328]<br>[Trapinch]<br>Lv. 24<ul><li>Bulldoze</li><li>Rock Slide</li><li>Dig</li><li>Crunch</li></ul> | ![][004]<br>[Charmander]<br>Lv. 24<ul><li>Bite</li><li>Dragon Rage</li><li>Fire Fang</li><li>Slash</li></ul> 
-Picnicker Lauren                         | ![][238]<br>[Smoochum]<br>Lv. 24<ul><li>Icy Wind</li><li>Mean Look</li><li>Extrasensory</li><li>Fake Tears</li></ul> | ![][209]<br>[Snubbull]<br>Lv. 24<ul><li>Bite</li><li>Headbutt</li><li>Roar</li><li>Rage</li></ul> | ![][252]<br>[Treecko]<br>Lv. 24<ul><li>Pursuit</li><li>Agility</li><li>Giga Drain</li><li>Slam</li></ul> 
-Youngster Austin                         | ![][271]<br>[Lombre]<br>Lv. 25<ul><li>Fake Out</li><li>Fury Swipes</li><li>Bubble Beam</li><li>Giga Drain</li></ul> | ![][207]<br>[Gligar]<br>Lv. 25<ul><li>Bulldoze</li><li>Feint Attack</li><li>Slash</li><li>U-turn</li></ul> | &nbsp;
-Hiker Justin                             | ![][075]<br>[Graveler]<br>Lv. 25<ul><li>Rollout</li><li>Magnitude</li><li>Self-Destruct</li><li>Gyro Ball</li></ul> | ![][028]<br>[Sandslash]<br>Lv. 25<ul><li>Fury Swipes</li><li>Crush Claw</li><li>Slash</li><li>Night Slash</li></ul> | &nbsp;
-Hiker Kevin                              | ![][206]<br>[Dunsparce]<br>Lv. 25<ul><li>Ancient Power</li><li>Body Slam</li><li>Drill Run</li><li>Roost</li></ul> | ![][206]<br>[Dunsparce]<br>Lv. 25<ul><li>Ancient Power</li><li>Body Slam</li><li>Drill Run</li><li>Roost</li></ul> | &nbsp;
-:repeat: [Battle Girl Helen](#rematches) | ![][236]<br>[Tyrogue]<br>Lv. 26<ul><li>Fake Out</li><li>Low Kick</li><li>Mach Punch</li><li>Rapid Spin</li></ul> | ![][307]<br>[Meditite]<br>Lv. 26<ul><li>Force Palm</li><li>Hidden Power</li><li>Psycho Cut</li><li>Calm Mind</li></ul> | ![][297]<br>[Hariyama]<br>Lv. 26<ul><li>Vital Throw</li><li>Smelling Salts</li><li>Belly Drum</li><li>Wake-Up Slap</li></ul> 
+=== "Chose Turtwig"
 
-=== "Lucas"
-    === "Grass"
-        Trainer                            | 1                                 | 2                                | 3                                  | 4
-        ---                                | ---                               | ---                              | ---                                | ---
-    === "Fire"
-        Trainer                            | 1                                 | 2                                | 3                                  | 4
-        ---                                | ---                               | ---                              | ---                                | ---
-    === "Water"
-        Trainer                            | 1                                 | 2                                | 3                                  | 4
-        ---                                | ---                               | ---                              | ---                                | ---
-=== "Dawn"
-    === "Grass"
-        Trainer                          | 1                                 | 2                                | 3                               | 4
-        ---                              | ---                               | ---                              | ---                             | ---
-    === "Fire"
-        Trainer                          | 1                                 | 2                                | 3                               | 4
-        ---                              | ---                               | ---                              | ---                             | ---
-    === "Water"
-        Trainer                          | 1                                 | 2                                | 3                               | 4
-        ---                              | ---                               | ---                              | ---                             | ---
+    Trainer | 1 | 2 | 3 | 4
+    --- | --- | --- | --- | ---
+    ![][dawn]<br>Pkmn Trainer Dawn<hr><br>(IF YOU PLAY AS A BOY)<br>can use : 1 HYPER POTION | ![][221]<br>[Piloswine]<br>Lv. 29<br>Focus Sash<br>Impish / Thick Fat<br>100/100/80/60/60/50<hr>Avalanche<br>Take Down<br>Rock Slide<br>Ice Shard | ![][036]<br>[Clefable]<br>Lv. 29<br>Leftovers<br>Jolly / Cute Charm<br>95/70/73/95/90/60<hr>Moonblast<br>Moonlight<br>Encore<br>Thunder Wave | ![][428]<br>[Lopunny]<br>Lv. 29<br>Muscle Band<br>Modest / Scrappy<br>65/106/84/44/96/105<hr>Dizzy Punch<br>Fake Out<br>Jump Kick<br>Quick Attack | ![][394]<br>[Prinplup]<br>Lv. 30<br>Sitrus Berry<br>Adamant / Torrent<br>64/66/68/81/76/50<hr>Bubble Beam<br>Icy Wind<br>Brick Break<br>Shadow Claw
+
+=== "Chose Chimchar"
+
+    Trainer | 1 | 2 | 3 | 4
+    --- | --- | --- | --- | ---
+    ![][dawn]<br>Pkmn Trainer Dawn<hr><br>(IF YOU PLAY AS A BOY)<br>can use : 1 HYPER POTION | ![][221]<br>[Piloswine]<br>Lv. 29<br>Focus Sash<br>Brave / Thick Fat<br>100/100/80/60/60/50<hr>Avalanche<br>Take Down<br>Rock Slide<br>Ice Shard | ![][036]<br>[Clefable]<br>Lv. 29<br>Leftovers<br>Careful / Cute Charm<br>95/70/73/95/90/60<hr>Moonblast<br>Moonlight<br>Encore<br>Thunder Wave | ![][428]<br>[Lopunny]<br>Lv. 29<br>Muscle Band<br>Adamant / Scrappy<br>65/106/84/44/96/105<hr>Dizzy Punch<br>Fake Out<br>Jump Kick<br>Quick Attack | ![][388]<br>[Grotle]<br>Lv. 30<br>Sitrus Berry<br>Quirky / Overgrow<br>75/89/85/55/65/36<hr>Seed Bomb<br>Body Slam<br>Leech Seed<br>Bulldoze
+
+=== "Chose Piplup"
+
+    Trainer | 1 | 2 | 3 | 4
+    --- | --- | --- | --- | ---
+    ![][dawn]<br>Pkmn Trainer Dawn<hr><br>(IF YOU PLAY AS A BOY)<br>can use : 1 HYPER POTION | ![][221]<br>[Piloswine]<br>Lv. 29<br>Focus Sash<br>Bold / Thick Fat<br>100/100/80/60/60/50<hr>Avalanche<br>Take Down<br>Rock Slide<br>Ice Shard | ![][036]<br>[Clefable]<br>Lv. 29<br>Leftovers<br>Lonely / Cute Charm<br>95/70/73/95/90/60<hr>Moonblast<br>Moonlight<br>Encore<br>Thunder Wave | ![][428]<br>[Lopunny]<br>Lv. 29<br>Muscle Band<br>Docile / Scrappy<br>65/106/84/44/96/105<hr>Dizzy Punch<br>Fake Out<br>Jump Kick<br>Quick Attack | ![][391]<br>[Monferno]<br>Lv. 30<br>Sitrus Berry<br>Lonely / Iron Fist<br>64/78/52/78/52/81<hr>Flamethrower<br>Fake Out<br>Mach Punch<br>Grass Knot
+
+=== "Chose Turtwig"
+
+    Trainer | 1 | 2 | 3 | 4
+    --- | --- | --- | --- | ---
+    ![][lucas]<br>Pkmn Trainer Lucas<hr><br>(IF YOU PLAY AS A GIRL)<br>can use : 1 HYPER POTION | ![][221]<br>[Piloswine]<br>Lv. 29<br>Focus Sash<br>Hasty / Thick Fat<br>100/100/80/60/60/50<hr>Avalanche<br>Take Down<br>Rock Slide<br>Ice Shard | ![][210]<br>[Granbull]<br>Lv. 29<br>Muscle Band<br>Hasty / Intimidate<br>90/120/75/60/60/45<hr>Play Rough<br>Fire Fang<br>Thunder Fang<br>Ice Fang | ![][463]<br>[Lickilicky]<br>Lv. 29<br>Leftovers<br>Hasty / Own Tempo<br>110/85/95/80/95/50<hr>Slam<br>Magnitude<br>Knock Off<br>Protect | ![][394]<br>[Prinplup]<br>Lv. 30<br>Sitrus Berry<br>Hasty / Torrent<br>64/66/68/81/76/50<hr>Bubble Beam<br>Icy Wind<br>Brick Break<br>Shadow Claw
+
+=== "Chose Chimchar"
+
+    Trainer | 1 | 2 | 3 | 4
+    --- | --- | --- | --- | ---
+    ![][lucas]<br>Pkmn Trainer Lucas<hr><br>(IF YOU PLAY AS A GIRL)<br>can use : 1 HYPER POTION | ![][221]<br>[Piloswine]<br>Lv. 29<br>Focus Sash<br>Hasty / Thick Fat<br>100/100/80/60/60/50<hr>Avalanche<br>Take Down<br>Rock Slide<br>Ice Shard | ![][210]<br>[Granbull]<br>Lv. 29<br>Muscle Band<br>Hasty / Intimidate<br>90/120/75/60/60/45<hr>Play Rough<br>Fire Fang<br>Thunder Fang<br>Ice Fang | ![][463]<br>[Lickilicky]<br>Lv. 29<br>Leftovers<br>Hasty / Own Tempo<br>110/85/95/80/95/50<hr>Slam<br>Magnitude<br>Knock Off<br>Protect | ![][388]<br>[Grotle]<br>Lv. 30<br>Sitrus Berry<br>Hasty / Overgrow<br>75/89/85/55/65/36<hr>Seed Bomb<br>Body Slam<br>Leech Seed<br>Bulldoze
+
+=== "Chose Piplup"
+
+    Trainer | 1 | 2 | 3 | 4
+    --- | --- | --- | --- | ---
+    ![][lucas]<br>Pkmn Trainer Lucas<hr><br>(IF YOU PLAY AS A GIRL)<br>can use : 1 HYPER POTION | ![][221]<br>[Piloswine]<br>Lv. 29<br>Focus Sash<br>Hasty / Thick Fat<br>100/100/80/60/60/50<hr>Avalanche<br>Take Down<br>Rock Slide<br>Ice Shard | ![][210]<br>[Granbull]<br>Lv. 29<br>Muscle Band<br>Hasty / Intimidate<br>90/120/75/60/60/45<hr>Play Rough<br>Fire Fang<br>Thunder Fang<br>Ice Fang | ![][463]<br>[Lickilicky]<br>Lv. 29<br>Leftovers<br>Hasty / Own Tempo<br>110/85/95/80/95/50<hr>Slam<br>Magnitude<br>Knock Off<br>Protect | ![][391]<br>[Monferno]<br>Lv. 30<br>Sitrus Berry<br>Hasty / Iron Fist<br>64/78/52/78/52/81<hr>Flamethrower<br>Fake Out<br>Mach Punch<br>Grass Knot
+
+Trainer | 1 | 2 | 3
+--- | --- | --- | ---
+![][picnicker]<br>Picnicker Lauren<hr><br>Can be fought alone or with Camper Anthony in a double battle<br>If fought in a double battle this team will be on the left<br>If you take the bottom path of the route you can dodge this fight and not face any mandatory trainers | ![][238]<br>[Smoochum]<br>Lv. 24<br>Relaxed / Hydration<br>45/30/15/95/65/65<hr>Icy Wind<br>Mean Look<br>Extrasensory<br>Fake Tears | ![][209]<br>[Snubbull]<br>Lv. 24<br>Gentle / Intimidate<br>60/80/50/40/40/30<hr>Bite<br>Headbutt<br>Roar<br>Rage | ![][252]<br>[Treecko]<br>Lv. 24<br>Serious / Unburden<br>40/45/35/65/55/70<hr>Pursuit<br>Agility<br>Giga Drain<br>Slam
+![][camper]<br>Camper Anthony<hr><br>Can be fought alone or with Picnicker Lauren in a double battle<br>If fought in a double battle this team will be on the right<br>If you take the bottom path of the route you can dodge this fight and not face any mandatory trainers | ![][240]<br>[Magby]<br>Lv. 24<br>Mild / Flame Body<br>45/75/37/70/55/83<hr>Fire Spin<br>Will-O-Wisp<br>Fire Punch<br>Confuse Ray | ![][328]<br>[Trapinch]<br>Lv. 24<br>Calm / Hyper Cutter<br>55/100/45/45/45/10<hr>Bulldoze<br>Rock Slide<br>Dig<br>Crunch | ![][004]<br>[Charmander]<br>Lv. 24<br>Modest / Solar Power<br>39/52/43/60/50/65<hr>Bite<br>Dragon Rage<br>Fire Fang<br>Slash
+![][hiker]<br>Hiker Justin<hr><br>He's the one standing on the route and not on top of the small hill<br>(LOOKING UP AND RIGHT) | ![][075]<br>[Graveler]<br>Lv. 25<br>Jolly / Rock Head<br>55/95/115/45/45/35<hr>Rollout<br>Magnitude<br>Self-Destruct<br>Gyro Ball | ![][028]<br>[Sandslash]<br>Lv. 25<br>Jolly / Sand Veil<br>75/100/110/45/55/65<hr>Fury Swipes<br>Crush Claw<br>Night Slash<br>Slash | &nbsp;
+![][youngster]<br>Youngster Austin<hr><br>(WALKING IN CIRCLES) | ![][271]<br>[Lombre]<br>Lv. 25<br>Lonely / Swift Swim<br>60/50/50/60/70/50<hr>Fake Out<br>Fury Swipes<br>Bubble Beam<br>Giga Drain | ![][207]<br>[Gligar]<br>Lv. 25<br>Quiet / Immunity<br>65/75/105/35/65/85<hr>Bulldoze<br>Feint Attack<br>Slash<br>U-turn | &nbsp;
+Battle Girl Helen<hr><br>Hidden Power on #307 Meditite is a Fighting type move<br>(WALKING BACK AND FORTH) | ![][236]<br>[Tyrogue]<br>Lv. 26<br>Lonely / Steadfast<br>35/35/35/35/35/35<hr>Fake Out<br>Low Kick<br>Mach Punch<br>Rapid Spin | ![][307]<br>[Meditite]<br>Lv. 26<br>Sassy / Pure Power<br>30/40/55/60/55/60<hr>Force Palm<br>Hidden Power<br>Psycho Cut<br>Calm Mind | ![][297]<br>[Hariyama]<br>Lv. 26<br>Rash / Thick Fat<br>144/120/60/40/60/50<hr>Vital Throw<br>Smelling Salts<br>Belly Drum<br>Wake-Up Slap
+![][hiker]<br>Hiker Kevin<hr><br>He's the one standing on top of the small hill and not on the route<br>He guards a Metal Coat<br>(LOOKING UP AND RIGHT) | ![][206]<br>[Dunsparce]<br>Lv. 25<br>Brave / Serene Grace<br>105/95/95/55/55/45<hr>Ancient Power<br>Body Slam<br>Drill Run<br>Roost | ![][206]<br>[Dunsparce]<br>Lv. 25<br>Brave / Serene Grace<br>105/95/95/55/55/45<hr>Ancient Power<br>Body Slam<br>Drill Run<br>Roost | &nbsp;
 
 ### PKMN Trainer Dawn
 
@@ -62,11 +77,23 @@ Hiker Kevin                              | ![][206]<br>[Dunsparce]<br>Lv. 25<ul>
 
 ### Rematches
 
-Trainer                                               | 1                                 | 2                                | 3
----                                                   | ---                               | ---                              | ---
-Battle Girl Helen :material-numeric-3-circle-outline: | ![][236]<br>[Tyrogue]<br>Lv. 28<ul><li>Fake Out</li><li>Low Kick</li><li>Mach Punch</li><li>Rapid Spin</li></ul> | ![][307]<br>[Meditite]<br>Lv. 28<ul><li>Hidden Power</li><li>Psycho Cut</li><li>Calm Mind</li><li>Mind Reader</li></ul> | ![][297]<br>[Hariyama]<br>Lv. 28<ul><li>Vital Throw</li><li>Smelling Salts</li><li>Belly Drum</li><li>Wake-Up Slap</li></ul> 
-Battle Girl Helen :material-numeric-7-circle-outline: | ![][237]<br>[Hitmontop]<br>Lv. 54<ul><li>Drill Run</li><li>Bullet Punch</li><li>Endeavor</li><li>High Jump Kick</li></ul> | ![][308]<br>[Medicham]<br>Lv. 54<ul><li>Zen Headbutt</li><li>Acupressure</li><li>Power Trick</li><li>Reversal</li></ul> | ![][297]<br>[Hariyama]<br>Lv. 54<ul><li>Endure</li><li>Close Combat</li><li>Reversal</li><li>Counter</li></ul> 
-Battle Girl Helen :material-alpha-c-circle-outline:   | ![][237]<br>[Hitmontop]<br>Lv. 72<ul><li>Drill Run</li><li>Bullet Punch</li><li>Endeavor</li><li>High Jump Kick</li></ul> | ![][308]<br>[Medicham]<br>Lv. 72<ul><li>Acupressure</li><li>Power Trick</li><li>Reversal</li><li>Recover</li></ul> | ![][297]<br>[Hariyama]<br>Lv. 72<ul><li>Endure</li><li>Close Combat</li><li>Reversal</li><li>Counter</li></ul> 
+=== "After 5 Badges"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    Battle Girl Helen<hr> | ![][236]<br>[Tyrogue]<br>Lv. 28<br>Impish / Steadfast<br>35/35/35/35/35/35<hr>Fake Out<br>Low Kick<br>Mach Punch<br>Rapid Spin | ![][307]<br>[Meditite]<br>Lv. 28<br>Calm / Pure Power<br>30/40/55/60/55/60<hr>Hidden Power<br>Psycho Cut<br>Calm Mind<br>Mind Reader | ![][297]<br>[Hariyama]<br>Lv. 28<br>Calm / Thick Fat<br>144/120/60/40/60/50<hr>Vital Throw<br>Smelling Salts<br>Belly Drum<br>Wake-Up Slap
+
+=== "After 7 Badges"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    Battle Girl Helen<hr> | ![][237]<br>[Hitmontop]<br>Lv. 54<br>Bashful / Technician<br>50/95/95/35/110/70<hr>Drill Run<br>Bullet Punch<br>Endeavor<br>High Jump Kick | ![][308]<br>[Medicham]<br>Lv. 54<br>Naive / Pure Power<br>60/60/80/80/80/90<hr>Zen Headbutt<br>Acupressure<br>Power Trick<br>Reversal | ![][297]<br>[Hariyama]<br>Lv. 54<br>Quirky / Thick Fat<br>144/120/60/40/60/50<hr>Endure<br>Close Combat<br>Reversal<br>Counter
+
+=== "BATTLE GIRL HELEN"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    Battle Girl Helen<hr><br>(AFTER CYNTHIA) | ![][237]<br>[Hitmontop]<br>Lv. 72<br>Modest / Technician<br>50/95/95/35/110/70<hr>Drill Run<br>Bullet Punch<br>Endeavor<br>High Jump Kick | ![][308]<br>[Medicham]<br>Lv. 72<br>Brave / Pure Power<br>60/60/80/80/80/90<hr>Acupressure<br>Power Trick<br>Reversal<br>Recover | ![][297]<br>[Hariyama]<br>Lv. 72<br>Gentle / Thick Fat<br>144/120/60/40/60/50<hr>Endure<br>Close Combat<br>Reversal<br>Counter
 
 ### Master Trainer
 
@@ -187,3 +214,6 @@ Item | Name | Obtained
 [metal-coat]: ../img/items/metal-coat.png
 [vs-seeker]: ../img/items/vs-seeker.png
 [stone-plate]: ../img/items/stone-plate.png
+[camper]: ../img/trainer/camper.png
+[picnicker]: ../img/trainer/picnicker.png
+[youngster]: ../img/trainer/youngster.png

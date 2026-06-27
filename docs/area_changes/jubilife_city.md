@@ -1,23 +1,13 @@
-# Jubilife City
-
-Trainer        | 1                                | 2                                 | 3
----            | ---                              | ---                               | ---
-Reporter Kayla | ![][001]<br>[Bulbasaur]<br>Lv. 5<ul><li>Tackle</li><li>Growl</li><li>Vine Whip</li></ul> | ![][004]<br>[Charmander]<br>Lv. 5<ul><li>Scratch</li><li>Growl</li><li>Ember</li></ul> | ![][007]<br>[Squirtle]<br>Lv. 5<ul><li>Tackle</li><li>Tail Whip</li><li>Water Gun</li></ul> 
-
-!!! note
-    After the first gym
-
-Trainer            | 1                                | 2                                | 3
----                | ---                              | ---                              | ---
-Galactic Grunt     | ![][434]<br>[Stunky]<br>Lv. 13<ul><li>Poison Gas</li><li>Screech</li><li>Bite</li><li>Fury Swipes</li></ul> | ![][266]<br>[Silcoon]<br>Lv. 13<ul><li>Harden</li><li>Harden</li><li>Iron Defense</li></ul> | &nbsp;
-Galactic Grunt     | ![][431]<br>[Glameow]<br>Lv. 13<ul><li>Quick Attack</li><li>Fury Swipes</li><li>Hypnosis</li><li>Covet</li></ul> | ![][268]<br>[Cascoon]<br>Lv. 13<ul><li>Harden</li><li>Harden</li><li>Iron Defense</li></ul> | &nbsp;
-PKMN Trainer Dawn  | ![][035]<br>[Clefairy]<br>Lv. 13<ul><li>Sing</li><li>Disarming Voice</li><li>Defense Curl</li><li>Follow Me</li></ul> | ![][393]<br>[Piplup]<br>Lv. 14<ul><li>Bubble</li><li>Water Sport</li><li>Peck</li><li>Bide</li></ul> | &nbsp;
-PKMN Trainer Dawn  | ![][035]<br>[Clefairy]<br>Lv. 13<ul><li>Sing</li><li>Disarming Voice</li><li>Defense Curl</li><li>Follow Me</li></ul> | ![][387]<br>[Turtwig]<br>Lv. 14<ul><li>Absorb</li><li>Razor Leaf</li><li>Curse</li><li>Bullet Seed</li></ul> | &nbsp;
-PKMN Trainer Dawn  | ![][035]<br>[Clefairy]<br>Lv. 13<ul><li>Sing</li><li>Disarming Voice</li><li>Defense Curl</li><li>Follow Me</li></ul> | ![][390]<br>[Chimchar]<br>Lv. 14<ul><li>Ember</li><li>Taunt</li><li>Fury Swipes</li><li>Flame Wheel</li></ul> | &nbsp;
-PKMN Trainer Lucas | ![][209]<br>[Snubbull]<br>Lv. 13<ul><li>Tail Whip</li><li>Charm</li><li>Lick</li><li>Bite</li></ul> | ![][393]<br>[Piplup]<br>Lv. 14<ul><li>Bubble</li><li>Water Sport</li><li>Peck</li><li>Bide</li></ul> | &nbsp;
-PKMN Trainer Lucas | ![][209]<br>[Snubbull]<br>Lv. 13<ul><li>Tail Whip</li><li>Charm</li><li>Lick</li><li>Bite</li></ul> | ![][387]<br>[Turtwig]<br>Lv. 14<ul><li>Absorb</li><li>Razor Leaf</li><li>Curse</li><li>Bullet Seed</li></ul> | &nbsp;
-PKMN Trainer Lucas | ![][209]<br>[Snubbull]<br>Lv. 13<ul><li>Tail Whip</li><li>Charm</li><li>Lick</li><li>Bite</li></ul> | ![][390]<br>[Chimchar]<br>Lv. 14<ul><li>Ember</li><li>Taunt</li><li>Fury Swipes</li><li>Flame Wheel</li></ul> | &nbsp;
-
+Trainer | 1 | 2
+--- | --- | ---
+![][galactic_grunt_m]<br>Galactic Grunt<hr><br>They fight you and the Professor's assistant when walking to Route 204<br>Can be fought alone or with Galactic Grunt [414] in a double battle<br>If fought in a double battle his team will be on the left | ![][431]<br>[Glameow]<br>Lv. 13<br>Brave / Limber<br>50/65/45/45/40/90<hr>Fake Out<br>Hypnosis<br>Covet<br>Quick Attack | ![][268]<br>[Cascoon]<br>Lv. 13<br>Relaxed / Shed Skin<br>50/35/55/25/25/15<hr>Bug Bite<br>Iron Defense<br>Poison Sting<br>String Shot
+![][galactic_grunt_m]<br>Galactic Grunt<hr><br>Can be fought alone or with Galactic Grunt [415] in a double battle<br>If fought in a double battle his team will be on the right<br>During that fight Dawn or Lucas helps you. Teams listed below. | ![][434]<br>[Stunky]<br>Lv. 13<br>Quirky / Aftermath<br>65/65/50/40/40/75<hr>Poison Gas<br>Screech<br>Bite<br>Smog | ![][266]<br>[Silcoon]<br>Lv. 13<br>Naughty / Shed Skin<br>50/35/55/25/25/15<hr>Bug Bite<br>Iron Defense<br>Tackle<br>String Shot
+![][dawn]<br>Pkmn Trainer Dawn<hr><br>Your partner in the double battle<br>If you're playing as a Boy<br>If you chose Chimchar<br>can use : 1 POTION | ![][035]<br>[Clefairy]<br>Lv. 13<br>Adamant / Cute Charm<br>70/45/48/60/65/35<hr>Disarming Voice<br>Magical Leaf<br>Sing<br>Sweet Kiss | ![][387]<br>[Turtwig]<br>Lv. 14<br>Sassy / Overgrow<br>55/68/64/45/55/31<hr>Bullet Seed<br>Curse<br>Withdraw<br>Tackle
+![][dawn]<br>Pkmn Trainer Dawn<hr><br>Your partner in the double battle<br>If you're playing as a Boy<br>If you chose Piplup<br>can use : 1 POTION | ![][035]<br>[Clefairy]<br>Lv. 13<br>Adamant / Cute Charm<br>70/45/48/60/65/35<hr>Disarming Voice<br>Magical Leaf<br>Sing<br>Sweet Kiss | ![][390]<br>[Chimchar]<br>Lv. 14<br>Sassy / Iron Fist<br>44/58/44/58/44/61<hr>Flame Wheel<br>Taunt<br>Leer<br>Scratch
+![][dawn]<br>Pkmn Trainer Dawn<hr><br>Your partner in the double battle<br>If you're playing as a Boy<br>If you chose Turtwig<br>can use : 1 POTION | ![][035]<br>[Clefairy]<br>Lv. 13<br>Adamant / Cute Charm<br>70/45/48/60/65/35<hr>Disarming Voice<br>Magical Leaf<br>Sing<br>Sweet Kiss | ![][393]<br>[Piplup]<br>Lv. 14<br>Modest / Torrent<br>53/51/53/61/56/40<hr>Bubble Beam<br>Water Sport<br>Growl<br>Peck
+![][lucas]<br>Pkmn Trainer Lucas<hr><br>Your partner in the double battle<br>If you're playing as a Girl<br>If you chose Chimchar<br>can use : 1 POTION | ![][209]<br>[Snubbull]<br>Lv. 13<br>Mild / Intimidate<br>60/80/50/40/40/30<hr>Bite<br>Fire Fang<br>Thunder Fang<br>Ice Fang | ![][387]<br>[Turtwig]<br>Lv. 14<br>Bashful / Overgrow<br>55/68/64/45/55/31<hr>Bullet Seed<br>Curse<br>Withdraw<br>Tackle
+![][lucas]<br>Pkmn Trainer Lucas<hr><br>Your partner in the double battle<br>If you're playing as a Girl<br>If you chose Piplup<br>can use : 1 POTION | ![][209]<br>[Snubbull]<br>Lv. 13<br>Mild / Intimidate<br>60/80/50/40/40/30<hr>Bite<br>Fire Fang<br>Thunder Fang<br>Ice Fang | ![][390]<br>[Chimchar]<br>Lv. 14<br>Adamant / Iron Fist<br>44/58/44/58/44/61<hr>Flame Wheel<br>Taunt<br>Leer<br>Scratch
+![][lucas]<br>Pkmn Trainer Lucas<hr><br>Your partner in the double battle<br>If you're playing as a Girl<br>If you chose Turtwig<br>can use : 1 POTION | ![][209]<br>[Snubbull]<br>Lv. 13<br>Mild / Intimidate<br>60/80/50/40/40/30<hr>Bite<br>Fire Fang<br>Thunder Fang<br>Ice Fang | ![][393]<br>[Piplup]<br>Lv. 14<br>Rash / Torrent<br>53/51/53/61/56/40<hr>Bubble Beam<br>Water Sport<br>Growl<br>Peck
 
 ## Items
 
@@ -43,6 +33,10 @@ Pokémon | Level | Type | Notes
 ![][001]<br>[Bulbasaur] | 5 | Gift | Talk to the Interviewer at the top left.
 ![][004]<br>[Charmander] | 5 | Gift | Talk to the Interviewer at the top left.
 ![][007]<br>[Squirtle] | 5 | Gift | Talk to the Interviewer at the top left.
+
+--8<-- "includes/abilities.md"
+--8<-- "includes/held_items.md"
+--8<-- "includes/natures.md"
 
 [001]: ../img/pokemon/001.png
 [004]: ../img/pokemon/004.png
@@ -73,3 +67,7 @@ Pokémon | Level | Type | Notes
 [vs-recorder]: ../img/items/vs-recorder.png
 [fashion-case]: ../img/items/fashion-case.png
 [town-map]: ../img/items/town-map.png
+[dawn]: ../img/trainer/dawn.png
+[lucas]: ../img/trainer/lucas.png
+[reporter]: ../img/trainer/reporter.png
+[galactic_grunt_m]: ../img/trainer/galactic_grunt_m.png

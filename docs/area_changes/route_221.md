@@ -2,22 +2,22 @@
 
 ## Trainers
 
-Trainer                                    | 1                                 | 2                                 | 3                                 | 4
----                                        | ---                               | ---                               | ---                               | ---
-Swimmer Dillon                             | ![][260]<br>[Swampert]<br>Lv. 46<ul><li>Take Down</li><li>Hammer Arm</li><li>Earthquake</li><li>Muddy Water</li></ul> | &nbsp;                            | &nbsp;                            | &nbsp;
-Swimmer Vanessa                            | ![][350]<br>[Milotic]<br>Lv. 46<ul><li>Moonblast</li><li>Dragon Pulse</li><li>Rain Dance</li><li>Safeguard</li></ul> | &nbsp;                            | &nbsp;                            | &nbsp;
-Fisherman Cory                             | ![][340]<br>[Whiscash]<br>Lv. 44<ul><li>Thrash</li><li>Muddy Water</li><li>Future Sight</li><li>Earthquake</li></ul> | ![][099]<br>[Kingler]<br>Lv. 44<ul><li>Knock Off</li><li>Guillotine</li><li>Slam</li><li>X-Scissor</li></ul> | ![][130]<br>[Gyarados]<br>Lv. 44<ul><li>Crunch</li><li>Dragon Dance</li><li>Outrage</li><li>Hydro Pump</li></ul> | &nbsp;
-:repeat: [Ace Trainer Shannon](#rematches) | ![][045]<br>[Vileplume]<br>Lv. 45<ul><li>Stun Spore</li><li>Aromatherapy</li><li>Earth Power</li><li>Teeter Dance</li></ul> | ![][282]<br>[Gardevoir]<br>Lv. 45<ul><li>Psychic</li><li>Calm Mind</li><li>Moonblast</li><li>Imprison</li></ul> | ![][428]<br>[Lopunny]<br>Lv. 45<ul><li>Charm</li><li>Flail</li><li>Bounce</li><li>Focus Punch</li></ul> | ![][031]<br>[Nidoqueen]<br>Lv. 45<ul><li>Poison Sting</li><li>Body Slam</li><li>Earth Power</li><li>Earthquake</li></ul> 
-:repeat: [Ace Trainer Jake](#rematches)    | ![][344]<br>[Claydol]<br>Lv. 45<ul><li>Hyper Beam</li><li>Power Trick</li><li>Psychic</li><li>Sandstorm</li></ul> | ![][006]<br>[Charizard]<br>Lv. 45<ul><li>Scary Face</li><li>Air Slash</li><li>Crunch</li><li>Dragon Pulse</li></ul> | ![][103]<br>[Exeggutor]<br>Lv. 45<ul><li>Confusion</li><li>Stomp</li><li>Synthesis</li><li>Wood Hammer</li></ul> | ![][359]<br>[Absol]<br>Lv. 45<ul><li>Me First</li><li>Sucker Punch</li><li>Razor Wind</li><li>Megahorn</li></ul> 
-:repeat: [Collector Ivan](#rematches)      | ![][468]<br>[Togekiss]<br>Lv. 45<ul><li>Sky Attack</li><li>Extreme Speed</li><li>Aura Sphere</li><li>Air Slash</li></ul> | ![][242]<br>[Blissey]<br>Lv. 45<ul><li>Take Down</li><li>Light Screen</li><li>Healing Wish</li><li>Counter</li></ul> | &nbsp;                            | &nbsp;
+Trainer | 1 | 2 | 3 | 4
+--- | --- | --- | --- | ---
+Swimmer Dillon<hr><br>Male Swimmer at the end of the two top most paths of Route 220<br>There is a Protein on a bit of land next to him<br>(LOOKS UP AND DOWN) | ![][260]<br>[Swampert]<br>Lv. 46<br>Mild / Torrent<br>100/110/90/85/90/60<hr>Take Down<br>Hammer Arm<br>Earthquake<br>Muddy Water | &nbsp; | &nbsp; | &nbsp;
+Swimmer Vanessa<hr><br>Female Swimmer at the end of the bottom most path of Route 220<br>(SPINNING) | ![][350]<br>[Milotic]<br>Lv. 46<br>Calm / Marvel Scale<br>95/60/79/100/125/81<hr>Moonblast<br>Dragon Pulse<br>Rain Dance<br>Safeguard | &nbsp; | &nbsp; | &nbsp;
+![][fisherman]<br>Fisherman Cory<hr><br>Only Fisherman on the route<br>He's fishing<br>Only fights you when talked to<br>If not talked to he just fishes<br>Looks Left | ![][340]<br>[Whiscash]<br>Lv. 44<br>Impish / Oblivious<br>110/78/73/76/71/60<hr>Thrash<br>Muddy Water<br>Future Sight<br>Earthquake | ![][099]<br>[Kingler]<br>Lv. 44<br>Calm / Hyper Cutter<br>55/130/115/50/50/75<hr>Knock Off<br>Guillotine<br>Slam<br>X-Scissor | ![][130]<br>[Gyarados]<br>Lv. 44<br>Naughty / Intimidate<br>95/125/79/60/100/81<hr>Crunch<br>Dragon Dance<br>Outrage<br>Hydro Pump | &nbsp;
+![][ace_m]<br>Ace Trainer Shannon<hr><br>Only Female Ace Trainer on the route<br>She's standing in the grass next to the Berry Plants<br>(SPINNING) | ![][045]<br>[Vileplume]<br>Lv. 45<br>Lonely / Chlorophyll<br>75/80/85/110/90/50<hr>Energy Ball<br>Moonblast<br>Sludge Bomb<br>Earth Power | ![][282]<br>[Gardevoir]<br>Lv. 45<br>Mild / Synchronize<br>68/65/65/125/115/80<hr>Psychic<br>Moonblast<br>Thunderbolt<br>Shadow Ball | ![][428]<br>[Lopunny]<br>Lv. 45<br>Rash / Scrappy<br>65/106/84/44/96/105<hr>Return<br>Jump Kick<br>Bounce<br>Fake Out | ![][031]<br>[Nidoqueen]<br>Lv. 45<br>Bold / Poison Point<br>90/92/87/75/85/76<hr>Earth Power<br>Sludge Bomb<br>Thunderbolt<br>Flamethrower
+![][collector]<br>Collector Ivan<hr><br>You have to fight either him or Ace Trainer Jake<br>He's the only Collector on the route<br>Looks Up | ![][468]<br>[Togekiss]<br>Lv. 45<br>Impish / Serene Grace<br>85/50/95/120/115/80<hr>Sky Attack<br>Extreme Speed<br>Aura Sphere<br>Air Slash | ![][242]<br>[Blissey]<br>Lv. 45<br>Bold / Serene Grace<br>255/10/10/75/135/55<hr>Take Down<br>Light Screen<br>Healing Wish<br>Counter | &nbsp; | &nbsp;
+![][ace_m]<br>Ace Trainer Jake<hr><br>You have to fight either him or Collector Ivan<br>He's the only Male Ace Trainer on the route<br>Looks Left | ![][344]<br>[Claydol]<br>Lv. 45<br>Careful / Levitate<br>60/70/105/70/120/75<hr>Psychic<br>Earthquake<br>Shadow Ball<br>Self-Destruct | ![][006]<br>[Charizard]<br>Lv. 45<br>Docile / Levitate<br>78/84/78/110/85/100<hr>Flamethrower<br>Dragon Pulse<br>Air Slash<br>Crunch | ![][103]<br>[Exeggutor]<br>Lv. 45<br>Bold / Chlorophyll<br>95/95/85/125/75/55<hr>Energy Ball<br>Psychic<br>Ancient Power<br>Stun Spore | ![][359]<br>[Absol]<br>Lv. 45<br>Relaxed / Super Luck<br>65/130/60/85/60/85<hr>Sucker Punch<br>Megahorn<br>Psycho Cut<br>Slash
 
 ### Rematches
 
-Trainer                                               | 1                                 | 2                                 | 3                                 | 4
----                                                   | ---                               | ---                               | ---                               | ---
-Ace Trainer Shannon :material-alpha-c-circle-outline: | ![][045]<br>[Vileplume]<br>Lv. 72<ul><li>Earth Power</li><li>Teeter Dance</li><li>Petal Dance</li><li>Solar Beam</li></ul> | ![][282]<br>[Gardevoir]<br>Lv. 72<ul><li>Imprison</li><li>Captivate</li><li>Future Sight</li><li>Dream Eater</li></ul> | ![][428]<br>[Lopunny]<br>Lv. 72<ul><li>Bounce</li><li>Focus Punch</li><li>Healing Wish</li><li>High Jump Kick</li></ul> | ![][031]<br>[Nidoqueen]<br>Lv. 72<ul><li>Body Slam</li><li>Earth Power</li><li>Earthquake</li><li>Superpower</li></ul> 
-Ace Trainer Jake :material-alpha-c-circle-outline:    | ![][344]<br>[Claydol]<br>Lv. 72<ul><li>Sandstorm</li><li>Imprison</li><li>Trick Room</li><li>Explosion</li></ul> | ![][006]<br>[Charizard]<br>Lv. 72<ul><li>Dragon Pulse</li><li>Fire Spin</li><li>Belly Drum</li><li>Flare Blitz</li></ul> | ![][103]<br>[Exeggutor]<br>Lv. 72<ul><li>Stomp</li><li>Synthesis</li><li>Wood Hammer</li><li>Leaf Storm</li></ul> | ![][359]<br>[Absol]<br>Lv. 72<ul><li>Megahorn</li><li>Play Rough</li><li>Future Sight</li><li>Perish Song</li></ul> 
-Collector Ivan :material-alpha-c-circle-outline:      | ![][468]<br>[Togekiss]<br>Lv. 72<ul><li>Sky Attack</li><li>Extreme Speed</li><li>Aura Sphere</li><li>Air Slash</li></ul> | ![][242]<br>[Blissey]<br>Lv. 72<ul><li>Light Screen</li><li>Healing Wish</li><li>Counter</li><li>Double-Edge</li></ul> | &nbsp;                            | &nbsp;
+Trainer | 1 | 2 | 3 | 4
+--- | --- | --- | --- | ---
+![][ace_m]<br>Ace Trainer Shannon<hr><br>(AFTER CYNTHIA) | ![][045]<br>[Vileplume]<br>Lv. 72<br>Jolly / Chlorophyll<br>75/80/85/110/90/50<hr>Energy Ball<br>Moonblast<br>Sludge Bomb<br>Earth Power | ![][282]<br>[Gardevoir]<br>Lv. 72<br>Lax / Synchronize<br>68/65/65/125/115/80<hr>Psychic<br>Moonblast<br>Thunderbolt<br>Shadow Ball | ![][428]<br>[Lopunny]<br>Lv. 72<br>Serious / Scrappy<br>65/106/84/44/96/105<hr>Return<br>High Jump Kick<br>Bounce<br>Fake Out | ![][031]<br>[Nidoqueen]<br>Lv. 72<br>Careful / Poison Point<br>90/92/87/75/85/76<hr>Earth Power<br>Sludge Bomb<br>Thunderbolt<br>Flamethrower
+![][collector]<br>Collector Ivan<hr><br>(AFTER CYNTHIA) | ![][468]<br>[Togekiss]<br>Lv. 72<br>Calm / Serene Grace<br>85/50/95/120/115/80<hr>Sky Attack<br>Extreme Speed<br>Aura Sphere<br>Air Slash | ![][242]<br>[Blissey]<br>Lv. 72<br>Calm / Serene Grace<br>255/10/10/75/135/55<hr>Light Screen<br>Healing Wish<br>Counter<br>Double-Edge | &nbsp; | &nbsp;
+![][ace_m]<br>Ace Trainer Jake<hr><br>(AFTER CYNTHIA) | ![][344]<br>[Claydol]<br>Lv. 72<br>Gentle / Levitate<br>60/70/105/70/120/75<hr>Psychic<br>Earthquake<br>Shadow Ball<br>Self-Destruct | ![][006]<br>[Charizard]<br>Lv. 72<br>Naughty / Levitate<br>78/84/78/110/85/100<hr>Flamethrower<br>Dragon Pulse<br>Air Slash<br>Crunch | ![][103]<br>[Exeggutor]<br>Lv. 72<br>Rash / Chlorophyll<br>95/95/85/125/75/55<hr>Energy Ball<br>Psychic<br>Ancient Power<br>Stun Spore | ![][359]<br>[Absol]<br>Lv. 72<br>Bold / Super Luck<br>65/130/60/85/60/85<hr>Sucker Punch<br>Megahorn<br>Psycho Cut<br>Slash
 
 ## Wild Pokémon
 
@@ -43,6 +43,10 @@ Item | Name | Obtained
 ![][black-belt] | Black Belt | &nbsp;
 ![][focus-sash] | Focus Sash | &nbsp;
 ![][pure-incense] | Pure Incense | &nbsp;
+
+--8<-- "includes/abilities.md"
+--8<-- "includes/held_items.md"
+--8<-- "includes/natures.md"
 
 [006]: ../img/pokemon/006.png
 [030]: ../img/pokemon/030.png
@@ -124,3 +128,6 @@ Item | Name | Obtained
 [black-belt]: ../img/items/black-belt.png
 [focus-sash]: ../img/items/focus-sash.png
 [pure-incense]: ../img/items/pure-incense.png
+[ace_m]: ../img/trainer/ace_m.png
+[collector]: ../img/trainer/collector.png
+[fisherman]: ../img/trainer/fisherman.png

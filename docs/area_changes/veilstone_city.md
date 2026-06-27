@@ -1,10 +1,13 @@
-# Veilstone City
-
-Trainer             | 1                                 | 2                               | 3                                | 4
----                 | ---                               | ---                             | ---                              | ---
-Dragon Tamer Nils   | ![][148]<br>[Dragonair]<br>Lv. 35<ul><li>Agility</li><li>Dragon Pulse</li><li>Aqua Tail</li><li>Safeguard</li></ul> | ![][372]<br>[Shelgon]<br>Lv. 35<ul><li>Crunch</li><li>Zen Headbutt</li><li>Protect</li><li>Scary Face</li></ul> | ![][329]<br>[Vibrava]<br>Lv. 35<ul><li>Signal Beam</li><li>Dragon Breath</li><li>Earth Power</li><li>Sandstorm</li></ul> | ![][230]<br>[Kingdra]<br>Lv. 36<ul><li>Octazooka</li><li>Agility</li><li>Muddy Water</li><li>Dragon Pulse</li></ul> 
-Team Galactic Grunt | ![][110]<br>[Weezing]<br>Lv. 35<ul><li>Sludge Bomb</li><li>Lava Plume</li><li>Destiny Bond</li><li>Double Hit</li></ul> | ![][042]<br>[Golbat]<br>Lv. 35<ul><li>Leech Life</li><li>Swift</li><li>Hypnosis</li><li>Air Slash</li></ul> | ![][049]<br>[Venomoth]<br>Lv. 35<ul><li>Zen Headbutt</li><li>Signal Beam</li><li>Gust</li><li>Baton Pass</li></ul> | &nbsp;
-Team Galactic Grunt | ![][435]<br>[Skuntank]<br>Lv. 35<ul><li>Toxic</li><li>Poison Jab</li><li>Flamethrower</li><li>Memento</li></ul> | ![][269]<br>[Dustox]<br>Lv. 35<ul><li>Moonlight</li><li>Bug Buzz</li><li>Light Screen</li><li>Toxic</li></ul> | ![][413]<br>[Wormadam]<br>Lv. 35<ul><li>Bug Buzz</li><li>Growth</li><li>Energy Ball</li><li>Psybeam</li></ul> | &nbsp;
+Trainer | 1 | 2 | 3
+--- | --- | --- | ---
+![][galactic_grunt_m]<br>Galactic Grunt<hr><br>MULTI BATTLE<br>Partner to Galactic Grunt [848]<br>Team on the Left<br>Grunts who took the Professor's assistant's dex | ![][435]<br>[Skuntank]<br>Lv. 35<br>Careful / Aftermath<br>115/95/70/70/60/85<hr>Toxic<br>Poison Jab<br>Flamethrower<br>Memento | ![][269]<br>[Dustox]<br>Lv. 35<br>Hardy / Shield Dust<br>60/50/75/75/115/75<hr>Moonlight<br>Bug Buzz<br>Light Screen<br>Toxic | ![][413]<br>[Wormadam (P)]<br>Lv. 35<br>Sassy / Battle Armor<br>60/50/90/110/110/30<hr>Bug Buzz<br>Growth<br>Energy Ball<br>Psybeam
+![][galactic_grunt_m]<br>Galactic Grunt<hr><br>Partner to Galactic Grunt [849]<br>Team on the Right<br>Once you've beaten them you get the HM02 Fly | ![][110]<br>[Weezing]<br>Lv. 35<br>Brave / Levitate<br>65/90/120/85/70/60<hr>Sludge Bomb<br>Lava Plume<br>Destiny Bond<br>Double Hit | ![][042]<br>[Golbat]<br>Lv. 35<br>Quirky / Inner Focus<br>75/80/70/65/75/90<hr>Leech Life<br>Swift<br>Hypnosis<br>Air Slash | ![][049]<br>[Venomoth]<br>Lv. 35<br>Quirky / Tinted Lens<br>70/55/60/100/75/90<hr>Zen Headbutt<br>Signal Beam<br>Gust<br>Baton Pass
+![][dawn]<br>Pkmn Trainer Dawn<hr><br>Your partner in the double battle<br>If you're playing as a Boy<br>If you chose Chimchar<br>can use : 1 POTION | ![][064]<br>[Kadabra]<br>Lv. 35<br>Naive / Magic Guard<br>40/35/30/120/70/105<hr>Psychic<br>Recover<br>Shock Wave<br>Disable | ![][221]<br>[Piloswine]<br>Lv. 35<br>Lax / Thick Fat<br>100/100/80/60/60/50<hr>Avalanche<br>Take Down<br>Rock Slide<br>Ice Shard | ![][389]<br>[Torterra]<br>Lv. 36<br>Careful / Overgrow<br>95/114/110/75/85/56<hr>Seed Bomb<br>Earthquake<br>Leech Seed<br>Crunch
+![][dawn]<br>Pkmn Trainer Dawn<hr><br>Your partner in the double battle<br>If you're playing as a Boy<br>If you chose Piplup<br>can use : 1 POTION | ![][064]<br>[Kadabra]<br>Lv. 35<br>Calm / Magic Guard<br>40/35/30/120/70/105<hr>Psychic<br>Recover<br>Shock Wave<br>Disable | ![][221]<br>[Piloswine]<br>Lv. 35<br>Modest / Thick Fat<br>100/100/80/60/60/50<hr>Avalanche<br>Take Down<br>Rock Slide<br>Ice Shard | ![][392]<br>[Infernape]<br>Lv. 36<br>Relaxed / Iron Fist<br>76/104/71/104/71/109<hr>Flamethrower<br>Close Combat<br>Vacuum Wave<br>Fake Out
+![][dawn]<br>Pkmn Trainer Dawn<hr><br>Your partner in the double battle<br>If you're playing as a Boy<br>If you chose Turtwig<br>can use : 1 POTION | ![][064]<br>[Kadabra]<br>Lv. 35<br>Impish / Magic Guard<br>40/35/30/120/70/105<hr>Psychic<br>Recover<br>Shock Wave<br>Disable | ![][221]<br>[Piloswine]<br>Lv. 35<br>Adamant / Thick Fat<br>100/100/80/60/60/50<hr>Avalanche<br>Take Down<br>Rock Slide<br>Ice Shard | ![][395]<br>[Empoleon]<br>Lv. 36<br>Jolly / Torrent<br>84/86/88/116/101/60<hr>Scald<br>Flash Cannon<br>Feather Dance<br>Swagger
+![][lucas]<br>Pkmn Trainer Lucas<hr><br>Your partner in the double battle<br>If you're playing as a Girl<br>If you chose Chimchar<br>can use : 1 POTION | ![][064]<br>[Kadabra]<br>Lv. 35<br>Docile / Magic Guard<br>40/35/30/120/70/105<hr>Psychic<br>Recover<br>Shock Wave<br>Disable | ![][221]<br>[Piloswine]<br>Lv. 35<br>Hardy / Thick Fat<br>100/100/80/60/60/50<hr>Avalanche<br>Take Down<br>Rock Slide<br>Ice Shard | ![][389]<br>[Torterra]<br>Lv. 36<br>Naive / Overgrow<br>95/114/110/75/85/56<hr>Seed Bomb<br>Earthquake<br>Leech Seed<br>Crunch
+![][lucas]<br>Pkmn Trainer Lucas<hr><br>Your partner in the double battle<br>If you're playing as a Girl<br>If you chose Piplup<br>can use : 1 POTION | ![][064]<br>[Kadabra]<br>Lv. 35<br>Bold / Magic Guard<br>40/35/30/120/70/105<hr>Psychic<br>Recover<br>Shock Wave<br>Disable | ![][221]<br>[Piloswine]<br>Lv. 35<br>Impish / Thick Fat<br>100/100/80/60/60/50<hr>Avalanche<br>Take Down<br>Rock Slide<br>Ice Shard | ![][392]<br>[Infernape]<br>Lv. 36<br>Lonely / Iron Fist<br>76/104/71/104/71/109<hr>Flamethrower<br>Close Combat<br>Vacuum Wave<br>Fake Out
+![][lucas]<br>Pkmn Trainer Lucas<hr><br>Your partner in the double battle<br>If you're playing as a Girl<br>If you chose Turtwig<br>can use : 1 POTION | ![][064]<br>[Kadabra]<br>Lv. 35<br>Jolly / Magic Guard<br>40/35/30/120/70/105<hr>Psychic<br>Recover<br>Shock Wave<br>Disable | ![][221]<br>[Piloswine]<br>Lv. 35<br>Relaxed / Thick Fat<br>100/100/80/60/60/50<hr>Avalanche<br>Take Down<br>Rock Slide<br>Ice Shard | ![][395]<br>[Empoleon]<br>Lv. 36<br>Hardy / Torrent<br>84/86/88/116/101/60<hr>Scald<br>Flash Cannon<br>Feather Dance<br>Swagger
 
 ## Master Trainer
 
@@ -98,3 +101,17 @@ Pokémon | Level | Type | Notes
 [fist-plate]: ../img/items/fist-plate.png
 [386]: ../img/pokemon/386.png
 [Deoxys]: ../../pokemons/386/
+[064]: ../img/pokemon/064.png
+[221]: ../img/pokemon/221.png
+[389]: ../img/pokemon/389.png
+[392]: ../img/pokemon/392.png
+[395]: ../img/pokemon/395.png
+[Kadabra]: ../../pokemons/064/
+[Piloswine]: ../../pokemons/221/
+[Torterra]: ../../pokemons/389/
+[Infernape]: ../../pokemons/392/
+[Empoleon]: ../../pokemons/395/
+[Wormadam (P)]: ../../pokemons/413/
+[dawn]: ../img/trainer/dawn.png
+[lucas]: ../img/trainer/lucas.png
+[galactic_grunt_m]: ../img/trainer/galactic_grunt_m.png

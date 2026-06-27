@@ -2,10 +2,9 @@
 
 ## Trainers
 
-Trainer        | 1                                | 2
----            | ---                              | ---
-Galactic Grunt | ![][041]<br>[Zubat]<br>Lv. 15<ul><li>Bite</li><li>Wing Attack</li><li>Poison Fang</li><li>Confuse Ray</li></ul> | ![][167]<br>[Spinarak]<br>Lv. 15<ul><li>Bug Bite</li><li>Scary Face</li><li>Poison Fang</li><li>Night Shade</li></ul> 
-Galactic Grunt | ![][453]<br>[Croagunk]<br>Lv. 15<ul><li>Mud-Slap</li><li>Poison Sting</li><li>Torment</li><li>Pursuit</li></ul> | ![][165]<br>[Ledyba]<br>Lv. 15<ul><li>Reflect</li><li>Safeguard</li><li>Mach Punch</li><li>Aerial Ace</li></ul> 
+Trainer | 1 | 2
+--- | --- | ---
+![][galactic_grunt_m]<br>Galactic Grunt<hr><br>Fights you when talked to<br>Has to be fought in a double battle with Galactic Grunt [296]<br>His team is on the right | ![][453]<br>[Croagunk]<br>Lv. 15<br>Timid / Dry Skin<br>48/61/40/61/40/50<hr>Pursuit<br>Torment<br>Poison Sting<br>Mud-slap | ![][165]<br>[Ledyba]<br>Lv. 15<br>Sassy / Technician<br>40/50/30/20/80/55<hr>Aerial Ace<br>Mach Punch<br>Safeguard<br>Reflect
 
 ## Wild Pokémon
 
@@ -23,6 +22,10 @@ Item | Name | Obtained
 ![][white-herb] | White Herb | &nbsp;
 ![][works-key] | Works Key | Gift from NPC
 ![][meadow-plate] | Meadow Plate | Master Trainer
+
+--8<-- "includes/abilities.md"
+--8<-- "includes/held_items.md"
+--8<-- "includes/natures.md"
 
 [041]: ../img/pokemon/041.png
 [102]: ../img/pokemon/102.png
@@ -48,3 +51,4 @@ Item | Name | Obtained
 [white-herb]: ../img/items/white-herb.png
 [works-key]: ../img/items/works-key.png
 [meadow-plate]: ../img/items/meadow-plate.png
+[galactic_grunt_m]: ../img/trainer/galactic_grunt_m.png

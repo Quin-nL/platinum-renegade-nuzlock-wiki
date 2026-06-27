@@ -2,19 +2,31 @@
 
 ## Trainers
 
-Trainer                                    | 1                               | 2                                  | 3
----                                        | ---                             | ---                                | ---
-Aroma Lady Taylor                          | ![][420]<br>[Cherubi]<br>Lv. 13<ul><li>Tackle</li><li>Growth</li><li>Leech Seed</li><li>Helping Hand</li></ul> | ![][187]<br>[Hoppip]<br>Lv. 13<ul><li>Tail Whip</li><li>Bullet Seed</li><li>Air Cutter</li><li>Mega Drain</li></ul> | ![][285]<br>[Shroomish]<br>Lv. 13<ul><li>Tackle</li><li>Mega Drain</li><li>Leech Seed</li><li>Bullet Seed</li></ul> 
-:repeat: [Bug Catcher Brandon](#rematches) | ![][265]<br>[Wurmple]<br>Lv. 14<ul><li>Tackle</li><li>String Shot</li><li>Poison Sting</li><li>Bug Bite</li></ul> | ![][402]<br>[Kricketune]<br>Lv. 14<ul><li>Bug Bite</li><li>String Shot</li><li>Fury Cutter</li><li>Absorb</li></ul> | &nbsp;
-Twins Liv & Liz                            | ![][311]<br>[Plusle]<br>Lv. 15<ul><li>Helping Hand</li><li>Spark</li><li>Encore</li><li>Charge Beam</li></ul> | ![][312]<br>[Minun]<br>Lv. 15<ul><li>Helping Hand</li><li>Spark</li><li>Encore</li><li>Charge Beam</li></ul> | &nbsp;
+Trainer | 1 | 2 | 3
+--- | --- | --- | ---
+![][aroma_lady]<br>Aroma Lady Taylor<hr><br>(LOOKS DOWN AND RIGHT) | ![][420]<br>[Cherubi]<br>Lv. 13<br>Impish / Chlorophyll<br>45/35/45/62/53/35<hr>Tackle<br>Growth<br>Leech Seed<br>Helping Hand | ![][187]<br>[Hoppip]<br>Lv. 13<br>Bold / Chlorophyll<br>35/35/40/45/55/50<hr>Mega Drain<br>Air Cutter<br>Bullet Seed<br>Tail Whip | ![][285]<br>[Shroomish]<br>Lv. 13<br>Relaxed / Technician<br>60/40/60/40/60/35<hr>Bullet Seed<br>Leech Seed<br>Mega Drain<br>Tackle
+![][bug_catcher]<br>Bug Catcher Brandon<hr><br>(Past him there is a passage to the right leading you to a female Top Trainer, she does not fight you and gives you TM78s Captivate)<br>(WALKS BACK AND FORTH) | ![][265]<br>[Wurmple]<br>Lv. 14<br>Adamant / Shield Dust<br>45/45/35/20/30/20<hr>Bug Bite<br>Poison Sting<br>String Shot<br>Tackle | ![][402]<br>[Kricketune]<br>Lv. 14<br>Rash / Technician<br>80/115/70/50/70/65<hr>Absorb<br>Fury Cutter<br>String Shot<br>Bug Bite | &nbsp;
+Twins Liv ＆ Liz<hr><br>DOUBLE BATTLE<br>Looks Down | ![][311]<br>[Plusle]<br>Lv. 15<br>Sassy / Plus<br>60/50/50/95/85/110<hr>Charge Beam<br>Encore<br>Spark<br>Helping Hand | ![][312]<br>[Minun]<br>Lv. 15<br>Lax / Minus<br>60/50/50/85/95/110<hr>Charge Beam<br>Encore<br>Spark<br>Helping Hand | &nbsp;
 
 ### Rematches
 
-Trainer                                                 | 1                              | 2                                  | 3
----                                                     | ---                            | ---                                | ---
-Bug Catcher Brandon :material-numeric-3-circle-outline: | ![][269]<br>[Dustox]<br>Lv. 27<ul><li>Psybeam</li><li>Signal Beam</li><li>Moonlight</li><li>Bug Buzz</li></ul> | ![][402]<br>[Kricketune]<br>Lv. 27<ul><li>Leech Life</li><li>Focus Energy</li><li>Slash</li><li>Night Slash</li></ul> | &nbsp;
-Bug Catcher Brandon :material-numeric-5-circle-outline: | ![][269]<br>[Dustox]<br>Lv. 38<ul><li>Bug Buzz</li><li>Light Screen</li><li>Toxic</li><li>Tailwind</li></ul> | ![][402]<br>[Kricketune]<br>Lv. 38<ul><li>X-Scissor</li><li>Screech</li><li>Knock Off</li><li>Taunt</li></ul> | ![][123]<br>[Scyther]<br>Lv. 38<ul><li>Razor Wind</li><li>Double Team</li><li>X-Scissor</li><li>Double Hit</li></ul> 
-Bug Catcher Brandon :material-alpha-c-circle-outline:   | ![][269]<br>[Dustox]<br>Lv. 70<ul><li>Tailwind</li><li>Protect</li><li>Whirlwind</li><li>Hurricane</li></ul> | ![][402]<br>[Kricketune]<br>Lv. 70<ul><li>Heal Bell</li><li>Bug Buzz</li><li>Hyper Voice</li><li>Perish Song</li></ul> | ![][212]<br>[Scizor]<br>Lv. 70<ul><li>Swords Dance</li><li>Baton Pass</li><li>Reversal</li><li>Feint</li></ul> 
+=== "After 3 Badges"
+
+    Trainer | 1 | 2
+    --- | --- | ---
+    ![][bug_catcher]<br>Bug Catcher Brandon<hr> | ![][269]<br>[Dustox]<br>Lv. 27<br>Jolly / Shield Dust<br>60/50/75/75/115/75<hr>Psybeam<br>Signal Beam<br>Moonlight<br>Bug Buzz | ![][402]<br>[Kricketune]<br>Lv. 27<br>Relaxed / Technician<br>80/115/70/50/70/65<hr>Leech Life<br>Focus Energy<br>Slash<br>Night Slash
+
+=== "After 5 Badges"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    ![][bug_catcher]<br>Bug Catcher Brandon<hr> | ![][269]<br>[Dustox]<br>Lv. 38<br>Rash / Shield Dust<br>60/50/75/75/115/75<hr>Bug Buzz<br>Light Screen<br>Toxic<br>Tailwind | ![][402]<br>[Kricketune]<br>Lv. 38<br>Jolly / Technician<br>80/115/70/50/70/65<hr>X-Scissor<br>Screech<br>Knock Off<br>Taunt | ![][123]<br>[Scyther]<br>Lv. 38<br>Rash / Technician<br>70/110/80/55/80/105<hr>Razor Wind<br>Double Team<br>X-Scissor<br>Double Hit
+
+=== "After 8 Badges"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    ![][bug_catcher]<br>Bug Catcher Brandon<hr> | ![][269]<br>[Dustox]<br>Lv. 70<br>Modest / Shield Dust<br>60/50/75/75/115/75<hr>Tailwind<br>Protect<br>Whirlwind<br>Hurricane | ![][402]<br>[Kricketune]<br>Lv. 70<br>Lax / Technician<br>80/115/70/50/70/65<hr>Heal Bell<br>Bug Buzz<br>Hyper Voice<br>Perish Song | ![][212]<br>[Scizor]<br>Lv. 70<br>Relaxed / Technician<br>70/130/100/55/80/65<hr>Swords Dance<br>Baton Pass<br>Reversal<br>Feint
 
 ## Wild Pokémon
 
@@ -41,6 +53,10 @@ Item | Name | Obtained
 TM | Name | Obtained
 --- | --- | ---
 TM09 | Bullet Seed | Item on ground
+
+--8<-- "includes/abilities.md"
+--8<-- "includes/held_items.md"
+--8<-- "includes/natures.md"
 
 [010]: ../img/pokemon/010.png
 [013]: ../img/pokemon/013.png
@@ -87,3 +103,5 @@ TM09 | Bullet Seed | Item on ground
 [poke-radar]: ../img/items/poke-radar.png
 [miracle-seed]: ../img/items/miracle-seed.png
 [sea-incense]: ../img/items/sea-incense.png
+[bug_catcher]: ../img/trainer/bug_catcher.png
+[aroma_lady]: ../img/trainer/aroma_lady.png

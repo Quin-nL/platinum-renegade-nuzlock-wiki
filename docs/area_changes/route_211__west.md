@@ -2,19 +2,31 @@
 
 ## Trainers
 
-Trainer                               | 1                               | 2                               | 3
----                                   | ---                             | ---                             | ---
-:repeat: [Ninja Boy Zach](#rematches) | ![][041]<br>[Zubat]<br>Lv. 19<ul><li>Poison Fang</li><li>Confuse Ray</li><li>Air Cutter</li><li>Mean Look</li></ul> | ![][451]<br>[Skorupi]<br>Lv. 19<ul><li>Pin Missile</li><li>Acupressure</li><li>Bug Bite</li><li>Poison Fang</li></ul> | ![][041]<br>[Zubat]<br>Lv. 19<ul><li>Poison Fang</li><li>Confuse Ray</li><li>Air Cutter</li><li>Mean Look</li></ul> 
-Hiker Louis                           | ![][074]<br>[Geodude]<br>Lv. 19<ul><li>Rock Throw</li><li>Bulldoze</li><li>Rollout</li><li>Magnitude</li></ul> | ![][218]<br>[Slugma]<br>Lv. 19<ul><li>Ember</li><li>Harden</li><li>Will-O-Wisp</li><li>Ancient Power</li></ul> | ![][374]<br>[Beldum]<br>Lv. 19<ul><li>Take Down</li><li>Zen Headbutt</li><li>Iron Head</li><li>Iron Defense</li></ul> 
-Bird Keeper Alexandra                 | ![][177]<br>[Natu]<br>Lv. 20<ul><li>Lucky Chant</li><li>Confusion</li><li>Air Cutter</li><li>Ominous Wind</li></ul> | ![][333]<br>[Swablu]<br>Lv. 20<ul><li>Fury Attack</li><li>Safeguard</li><li>Pluck</li><li>Mist</li></ul> | ![][397]<br>[Staravia]<br>Lv. 20<ul><li>Wing Attack</li><li>Double Team</li><li>Foresight</li><li>Aerial Ace</li></ul> 
+Trainer | 1 | 2 | 3
+--- | --- | --- | ---
+Ninja Boy Zach<hr><br>Hidden little guy in the top right corner of the grass<br>(HIDES) | ![][041]<br>[Zubat]<br>Lv. 19<br>Docile / Inner Focus<br>40/45/35/30/40/55<hr>Poison Fang<br>Confuse Ray<br>Air Cutter<br>Mean Look | ![][451]<br>[Skorupi]<br>Lv. 19<br>Adamant / Sniper<br>40/50/90/30/55/65<hr>Pin Missile<br>Acupressure<br>Bug Bite<br>Poison Fang | ![][041]<br>[Zubat]<br>Lv. 19<br>Docile / Inner Focus<br>40/45/35/30/40/55<hr>Poison Fang<br>Confuse Ray<br>Air Cutter<br>Mean Look
+![][hiker]<br>Hiker Louis<hr><br>(LOOKS DOWN AND RIGHT) | ![][074]<br>[Geodude]<br>Lv. 19<br>Lonely / Rock Head<br>40/80/100/30/30/20<hr>Rock Throw<br>Bulldoze<br>Rollout<br>Magnitude | ![][218]<br>[Slugma]<br>Lv. 19<br>Gentle / Magma Armor<br>50/50/50/90/50/20<hr>Ember<br>Harden<br>Will-O-Wisp<br>Ancient Power | ![][374]<br>[Beldum]<br>Lv. 19<br>Bold / Rock Head<br>40/55/80/35/60/30<hr>Take Down<br>Zen Headbutt<br>Iron Head<br>Iron Defense
+![][bird_keeper]<br>Bird Keeper Alexandra<hr><br>Blocks access to TM12s Taunt<br>Looks Down | ![][177]<br>[Natu]<br>Lv. 20<br>Brave / Synchronize<br>40/50/45/70/45/70<hr>Lucky Chant<br>Confusion<br>Air Cutter<br>Ominous Wind | ![][333]<br>[Swablu]<br>Lv. 20<br>Gentle / Cloud Nine<br>45/60/60/60/75/50<hr>Fury Attack<br>Safeguard<br>Pluck<br>Mist | ![][397]<br>[Staravia]<br>Lv. 20<br>Sassy / Reckless<br>55/75/50/40/40/80<hr>Wing Attack<br>Double Team<br>Foresight<br>Aerial Ace
 
 ### Rematches
 
-Trainer                                            | 1                              | 2                               | 3
----                                                | ---                            | ---                             | ---
-Ninja Boy Zach :material-numeric-5-circle-outline: | ![][042]<br>[Golbat]<br>Lv. 38<ul><li>Leech Life</li><li>Swift</li><li>Hypnosis</li><li>Air Slash</li></ul> | ![][451]<br>[Skorupi]<br>Lv. 38<ul><li>X-Scissor</li><li>Swords Dance</li><li>Poison Jab</li><li>Night Slash</li></ul> | ![][042]<br>[Golbat]<br>Lv. 38<ul><li>Leech Life</li><li>Swift</li><li>Hypnosis</li><li>Air Slash</li></ul> 
-Ninja Boy Zach :material-numeric-8-circle-outline: | ![][169]<br>[Crobat]<br>Lv. 59<ul><li>Haze</li><li>Zen Headbutt</li><li>Nasty Plot</li><li>Brave Bird</li></ul> | ![][452]<br>[Drapion]<br>Lv. 59<ul><li>Night Slash</li><li>Scary Face</li><li>Crunch</li><li>Cross Poison</li></ul> | ![][169]<br>[Crobat]<br>Lv. 59<ul><li>Haze</li><li>Zen Headbutt</li><li>Nasty Plot</li><li>Brave Bird</li></ul> 
-Ninja Boy Zach :material-alpha-c-circle-outline:   | ![][169]<br>[Crobat]<br>Lv. 70<ul><li>Haze</li><li>Zen Headbutt</li><li>Nasty Plot</li><li>Brave Bird</li></ul> | ![][452]<br>[Drapion]<br>Lv. 70<ul><li>Night Slash</li><li>Scary Face</li><li>Crunch</li><li>Cross Poison</li></ul> | ![][169]<br>[Crobat]<br>Lv. 70<ul><li>Haze</li><li>Zen Headbutt</li><li>Nasty Plot</li><li>Brave Bird</li></ul> 
+=== "After 5 Badges"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    Ninja Boy Zach<hr> | ![][042]<br>[Golbat]<br>Lv. 38<br>Modest / Inner Focus<br>75/80/70/65/75/90<hr>Leech Life<br>Swift<br>Hypnosis<br>Air Slash | ![][451]<br>[Skorupi]<br>Lv. 38<br>Naive / Sniper<br>40/50/90/30/55/65<hr>X-Scissor<br>Swords Dance<br>Poison Jab<br>Night Slash | ![][042]<br>[Golbat]<br>Lv. 38<br>Modest / Inner Focus<br>75/80/70/65/75/90<hr>Leech Life<br>Swift<br>Hypnosis<br>Air Slash
+
+=== "After 8 Badges"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    Ninja Boy Zach<hr> | ![][169]<br>[Crobat]<br>Lv. 59<br>Bashful / Inner Focus<br>85/90/80/70/80/130<hr>Haze<br>Zen Headbutt<br>Nasty Plot<br>Brave Bird | ![][452]<br>[Drapion]<br>Lv. 59<br>Gentle / Sniper<br>70/90/110/60/75/95<hr>Night Slash<br>Scary Face<br>Crunch<br>Cross Poison | ![][169]<br>[Crobat]<br>Lv. 59<br>Bashful / Inner Focus<br>85/90/80/70/80/130<hr>Haze<br>Zen Headbutt<br>Nasty Plot<br>Brave Bird
+
+=== "NINJA BOY ZACH"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    Ninja Boy Zach<hr><br>(AFTER CYNTHIA) | ![][169]<br>[Crobat]<br>Lv. 70<br>Hardy / Inner Focus<br>85/90/80/70/80/130<hr>Haze<br>Zen Headbutt<br>Nasty Plot<br>Brave Bird | ![][452]<br>[Drapion]<br>Lv. 70<br>Jolly / Sniper<br>70/90/110/60/75/95<hr>Night Slash<br>Scary Face<br>Crunch<br>Cross Poison | ![][169]<br>[Crobat]<br>Lv. 70<br>Hardy / Inner Focus<br>85/90/80/70/80/130<hr>Haze<br>Zen Headbutt<br>Nasty Plot<br>Brave Bird
 
 ## Wild Pokémon
 
@@ -32,6 +44,10 @@ TM | Name | Obtained
 --- | --- | ---
 TM12 | Taunt | Item on ground
 TM77 | Psych Up | Gift from NPC
+
+--8<-- "includes/abilities.md"
+--8<-- "includes/held_items.md"
+--8<-- "includes/natures.md"
 
 [041]: ../img/pokemon/041.png
 [042]: ../img/pokemon/042.png
@@ -66,3 +82,5 @@ TM77 | Psych Up | Gift from NPC
 [Tyrogue]: ../../pokemons/236/
 [Zubat]: ../../pokemons/041/
 [poke-radar]: ../img/items/poke-radar.png
+[bird_keeper]: ../img/trainer/bird_keeper.png
+[hiker]: ../img/trainer/hiker.png

@@ -2,17 +2,23 @@
 
 ## Trainers
 
-=== "Grass"
-    Trainer                            | 1                                 | 2                                 | 3                               | 4                                 | 5                               | 6
-    ---                                | ---                               | ---                               | ---                             | ---                               | ---                             | ---
+=== "Chose Piplup"
 
-=== "Fire"
-    Trainer                            | 1                                 | 2                                 | 3                               | 4                               | 5                                | 6
-    ---                                | ---                               | ---                               | ---                             | ---                             | ---                              | ---
+    Trainer | 1 | 2 | 3 | 4 | 5 | 6
+    --- | --- | --- | --- | --- | --- | ---
+    ![][barry]<br>Rival Barry<hr><br>Fights you when you try to cross the Canalave's Bridge<br>he doesn't have any items to use | ![][398]<br>[Staraptor]<br>Lv. 48<br>Choice Band<br>Brave / Reckless<br>85/120/70/50/60/100<hr>Double-Edge<br>Close Combat<br>Brave Bird<br>U-turn | ![][214]<br>[Heracross]<br>Lv. 48<br>Muscle Band<br>Lonely / Guts<br>80/125/75/40/95/85<hr>Megahorn<br>Close Combat<br>Rock Slide<br>Night Slash | ![][143]<br>[Snorlax]<br>Lv. 48<br>Leftovers<br>Careful / Thick Fat<br>160/110/65/65/110/30<hr>Curse<br>Body Slam<br>Crunch<br>Slack Off | ![][184]<br>[Azumarill]<br>Lv. 48<br>Life Orb<br>Serious / Huge Power<br>110/50/80/80/80/50<hr>Aqua Tail<br>Play Rough<br>Ice Punch<br>Aqua Jet | ![][059]<br>[Arcanine]<br>Lv. 48<br>Expert Belt<br>Quiet / Intimidate<br>90/110/80/100/80/95<hr>Flare Blitz<br>Extreme Speed<br>Crunch<br>Close Combat | ![][389]<br>[Torterra]<br>Lv. 49<br>Sitrus Berry<br>Hardy / Overgrow<br>95/114/110/75/85/56<hr>Wood Hammer<br>Earthquake<br>Crunch<br>Iron Head
 
-=== "Water"
-    Trainer                            | 1                                 | 2                                 | 3                               | 4                                 | 5                                | 6
-    ---                                | ---                               | ---                               | ---                             | ---                               | ---                              | ---
+=== "Chose Turtwig"
+
+    Trainer | 1 | 2 | 3 | 4 | 5 | 6
+    --- | --- | --- | --- | --- | --- | ---
+    ![][barry]<br>Rival Barry<hr><br>Fights you when you try to cross the Canalave's Bridge<br>he doesn't have any items to use | ![][398]<br>[Staraptor]<br>Lv. 48<br>Choice Band<br>Brave / Reckless<br>85/120/70/50/60/100<hr>Double-Edge<br>Close Combat<br>Brave Bird<br>U-turn | ![][214]<br>[Heracross]<br>Lv. 48<br>Muscle Band<br>Calm / Guts<br>80/125/75/40/95/85<hr>Megahorn<br>Close Combat<br>Rock Slide<br>Night Slash | ![][143]<br>[Snorlax]<br>Lv. 48<br>Leftovers<br>Naive / Thick Fat<br>160/110/65/65/110/30<hr>Curse<br>Body Slam<br>Crunch<br>Slack Off | ![][184]<br>[Azumarill]<br>Lv. 48<br>Life Orb<br>Serious / Huge Power<br>110/50/80/80/80/50<hr>Aqua Tail<br>Play Rough<br>Ice Punch<br>Aqua Jet | ![][286]<br>[Breloom]<br>Lv. 48<br>Focus Sash<br>Lonely / Technician<br>60/130/80/60/60/70<hr>Bullet Seed<br>Force Palm<br>Spore<br>Stone Edge | ![][392]<br>[Infernape]<br>Lv. 49<br>Sitrus Berry<br>Naughty / Iron Fist<br>76/104/71/104/71/109<hr>Fire Blast<br>Close Combat<br>Fake Out<br>Thunder Punch
+
+=== "Chose Chimchar"
+
+    Trainer | 1 | 2 | 3 | 4 | 5 | 6
+    --- | --- | --- | --- | --- | --- | ---
+    ![][barry]<br>Rival Barry<hr><br>Fights you when you try to cross the Canalave's Bridge<br>he doesn't have any items to use | ![][398]<br>[Staraptor]<br>Lv. 48<br>Choice Band<br>Gentle / Reckless<br>85/120/70/50/60/100<hr>Double-Edge<br>Close Combat<br>Brave Bird<br>U-turn | ![][214]<br>[Heracross]<br>Lv. 48<br>Muscle Band<br>Naive / Guts<br>80/125/75/40/95/85<hr>Megahorn<br>Close Combat<br>Rock Slide<br>Night Slash | ![][143]<br>[Snorlax]<br>Lv. 48<br>Leftovers<br>Impish / Thick Fat<br>160/110/65/65/110/30<hr>Curse<br>Body Slam<br>Crunch<br>Slack Off | ![][286]<br>[Breloom]<br>Lv. 48<br>Focus Sash<br>Hasty / Technician<br>60/130/80/60/60/70<hr>Bullet Seed<br>Force Palm<br>Spore<br>Stone Edge | ![][059]<br>[Arcanine]<br>Lv. 48<br>Expert Belt<br>Hasty / Intimidate<br>90/110/80/100/80/95<hr>Flare Blitz<br>Extreme Speed<br>Crunch<br>Close Combat | ![][395]<br>[Empoleon]<br>Lv. 49<br>Sitrus Berry<br>Brave / Torrent<br>84/86/88/116/101/60<hr>Surf<br>Flash Cannon<br>Grass Knot<br>Agility
 
 ### PKMN Trainer Barry
 

@@ -2,17 +2,23 @@
 
 ## Trainers
 
-=== "Grass"
-    Trainer              | 1                                 | 2                                 | 3                               | 4                                 | 5                               | 6
-    ---                  | ---                               | ---                               | ---                             | ---                               | ---                             | ---
+=== "Chose Piplup"
 
-=== "Fire"
-    Trainer              | 1                                 | 2                                 | 3                               | 4                               | 5                                | 6
-    ---                  | ---                               | ---                               | ---                             | ---                             | ---                              | ---
+    Trainer | 1 | 2 | 3 | 4 | 5 | 6
+    --- | --- | --- | --- | --- | --- | ---
+    Pkmn Trainer Barry<hr><br>Fights you when you walk to the door of the Pastoria Gym | ![][398]<br>[Staraptor]<br>Lv. 41<br>Muscle Band<br>Gentle / Reckless<br>85/120/70/50/60/100<hr>Double-Edge<br>Close Combat<br>Aerial Ace<br>Roost | ![][214]<br>[Heracross]<br>Lv. 41<br>Coba Berry<br>Naive / Guts<br>80/125/75/40/95/85<hr>Megahorn<br>Brick Break<br>Bullet Seed<br>Night Slash | ![][143]<br>[Snorlax]<br>Lv. 41<br>Leftovers<br>Impish / Thick Fat<br>160/110/65/65/110/30<hr>Body Slam<br>Crunch<br>Rest<br>Sleep Talk | ![][184]<br>[Azumarill]<br>Lv. 41<br>Life Orb<br>Docile / Huge Power<br>110/50/80/80/80/50<hr>Aqua Tail<br>Play Rough<br>Body Slam<br>Aqua Jet | ![][059]<br>[Arcanine]<br>Lv. 41<br>Expert Belt<br>Hasty / Intimidate<br>90/110/80/100/80/95<hr>Heat Wave<br>Thunder Fang<br>Outrage<br>Crunch | ![][389]<br>[Torterra]<br>Lv. 42<br>Sitrus Berry<br>Rash / Overgrow<br>95/114/110/75/85/56<hr>Seed Bomb<br>Earthquake<br>Crunch<br>Iron Head
 
-=== "Water"
-    Trainer              | 1                                 | 2                                 | 3                               | 4                                 | 5                                | 6
-    ---                  | ---                               | ---                               | ---                             | ---                               | ---                              | ---
+=== "Chose Turtwig"
+
+    Trainer | 1 | 2 | 3 | 4 | 5 | 6
+    --- | --- | --- | --- | --- | --- | ---
+    Pkmn Trainer Barry<hr><br>Fights you when you walk to the door of the Pastoria Gym | ![][398]<br>[Staraptor]<br>Lv. 41<br>Muscle Band<br>Modest / Reckless<br>85/120/70/50/60/100<hr>Double-Edge<br>Close Combat<br>Aerial Ace<br>Roost | ![][214]<br>[Heracross]<br>Lv. 41<br>Coba Berry<br>Naive / Guts<br>80/125/75/40/95/85<hr>Megahorn<br>Brick Break<br>Bullet Seed<br>Night Slash | ![][143]<br>[Snorlax]<br>Lv. 41<br>Leftovers<br>Brave / Thick Fat<br>160/110/65/65/110/30<hr>Body Slam<br>Crunch<br>Rest<br>Sleep Talk | ![][184]<br>[Azumarill]<br>Lv. 41<br>Life Orb<br>Mild / Huge Power<br>110/50/80/80/80/50<hr>Aqua Tail<br>Play Rough<br>Body Slam<br>Aqua Jet | ![][286]<br>[Breloom]<br>Lv. 41<br>Focus Sash<br>Bold / Technician<br>60/130/80/60/60/70<hr>Bullet Seed<br>Force Palm<br>Spore<br>Rock Tomb | ![][392]<br>[Infernape]<br>Lv. 42<br>Sitrus Berry<br>Quiet / Iron Fist<br>76/104/71/104/71/109<hr>Flamethrower<br>Close Combat<br>Fake Out<br>Thunder Punch
+
+=== "Chose Chimchar"
+
+    Trainer | 1 | 2 | 3 | 4 | 5 | 6
+    --- | --- | --- | --- | --- | --- | ---
+    Pkmn Trainer Barry<hr><br>Fights you when you walk to the door of the Pastoria Gym | ![][398]<br>[Staraptor]<br>Lv. 41<br>Muscle Band<br>Hardy / Reckless<br>85/120/70/50/60/100<hr>Double-Edge<br>Close Combat<br>Aerial Ace<br>Roost | ![][214]<br>[Heracross]<br>Lv. 41<br>Coba Berry<br>Quirky / Guts<br>80/125/75/40/95/85<hr>Megahorn<br>Brick Break<br>Bullet Seed<br>Night Slash | ![][143]<br>[Snorlax]<br>Lv. 41<br>Leftovers<br>Gentle / Thick Fat<br>160/110/65/65/110/30<hr>Body Slam<br>Crunch<br>Rest<br>Sleep Talk | ![][286]<br>[Breloom]<br>Lv. 41<br>Focus Sash<br>Bold / Technician<br>60/130/80/60/60/70<hr>Bullet Seed<br>Force Palm<br>Spore<br>Rock Tomb | ![][059]<br>[Arcanine]<br>Lv. 41<br>Expert Belt<br>Modest / Intimidate<br>90/110/80/100/80/95<hr>Heat Wave<br>Thunder Fang<br>Outrage<br>Crunch | ![][395]<br>[Empoleon]<br>Lv. 42<br>Sitrus Berry<br>Gentle / Torrent<br>84/86/88/116/101/60<hr>Scald<br>Flash Cannon<br>Agility<br>Swagger
 
 ### PKMN Trainer Barry
 

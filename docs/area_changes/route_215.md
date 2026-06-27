@@ -2,27 +2,54 @@
 
 ## Trainers
 
-Trainer                                   | 1                                 | 2                                  | 3
----                                       | ---                               | ---                                | ---
-Black Belt Derek                          | ![][256]<br>[Combusken]<br>Lv. 34<ul><li>Fire Punch</li><li>Focus Energy</li><li>Sky Uppercut</li><li>Flamethrower</li></ul> | ![][106]<br>[Hitmonlee]<br>Lv. 34<ul><li>Jump Kick</li><li>High Jump Kick</li><li>Feint</li><li>Endure</li></ul> | &nbsp;
-Black Belt Gregory                        | ![][057]<br>[Primeape]<br>Lv. 34<ul><li>Assurance</li><li>Rage</li><li>Punishment</li><li>Night Slash</li></ul> | ![][107]<br>[Hitmonchan]<br>Lv. 34<ul><li>Ice Punch</li><li>Fire Punch</li><li>Feint</li><li>Detect</li></ul> | &nbsp;
-Black Belt Nathaniel                      | ![][067]<br>[Machoke]<br>Lv. 34<ul><li>Vital Throw</li><li>Wake-Up Slap</li><li>Payback</li><li>Counter</li></ul> | ![][237]<br>[Hitmontop]<br>Lv. 34<ul><li>Quick Attack</li><li>Triple Kick</li><li>Feint</li><li>Detect</li></ul> | &nbsp;
-Jogger Scott                              | ![][398]<br>[Staraptor]<br>Lv. 34<ul><li>Facade</li><li>Endeavor</li><li>Whirlwind</li><li>Close Combat</li></ul> | &nbsp;                             | &nbsp;
-Ruin Maniac Calvin                        | ![][105]<br>[Marowak]<br>Lv. 33<ul><li>Knock Off</li><li>Swords Dance</li><li>Bone Rush</li><li>Thrash</li></ul> | ![][409]<br>[Rampardos]<br>Lv. 33<ul><li>Ancient Power</li><li>Zen Headbutt</li><li>Endeavor</li><li>Screech</li></ul> | &nbsp;
-:repeat: [Jogger Craig](#rematches)       | ![][405]<br>[Luxray]<br>Lv. 34<ul><li>Ice Fang</li><li>Fire Fang</li><li>Roar</li><li>Crunch</li></ul> | &nbsp;                             | &nbsp;
-:repeat: [Ace Trainer Dennis](#rematches) | ![][207]<br>[Gligar]<br>Lv. 35<ul><li>U-turn</li><li>Cross Poison</li><li>Screech</li><li>X-Scissor</li></ul> | ![][130]<br>[Gyarados]<br>Lv. 35<ul><li>Ice Fang</li><li>Aqua Tail</li><li>Scary Face</li><li>Crunch</li></ul> | ![][426]<br>[Drifblim]<br>Lv. 35<ul><li>Spit Up</li><li>Shadow Ball</li><li>Amnesia</li><li>Air Slash</li></ul> 
-:repeat: [Ace Trainer Maya](#rematches)   | ![][108]<br>[Lickitung]<br>Lv. 35<ul><li>Magnitude</li><li>Me First</li><li>Rollout</li><li>Zen Headbutt</li></ul> | ![][282]<br>[Gardevoir]<br>Lv. 35<ul><li>Magical Leaf</li><li>Hypnosis</li><li>Psychic</li><li>Calm Mind</li></ul> | ![][407]<br>[Roserade]<br>Lv. 35<ul><li>Poison Sting</li><li>Mega Drain</li><li>Magical Leaf</li><li>Sweet Scent</li></ul> 
+Trainer | 1 | 2 | 3
+--- | --- | --- | ---
+![][ruin_maniac]<br>Ruin Maniac Calvin<hr> | ![][105]<br>[Marowak]<br>Lv. 33<br>Lax / Rock Head<br>60/80/110/50/80/45<hr>Knock Off<br>Swords Dance<br>Bone Rush<br>Thrash | ![][409]<br>[Rampardos]<br>Lv. 33<br>Adamant / Rock Head<br>97/165/60/65/50/58<hr>Ancient Power<br>Zen Headbutt<br>Endeavor<br>Screech | &nbsp;
+![][jogger]<br>Jogger Craig<hr><br>Can be fought in the morning<br>Jogs around a Max Ether<br>(JOGS IN A CIRCLE) | ![][405]<br>[Luxray]<br>Lv. 34<br>Serious / Intimidate<br>80/120/79/95/79/70<hr>Ice Fang<br>Fire Fang<br>Roar<br>Crunch | &nbsp; | &nbsp;
+Black Belt Derek<hr><br>Black Belt under the bridge<br>(LOOKS LEFT AND RIGHT) | ![][256]<br>[Combusken]<br>Lv. 34<br>Quirky / Speed Boost<br>60/85/60/85/60/55<hr>Fire Punch<br>Focus Energy<br>Sky Uppercut<br>Flamethrower | ![][106]<br>[Hitmonlee]<br>Lv. 34<br>Relaxed / Reckless<br>50/120/53/35/110/87<hr>Jump Kick<br>High Jump Kick<br>Feint<br>Endure | &nbsp;
+Black Belt Gregory<hr><br>When you choose to not walk under the bridge you fight this Black Belt<br>He guards the Black Glasses | ![][057]<br>[Primeape]<br>Lv. 34<br>Quiet / Vital Spirit<br>65/105/60/60/70/95<hr>Assurance<br>Rage<br>Punishment<br>Night Slash | ![][107]<br>[Hitmonchan]<br>Lv. 34<br>Relaxed / Iron Fist<br>50/105/79/35/110/76<hr>Ice Punch<br>Fire Punch<br>Feint<br>Detect | &nbsp;
+Black Belt Nathaniel<hr><br>Black Belt behind the tree | ![][067]<br>[Machoke]<br>Lv. 34<br>Naughty / Guts<br>80/100/70/50/60/45<hr>Vital Throw<br>Wake-Up Slap<br>Payback<br>Counter | ![][237]<br>[Hitmontop]<br>Lv. 34<br>Rash / Technician<br>50/95/95/35/110/70<hr>Quick Attack<br>Triple Kick<br>Feint<br>Detect | &nbsp;
+![][jogger]<br>Jogger Scott<hr><br>(JOGS) | ![][398]<br>[Staraptor]<br>Lv. 34<br>Brave / Reckless<br>85/120/70/50/60/100<hr>Facade<br>Endeavor<br>Whirlwind<br>Close Combat | &nbsp; | &nbsp;
+![][ace_m]<br>Ace Trainer Maya<hr><br>Can be fought alone or with Ace Trainer Dennis in a double battle | ![][108]<br>[Lickitung]<br>Lv. 35<br>Quirky / Own Tempo<br>90/55/75/60/75/30<hr>Body Slam<br>Zen Headbutt<br>Knock Off<br>Aqua Tail | ![][282]<br>[Gardevoir]<br>Lv. 35<br>Adamant / Synchronize<br>68/65/65/125/115/80<hr>Psychic<br>Magical Leaf<br>Shadow Ball<br>Dazzling Gleam | ![][407]<br>[Roserade]<br>Lv. 35<br>Calm / Technician<br>60/70/65/125/105/90<hr>Giga Drain<br>Sludge Bomb<br>Weather Ball<br>Stun Spore
+![][ace_m]<br>Ace Trainer Dennis<hr><br>Can be fought alone or with Ace Trainer Maya in a double battle | ![][207]<br>[Gligar]<br>Lv. 35<br>Quiet / Immunity<br>65/75/105/35/65/85<hr>Wing Attack<br>Protect<br>X-Scissor<br>Brick Break | ![][130]<br>[Gyarados]<br>Lv. 35<br>Naive / Intimidate<br>95/125/79/60/100/81<hr>Aqua Tail<br>Crunch<br>Ice Fang<br>Bounce | ![][426]<br>[Drifblim]<br>Lv. 35<br>Gentle / Unburden<br>150/80/44/90/54/80<hr>Shadow Ball<br>Air Slash<br>Destiny Bond<br>Amnesia
 
 ### Rematches
 
-Trainer                                                | 1                                  | 2                                 | 3
----                                                    | ---                                | ---                               | ---
-Jogger Craig :material-numeric-8-circle-outline:       | ![][405]<br>[Luxray]<br>Lv. 60<ul><li>Wild Charge</li><li>Scary Face</li><li>Discharge</li><li>Sucker Punch</li></ul> | ![][405]<br>[Luxray]<br>Lv. 60<ul><li>Wild Charge</li><li>Scary Face</li><li>Discharge</li><li>Sucker Punch</li></ul> | &nbsp;
-Jogger Craig :material-alpha-c-circle-outline:         | ![][405]<br>[Luxray]<br>Lv. 72<ul><li>Wild Charge</li><li>Scary Face</li><li>Discharge</li><li>Sucker Punch</li></ul> | ![][405]<br>[Luxray]<br>Lv. 72<ul><li>Wild Charge</li><li>Scary Face</li><li>Discharge</li><li>Sucker Punch</li></ul> | &nbsp;
-Ace Trainer Dennis :material-numeric-7-circle-outline: | ![][472]<br>[Gliscor]<br>Lv. 62<ul><li>Earthquake</li><li>Sky Uppercut</li><li>Swords Dance</li><li>Guillotine</li></ul> | ![][130]<br>[Gyarados]<br>Lv. 62<ul><li>Hydro Pump</li><li>Rain Dance</li><li>Hurricane</li><li>Hyper Beam</li></ul> | ![][426]<br>[Drifblim]<br>Lv. 62<ul><li>Baton Pass</li><li>Weather Ball</li><li>Hurricane</li><li>Explosion</li></ul> 
-Ace Trainer Dennis :material-alpha-s-circle-outline:   | ![][472]<br>[Gliscor]<br>Lv. 77<ul><li>Earthquake</li><li>Sky Uppercut</li><li>Swords Dance</li><li>Guillotine</li></ul> | ![][130]<br>[Gyarados]<br>Lv. 77<ul><li>Hydro Pump</li><li>Rain Dance</li><li>Hurricane</li><li>Hyper Beam</li></ul> | ![][426]<br>[Drifblim]<br>Lv. 77<ul><li>Baton Pass</li><li>Weather Ball</li><li>Hurricane</li><li>Explosion</li></ul> 
-Ace Trainer Maya :material-numeric-7-circle-outline:   | ![][463]<br>[Lickilicky]<br>Lv. 62<ul><li>Hammer Arm</li><li>Power Whip</li><li>Wring Out</li><li>Gyro Ball</li></ul> | ![][282]<br>[Gardevoir]<br>Lv. 62<ul><li>Imprison</li><li>Captivate</li><li>Future Sight</li><li>Dream Eater</li></ul> | ![][407]<br>[Roserade]<br>Lv. 62<ul><li>Mega Drain</li><li>Magical Leaf</li><li>Sweet Scent</li><li>Leaf Storm</li></ul> 
-Ace Trainer Maya :material-alpha-s-circle-outline:     | ![][463]<br>[Lickilicky]<br>Lv. 77<ul><li>Hammer Arm</li><li>Power Whip</li><li>Wring Out</li><li>Gyro Ball</li></ul> | ![][282]<br>[Gardevoir]<br>Lv. 77<ul><li>Imprison</li><li>Captivate</li><li>Future Sight</li><li>Dream Eater</li></ul> | ![][407]<br>[Roserade]<br>Lv. 77<ul><li>Mega Drain</li><li>Magical Leaf</li><li>Sweet Scent</li><li>Leaf Storm</li></ul> 
+=== "After 8 Badges"
+
+    Trainer | 1 | 2
+    --- | --- | ---
+    ![][jogger]<br>Jogger Craig<hr> | ![][405]<br>[Luxray]<br>Lv. 60<br>Adamant / Intimidate<br>80/120/79/95/79/70<hr>Wild Charge<br>Scary Face<br>Discharge<br>Sucker Punch | ![][405]<br>[Luxray]<br>Lv. 60<br>Adamant / Intimidate<br>80/120/79/95/79/70<hr>Wild Charge<br>Scary Face<br>Discharge<br>Sucker Punch
+
+=== "JOGGER CRAIG"
+
+    Trainer | 1 | 2
+    --- | --- | ---
+    ![][jogger]<br>Jogger Craig<hr><br>(AFTER CYNTHIA) | ![][405]<br>[Luxray]<br>Lv. 72<br>Adamant / Intimidate<br>80/120/79/95/79/70<hr>Wild Charge<br>Scary Face<br>Discharge<br>Sucker Punch | ![][405]<br>[Luxray]<br>Lv. 72<br>Adamant / Intimidate<br>80/120/79/95/79/70<hr>Wild Charge<br>Scary Face<br>Discharge<br>Sucker Punch
+
+=== "After 7 Badges"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    ![][ace_m]<br>Ace Trainer Maya<hr> | ![][463]<br>[Lickilicky]<br>Lv. 62<br>Jolly / Own Tempo<br>110/85/95/80/95/50<hr>Body Slam<br>Power Whip<br>Rollout<br>Zen Headbutt | ![][282]<br>[Gardevoir]<br>Lv. 62<br>Relaxed / Synchronize<br>68/65/65/125/115/80<hr>Psychic<br>Moonblast<br>Thunderbolt<br>Focus Blast | ![][407]<br>[Roserade]<br>Lv. 62<br>Quirky / Technician<br>60/70/65/125/105/90<hr>Petal Dance<br>Sludge Bomb<br>Extrasensory<br>Dazzling Gleam
+
+=== "ACE TRAINER MAYA"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    ![][ace_m]<br>Ace Trainer Maya<hr><br>(AFTER STARK MOUNTAIN) | ![][463]<br>[Lickilicky]<br>Lv. 77<br>Bold / Own Tempo<br>110/85/95/80/95/50<hr>Body Slam<br>Power Whip<br>Rollout<br>Zen Headbutt | ![][282]<br>[Gardevoir]<br>Lv. 77<br>Quirky / Synchronize<br>68/65/65/125/115/80<hr>Psychic<br>Moonblast<br>Thunderbolt<br>Focus Blast | ![][407]<br>[Roserade]<br>Lv. 77<br>Mild / Technician<br>60/70/65/125/105/90<hr>Petal Dance<br>Sludge Bomb<br>Extrasensory<br>Dazzling Gleam
+
+=== "After 7 Badges"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    ![][ace_m]<br>Ace Trainer Dennis<hr> | ![][472]<br>[Gliscor]<br>Lv. 62<br>Careful / Poison Heal<br>75/95/125/45/75/95<hr>Earthquake<br>Aerial Ace<br>Sky Uppercut<br>X-Scissor | ![][130]<br>[Gyarados]<br>Lv. 62<br>Quirky / Intimidate<br>95/125/79/60/100/81<hr>Aqua Tail<br>Earthquake<br>Bounce<br>Ice Fang | ![][426]<br>[Drifblim]<br>Lv. 62<br>Hasty / Unburden<br>150/80/44/90/54/80<hr>Thunderbolt<br>Shadow Ball<br>Hurricane<br>Explosion
+
+=== "After 7 Badges"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    ![][ace_m]<br>Ace Trainer Dennis<hr> | ![][472]<br>[Gliscor]<br>Lv. 77<br>Adamant / Poison Heal<br>75/95/125/45/75/95<hr>Earthquake<br>Aerial Ace<br>Sky Uppercut<br>X-Scissor | ![][130]<br>[Gyarados]<br>Lv. 77<br>Naive / Intimidate<br>95/125/79/60/100/81<hr>Aqua Tail<br>Earthquake<br>Bounce<br>Ice Fang | ![][426]<br>[Drifblim]<br>Lv. 77<br>Mild / Unburden<br>150/80/44/90/54/80<hr>Thunderbolt<br>Shadow Ball<br>Hurricane<br>Explosion
 
 ## Wild Pokémon
 
@@ -52,6 +79,10 @@ TM | Name | Obtained
 --- | --- | ---
 TM66 | Payback | Item on ground
 TM83 | Hyper Voice | Item on ground
+
+--8<-- "includes/abilities.md"
+--8<-- "includes/held_items.md"
+--8<-- "includes/natures.md"
 
 [011]: ../img/pokemon/011.png
 [014]: ../img/pokemon/014.png
@@ -118,3 +149,6 @@ TM83 | Hyper Voice | Item on ground
 [black-glasses]: ../img/items/black-glasses.png
 [razor-claw]: ../img/items/razor-claw.png
 [razor-fang]: ../img/items/razor-fang.png
+[ace_m]: ../img/trainer/ace_m.png
+[jogger]: ../img/trainer/jogger.png
+[ruin_maniac]: ../img/trainer/ruin_maniac.png

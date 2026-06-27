@@ -2,37 +2,69 @@
 
 ## Trainers
 
-=== "Grass"
-    Trainer                          | 1                              | 2                                | 3
-    ---                              | ---                            | ---                              | ---
-    PKMN Trainer Barry<br>![][barry] | ![][396]<br>[Starly]<br>Lv. 10 | ![][446]<br>[Munchlax]<br>Lv. 10 | ![][390]<br>[Chimchar]<br>Lv. 11
-=== "Fire"
-    Trainer                          | 1                              | 2                                | 3
-    ---                              | ---                            | ---                              | ---
-    PKMN Trainer Barry<br>![][barry] | ![][396]<br>[Starly]<br>Lv. 10 | ![][446]<br>[Munchlax]<br>Lv. 10 | ![][393]<br>[Piplup]<br>Lv. 11
-=== "Water"
-    Trainer                          | 1                              | 2                                | 3
-    ---                              | ---                            | ---                              | ---
-    PKMN Trainer Barry<br>![][barry] | ![][396]<br>[Starly]<br>Lv. 10 | ![][446]<br>[Munchlax]<br>Lv. 10 | ![][387]<br>[Turtwig]<br>Lv. 11
+=== "Chose Piplup"
 
-Trainer                                 | 1                                | 2                                 | 3
----                                     | ---                              | ---                               | ---
-Youngster Michael                       | ![][401]<br>[Kricketot]<br>Lv. 9<ul><li>Growl</li><li>Bide</li><li>Bug Bite</li><li>String Shot</li></ul> | ![][041]<br>[Zubat]<br>Lv. 9<ul><li>Absorb</li><li>Supersonic</li><li>Astonish</li><li>Bite</li></ul> | ![][019]<br>[Rattata]<br>Lv. 9<ul><li>Tackle</li><li>Tail Whip</li><li>Quick Attack</li><li>Bite</li></ul> 
-:repeat: [Youngster Dallas](#rematches) | ![][403]<br>[Shinx]<br>Lv. 10<ul><li>Leer</li><li>Howl</li><li>Quick Attack</li><li>Spark</li></ul> | ![][027]<br>[Sandshrew]<br>Lv. 10<ul><li>Sand Attack</li><li>Poison Sting</li><li>Rollout</li><li>Bulldoze</li></ul> | &nbsp;
-Youngster Sebastian                     | ![][296]<br>[Makuhita]<br>Lv. 10<ul><li>Focus Energy</li><li>Sand Attack</li><li>Arm Thrust</li><li>Fake Out</li></ul> | ![][066]<br>[Machop]<br>Lv. 10<ul><li>Leer</li><li>Focus Energy</li><li>Karate Chop</li><li>Foresight</li></ul> | &nbsp;
-Lass Kaitlin                            | ![][021]<br>[Spearow]<br>Lv. 9<ul><li>Peck</li><li>Growl</li><li>Leer</li><li>Pursuit</li></ul> | ![][104]<br>[Cubone]<br>Lv. 9<ul><li>Tail Whip</li><li>Bone Club</li><li>Sing</li><li>Headbutt</li></ul> | ![][298]<br>[Azurill]<br>Lv. 9<ul><li>Tail Whip</li><li>Water Sport</li><li>Bubble</li><li>Charm</li></ul> 
-:repeat: [Lass Madeline](#rematches)    | ![][054]<br>[Psyduck]<br>Lv. 10<ul><li>Scratch</li><li>Tail Whip</li><li>Water Gun</li><li>Confusion</li></ul> | ![][191]<br>[Sunkern]<br>Lv. 10<ul><li>Growth</li><li>Ingrain</li><li>Grass Whistle</li><li>Mega Drain</li></ul> | &nbsp;
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    ![][barry]<br>Rival Barry<hr><br>can use : 1 POTION<br>Fight takes place right as you enter the route | ![][396]<br>[Starly]<br>Lv. 10<br>Gentle / Reckless<br>40/55/30/30/30/60<hr>Wing Attack<br>Quick Attack<br>Growl | ![][446]<br>[Munchlax]<br>Lv. 10<br>Docile / Thick Fat<br>135/85/40/40/85/5<hr>Metronome<br>Tackle<br>Amnesia<br>Rock Tomb | ![][387]<br>[Turtwig]<br>Lv. 11<br>Oran Berry<br>Rash / Overgrow<br>55/68/64/45/55/31<hr>Razor Leaf<br>Curse<br>Tackle
+
+=== "Chose Turtwig"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    ![][barry]<br>Rival Barry<hr><br>can use : 1 POTION<br>Fight takes place right as you enter the route | ![][396]<br>[Starly]<br>Lv. 10<br>Docile / Reckless<br>40/55/30/30/30/60<hr>Wing Attack<br>Quick Attack<br>Growl | ![][446]<br>[Munchlax]<br>Lv. 10<br>Mild / Thick Fat<br>135/85/40/40/85/5<hr>Metronome<br>Tackle<br>Amnesia<br>Rock Tomb | ![][390]<br>[Chimchar]<br>Lv. 11<br>Oran Berry<br>Quiet / Iron Fist<br>44/58/44/58/44/61<hr>Fury Swipes<br>Ember<br>Taunt
+
+=== "Chose Chimchar"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    ![][barry]<br>Rival Barry<hr><br>can use : 1 POTION<br>Fight takes place right as you enter the route | ![][396]<br>[Starly]<br>Lv. 10<br>Hardy / Reckless<br>40/55/30/30/30/60<hr>Wing Attack<br>Quick Attack<br>Growl | ![][446]<br>[Munchlax]<br>Lv. 10<br>Mild / Thick Fat<br>135/85/40/40/85/5<hr>Metronome<br>Tackle<br>Amnesia<br>Rock Tomb | ![][393]<br>[Piplup]<br>Lv. 11<br>Oran Berry<br>Gentle / Torrent<br>53/51/53/61/56/40<hr>Water Pulse<br>Peck<br>Pound
+
+Trainer | 1 | 2 | 3
+--- | --- | --- | ---
+![][youngster]<br>Youngster Dallas<hr><br>Can be fought alone or with Youngster Michael [4] in a double battle<br>If fought in a double battle his team will be on the left<br>Looks Down | ![][403]<br>[Shinx]<br>Lv. 10<br>Sassy / Intimidate<br>45/65/34/40/34/45<hr>Spark<br>Quick Attack<br>Howl<br>Leer | ![][027]<br>[Sandshrew]<br>Lv. 10<br>Bold / Sand Veil<br>50/75/85/20/30/40<hr>Bulldoze<br>Rollout<br>Poison Sting<br>Sand Attack | &nbsp;
+![][youngster]<br>Youngster Michael<hr><br>Can be fought alone or with Youngster Dallas [355] in a double battle<br>If fought in a double battle his team will be on the right<br>Looks Up | ![][401]<br>[Kricketot]<br>Lv. 9<br>Bashful / Run Away<br>37/35/41/35/41/25<hr>String Shot<br>Bug Bite<br>Bide<br>Growl | ![][041]<br>[Zubat]<br>Lv. 9<br>Modest / Inner Focus<br>40/45/35/30/40/55<hr>Bite<br>Astonish<br>Supersonic<br>Absorb | ![][019]<br>[Rattata]<br>Lv. 9<br>Hasty / Hustle<br>30/56/35/25/35/72<hr>Bite<br>Quick Attack<br>Tail Whip<br>Tackle
+![][youngster]<br>Youngster Sebastian<hr><br>The Youngster by himself<br>Looks Up | ![][296]<br>[Makuhita]<br>Lv. 10<br>Relaxed / Thick Fat<br>72/60/30/20/30/25<hr>Fake Out<br>Arm Thrust<br>Sand Attack<br>Focus Energy | ![][066]<br>[Machop]<br>Lv. 10<br>Bashful / Guts<br>70/80/50/35/35/35<hr>Foresight<br>Karate Chop<br>Focus Energy<br>Leer | &nbsp;
+![][lass]<br>Lass Madeline<hr><br>Can be fought alone or with Lass Kaitlin [323] in a double battle<br>If fought in a double battle her team will be on the left<br>Looks Left | ![][054]<br>[Psyduck]<br>Lv. 10<br>Relaxed / Damp<br>50/52/48/65/50/55<hr>Confusion<br>Water Gun<br>Tail Whip<br>Scratch | ![][191]<br>[Sunkern]<br>Lv. 10<br>Bold / Chlorophyll<br>30/30/30/30/30/30<hr>Mega Drain<br>Grass Whistle<br>Ingrain<br>Growth | &nbsp;
+![][lass]<br>Lass Kaitlin<hr><br>Can be fought alone or with Lass Madeline [322] in a double battle<br>If fought in a double battle her team will be on the right<br>Looks Right | ![][021]<br>[Spearow]<br>Lv. 9<br>Gentle / Keen Eye<br>40/60/30/31/31/70<hr>Pursuit<br>Leer<br>Growl<br>Peck | ![][104]<br>[Cubone]<br>Lv. 9<br>Naughty / Rock Head<br>50/50/95/40/50/35<hr>Headbutt<br>Sing<br>Bone Club<br>Tail Whip | ![][298]<br>[Azurill]<br>Lv. 9<br>Serious / Huge Power<br>50/20/40/40/40/20<hr>Charm<br>Bubble<br>Water Sport<br>Tail Whip
 
 ### Rematches
 
-Trainer                                              | 1                               | 2                                 | 3                               | 4
----                                                  | ---                             | ---                               | ---                             | ---
-Youngster Dallas :material-numeric-3-circle-outline: | ![][404]<br>[Luxio]<br>Lv. 27<ul><li>Double Kick</li><li>Thunder Fang</li><li>Ice Fang</li><li>Fire Fang</li></ul> | ![][028]<br>[Sandslash]<br>Lv. 27<ul><li>Fury Swipes</li><li>Crush Claw</li><li>Slash</li><li>Night Slash</li></ul> | &nbsp;                          | &nbsp;
-Youngster Dallas :material-numeric-5-circle-outline: | ![][404]<br>[Luxio]<br>Lv. 38<ul><li>Fire Fang</li><li>Roar</li><li>Crunch</li><li>Swagger</li></ul> | ![][028]<br>[Sandslash]<br>Lv. 38<ul><li>Night Slash</li><li>Dig</li><li>Gyro Ball</li><li>Poison Jab</li></ul> | ![][400]<br>[Bibarel]<br>Lv. 38<ul><li>Take Down</li><li>Super Fang</li><li>Swords Dance</li><li>Amnesia</li></ul> | &nbsp;
-Youngster Dallas :material-alpha-c-circle-outline:   | ![][405]<br>[Luxray]<br>Lv. 69<ul><li>Wild Charge</li><li>Scary Face</li><li>Discharge</li><li>Sucker Punch</li></ul> | ![][028]<br>[Sandslash]<br>Lv. 69<ul><li>Earthquake</li><li>Swords Dance</li><li>Sandstorm</li><li>Fissure</li></ul> | ![][400]<br>[Bibarel]<br>Lv. 69<ul><li>Amnesia</li><li>Superpower</li><li>Curse</li><li>Double-Edge</li></ul> | ![][076]<br>[Golem]<br>Lv. 69<ul><li>Explosion</li><li>Double-Edge</li><li>Stone Edge</li><li>Hammer Arm</li></ul> 
-Lass Madeline :material-numeric-3-circle-outline:    | ![][054]<br>[Psyduck]<br>Lv. 26<ul><li>Water Pulse</li><li>Disable</li><li>Zen Headbutt</li><li>Screech</li></ul> | ![][191]<br>[Sunkern]<br>Lv. 26<ul><li>Nature Power</li><li>Giga Drain</li><li>Endeavor</li><li>Morning Sun</li></ul> | ![][427]<br>[Buneary]<br>Lv. 26<ul><li>Jump Kick</li><li>Fake Out</li><li>Baton Pass</li><li>Dizzy Punch</li></ul> | &nbsp;
-Lass Madeline :material-numeric-5-circle-outline:    | ![][055]<br>[Golduck]<br>Lv. 38<ul><li>Aqua Tail</li><li>Power Gem</li><li>Psychic</li><li>Psych Up</li></ul> | ![][192]<br>[Sunflora]<br>Lv. 38<ul><li>Natural Gift</li><li>Petal Dance</li><li>Earth Power</li><li>Double-Edge</li></ul> | ![][428]<br>[Lopunny]<br>Lv. 38<ul><li>Agility</li><li>Switcheroo</li><li>Charm</li><li>Flail</li></ul> | &nbsp;
-Lass Madeline :material-numeric-8-circle-outline:    | ![][055]<br>[Golduck]<br>Lv. 59<ul><li>Future Sight</li><li>Amnesia</li><li>Cross Chop</li><li>Hydro Pump</li></ul> | ![][192]<br>[Sunflora]<br>Lv. 59<ul><li>Double-Edge</li><li>Sunny Day</li><li>Solar Beam</li><li>Leaf Storm</li></ul> | ![][428]<br>[Lopunny]<br>Lv. 59<ul><li>Bounce</li><li>Focus Punch</li><li>Healing Wish</li><li>High Jump Kick</li></ul> | &nbsp;
+=== "After 3 Badges"
+
+    Trainer | 1 | 2
+    --- | --- | ---
+    ![][youngster]<br>Youngster Dallas<hr> | ![][404]<br>[Luxio]<br>Lv. 27<br>Naive / Intimidate<br>60/85/49/60/49/60<hr>Double Kick<br>Thunder Fang<br>Ice Fang<br>Fire Fang | ![][028]<br>[Sandslash]<br>Lv. 27<br>Adamant / Sand Veil<br>75/100/110/45/55/65<hr>Fury Swipes<br>Crush Claw<br>Night Slash<br>Slash
+
+=== "After 5 Badges"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    ![][youngster]<br>Youngster Dallas<hr> | ![][404]<br>[Luxio]<br>Lv. 38<br>Modest / Intimidate<br>60/85/49/60/49/60<hr>Fire Fang<br>Roar<br>Crunch<br>Swagger | ![][028]<br>[Sandslash]<br>Lv. 38<br>Careful / Sand Veil<br>75/100/110/45/55/65<hr>Slash<br>Dig<br>Gyro Ball<br>Poison Jab | ![][400]<br>[Bibarel]<br>Lv. 38<br>Gentle / Simple<br>94/100/65/55/65/71<hr>Take Down<br>Super Fang<br>Amnesia<br>Swords Dance
+
+=== "After 8 Badges"
+
+    Trainer | 1 | 2 | 3 | 4
+    --- | --- | --- | --- | ---
+    ![][youngster]<br>Youngster Dallas<hr> | ![][405]<br>[Luxray]<br>Lv. 69<br>Impish / Intimidate<br>80/120/79/95/79/70<hr>Wild Charge<br>Scary Face<br>Discharge<br>Sucker Punch | ![][028]<br>[Sandslash]<br>Lv. 69<br>Naughty / Sand Veil<br>75/100/110/45/55/65<hr>Earthquake<br>Swords Dance<br>Sandstorm<br>Fissure | ![][400]<br>[Bibarel]<br>Lv. 69<br>Quirky / Simple<br>94/100/65/55/65/71<hr>Swords Dance<br>Superpower<br>Curse<br>Double-Edge | ![][076]<br>[Golem]<br>Lv. 69<br>Modest / Rock Head<br>80/120/130/55/65/45<hr>Explosion<br>Double-Edge<br>Stone Edge<br>Hammer Arm
+
+=== "After 3 Badges"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    ![][lass]<br>Lass Madeline<hr> | ![][054]<br>[Psyduck]<br>Lv. 26<br>Hasty / Damp<br>50/52/48/65/50/55<hr>Water Pulse<br>Disable<br>Zen Headbutt<br>Screech | ![][191]<br>[Sunkern]<br>Lv. 26<br>Hardy / Chlorophyll<br>30/30/30/30/30/30<hr>Nature Power<br>Giga Drain<br>Endeavor<br>Morning Sun | ![][427]<br>[Buneary]<br>Lv. 26<br>Adamant / Limber<br>55/66/44/44/56/85<hr>Jump Kick<br>Fake Out<br>Baton Pass<br>Dizzy Punch
+
+=== "After 5 Badges"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    ![][lass]<br>Lass Madeline<hr> | ![][055]<br>[Golduck]<br>Lv. 38<br>Gentle / Damp<br>80/82/78/95/80/85<hr>Aqua Tail<br>Power Gem<br>Psychic<br>Psych Up | ![][192]<br>[Sunflora]<br>Lv. 38<br>Timid / Chlorophyll<br>85/55/85/125/95/30<hr>Natural Gift<br>Petal Dance<br>Earth Power<br>Double-Edge | ![][428]<br>[Lopunny]<br>Lv. 38<br>Jolly / Scrappy<br>65/106/84/44/96/105<hr>Agility<br>Switcheroo<br>Charm<br>Flail
+
+=== "After 8 Badges"
+
+    Trainer | 1 | 2 | 3
+    --- | --- | --- | ---
+    ![][lass]<br>Lass Madeline<hr> | ![][055]<br>[Golduck]<br>Lv. 59<br>Quiet / Damp<br>80/82/78/95/80/85<hr>Future Sight<br>Amnesia<br>Cross Chop<br>Hydro Pump | ![][192]<br>[Sunflora]<br>Lv. 59<br>Docile / Chlorophyll<br>85/55/85/125/95/30<hr>Double-Edge<br>Sunny Day<br>Solar Beam<br>Leaf Storm | ![][428]<br>[Lopunny]<br>Lv. 59<br>Lax / Scrappy<br>65/106/84/44/96/105<hr>Bounce<br>Focus Punch<br>Healing Wish<br>High Jump Kick
 
 ### PKMN Trainer Barry
 
@@ -78,6 +110,10 @@ Item | Name | Obtained
 TM | Name | Obtained
 --- | --- | ---
 TM58 | Endure | Item on ground
+
+--8<-- "includes/abilities.md"
+--8<-- "includes/held_items.md"
+--8<-- "includes/natures.md"
 
 [019]: ../img/pokemon/019.png
 [021]: ../img/pokemon/021.png
@@ -157,3 +193,5 @@ TM58 | Endure | Item on ground
 [exp-share]: ../img/items/exp-share.png
 [silk-scarf]: ../img/items/silk-scarf.png
 [soothe-bell]: ../img/items/soothe-bell.png
+[lass]: ../img/trainer/lass.png
+[youngster]: ../img/trainer/youngster.png
