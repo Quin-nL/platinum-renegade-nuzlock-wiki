@@ -8,8 +8,9 @@ Trainer | 1 | 2 | 3
 
 ### Galactic Boss Cyrus
 
-![][cyrus] | ![][169]<br>[Crobat]<br>Lv. 45<br>![][wise-glasses]<br>Wise Glasses<br>? / Inner Focus<hr><ul><li>Sludge Bomb</li><li>Air Slash</li><li>Giga Drain</li><li>Hypnosis</li></ul> | ![][430]<br>[Honchkrow]<br>Lv. 45<br>![][scope-lens]<br>Scope Lens<br>? / Super Luck<hr><ul><li>Brave Bird</li><li>Night Slash</li><li>Swagger</li><li>Torment</li></ul> | ![][462]<br>[Magnezone]<br>Lv. 45<br>![][life-orb]<br>Life Orb<br>? / Magnet Pull<hr><ul><li>Thunderbolt</li><li>Flash Cannon</li><li>Thunder Wave</li><li>Mirror Coat</li></ul> | ![][461]<br>[Weavile]<br>Lv. 46<br>![][expert-belt]<br>Expert Belt<br>? / Technician [^1]<hr><ul><li>Feint Attack</li><li>Icicle Crash</li><li>Ice Shard</li><li>Swords Dance</li></ul>
+Trainer | 1 | 2 | 3 | 4
 --- | --- | --- | --- | ---
+![][cyrus] | ![][169]<br>[Crobat]<br>Lv. 45<br>![][wise-glasses]<br>Wise Glasses<br>? / Inner Focus<hr><ul><li>Sludge Bomb</li><li>Air Slash</li><li>Giga Drain</li><li>Hypnosis</li></ul> | ![][430]<br>[Honchkrow]<br>Lv. 45<br>![][scope-lens]<br>Scope Lens<br>? / Super Luck<hr><ul><li>Brave Bird</li><li>Night Slash</li><li>Swagger</li><li>Torment</li></ul> | ![][462]<br>[Magnezone]<br>Lv. 45<br>![][life-orb]<br>Life Orb<br>? / Magnet Pull<hr><ul><li>Thunderbolt</li><li>Flash Cannon</li><li>Thunder Wave</li><li>Mirror Coat</li></ul> | ![][461]<br>[Weavile]<br>Lv. 46<br>![][expert-belt]<br>Expert Belt<br>? / Technician [^1]<hr><ul><li>Feint Attack</li><li>Icicle Crash</li><li>Ice Shard</li><li>Swords Dance</li></ul>
 
 ### Master Trainer
 

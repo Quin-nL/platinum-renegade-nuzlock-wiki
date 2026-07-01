@@ -6,11 +6,13 @@ Galactic Boss Cyrus<hr><br>SINGLE BATTLE<br>Once Cyrus beaten you get healed by 
 ## Galactic Boss Cyrus
 Both Battles are back to back
 
-![][cyrus] | ![][484]<br>[Palkia]<br>Lv. 70  0 IV<br>None<br>? / Pressure<hr><ul><li>Hydro Pump</li><li>Spacial Rend</li><li>Earth Power</li><li>Aura Sphere</li></ul> | ![][483]<br>[Dialga]<br>Lv. 70  0 IV<br>None<br>? / Pressure<hr><ul><li>Flash Cannon</li><li>Roar of Time</li><li>Earth Power</li><li>Aura Sphere</li></ul>
+Trainer | 1 | 2
 --- | --- | ---
+![][cyrus] | ![][484]<br>[Palkia]<br>Lv. 70  0 IV<br>None<br>? / Pressure<hr><ul><li>Hydro Pump</li><li>Spacial Rend</li><li>Earth Power</li><li>Aura Sphere</li></ul> | ![][483]<br>[Dialga]<br>Lv. 70  0 IV<br>None<br>? / Pressure<hr><ul><li>Flash Cannon</li><li>Roar of Time</li><li>Earth Power</li><li>Aura Sphere</li></ul>
 
-![][cyrus] | ![][169]<br>[Crobat]<br>Lv. 59<br>![][choice-band]<br>Choice Band<br>Jolly / Inner Focus<hr><ul><li>Brave Bird</li><li>U-turn</li><li>Cross Poison</li><li>Zen Headbutt</li></ul> | ![][430]<br>[Honchkrow]<br>Lv. 59<br>![][white-herb]<br>White Herb<br>Naughty / Super Luck<hr><ul><li>Brave Bird</li><li>Sucker Punch</li><li>Thunder Wave</li><li>Superpower</li></ul> | ![][229]<br>[Houndoom]<br>Lv. 59<br>![][life-orb]<br>Life Orb<br>Hasty / Intimidate [^1]<hr><ul><li>Dark Pulse</li><li>Flamethrower</li><li>Sludge Bomb</li><li>Nasty Plot</li></ul> | ![][130]<br>[Gyarados]<br>Lv. 59<br>![][muscle-band]<br>Muscle Band<br>Jolly / Intimidate<hr><ul><li>Aqua Tail</li><li>Stone Edge</li><li>Ice Fang</li><li>Dragon Dance</li></ul> | ![][462]<br>[Magnezone]<br>Lv. 59<br>![][wise-glasses]<br>Wise Glasses<br>Modest / Magnet Pull<hr><ul><li>Thunderbolt</li><li>Flash Cannon</li><li>Signal Beam</li><li>Mirror Coat</li></ul> | ![][461]<br>[Weavile]<br>Lv. 60<br>![][focus-sash]<br>Focus Sash<br>Jolly / Technician [^1]<hr><ul><li>Feint Attack</li><li>Icicle Crash</li><li>Aerial Ace</li><li>Swords Dance</li></ul>
+Trainer | 1 | 2 | 3 | 4 | 5 | 6
 --- | --- | --- | --- | --- | --- | ---
+![][cyrus] | ![][169]<br>[Crobat]<br>Lv. 59<br>![][choice-band]<br>Choice Band<br>Jolly / Inner Focus<hr><ul><li>Brave Bird</li><li>U-turn</li><li>Cross Poison</li><li>Zen Headbutt</li></ul> | ![][430]<br>[Honchkrow]<br>Lv. 59<br>![][white-herb]<br>White Herb<br>Naughty / Super Luck<hr><ul><li>Brave Bird</li><li>Sucker Punch</li><li>Thunder Wave</li><li>Superpower</li></ul> | ![][229]<br>[Houndoom]<br>Lv. 59<br>![][life-orb]<br>Life Orb<br>Hasty / Intimidate [^1]<hr><ul><li>Dark Pulse</li><li>Flamethrower</li><li>Sludge Bomb</li><li>Nasty Plot</li></ul> | ![][130]<br>[Gyarados]<br>Lv. 59<br>![][muscle-band]<br>Muscle Band<br>Jolly / Intimidate<hr><ul><li>Aqua Tail</li><li>Stone Edge</li><li>Ice Fang</li><li>Dragon Dance</li></ul> | ![][462]<br>[Magnezone]<br>Lv. 59<br>![][wise-glasses]<br>Wise Glasses<br>Modest / Magnet Pull<hr><ul><li>Thunderbolt</li><li>Flash Cannon</li><li>Signal Beam</li><li>Mirror Coat</li></ul> | ![][461]<br>[Weavile]<br>Lv. 60<br>![][focus-sash]<br>Focus Sash<br>Jolly / Technician [^1]<hr><ul><li>Feint Attack</li><li>Icicle Crash</li><li>Aerial Ace</li><li>Swords Dance</li></ul>
 
 --8<-- "includes/abilities.md"
 

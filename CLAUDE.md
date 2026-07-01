@@ -13,24 +13,6 @@ pip install -r requirements.txt   # mkdocs, mkdocs-material, numpy, tqdm
 python -m mkdocs serve            # local dev server
 ```
 
-## Utility scripts
-
-These scripts generate or repair content in the `docs/` directory. They pull data from PokeAPI (cached in `temp/`) and from existing wiki pages:
-
-| Script | Purpose |
-|---|---|
-| `download_pokemon.py` | Seeds the `temp/` cache from PokeAPI (run first) |
-| `create_level_up_table.py` | Adds level-up move tables to Pokémon pages |
-| `create_stat_table.py` | Adds base stat tables to Pokémon pages |
-| `create_encounter_table.py` | Adds encounter location tables to Pokémon pages |
-| `create_ability_table.py` | Adds ability tables to Pokémon pages |
-| `create_learnable_table.py` | Adds TM/HM learnable move tables |
-| `create_held_item_md.py` | Generates held item markdown |
-| `fix_table_formatting.py` | Normalizes column widths in markdown tables |
-| `fix_links.py` | Fixes relative link paths across files |
-
-Run `fix_table_formatting.py` and `fix_links.py` on a range of files:
-
 ```sh
 python fix_table_formatting.py ./docs/*.md ./docs/*/*.md
 python fix_links.py /pokemons/*.md   # add new link definitions to links.txt first
@@ -41,7 +23,7 @@ python fix_links.py /pokemons/*.md   # add new link definitions to links.txt fir
 - `docs/pokemons/NNN.md` — one page per Pokémon (001–493), containing type/defense chart, abilities, base stats, level-up moves, learnable moves, and encounter locations
 - `docs/area_changes/` — one page per area combining trainers, wild encounter tables (with time-of-day slots), items, and Pokémon events
 - `docs/` — game-change overview pages (move_changes, type_changes, evolution_changes, item_changes, npc_changes, etc.)
-- `includes/` — reusable snippets for ability tooltips (`abilities.md`), held items (`held_items.md`), and natures (`natures.md`); these are injected via MkDocs `include` directives
+- `includes/` — reusable snippets for ability tooltips (`abilities.md`), held items (`held_items.md`), moves (`moves.md`) and natures (`natures.md`); these are injected via MkDocs `include` directives
 
 ## Markdown conventions
 
@@ -49,7 +31,6 @@ python fix_links.py /pokemons/*.md   # add new link definitions to links.txt fir
 - Type/damage-class icons follow the same pattern: `![][grass]`, `![][physical]`
 - Move tables include `{: data-sort="..."}` attributes on type and damage-class cells to enable JS sorting
 - Pokémon name links resolve to their page: `[Bulbasaur]: ../../pokemons/001/`
-- Trainer roster tables use `<br>` within cells to stack the trainer sprite, name, level, and Pokémon
 - Link definitions (bottom of each file) must use paths relative to that file's depth; `fix_links.py` and `links.txt` automate this
 
 ## MkDocs config
@@ -62,18 +43,9 @@ The site uses the Material theme (`mkdocs.yml`). Nav is fully enumerated — add
 - Be certain that any changes adhere to style guidelines
 - Changes should support an expansion or restructuring of the wiki.
 
-# Plan: Import Authoritative CSV Trainer Data into area_changes
+# Plan: CSV to box
 
-## Context
-
-8 "split" CSVs in `AutoriativeCSV/` document every trainer from game-start through each gym leader (Oreburgh → Volkner). They are the authoritative source for trainer data. The existing `docs/area_changes/` files already have trainer tables, but they're missing:
-- Held items and abilities for regular (non-boss) trainers
-- Base stats on all trainer Pokémon cards
-- Any corrections to wrong Pokémon/moves
-
-Goal: update each `area_changes/*.md` file with the CSV data spread across the correct location files (not consolidated into one gym file). Starter-choice variants use the existing `===` tab syntax already present in some files.
-
----
+The files in AuthoriatveCSV have all been added to area_changes. Now we need to add trainer battles to my_box. For this we will create a .md for each .csv with trainer information only. Then in my_box section the user view trainers from a given section easily.
 
 ## CSV Structure
 
@@ -146,73 +118,3 @@ Multiple trainer blocks in the CSV with the same trainer name but different `(IF
     --- | ---
 ```
 
----
-
-## Script: `csv_to_area_changes.py`
-
-**Single script**, accepts one CSV path as argument. Run it once per CSV file.
-
-### Algorithm
-
-```
-1. Read CSV into rows list
-2. Scan for location headers (col 0 == '', col 1 all-caps, cols 2+ empty)
-3. For each location section:
-   a. Identify all trainer blocks between this header and the next header/end
-   b. Parse each trainer block into a Trainer object:
-      - Trainer_Label (strip [ID])
-      - per_pokemon: [{ dex, name, level, types, stats, item, ability, nature, moves }]
-   c. Generate trainer table markdown (with tabs if variants)
-4. Map location name → area_changes filename (lookup dict + fallback slug)
-5. Open the target .md file:
-   a. Find the `## Trainers` section (or create it)
-   b. Replace content up to the next `##` section or end-of-file
-   c. Write updated file
-6. Check image/link refs needed and merge into the file's reference block if missing.
-```
-
-### Location name → filename mapping
-
-Build a dict for the non-obvious cases:
-
-```python
-LOCATION_MAP = {
-    "TWINLEAF TOWN": "twinleaf_town",
-    "ROUTE 201": "route_201",
-    "ROUTE 202": "route_202",
-    "JUBILIFE CITY TRAINER SCHOOL": "jubilife_city_trainer_school",
-    "JUBILIFE CITY": "jubilife_city",
-    "OREBURGH GATE": "oreburgh_gate",
-    "OREBURGH CITY POKEMON CENTER": "pokemon_center",  # shared?
-    "OREBURGH MINE": "oreburgh_mine",
-    "OREBURGH GYM": "oreburgh_gym",
-    "MT CORONET ~ R207 ENTRY": "mt_coronet__route_207_entrance",
-    "MT CORONET ~ R211 ENTRY": "mt_coronet__route_211_entrance",
-    "MT CORONET ~ R216 ENTRY": "mt_coronet__route_216_entrance",
-    "MT CORONET ~ B1F": "mt_coronet__b1f",
-    "MT CORONET ~ SNOW AREA": "mt_coronet__snow_area",
-    "MT CORONET ~ TUNNEL TO ROUTE 211": "mt_coronet__tunnel_to_route_211_entrance",
-    # ... etc for each CSV's locations
-}
-```
-
-Default fallback: lowercase, replace spaces with `_`, `~` and special chars stripped → `route_202`.
-
-### Reference block handling
-
-After writing the trainer table, collect all `[NNN]`, `[Pokemon]`, `[item-name]` refs needed and merge them with the existing reference block at file bottom duplicate where possible.
-
----
-
-## Files Modified
-
-- **`csv_to_area_changes.py`** — new script (write once, run per CSV)
-- **`docs/area_changes/*.md`** — Trainers sections updated for every location covered by the CSVs:
-
-## Verification
-
-After running the script on each CSV:
-
-1. `python -m mkdocs build --strict` — confirms no broken links or bad markdown
-2. Spot-check 2–3 updated files against the CSV to verify stat/move accuracy
-3. Check that starter-choice tab files render correctly in `python -m mkdocs serve`

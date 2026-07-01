@@ -8,8 +8,9 @@ Trainer | 1 | 2
 
 ## Elite Four Aaron
 
-![][aaron] | ![][269]<br>[Dustox]<br>Lv. 31<br>![][leftovers]<br>Leftovers<br>Calm / Shield Dust<br>60/50/75/75/115/75<hr>Bug Buzz<br>Toxic<br>Protect<br>Moonlight | ![][267]<br>[Beautifly]<br>Lv. 31<br>![][focus-sash]<br>Focus Sash<br>Mild / Swarm<br>60/70/60/125/60/75<hr>Bug Buzz<br>Air Slash<br>Energy Ball<br>Psychic | ![][049]<br>[Venomoth]<br>Lv. 31<br>![][wise-glasses]<br>Wise Glasses<br>Naive / Tinted Lens<br>70/55/60/100/75/90<hr>Bug Buzz<br>Psychic<br>Sludge Bomb<br>Sleep Powder | ![][212]<br>[Scizor]<br>Lv. 31<br>![][muscle-band]<br>Muscle Band<br>Adamant / Technician<br>70/130/100/55/80/65<hr>X-Scissor<br>Bullet Punch<br>Iron Head<br>Swords Dance | ![][452]<br>[Drapion]<br>Lv. 32<br>![][scope-lens]<br>Scope Lens<br>Jolly / Sniper<br>70/90/110/60/75/95<hr>Cross Poison<br>X-Scissor<br>Night Slash<br>Swords Dance
+Trainer | 1 | 2 | 3 | 4 | 5
 --- | --- | --- | --- | --- | ---
+![][aaron] | ![][269]<br>[Dustox]<br>Lv. 31<br>![][leftovers]<br>Leftovers<br>Calm / Shield Dust<br>60/50/75/75/115/75<hr>Bug Buzz<br>Toxic<br>Protect<br>Moonlight | ![][267]<br>[Beautifly]<br>Lv. 31<br>![][focus-sash]<br>Focus Sash<br>Mild / Swarm<br>60/70/60/125/60/75<hr>Bug Buzz<br>Air Slash<br>Energy Ball<br>Psychic | ![][049]<br>[Venomoth]<br>Lv. 31<br>![][wise-glasses]<br>Wise Glasses<br>Naive / Tinted Lens<br>70/55/60/100/75/90<hr>Bug Buzz<br>Psychic<br>Sludge Bomb<br>Sleep Powder | ![][212]<br>[Scizor]<br>Lv. 31<br>![][muscle-band]<br>Muscle Band<br>Adamant / Technician<br>70/130/100/55/80/65<hr>X-Scissor<br>Bullet Punch<br>Iron Head<br>Swords Dance | ![][452]<br>[Drapion]<br>Lv. 32<br>![][scope-lens]<br>Scope Lens<br>Jolly / Sniper<br>70/90/110/60/75/95<hr>Cross Poison<br>X-Scissor<br>Night Slash<br>Swords Dance
 
 ## Elite Four Aaron
 
@@ -18,8 +19,9 @@ Elite Four Aaron | ![][269]<br>[Dustox]<br>Lv. 31<br>![][leftovers]<br>Leftovers
 
 ### Elite Four Aaron
 
-![][aaron] | ![][269]<br>[Dustox]<br>Lv. 31<br>![][leftovers]<br>Leftovers<br>Calm / Shield Dust<hr><ul><li>Bug Buzz</li><li>Toxic</li><li>Protect</li><li>Moonlight</li></ul> | ![][267]<br>[Beautifly]<br>Lv. 31<br>![][focus-sash]<br>Focus Sash<br>Mild / Swarm<hr><ul><li>Bug Buzz</li><li>Air Slash</li><li>Energy Ball</li><li>Psychic</li></ul> | ![][049]<br>[Venomoth]<br>Lv. 31<br>![][wise-glasses]<br>Wise Glasses<br>Naive / Tinted Lens<hr><ul><li>Bug Buzz</li><li>Psychic</li><li>Sludge Bomb</li><li>Sleep Powder</li></ul> | ![][212]<br>[Scizor]<br>Lv. 31<br>![][muscle-band]<br>Muscle Band<br>Adamant / Technician<hr><ul><li>X-Scissor</li><li>Bullet Punch</li><li>Iron Head</li><li>Swords Dance</li></ul> | ![][452]<br>[Drapion]<br>Lv. 32<br>![][scope-lens]<br>Scope Lens<br>Jolly / Sniper<hr><ul><li>Cross Poison</li><li>X-Scissor</li><li>Night Slash</li><li>Swords Dance</li></ul>
+Trainer | 1 | 2 | 3 | 4 | 5
 --- | --- | --- | --- | --- | ---
+![][aaron] | ![][269]<br>[Dustox]<br>Lv. 31<br>![][leftovers]<br>Leftovers<br>Calm / Shield Dust<hr><ul><li>Bug Buzz</li><li>Toxic</li><li>Protect</li><li>Moonlight</li></ul> | ![][267]<br>[Beautifly]<br>Lv. 31<br>![][focus-sash]<br>Focus Sash<br>Mild / Swarm<hr><ul><li>Bug Buzz</li><li>Air Slash</li><li>Energy Ball</li><li>Psychic</li></ul> | ![][049]<br>[Venomoth]<br>Lv. 31<br>![][wise-glasses]<br>Wise Glasses<br>Naive / Tinted Lens<hr><ul><li>Bug Buzz</li><li>Psychic</li><li>Sludge Bomb</li><li>Sleep Powder</li></ul> | ![][212]<br>[Scizor]<br>Lv. 31<br>![][muscle-band]<br>Muscle Band<br>Adamant / Technician<hr><ul><li>X-Scissor</li><li>Bullet Punch</li><li>Iron Head</li><li>Swords Dance</li></ul> | ![][452]<br>[Drapion]<br>Lv. 32<br>![][scope-lens]<br>Scope Lens<br>Jolly / Sniper<hr><ul><li>Cross Poison</li><li>X-Scissor</li><li>Night Slash</li><li>Swords Dance</li></ul>
 
 ### Rematches
 

@@ -252,12 +252,14 @@ function renderBoxPage() {
       : `<div class="rp-box-grid-page">
           ${alive.map(p => slotHTML(p, box.indexOf(p), cap.cap)).join('')}
           ${fainted.length && alive.length ? '<div class="rp-fainted-divider">Fainted</div>' : ''}
+          ${fainted.length ? '<div class="rp-clear-box-row"><button class="rp-clear-box-btn" id="rp-page-clear">Clear Box</button></div>' : ''}
           ${fainted.map(p => slotHTML(p, box.indexOf(p), cap.cap)).join('')}
         </div>`
     }
   `;
 
   root.querySelector('#rp-page-add').addEventListener('click', () => openAddModal(null, null));
+  root.querySelector('#rp-page-clear')?.addEventListener('click', clearBox);
   root.querySelector('#rp-cap-prev')?.addEventListener('click', () => saveCapIndex(capIdx - 1));
   root.querySelector('#rp-cap-next')?.addEventListener('click', () => saveCapIndex(capIdx + 1));
   root.querySelectorAll('.rp-slot[data-index]').forEach(slot => {
@@ -515,6 +517,11 @@ function onDetailAction(e) {
       closeModal();
       break;
   }
+}
+
+function clearBox() {
+  if (!confirm('Remove all Pokémon from your box? This cannot be undone.')) return;
+  saveBox([]);
 }
 
 function closeModal() {
